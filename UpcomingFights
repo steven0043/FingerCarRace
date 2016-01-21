@@ -1,296 +1,375 @@
 <time>Tuesday, Jan. 19, 2016</time>
 <loc>Los Angeles (Fox Sports 1)</loc>
-<fight>Jamal James vs. Javier Molina</fight>
+<fighter1>Jamal James</fighter1>
+<fighter2>Javier Molina</fighter2>
 <rounds>10</rounds>
 <weight>Welterweight division</weight>
-<fight>David Benavidez vs. Kevin Cobbs</fight>
+<fighter1>David Benavidez</fighter1>
+<fighter2>Kevin Cobbs</fighter2>
 <rounds>8</rounds>
 <weight>Light heavyweight division</weight>
-<fight>Caleb Plant vs. Adasat Rodriguez</fight>
+<fighter1>Caleb Plant</fighter1>
+<fighter2>Adasat Rodriguez</fighter2>
 <rounds>8</rounds>
 <weight>Middleweight division</weight>
 <time>Friday, Jan. 22, 2016</time>
 <loc>Tucson, Ariz. (Showtime)</loc>
-<fight>Rob Brant vs. Decarlo Perez</fight>
+<fighter1>Rob Brant</fighter1>
+<fighter2>Decarlo Perez</fighter2>
 <rounds>10</rounds>
 <weight>Middleweight division</weight>
-<fight>Jarrell Miller vs. Donovan Dennis</fight>
+<fighter1>Jarrell Miller</fighter1>
+<fighter2>Donovan Dennis</fighter2>
 <rounds>8</rounds>
 <weight>Heavyweight division</weight>
-<fight>Harmonito De La Torre vs. Rafael Guzman</fight>
+<fighter1>Harmonito De La Torre</fighter1>
+<fighter2>Rafael Guzman</fighter2>
 <rounds>8</rounds>
 <weight>Lightweight division</weight>
-<fight>Demond Brock vs. Samuel Teah</fight>
+<fighter1>Demond Brock</fighter1>
+<fighter2>Samuel Teah</fighter2>
 <rounds>8</rounds>
 <weight>Lightweight division</weight>
 <loc>London</loc>
-<fight>Ryan Walsh vs. Darren Traynor</fight>
+<fighter1>Ryan Walsh</fighter1>
+<fighter2>Darren Traynor</fighter2>
 <rounds>12</rounds>
 <weight>Featherweight division</weight>
-<fight>Ahmet Patterson vs. Ryan Aston</fight>
+<fighter1>Ahmet Patterson</fighter1>
+<fighter2>Ryan Aston</fighter2>
 <rounds>12</rounds>
 <weight>Junior middleweight division</weight>
 <time>Saturday, Jan. 23, 2016</time>
 <loc>Los Angeles (Fox)</loc>
-<fight>Danny Garcia vs. Robert Guerrero</fight>
+<fighter1>Danny Garcia</fighter1>
+<fighter2>Robert Guerrero</fighter2>
 <rounds>12</rounds>
 <weight>Welterweight division</weight>
-<fight>Sammy Vasquez vs. Aaron Martinez</fight>
+<fighter1>Sammy Vasquez</fighter1>
+<fighter2>Aaron Martinez</fighter2>
 <rounds>10</rounds>
 <weight>Welterweight division</weight>
-<fight>Dominic Breazeale vs. Amir Mansour</fight>
+<fighter1>Dominic Breazeale</fighter1>
+<fighter2>Amir Mansour</fighter2>
 <rounds>10</rounds>
 <weight>Heavyweight division</weight>
-<fight>Alejandro Luna vs. Alan Herrera</fight>
+<fighter1>Alejandro Luna</fighter1>
+<fighter2>Alan Herrera</fighter2>
 <rounds>10</rounds>
 <weight>Lightweight division</weight>
 <loc>Butte, Montana</loc>
-<fight>Anthony Bonsante vs. Luis Ramon Campas</fight>
+<fighter1>Anthony Bonsante</fighter1>
+<fighter2>Luis Ramon Campas</fighter2>
 <rounds>10</rounds>
 <weight>Super middleweight division</weight>
 <loc>Apia, Samoa</loc>
-<fight>Joseph Parker vs. Jason Bergman</fight>
+<fighter1>Joseph Parker</fighter1>
+<fighter2>Jason Bergman</fighter2>
 <rounds>12</rounds>
 <weight>Heavyweight division</weight>
 <loc>Germany</loc>
-<fight>Dominic Boesel vs. Balasz Kelemen</fight>
+<fighter1>Dominic Boesel</fighter1>
+<fighter2>Balasz Kelemen</fighter2>
 <rounds>12</rounds>
 <weight>Light heavyweight division</weight>
 <time>Friday, Jan. 29, 2016</time>
 <loc>Los Angeles (Estrella TV)</loc>
-<fight>Julian Ramirez vs. Christopher Martin</fight>
+<fighter1>Julian Ramirez</fighter1>
+<fighter2>Christopher Martin</fighter2>
 <rounds>10</rounds>
 <weight>Featherweight division</weight>
-<fight>Abraham Lopez vs. Carlos Valcarcel</fight>
+<fighter1>Abraham Lopez</fighter1>
+<fighter2>Carlos Valcarcel</fighter2>
 <rounds>10</rounds>
 <weight>Featherweight division</weight>
 <loc>Elk Grove, Ill.</loc>
-<fight>Dusty Hernandez-Harrison vs. Angel Hernandez</fight>
+<fighter1>Dusty Hernandez-Harrison</fighter1>
+<fighter2>Angel Hernandez</fighter2>
 <rounds>8</rounds>
 <weight>Welterweight division</weight>
 <loc>Ottawa, Canada</loc>
-<fight>Sandy Tsagouris vs. Laura Griffa</fight>
+<fighter1>Sandy Tsagouris</fighter1>
+<fighter2>Laura Griffa</fighter2>
 <rounds>10</rounds>
 <weight>Featherweight division</weight>
-<fight>Tony Luis vs. Eduardo Montoya</fight>
+<fighter1>Tony Luis</fighter1>
+<fighter2>Eduardo Montoya</fighter2>
 <rounds>10</rounds>
 <weight>Lightweight division</weight>
-<fight>James Toney vs. Eric Bahoeli</fight>
+<fighter1>James Toney</fighter1>
+<fighter2>Eric Bahoeli</fighter2>
 <rounds>8</rounds>
 <weight>Heavyweight division</weight>
 <time>Saturday, Jan. 30, 2016</time>
 <loc>Montreal (HBO)</loc>
-<fight>Sergey Kovalev vs. Jean Pascal</fight>
+<fighter1>Sergey Kovalev</fighter1>
+<fighter2>Jean Pascal</fighter2>
 <rounds>12</rounds>
 <weight>Light heavyweight division</weight>
-<fight>Dmitry Mikhaylenko vs. Ray Robinson</fight>
+<fighter1>Dmitry Mikhaylenko</fighter1>
+<fighter2>Ray Robinson</fighter2>
 <rounds>10</rounds>
 <weight>Welterweight division</weight>
-<fight>Renan St. Juste vs. Francis Lafreniere</fight>
+<fighter1>Renan St. Juste</fighter1>
+<fighter2>Francis Lafreniere</fighter2>
 <rounds>10</rounds>
 <weight>Middleweight division</weight>
-<fight>Virgilijus Stapulionis vs. Laszlo Fazekas</fight>
+<fighter1>Virgilijus Stapulionis</fighter1>
+<fighter2>Laszlo Fazekas</fighter2>
 <rounds>8</rounds>
 <weight>Middleweight division</weight>
-<fight>Joel Diaz Jr. vs. Abraham Gomez</fight>
+<fighter1>Joel Diaz Jr.</fighter1>
+<fighter2>Abraham Gomez</fighter2>
 <rounds>8</rounds>
 <weight>Junior lightweight division</weight>
-<fight>Steven Butler vs. Antonio Hoffmann</fight>
+<fighter1>Steven Butler</fighter1>
+<fighter2>Antonio Hoffmann</fighter2>
 <rounds>8</rounds>
 <weight>Junior middleweight division</weight>
-<fight>Sebastian Bouchard vs. Damian Mielewczyk</fight>
+<fighter1>Sebastian Bouchard</fighter1>
+<fighter2>Damian Mielewczyk</fighter2>
 <rounds>8</rounds>
 <weight>Junor middleweight division</weight>
 <loc>London (Sky)</loc>
-<fight>George Groves vs. Adrea Di Luisa</fight>
+<fighter1>George Groves</fighter1>
+<fighter2>Adrea Di Luisa</fighter2>
 <rounds>12</rounds>
 <weight>Super middleweight division</weight>
-<fight>John Ryder vs. Sergey Khomitsky</fight>
+<fighter1>John Ryder</fighter1>
+<fighter2>Sergey Khomitsky</fighter2>
 <rounds>12</rounds>
 <weight>Middleweight division</weight>
-<fight>John Wayne Hibbert vs. Tommy Martin</fight>
+<fighter1>John Wayne Hibbert</fighter1>
+<fighter2>Tommy Martin</fighter2>
 <rounds>12</rounds>
 <weight>Junior welterweight division</weight>
-<fight>Kris Agyei-Dua vs. Ben Hall</fight>
+<fighter1>Kris Agyei-Dua</fighter1>
+<fighter2>Ben Hall</fighter2>
 <rounds>10</rounds>
 <weight>Welterweight division</weight>
-<fight>Leon McKenzie vs. Kelvin Young</fight>
+<fighter1>Leon McKenzie</fighter1>
+<fighter2>Kelvin Young</fighter2>
 <rounds>10</rounds>
 <weight>Super middleweight division</weight>
 <loc>Berlin (UniMas)</loc>
-<fight>Jose Felix Jr. vs. Ricky Sismundo</fight>
+<fighter1>Jose Felix Jr.</fighter1>
+<fighter2>Ricky Sismundo</fighter2>
 <rounds>10</rounds>
 <weight>Junior middleweight division</weight>
 <loc>Shanghai</loc>
-<fight>Zou Shiming vs. Natan Coutinho</fight>
+<fighter1>Zou Shiming</fighter1>
+<fighter2>Natan Coutinho</fighter2>
 <rounds>12</rounds>
 <weight>Flyweight division</weight>
-<fight>Ryota Murata vs. Juan Novoa</fight>
+<fighter1>Ryota Murata</fighter1>
+<fighter2>Juan Novoa</fighter2>
 <rounds>10</rounds>
 <weight>Middleweight division</weight>
-<fight>Ik Yang vs. Chaelermpol Singwancha</fight>
+<fighter1>Ik Yang</fighter1>
+<fighter2>Chaelermpol Singwancha</fighter2>
 <rounds>10</rounds>
 <weight>Junior welterweight division</weight>
 <time>Friday, Feb. 5, 2016</time>
 <loc>Indio, Calif. (Estrella TV)</loc>
-<fight>Randy Caballero vs. Ruben Garcia</fight>
+<fighter1>Randy Caballero</fighter1>
+<fighter2>Ruben Garcia</fighter2>
 <rounds>10</rounds>
 <weight>Junior featherweight division</weight>
 <loc>Jakarta, Indonesia</loc>
-<fight>Duad Yordan vs. Yoshitaka Kato</fight>
+<fighter1>Duad Yordan</fighter1>
+<fighter2>Yoshitaka Kato</fighter2>
 <rounds>12</rounds>
 <weight>Lightweight division</weight>
 <time>Saturday, Feb. 6, 2016</time>
 <loc>Argentina</loc>
-<fight>Jonathan Chavez vs. Diego Luque</fight>
+<fighter1>Jonathan Chavez</fighter1>
+<fighter2>Diego Luque</fighter2>
 <rounds>10</rounds>
 <weight>Junior welterweight division</weight>
-<fight>Brian Zarza vs. Nahuel Galessi</fight>
+<fighter1>Brian Zarza</fighter1>
+<fighter2>Nahuel Galessi</fighter2>
 <rounds>10</rounds>
 <weight>Junior welterweight division</weight>
 <loc>Aarhus, Denmark</loc>
-<fight>Micki Nielsen vs. Giacobbe Fragomeni</fight>
+<fighter1>Micki Nielsen</fighter1>
+<fighter2>Giacobbe Fragomeni</fighter2>
 <rounds>12</rounds>
 <weight>Cruiserweight division</weight>
 <loc>Dublin, Ireland</loc>
-<fight>Danny Butler vs. Gary Corcoran</fight>
+<fighter1>Danny Butler</fighter1>
+<fighter2>Gary Corcoran</fighter2>
 <rounds>10</rounds>
 <weight>Junior middleweight division</weight>
-<fight>Jamie Kavanagh vs. Antonio Joao Bento</fight>
+<fighter1>Jamie Kavanagh</fighter1>
+<fighter2>Antonio Joao Bento</fighter2>
 <rounds>10</rounds>
 <weight>Lightweight division</weight>
 <loc>Belfast, Northern Ireland</loc>
-<fight>James Tennyson vs. Darren Traynor</fight>
+<fighter1>James Tennyson</fighter1>
+<fighter2>Darren Traynor</fighter2>
 <rounds>12</rounds>
 <weight>Featherweight division</weight>
-<fight>James Fryers vs. Maxi Hughes</fight>
+<fighter1>James Fryers</fighter1>
+<fighter2>Maxi Hughes</fighter2>
 <rounds>10</rounds>
 <weight>Junior lightweight division</weight>
 <loc>Newport, Wales</loc>
-<fight>Craig Kennedy vs. Tony Conquest</fight>
+<fighter1>Craig Kennedy</fighter1>
+<fighter2>Tony Conquest</fighter2>
 <rounds>12</rounds>
 <weight>Cruiserweight division</weight>
-<fight>Barrie Jones vs. Bradley Pryce</fight>
+<fighter1>Barrie Jones</fighter1>
+<fighter2>Bradley Pryce</fighter2>
 <rounds>10</rounds>
 <weight>Junior middleweight division</weight>
 <loc>Rotherham, England</loc>
-<fight>Muheeb Fazeldin vs. Klaas Mboyane</fight>
+<fighter1>Muheeb Fazeldin</fighter1>
+<fighter2>Klaas Mboyane</fighter2>
 <rounds>12</rounds>
 <weight>Junior featherweight division</weight>
-<fight>Sam Sheedy vs. Danny Butler</fight>
+<fighter1>Sam Sheedy</fighter1>
+<fighter2>Danny Butler</fighter2>
 <rounds>10</rounds>
 <weight>Junior middleweight division</weight>
 <time>Friday, Feb. 12, 2016</time>
 <loc>Thailand</loc>
-<fight>Pungluang Sor Singyu vs. Jetro Pabustan</fight>
+<fighter1>Pungluang Sor Singyu</fighter1>
+<fighter2>Jetro Pabustan</fighter2>
 <rounds>12</rounds>
 <weight>Bantamweight division</weight>
 <time>Saturday, Feb. 13, 2016</time>
 <loc>Phoenix, Ariz. (UniMas)</loc>
-<fight>Jessie Magdaleno vs. Edward Mansito</fight>
+<fighter1>Jessie Magdaleno</fighter1>
+<fighter2>Edward Mansito</fighter2>
 <rounds>10</rounds>
 <weight>Junior featherweight division</weight>
-<fight>Carlos Castro vs. Rafael Reyes</fight>
+<fighter1>Carlos Castro</fighter1>
+<fighter2>Rafael Reyes</fighter2>
 <rounds>6</rounds>
 <weight>Junior featherweight division</weight>
 <loc>Liverpool, England</loc>
-<fight>Terry Flanagan vs. Derry Mathews</fight>
+<fighter1>Terry Flanagan</fighter1>
+<fighter2>Derry Mathews</fighter2>
 <rounds>12</rounds>
 <weight>Lightweight division</weight>
-<fight>Liam Williams vs. Navid Mansouri</fight>
+<fighter1>Liam Williams</fighter1>
+<fighter2>Navid Mansouri</fighter2>
 <rounds>12</rounds>
 <weight>Junior middleweight division</weight>
-<fight>Tommy Langford vs. Lewis Taylor</fight>
+<fighter1>Tommy Langford</fighter1>
+<fighter2>Lewis Taylor</fighter2>
 <rounds>10</rounds>
 <weight>Middleweight division</weight>
-<fight>Matty Askin vs. Lawrence Bennett</fight>
+<fighter1>Matty Askin</fighter1>
+<fighter2>Lawrence Bennett</fighter2>
 <rounds>10</rounds>
 <weight>Cruiserweight division</weight>
-<fight>Paul Butler vs. TBA</fight>
+<fighter1>Paul Butler</fighter1>
+<fighter2>TBA</fighter2>
 <rounds>10</rounds>
 <weight>Junior bantamweight division</weight>
-<fight>Javier Chacon vs. Lucas Baez</fight>
+<fighter1>Javier Chacon</fighter1>
+<fighter2>Lucas Baez</fighter2>
 <rounds>10</rounds>
 <weight>Junior featherweight division</weight>
 <time>Friday, Feb. 19, 2016</time>
 <loc>Atlantic City (Showtime)</loc>
-<fight>Adam Lopez vs. Mario Munoz</fight>
+<fighter1>Adam Lopez</fighter1>
+<fighter2>Mario Munoz</fighter2>
 <rounds>10</rounds>
 <weight>Junior featherweight division</weight>
-<fight>Jerry Odom vs. Ronald Ellis</fight>
+<fighter1>Jerry Odom</fighter1>
+<fighter2>Ronald Ellis</fighter2>
 <rounds>8</rounds>
 <weight>Super middleweight division</weight>
-<fight>Keenan Smith vs. Wellington Romero</fight>
+<fighter1>Keenan Smith</fighter1>
+<fighter2>Wellington Romero</fighter2>
 <rounds>8</rounds>
 <weight>Welterweight division</weight>
 <time>Saturday, Feb. 20, 2016</time>
 <loc>Oberhausen, Germany</loc>
-<fight>Felix Sturm vs. Fedor Chudinov</fight>
+<fighter1>Felix Sturm</fighter1>
+<fighter2>Fedor Chudinov</fighter2>
 <rounds>12</rounds>
 <weight>Super middleweight division</weight>
 <time>Friday, Feb. 26, 2016</time>
 <loc>Lusaka, Zambia</loc>
-<fight>Esther Phiri vs. Julie Tshabalala</fight>
+<fighter1>Esther Phiri</fighter1>
+<fighter2>Julie Tshabalala</fighter2>
 <rounds>10</rounds>
 <weight>Welterweight division</weight>
 <time>Saturday, Feb. 27, 2016</time>
 <loc>New York (HBO)</loc>
-<fight>Terence Crawford vs. Henry Lundy</fight>
+<fighter1>Terence Crawford</fighter1>
+<fighter2>Henry Lundy</fighter2>
 <rounds>12</rounds>
 <weight>Junior welterweight division</weight>
-<fight>Felix Verdejo vs. Felix Verdejo</fight>
+<fighter1>Felix Verdejo</fighter1>
+<fighter2>Felix Verdejo</fighter2>
 <rounds>10</rounds>
 <weight>Lightweight division</weight>
 <loc>Manchester, England (Sky)</loc>
-<fight>Scott Quigg vs. Carl Frampton</fight>
+<fighter1>Scott Quigg</fighter1>
+<fighter2>Carl Frampton</fighter2>
 <rounds>12</rounds>
 <weight>Junior featherweight division</weight>
 <loc>Halle, Germany</loc>
-<fight>Ola Afolabi vs. Marco Huck</fight>
+<fighter1>Ola Afolabi</fighter1>
+<fighter2>Marco Huck</fighter2>
 <rounds>12</rounds>
 <weight>Cruiserweight division</weight>
 <loc>Ekaterinburg, Russia</loc>
-<fight>Evgeny Chuprakov vs. TBA</fight>
+<fighter1>Evgeny Chuprakov</fighter1>
+<fighter2>TBA</fighter2>
 <rounds>12</rounds>
 <weight>Junior lightweight division</weight>
 <time>Saturday, March 5, 2016</time>
 <loc>Grozny, Russia</loc>
-<fight>Ruslan Chagaev vs. Lucas Browne</fight>
+<fighter1>Ruslan Chagaev</fighter1>
+<fighter2>Lucas Browne</fighter2>
 <rounds>12</rounds>
 <weight>Heavyweight division</weight>
 <time>Friday, March 11, 2016</time>
 <loc>Humberston, England</loc>
-<fight>Kevin Hooper vs. Adam Dingsdale</fight>
+<fighter1>Kevin Hooper</fighter1>
+<fighter2>Adam Dingsdale</fighter2>
 <rounds>10</rounds>
 <weight>Lightweight division</weight>
 <time>Saturday, March 12, 2016</time>
 <loc>Uncasville, Conn. (CBS)</loc>
-<fight>Keith Thurman vs. Shawn Porter</fight>
+<fighter1>Keith Thurman</fighter1>
+<fighter2>Shawn Porter</fighter2>
 <rounds>12</rounds>
 <weight>Welterweight division</weight>
-<fight>Edwin Rodriguez vs. Thomas Williams Jr.</fight>
+<fighter1>Edwin Rodriguez</fighter1>
+<fighter2>Thomas Williams Jr.</fighter2>
 <rounds>10</rounds>
 <weight>Light heavyweight division</weight>
 <time>Saturday, March 26, 2016</time>
 <loc>Oakland, Calif. (HBO)</loc>
-<fight>Andre Ward vs. TBA</fight>
+<fighter1>Andre Ward</fighter1>
+<fighter2>TBA</fighter2>
 <rounds>12</rounds>
 <weight>Light heavyweight division</weight>
 <loc>Los Angeles</loc>
-<fight>Julio Ceja vs. Hugo Ruiz</fight>
+<fighter1>Julio Ceja</fighter1>
+<fighter2>Hugo Ruiz</fighter2>
 <rounds>12</rounds>
 <weight>Junior featherweight division</weight>
 <loc>New York</loc>
-<fight>Jose Pedraza vs. Stephen Smith</fight>
+<fighter1>Jose Pedraza</fighter1>
+<fighter2>Stephen Smith</fighter2>
 <rounds>12</rounds>
 <weight>Junior lightweight division</weight>
 <time>Saturday, April 9, 2016</time>
 <loc>Las Vegas (HBO PPV)</loc>
-<fight>Manny Pacquiao vs. Tim Bradley</fight>
+<fighter1>Manny Pacquiao</fighter1>
+<fighter2>Tim Bradley</fighter2>
 <rounds>12</rounds>
 <weight>Welterweight division</weight>
 <time>Saturday, April 23, 2016</time>
 <loc>Philippines</loc>
-<fight>Nonito Donaire vs. Evgeny Gradovich</fight>
+<fighter1>Nonito Donaire</fighter1>
+<fighter2>Evgeny Gradovich</fighter2>
 <rounds>12</rounds>
 <weight>Junior featherweight division</weight>
