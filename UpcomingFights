@@ -1,125 +1,3 @@
-<time>Friday, Feb. 5, 2016</time>
-<loc>Indio, Calif. (Estrella TV)</loc>
-<fighter1>Frankie Gomez</fighter1>
-<fighter2>Silverio Ortiz</fighter2>
-<rounds>10</rounds>
-<weight>Welterweight division</weight>
-<fighter1>Randy Caballero</fighter1>
-<fighter2>Ruben Garcia</fighter2>
-<rounds>10</rounds>
-<weight>Junior featherweight division</weight>
-<loc>Argentina</loc>
-<fighter1>Juan Rodolfo Juarez</fighter1>
-<fighter2>Cesar Reynoso</fighter2>
-<rounds>10</rounds>
-<weight>Middleweight division</weight>
-<loc>Lyon, France</loc>
-<fighter1>Oktay Takalak</fighter1>
-<fighter2>Mikael Mkrtchyan</fighter2>
-<rounds>12</rounds>
-<weight>Featherweight division</weight>
-<loc>Jakarta, Indonesia</loc>
-<fighter1>Duad Yordan</fighter1>
-<fighter2>Yoshitaka Kato</fighter2>
-<rounds>12</rounds>
-<weight>Lightweight division</weight>
-<loc>Monte Carlo, Monaco</loc>
-<fighter1>Johann Duhaupas</fighter1>
-<fighter2>Marcelo Nascimento</fighter2>
-<rounds>10</rounds>
-<weight>Heavyweight division</weight>
-<loc>Bankok, Thailand</loc>
-<fighter1>Knockout CP Freshmart</fighter1>
-<fighter2>Carlos Buitrago</fighter2>
-<rounds>12</rounds>
-<weight>Strawweight division</weight>
-<loc>Bangkok, Thailand</loc>
-<fighter1>Stamp Kiatniwat</fighter1>
-<fighter2>Gregorio Lebron</fighter2>
-<rounds>12</rounds>
-<weight>Flyweight division</weight>
-<time>Saturday, Feb. 6, 2016</time>
-<loc>Buenos Aires, Argentina</loc>
-<fighter1>Sabrina Perez</fighter1>
-<fighter2>Maria Nunez</fighter2>
-<rounds>10</rounds>
-<weight>Junior featherweight division</weight>
-<loc>Baku, Azerbaijan</loc>
-<fighter1>Fariz Mammadov</fighter1>
-<fighter2>Badru Lusambya</fighter2>
-<rounds>12</rounds>
-<weight>Junior middleweight division</weight>
-<loc>Dublin, Ireland</loc>
-<fighter1>Danny Butler</fighter1>
-<fighter2>Gary Corcoran</fighter2>
-<rounds>10</rounds>
-<weight>Junior middleweight division</weight>
-<fighter1>Jamie Kavanagh</fighter1>
-<fighter2>Antonio Joao Bento</fighter2>
-<rounds>10</rounds>
-<weight>Lightweight division</weight>
-<loc>Tokyo</loc>
-<fighter1>Ryosuke Iwasa</fighter1>
-<fighter2>Dennis Tubieron</fighter2>
-<rounds>10</rounds>
-<weight>Featherweight division</weight>
-<loc>Mexico City</loc>
-<fighter1>Mariana Juarez</fighter1>
-<fighter2>Noemi Bosques</fighter2>
-<rounds>10</rounds>
-<weight>Junior bantamweight division</weight>
-<fighter1>Juan Hernandez</fighter1>
-<fighter2>Jesus Silvestre</fighter2>
-<rounds>10</rounds>
-<weight>Junior flyweight division</weight>
-<loc>Belfast, Northern Ireland</loc>
-<fighter1>James Fryers</fighter1>
-<fighter2>Maxi Hughes</fighter2>
-<rounds>10</rounds>
-<weight>Junior lightweight division</weight>
-<time>Tuesday, Feb. 9, 2016</time>
-<loc>Bethlehem, Pa. (Fox Sports 1)</loc>
-<fighter1>Jamel Herring</fighter1>
-<fighter2>Luis Eduardo Flores</fighter2>
-<rounds>10</rounds>
-<weight>Lightweight division</weight>
-<fighter1>Alex Martin</fighter1>
-<fighter2>Rossemberth Gomez</fighter2>
-<rounds>8</rounds>
-<weight>Welterweight division</weight>
-<fighter1>Raynell Williams</fighter1>
-<fighter2>Gabriel Tolmajyan</fighter2>
-<rounds>8</rounds>
-<weight>Lightweight division</weight>
-<time>Thursday, Feb. 11, 2016</time>
-<fighter1>Shinya Iwabuchi</fighter1>
-<fighter2>Al Rivera</fighter2>
-<rounds>12</rounds>
-<weight>Junior welterweight division</weight>
-<time>Friday, Feb. 12, 2016</time>
-<loc>Thailand</loc>
-<fighter1>Pungluang Sor Singyu</fighter1>
-<fighter2>Jetro Pabustan</fighter2>
-<rounds>12</rounds>
-<weight>Bantamweight division</weight>
-<loc>Lu Zhou, China</loc>
-<fighter1>Jun Qiu Xiao</fighter1>
-<fighter2>Raymond Commey</fighter2>
-<rounds>12</rounds>
-<weight>Junior featherweight division</weight>
-<fighter1>Zong Ju Cai</fighter1>
-<fighter2>Debora Rengifo</fighter2>
-<rounds>10</rounds>
-<weight>Strawweight division</weight>
-<loc>Ontario, Calif.</loc>
-<fighter1>Daniel Roman</fighter1>
-<fighter2>Ramiro Robles</fighter2>
-<rounds>10</rounds>
-<weight>Junior featherweight division</weight>
-<fighter1>Willie Monroe Jr.</fighter1>
-<fighter2>TBA</fighter2>
-<rounds>8</rounds>
-<weight>Middleweight division</weight>
 <time>Saturday, Feb. 13, 2016</time>
 <loc>Studio City, Calif. (UniMas)</loc>
 <fighter1>Alex Saucedo</fighter1>
@@ -138,6 +16,7 @@
 <fighter2>Mike Snider</fighter2>
 <rounds>8</rounds>
 <weight>Light heavyweight division</weight>
+<loc>Argentina</loc>
 <fighter1>Raul Centeno</fighter1>
 <fighter2>Vicente Rodriguez</fighter2>
 <rounds>10</rounds>
@@ -228,7 +107,7 @@
 <weight>Lightweight division</weight>
 <loc>Chubut, Argentina</loc>
 <fighter1>Omar Narvaez</fighter1>
-<fighter2>TBA</fighter2>
+<fighter2>Jesus Vargas</fighter2>
 <rounds>10</rounds>
 <weight>Junior bantamweight division</weight>
 <time>Saturday, Feb. 20, 2016</time>
@@ -348,8 +227,8 @@
 <rounds>10</rounds>
 <weight>Heavyweight division</weight>
 <loc>Manchester, England (Showtime, Sky)</loc>
-<fighter1>Carl Frampton</fighter1>
-<fighter2>Scott Quigg</fighter2>
+<fighter1>Scott Quigg</fighter1>
+<fighter2>Carl Frampton</fighter2>
 <rounds>12</rounds>
 <weight>Junior featherweight division</weight>
 <fighter1>Gavin McDonnell</fighter1>
@@ -388,11 +267,11 @@
 <weight>Featherweight division</weight>
 <loc>Ekaterinburg, Russia</loc>
 <fighter1>Evgeny Chuprakov</fighter1>
-<fighter2>TBA</fighter2>
+<fighter2>Timur Akhundov</fighter2>
 <rounds>12</rounds>
 <weight>Junior lightweight division</weight>
-<fighter1>Alexander Fedorov</fighter1>
-<fighter2>Mark Urvanov</fighter2>
+<fighter1>Mark Urvanov</fighter1>
+<fighter2>Alexey Shorokhov</fighter2>
 <rounds>10</rounds>
 <weight>Featherweight division</weight>
 <loc>Mississauga, Canada</loc>
@@ -436,7 +315,7 @@
 <rounds>12</rounds>
 <weight>Welterweight division</weight>
 <fighter1>Luis Ortiz</fighter1>
-<fighter2>Alexander Dimitrenko</fighter2>
+<fighter2>Tony Thompson</fighter2>
 <rounds>12</rounds>
 <weight>Heavyweight division</weight>
 <loc>Birmingham, U.K. (Sky)</loc>
@@ -471,6 +350,7 @@
 <fighter2>Angel Moreno</fighter2>
 <rounds>12</rounds>
 <weight>Flyweight division</weight>
+<loc>Mexico City</loc>
 <fighter1>Antonio Margarito</fighter1>
 <fighter2>Jorge Paez Jr.</fighter2>
 <rounds>10</rounds>
@@ -572,7 +452,7 @@
 <weight>Lightweight division</weight>
 <loc>Neubrandenburg, Germany</loc>
 <fighter1>Juergen Braehmer</fighter1>
-<fighter2>TBA</fighter2>
+<fighter2>Eduard Gutknecht</fighter2>
 <rounds>12</rounds>
 <weight>Light heavyweight division</weight>
 <loc>Pasig City, Philippines</loc>
@@ -652,6 +532,7 @@
 <rounds>10</rounds>
 <weight>Junior featherweight division</weight>
 <time>Friday, March 25, 2016</time>
+<loc>Indio, Calif. (Estrella TV)</loc>
 <fighter1>Antonio Orozco</fighter1>
 <fighter2>TBA</fighter2>
 <rounds>10</rounds>
@@ -717,10 +598,16 @@
 <fighter2>Satoru Sugita</fighter2>
 <rounds>10</rounds>
 <weight>Junior lightweight division</weight>
+<time>Friday, April 8, 2016</time>
+<loc>Moscow</loc>
+<fighter1>Grigory Drozd</fighter1>
+<fighter2>Ilunga Makabu</fighter2>
+<rounds>12</rounds>
+<weight>Cruiserweight division</weight>
 <time>Saturday, April 9, 2016</time>
 <loc>Las Vegas (HBO PPV)</loc>
 <fighter1>Manny Pacquiao</fighter1>
-<fighter2>Tim Bradley</fighter2>
+<fighter2>Timothy Bradley</fighter2>
 <rounds>12</rounds>
 <weight>Welterweight division</weight>
 <fighter1>Arthur Abraham</fighter1>
@@ -740,7 +627,7 @@
 <rounds>10</rounds>
 <weight>Light heavyweight division</weight>
 <fighter1>Anthony Joshua</fighter1>
-<fighter2>TBA</fighter2>
+<fighter2>Charles Martin</fighter2>
 <rounds>12</rounds>
 <weight>Heavyweight division</weight>
 <time>Friday, April 22, 2016</time>
@@ -752,12 +639,12 @@
 <time>Saturday, April 23, 2016</time>
 <loc>Inglewood, Calif. (HBO)</loc>
 <fighter1>Gennady Golovkin</fighter1>
-<fighter2>TBA</fighter2>
+<fighter2>Dominic Wade</fighter2>
 <rounds>12</rounds>
 <weight>Middleweight division</weight>
 <loc>Philippines</loc>
 <fighter1>Nonito Donaire</fighter1>
-<fighter2>TBA</fighter2>
+<fighter2>Zsolt Bedak</fighter2>
 <rounds>12</rounds>
 <weight>Junior featherweight division</weight>
 <fighter1>Mark Magsayo</fighter1>
@@ -771,7 +658,6 @@
 <rounds>12</rounds>
 <weight>Bantamweight division</weight>
 <time>Saturday, May 7, 2016</time>
-<loc>TBA (HBO PPV)</loc>
 <fighter1>Saul Canelo</fighter1>
 <fighter2>Amir Khan</fighter2>
 <rounds>12</rounds>
