@@ -1,35 +1,24 @@
-<time>Friday, Feb. 26, 2016</time>
-<loc>Flemington, Australia</loc>
-<fighter1>Zac Dunn</fighter1>
-<fighter2>Rogerio Damasco</fighter2>
+<loc>Manchester, England (Showtime, Sky)</loc>
+<fighter1>Carl Frampton</fighter1>
+<fighter2>Scott Quigg</fighter2>
 <rounds>12</rounds>
-<weight>Super middleweight division</weight>
-<fighter1>Bilal Akkawy</fighter1>
-<fighter2>Istvan Zeller</fighter2>
-<rounds>10</rounds>
-<weight>Super middleweight division</weight>
-<fighter1>Omari Kimweri</fighter1>
-<fighter2>Michael Camellion</fighter2>
-<rounds>10</rounds>
-<weight>Junior flyweight division</weight>
-<loc>Offenback, Germany</loc>
-<fighter1>Avni Yildirim</fighter1>
-<fighter2>Walter Sequeira</fighter2>
+<weight>Junior featherweight division</weight>
+<fighter1>Gavin McDonnell</fighter1>
+<fighter2>Jorge Sanchez</fighter2>
+<rounds>12</rounds>
+<weight>Junior featherweight division</weight>
+<fighter1>Isaac Lowe</fighter1>
+<fighter2>Marco McCullough</fighter2>
+<rounds>12</rounds>
+<weight>Featherweight division</weight>
+<fighter1>Hosea Burton</fighter1>
+<fighter2>Miles Shinkwin</fighter2>
 <rounds>12</rounds>
 <weight>Light heavyweight division</weight>
-<fighter1>Enad Licina</fighter1>
-<fighter2>Drazan Janjanin</fighter2>
-<rounds>10</rounds>
-<weight>Cruiserweight division</weight>
-<fighter1>Serdar Sahin</fighter1>
-<fighter2>Beka Aduashvili</fighter2>
-<rounds>10</rounds>
-<weight>Light heavyweight division</weight>
-<loc>Johannesburg, South Africa</loc>
-<fighter1>Phillip N’dou</fighter1>
-<fighter2>Ntuthuko Memela</fighter2>
+<fighter1>Ryan Burnett</fighter1>
+<fighter2>Anthony Settoul</fighter2>
 <rounds>12</rounds>
-<weight>Welterweight division</weight>
+<weight>Bantamweight division</weight>
 <time>Saturday, Feb. 27, 2016</time>
 <loc>New York (HBO)</loc>
 <fighter1>Terence Crawford</fighter1>
@@ -81,27 +70,6 @@
 <fighter2>Joshua Okine</fighter2>
 <rounds>10</rounds>
 <weight>Middleweight division</weight>
-<loc>Manchester, England (Showtime, Sky)</loc>
-<fighter1>Carl Frampton</fighter1>
-<fighter2>Scott Quigg</fighter2>
-<rounds>12</rounds>
-<weight>Junior featherweight division</weight>
-<fighter1>Gavin McDonnell</fighter1>
-<fighter2>Jorge Sanchez</fighter2>
-<rounds>12</rounds>
-<weight>Junior featherweight division</weight>
-<fighter1>Isaac Lowe</fighter1>
-<fighter2>Marco McCullough</fighter2>
-<rounds>12</rounds>
-<weight>Featherweight division</weight>
-<fighter1>Hosea Burton</fighter1>
-<fighter2>Miles Shinkwin</fighter2>
-<rounds>12</rounds>
-<weight>Light heavyweight division</weight>
-<fighter1>Ryan Burnett</fighter1>
-<fighter2>Anthony Settoul</fighter2>
-<rounds>12</rounds>
-<weight>Bantamweight division</weight>
 <loc>Halle, Germany</loc>
 <fighter1>Ola Afolabi</fighter1>
 <fighter2>Marco Huck</fighter2>
