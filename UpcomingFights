@@ -1,47 +1,29 @@
-<time>Thursday, March 3, 2016</time>
-<loc>Nakhon Ratchasima, Thailand</loc>
-<fighter1>Wanheng Menayothin</fighter1>
-<fighter2>Go Odaira</fighter2>
+<time>Saturday, March 5, 2016</time>
+<loc>Birmingham, U.K. (Sky)</loc>
+<fighter1>Sam Eggington</fighter1>
+<fighter2>Bradley Skeete</fighter2>
 <rounds>12</rounds>
-<weight>Strawweight division</weight>
-<time>Friday, March 4, 2016</time>
-<loc>Los Angeles (Estrella TV, RingTVLive.com)</loc>
-<fighter1>Michael Perez</fighter1>
-<fighter2>Martin Honorio</fighter2>
+<weight>Welterweight division</weight>
+<fighter1>Bobby Jenkinson</fighter1>
+<fighter2>Gamal Yafai</fighter2>
+<rounds>12</rounds>
+<weight>Junior featherweight division</weight>
+<fighter1>Khalid Yafai</fighter1>
+<fighter2>Dixon Flores</fighter2>
+<rounds>12</rounds>
+<weight>Junior bantamweight division</weight>
+<fighter1>Michael Rooney</fighter1>
+<fighter2>Marcus Ffrench</fighter2>
 <rounds>10</rounds>
 <weight>Lightweight division</weight>
-<fighter1>Oscar Negrete</fighter1>
-<fighter2>Hugo Partida</fighter2>
-<rounds>8</rounds>
-<weight>Junior featherweight division</weight>
-<fighter1>Christian Gonzalez</fighter1>
-<fighter2>David Rodela</fighter2>
-<rounds>8</rounds>
-<weight>Junior lightweight division</weight>
-<fighter1>Ivan Delgado</fighter1>
-<fighter2>David Rodela</fighter2>
-<rounds>6</rounds>
-<weight>Junior lightweight division</weight>
-<loc>Kyoto, Japan</loc>
-<fighter1>Shinsuke Yamanaka</fighter1>
-<fighter2>Liborio Solis</fighter2>
-<rounds>12</rounds>
-<weight>Bantamweight division</weight>
-<fighter1>Yu Kimura</fighter1>
-<fighter2>Ganigan Lopez</fighter2>
-<rounds>12</rounds>
-<weight>Junior flyweight division</weight>
-<loc>Tampa, Fla. (Telemundo)</loc>
-<fighter1>Orlando Cruz</fighter1>
-<fighter2>Romulo Koasicha</fighter2>
+<fighter1>Karl Wiggins</fighter1>
+<fighter2>Ryan Fields</fighter2>
 <rounds>10</rounds>
-<weight>Junior lightweight division</weight>
-<loc>Hobart, Australia</loc>
-<fighter1>Luke Jackson</fighter1>
-<fighter2>John Mark Apolinario</fighter2>
+<weight>Welterweight division</weight>
+<fighter1>Cello Renda</fighter1>
+<fighter2>Mike Byles</fighter2>
 <rounds>10</rounds>
-<weight>Featherweight division</weight>
-<time>Saturday, March 5, 2016</time>
+<weight>Middleweight division</weight>
 <loc>Washingon, D.C. (HBO)</loc>
 <fighter1>Luis Ortiz</fighter1>
 <fighter2>Tony Thompson</fighter2>
@@ -70,31 +52,6 @@
 <weight>Middleweight division</weight>
 <fighter1>Ievgen Khytrov</fighter1>
 <fighter2>Kenneth McNeil</fighter2>
-<rounds>10</rounds>
-<weight>Middleweight division</weight>
-<loc>Birmingham, U.K. (Sky)</loc>
-<fighter1>Sam Eggington</fighter1>
-<fighter2>Bradley Skeete</fighter2>
-<rounds>12</rounds>
-<weight>Welterweight division</weight>
-<fighter1>Bobby Jenkinson</fighter1>
-<fighter2>Gamal Yafai</fighter2>
-<rounds>12</rounds>
-<weight>Junior featherweight division</weight>
-<fighter1>Khalid Yafai</fighter1>
-<fighter2>Dixon Flores</fighter2>
-<rounds>12</rounds>
-<weight>Junior bantamweight division</weight>
-<fighter1>Michael Rooney</fighter1>
-<fighter2>Marcus Ffrench</fighter2>
-<rounds>10</rounds>
-<weight>Lightweight division</weight>
-<fighter1>Karl Wiggins</fighter1>
-<fighter2>Ryan Fields</fighter2>
-<rounds>10</rounds>
-<weight>Welterweight division</weight>
-<fighter1>Cello Renda</fighter1>
-<fighter2>Mike Byles</fighter2>
 <rounds>10</rounds>
 <weight>Middleweight division</weight>
 <loc>Grozny, Russia (AWE)</loc>
