@@ -24,6 +24,15 @@
 <fighter2>Mike Byles</fighter2>
 <rounds>10</rounds>
 <weight>Middleweight division</weight>
+<loc>Las Vegas Nevada (MMA)</loc>
+<fighter1>Conor McGregor</fighter1>
+<fighter2>Nate Diaz</fighter2>
+<rounds>5</rounds>
+<weight>Welterweight division</weight>
+<fighter1>Holly Holm</fighter1>
+<fighter2>Miesha Tate</fighter2>
+<rounds>5</rounds>
+<weight>Bantamweight division</weight>
 <loc>Washingon, D.C. (HBO)</loc>
 <fighter1>Luis Ortiz</fighter1>
 <fighter2>Tony Thompson</fighter2>
