@@ -1,129 +1,31 @@
-<time>Saturday, March 19, 2016</time>
-<loc>Houston (UniMas)</loc>
-<fighter1>Juan Diaz</fighter1>
-<fighter2>Fernando Garcia</fighter2>
-<rounds>10</rounds>
-<weight>Lightweight division</weight>
-<fighter1>Mike Alvarado</fighter1>
-<fighter2>Saul Corral</fighter2>
-<rounds>8</rounds>
-<weight>Welterweight division</weight>
-<fighter1>Esquiva Falcao</fighter1>
-<fighter2>Joe McCreedy</fighter2>
-<rounds>8</rounds>
-<weight>Middleweight division</weight>
-<loc>Aarhus, Denmark</loc>
-<fighter1>Micki Nielsen</fighter1>
-<fighter2>Mirko Larghetti</fighter2>
-<rounds>12</rounds>
-<weight>Cruiserweight division</weight>
-<fighter1>Ibeth Zamora Silva</fighter1>
-<fighter2>Mari Ando</fighter2>
-<rounds>10</rounds>
-<weight>Junior flyweight division</weight>
-<fighter1>Saul Juarez</fighter1>
-<fighter2>Owaldo Novoa</fighter2>
-<rounds>10</rounds>
-<weight>Strawweight division</weight>
-<loc>Kempton Park, South Africa</loc>
-<fighter1>Hekkie Budler</fighter1>
-<fighter2>Byron Rojas</fighter2>
-<rounds>12</rounds>
-<weight>Strawweight division</weight>
-<fighter1>Grant Fourie</fighter1>
-<fighter2>Warren Joubert</fighter2>
-<rounds>12</rounds>
-<weight>Junior welterweight division</weight>
-<fighter1>Paul Kamanga</fighter1>
-<fighter2>Roman Belaev</fighter2>
-<rounds>10</rounds>
-<weight>Welterweight division</weight>
-<loc>London</loc>
-<fighter1>Matthew Chanda</fighter1>
-<fighter2>Jamie Speight</fighter2>
-<rounds>10</rounds>
-<weight>Junior featherweight division</weight>
-<fighter1>Sohail Ahmad</fighter1>
-<fighter2>Rakeem Noble</fighter2>
-<rounds>10</rounds>
-<weight>Junior welterweight division</weight>
-<fighter1>Kay Prospere</fighter1>
-<fighter2>Terry Needham</fighter2>
-<rounds>8</rounds>
-<weight>Junior welterweight division</weight>
-<loc>Boston</loc>
-<fighter1>Stephen Ormond</fighter1>
-<fighter2>Marcos Jimenez</fighter2>
-<rounds>12</rounds>
-<weight>Lightweight division</weight>
-<loc>Atlantic City, N.J.</loc>
-<fighter1>Thomas Lamanna</fighter1>
-<fighter2>Kendal Mena</fighter2>
-<rounds>8</rounds>
-<weight>Welterweight division</weight>
-<fighter1>Tommy Rainone</fighter1>
-<fighter2>Maurice Chalmers</fighter2>
-<rounds>8</rounds>
-<weight>Junior middleweight division</weight>
-<time>Sunday, March 20, 2016</time>
-<loc>Hamburg, Germany</loc>
-<fighter1>Maria Lindberg</fighter1>
-<fighter2>Elene Sikmashvili</fighter2>
-<rounds>10</rounds>
-<weight>Junior middleweight division</weight>
-<time>Friday, March 25, 2016</time>
-<loc>Indio, Calif. (Estrella TV, RingTVLive.com)</loc>
-<fighter1>Antonio Orozco</fighter1>
-<fighter2>Miguel Acosta</fighter2>
-<rounds>10</rounds>
-<weight>Welterweight division</weight>
-<fighter1>Andrew Cancio</fighter1>
-<fighter2>TBA</fighter2>
-<rounds>10</rounds>
-<weight>Welterweight division</weight>
-<loc>Miami, Okla. (Showtime)</loc>
-<fighter1>Regis Prograis</fighter1>
-<fighter2>Aaron Herrera</fighter2>
-<rounds>10</rounds>
-<weight>Junior welterweight division</weight>
-<fighter1>Willie Nelson</fighter1>
-<fighter2>Marcus Willis</fighter2>
-<rounds>10</rounds>
-<weight>Junior middleweight division</weight>
-<fighter1>Gary Corcoran</fighter1>
-<fighter2>Danny Butler</fighter2>
-<rounds>10</rounds>
-<weight>Junior middleweight division</weight>
-<fighter1>Tom Baker</fighter1>
-<fighter2>Jack Morris</fighter2>
-<rounds>10</rounds>
-<weight>Light heavyweight division</weight>
-<loc>Thailand</loc>
-<fighter1>Saenganan Sithsaithong</fighter1>
-<fighter2>Eric Panza</fighter2>
-<rounds>12</rounds>
-<weight>Bantamweight division</weight>
 <time>Saturday, March 26, 2016</time>
 <loc>Oakland, Calif. (HBO)</loc>
 <fighter1>Andre Ward</fighter1>
 <fighter2>Sullivan Barrera</fighter2>
 <rounds>12</rounds>
 <weight>Light heavyweight division</weight>
-<fighter1>Joseph Diaz</fighter1>
-<fighter2>Jayson Velez</fighter2>
-<rounds>10</rounds>
-<weight>Featherweight division</weight>
+<loc>London, England (Channel 5)</loc>
+<fighter1>Nick Blackwell</fighter1>
+<fighter2>Chris Eubank</fighter2>
+<rounds>12</rounds>
+<weight>Middleweight division</weight>
 <loc>Sheffield, England (Sky)</loc>
 <fighter1>Kell Brook</fighter1>
 <fighter2>Kevin Bizier</fighter2>
 <rounds>12</rounds>
 <weight>Welterweight division</weight>
+<loc>Oakland, Calif. (HBO)</loc>
+<fighter1>Joseph Diaz</fighter1>
+<fighter2>Jayson Velez</fighter2>
+<rounds>10</rounds>
+<weight>Featherweight division</weight>
+<loc>Sheffield, England (Sky)</loc>
 <fighter1>Luke Campbell</fighter1>
 <fighter2>Gary Sykes</fighter2>
 <rounds>12</rounds>
 <weight>Lightweight division</weight>
 <fighter1>Adam Etches</fighter1>
-<fighter2>TBA</fighter2>
+<fighter2>Jefferson Luiz De Sousa</fighter2>
 <rounds>12</rounds>
 <weight>Middleweight division</weight>
 <fighter1>Andy Townend</fighter1>
@@ -134,10 +36,11 @@
 <fighter2>Richard Towers</fighter2>
 <rounds>10</rounds>
 <weight>Heavyweight division</weight>
-<fighter1>Nick Blackwell</fighter1>
-<fighter2>Chris Eubank Jr.</fighter2>
-<rounds>12</rounds>
-<weight>Middleweight division</weight>
+<fighter1>Leigh Wood</fighter1>
+<fighter2>Lee Glover</fighter2>
+<rounds>10</rounds>
+<weight>Featherweight division</weight>
+<loc>London, England (Channel 5)</loc>
 <fighter1>Hughie Fury</fighter1>
 <fighter2>Nagy Aguilera</fighter2>
 <rounds>10</rounds>
@@ -149,6 +52,7 @@
 <rounds>10</rounds>
 <weight>Junior lightweight division</weight>
 <time>Monday, March 28, 2016</time>
+<loc>Tokyo</loc>
 <fighter1>Satoshi Hosono</fighter1>
 <fighter2>Rikiya Fukuhara</fighter2>
 <rounds>10</rounds>
@@ -211,7 +115,7 @@
 <rounds>10</rounds>
 <weight>Welterweight division</weight>
 <fighter1>Luis Ramos Jr.</fighter1>
-<fighter2>TBA</fighter2>
+<fighter2>Cristobal Cruz</fighter2>
 <rounds>8</rounds>
 <weight>Lightweight division</weight>
 <loc>Liverpool, England (Sky)</loc>
@@ -478,10 +382,6 @@
 <fighter2>Suriyan Sor Rungvisai</fighter2>
 <rounds>12</rounds>
 <weight>Bantamweight division</weight>
-<fighter1>Denis Lebedev</fighter1>
-<fighter2>Victor Ramirez</fighter2>
-<rounds>12</rounds>
-<weight>Cruiserweight division</weight>
 <loc>Vienna, Austria</loc>
 <fighter1>Timy Shala</fighter1>
 <fighter2>Cedric Bellais</fighter2>
@@ -496,6 +396,14 @@
 <fighter2>Amir Khan</fighter2>
 <rounds>12</rounds>
 <weight>Middleweight division</weight>
+<fighter1>David Lemieux</fighter1>
+<fighter2>Glen Tapia</fighter2>
+<rounds>10</rounds>
+<weight>Middleweight division</weight>
+<fighter1>Frankie Gomez</fighter1>
+<fighter2>Mauricio Herrera</fighter2>
+<rounds>10</rounds>
+<weight>Welterweight division</weight>
 <loc>Manchester, England (Sky)</loc>
 <fighter1>Anthony Crolla</fighter1>
 <fighter2>Ismael Barroso</fighter2>
@@ -512,6 +420,12 @@
 <fighter2>Young Gil Bae</fighter2>
 <rounds>12</rounds>
 <weight>Junior bantamweight division</weight>
+<time>Saturday, May 21, 2016</time>
+<loc>Russia</loc>
+<fighter1>Denis Lebedev</fighter1>
+<fighter2>Victor Ramirez</fighter2>
+<rounds>12</rounds>
+<weight>Cruiserweight division</weight>
 <time>Saturday, May 28, 2016</time>
 <loc>Glasgow, Scotland</loc>
 <fighter1>Ricky Burns</fighter1>
@@ -535,6 +449,7 @@
 <rounds>12</rounds>
 <weight>Junior lightweight division</weight>
 <time>Saturday, June 25, 2016</time>
+<loc>Brooklyn NY</loc>
 <fighter1>Keith Thurman</fighter1>
 <fighter2>Shawn Porter</fighter2>
 <rounds>12</rounds>
