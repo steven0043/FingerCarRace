@@ -69,6 +69,9 @@ public class MainMenuScreen implements Screen {
 			if((touchPos.x < 152) && (touchPos.x > 44) && (touchPos.y < 193) && (touchPos.y > 158) ){
 				game.actionResolver.getLeaderboardGPGS();
 			}
+			if((touchPos.x < 232) && (touchPos.x > 122) && (touchPos.y < 149) && (touchPos.y > 107) ){
+				game.actionResolver.gpOpen();
+			}
 		}
 	}
 	

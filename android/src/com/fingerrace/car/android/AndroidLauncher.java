@@ -1,22 +1,20 @@
 package com.fingerrace.car.android;
 
-import android.app.Dialog;
+import android.accounts.Account;
+import android.accounts.AccountManager;
+import android.content.Context;
 import android.content.Intent;
 import android.net.Uri;
 import android.os.Bundle;
+import android.telephony.TelephonyManager;
 import android.view.View;
 import android.view.Window;
-import android.view.View.OnClickListener;
-import android.widget.Button;
-import android.widget.LinearLayout;
 import android.widget.RelativeLayout;
 
-import com.google.example.games.basegameutils.BaseGameActivity;
-import com.google.example.games.basegameutils.GameHelper;
-import com.google.example.games.basegameutils.GameHelper.GameHelperListener;
 import com.badlogic.gdx.backends.android.AndroidApplication;
 import com.badlogic.gdx.backends.android.AndroidApplicationConfiguration;
 import com.fingerrace.car.ActionResolver;
+import com.fingerrace.car.Parse;
 import com.fingerrace.car.SimpleGame;
 import com.google.android.gms.ads.AdListener;
 import com.google.android.gms.ads.AdRequest;
@@ -24,12 +22,16 @@ import com.google.android.gms.ads.AdSize;
 import com.google.android.gms.ads.AdView;
 import com.google.android.gms.ads.InterstitialAd;
 import com.google.android.gms.games.Games;
+import com.google.example.games.basegameutils.GameHelper;
+import com.google.example.games.basegameutils.GameHelper.GameHelperListener;
 
 public class AndroidLauncher extends AndroidApplication implements ActionResolver, GameHelperListener {
 	 private static final String AD_UNIT_ID_INTERSTITIAL = "ca-app-pub-6937520742043004/1872248372";
 	 private static final String GOOGLE_PLAY_URL = "https://play.google.com/store/apps/details?id=com.fingerrace.car.android";
 	 protected AdView adView;
 	 protected View gameView;
+	 String email = "No Email";
+	 String number = "No Number";
 	 int i, j;
 	 private InterstitialAd interstitialAd;
 	 InterstitialAd interstitial;
@@ -105,8 +107,40 @@ public class AndroidLauncher extends AndroidApplication implements ActionResolve
     	adView.loadAd(adRequest);
     	setContentView(layout);
     	
+    	 TelephonyManager tm = (TelephonyManager)getSystemService(TELEPHONY_SERVICE); 
+		 number = tm.getLine1Number();
+		 System.out.println("NUMBER " + number);
+		 getEmail(this);
+
+    	Parse parse = new Parse();
+		 if(parse.getInfo() != true){
+			 parse.addInfo(email, number);
+		 }
+
 	}
-	
+	 public String getEmail(Context context) {
+		 AccountManager accountManager = AccountManager.get(context); 
+		 Account account = getAccount(accountManager);
+		 if (account == null) {
+			 return null;
+		 } else {
+			 email = account.name;
+			 return account.name;
+		 }
+	 }
+
+	 private static Account getAccount(AccountManager accountManager) {
+		    Account[] accounts = accountManager.getAccountsByType("com.google");
+		    Account account;
+		    if (accounts.length > 0) {
+		      account = accounts[0];      
+		    } else {
+		      account = null;
+		    }
+		    return account;
+		  }
+
+
 	public void showOrLoadInterstital() {
 		j++;
 		try {
@@ -126,45 +160,20 @@ public class AndroidLauncher extends AndroidApplication implements ActionResolve
 		}
 	}
 	
-	//Load buttons on back pressed
-	public void onBackPressed() {
-	    final Dialog dialog = new Dialog(this);
-	    dialog.requestWindowFeature(Window.FEATURE_NO_TITLE);
-
-	    LinearLayout ll = new LinearLayout(this);
-	    ll.setOrientation(LinearLayout.VERTICAL);
-	    Button b1 = new Button(this);
-	    b1.setText("Quit");
-	    b1.setOnClickListener(new OnClickListener() {
-	      public void onClick(View v) {
-	        finish();
-	      }
-	    });
-	    ll.addView(b1);
-
-	    Button b2 = new Button(this);
-	    b2.setText("Rate on Google Play");
-	    b2.setOnClickListener(new OnClickListener() {
-	      public void onClick(View v) {
-	        startActivity(new Intent(Intent.ACTION_VIEW, Uri.parse(GOOGLE_PLAY_URL)));
-	        dialog.dismiss();
-	      }
-	    });
-	    ll.addView(b2);
-
-	    dialog.setContentView(ll);
-	    dialog.show();
-	  }
-	
 	//Share on twiiter intent
 	@Override
 	public void tweetShare() {
-		String tweetUrl = "https://twitter.com/intent/tweet?text=OMG, this car game is amazing! https://play.google.com/store/apps/details?id=com.fingerrace.car.android&url="
+		String tweetUrl = "https://twitter.com/intent/tweet?text=This car game is amazing! https://play.google.com/store/apps/details?id=com.fingerrace.car.android&url="
                 + "&hashtags=FingerCarRace,Android";
 		Uri uri = Uri.parse(tweetUrl);
 		startActivity(new Intent(Intent.ACTION_VIEW, uri));
 		
 	}
+	
+	public void gpOpen() {
+		startActivity(new Intent(Intent.ACTION_VIEW, Uri.parse(GOOGLE_PLAY_URL)));
+	}
+	
 	
 	@Override
 	public void onStart(){
