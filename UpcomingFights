@@ -1,142 +1,21 @@
-<time>Saturday, May 7, 2016</time>
-<loc>Las Vegas (HBO PPV)</loc>
-<fighter1>Saul Canelo</fighter1>
-<fighter2>Amir Khan</fighter2>
-<rounds>12</rounds>
-<weight>Middleweight division</weight>
-<fighter1>David Lemieux</fighter1>
-<fighter2>Glen Tapia</fighter2>
-<rounds>10</rounds>
-<weight>Middleweight division</weight>
-<fighter1>Frankie Gomez</fighter1>
-<fighter2>Mauricio Herrera</fighter2>
-<rounds>10</rounds>
-<weight>Welterweight division</weight>
-<fighter1>Diego De La Hoya</fighter1>
-<fighter2>Rocco Santomauro</fighter2>
-<rounds>10</rounds>
-<weight>Junior featherweight division</weight>
-<fighter1>Patrick Teixeira</fighter1>
-<fighter2>Curtis Stevens</fighter2>
-<rounds>10</rounds>
-<weight>Middleweight division</weight>
-<fighter1>Jason Quigley</fighter1>
-<fighter2>James De La Rosa</fighter2>
-<rounds>10</rounds>
-<weight>Middleweight division</weight>
-<loc>Manchester, England (Sky)</loc>
-<fighter1>Anthony Crolla</fighter1>
-<fighter2>Ismael Barroso</fighter2>
-<rounds>12</rounds>
-<weight>Lightweight division</weight>
-<fighter1>Hosea Burton</fighter1>
-<fighter2>TBA</fighter2>
-<rounds>12</rounds>
-<weight>Light heavyweight division</weight>
-<loc>Argentina</loc>
-<fighter1>Marcela Eliana Acuna</fighter1>
-<fighter2>Sabrina Perez</fighter2>
-<rounds>10</rounds>
-<weight>Junior featherweight division</weight>
-<loc>Perth, Australia</loc>
-<fighter1>Nathaniel May</fighter1>
-<fighter2>Maxaisai Sithsaithong</fighter2>
-<rounds>12</rounds>
-<weight>Featherweight division</weight>
-<loc>London</loc>
-<fighter1>Johnny Garton</fighter1>
-<fighter2>Ryan Fields</fighter2>
-<rounds>10</rounds>
-<weight>Welterweight division</weight>
-<fighter1>Igor Mikhalkin</fighter1>
-<fighter2>Mehdi Amar</fighter2>
-<rounds>12</rounds>
-<weight>Light heavyweight division</weight>
-<loc>Hamburg, Germany</loc>
-<fighter1>Kubrat Pulev</fighter1>
-<fighter2>Dereck Chisora</fighter2>
-<rounds>12</rounds>
-<weight>Heavyweight division</weight>
-<loc>Tokyo</loc>
-<fighter1>Takashi Miura</fighter1>
-<fighter2>Jonel Gadapan</fighter2>
-<rounds>10</rounds>
-<weight>Lightweight division</weight>
-<fighter1>Toshiyuki Igarashi</fighter1>
-<fighter2>Joel Taduran</fighter2>
-<rounds>10</rounds>
-<weight>Flyweight division</weight>
-<loc>Windhoek, Namibia</loc>
-<fighter1>Paulus Ambunda</fighter1>
-<fighter2>Moises Flores</fighter2>
-<rounds>12</rounds>
-<weight>Junior featherweight division</weight>
-<time>Sunday, May 8, 2016</time>
-<fighter1>Naoya Inoue</fighter1>
-<fighter2>David Carmona</fighter2>
-<rounds>12</rounds>
-<weight>Junior bantamweight division</weight>
-<fighter1>Akira Yaegashi</fighter1>
-<fighter2>Martin Tecuapetla</fighter2>
-<rounds>12</rounds>
-<weight>Junior flyweight division</weight>
-<fighter1>Takuma Inoue</fighter1>
-<fighter2>Afrizal Tamboresi</fighter2>
-<rounds>12</rounds>
-<weight>Junior bantamweight division</weight>
-<loc>Sanda, Japan</loc>
-<fighter1>Merlito Sabillo</fighter1>
-<fighter2>Riku Kano</fighter2>
-<rounds>12</rounds>
-<weight>Strawweight division</weight>
-<time>Friday, May 13, 2016</time>
-<loc>Washingon, D.C. (BET)</loc>
-<fighter1>Dusty Hernandez-Harrison</fighter1>
-<fighter2>Mike Dallas Jr.</fighter2>
-<rounds>10</rounds>
-<weight>Welterweight division</weight>
-<loc>Montreal</loc>
-<fighter1>Steven Butler</fighter1>
-<fighter2>Ferdinand Pilz</fighter2>
-<rounds>10</rounds>
-<weight>Junior middleweight division</weight>
-<fighter1>Schiller Hyppolite</fighter1>
-<fighter2>Denis Grachev</fighter2>
-<rounds>10</rounds>
-<weight>Super middleweight division</weight>
-<loc>Bolton, England</loc>
-<fighter1>Luke Blackledge</fighter1>
-<fighter2>TBA</fighter2>
-<rounds>12</rounds>
-<weight>Super middleweight division</weight>
-<fighter1>Jack Catterall</fighter1>
-<fighter2>Joe Hughes</fighter2>
-<rounds>10</rounds>
-<weight>Junior welterweight division</weight>
-<loc>Torino, Italy</loc>
-<fighter1>Maurizio Lovaglio</fighter1>
-<fighter2>Geoffrey Battelo</fighter2>
-<rounds>12</rounds>
-<weight>Cruiserweight division</weight>
-<loc>Lincoln, R.I.</loc>
-<fighter1>Peter Manfredo Jr.</fighter1>
-<fighter2>Angel Camacho Jr.</fighter2>
-<rounds>10</rounds>
-<weight>Super middleweight division</weight>
 <time>Saturday, May 14, 2016</time>
-<loc>Carlton, Minn. (Fox Sports 1)</loc>
-<fighter1>Murat Gassiev</fighter1>
-<fighter2>Jordan Shimmell</fighter2>
-<rounds>12</rounds>
-<weight>Cruiserweight division</weight>
-<fighter1>John Wesley Nofire</fighter1>
-<fighter2>Joey Abell</fighter2>
+<loc>Studio City, Calif. (UniMas)</loc>
+<fighter1>Toka Kahn Clary</fighter1>
+<fighter2>Orlando Rizo</fighter2>
+<rounds>10</rounds>
+<weight>Junior lightweight division</weight>
+<fighter1>Saul Rodriguez</fighter1>
+<fighter2>Daulis Prescott</fighter2>
+<rounds>10</rounds>
+<weight>Junior lightweight division</weight>
+<fighter1>Andy Ruiz Jr.</fighter1>
+<fighter2>Ray Austin</fighter2>
 <rounds>8</rounds>
 <weight>Heavyweight division</weight>
-<fighter1>Javontae Starks</fighter1>
-<fighter2>Yordenis Ugas</fighter2>
+<fighter1>Esquiva Falcao</fighter1>
+<fighter2>Paul Valenzuela</fighter2>
 <rounds>8</rounds>
-<weight>Junior middleweight division</weight>
+<weight>Middleweight division</weight>
 <loc>Cardiff, Wales</loc>
 <fighter1>Lee Haskins</fighter1>
 <fighter2>Ivan Morales</fighter2>
@@ -146,6 +25,33 @@
 <fighter2>Joel Tambwe Djeko</fighter2>
 <rounds>12</rounds>
 <weight>Cruiserweight division</weight>
+<fighter1>Andrew Selby</fighter1>
+<fighter2>Louis Norman</fighter2>
+<rounds>12</rounds>
+<weight>Flyweight division</weight>
+<fighter1>Tony Dixon</fighter1>
+<fighter2>Paddy Gallagher</fighter2>
+<rounds>10</rounds>
+<weight>Welterweight division</weight>
+<loc>Cabo San Lucas, Mexico (BeIN Sports Espanol)</loc>
+<fighter1>Raul Hirales</fighter1>
+<fighter2>Jose Cayetano</fighter2>
+<rounds>10</rounds>
+<weight>Junior featherweight division</weight>
+<loc>Mexico City (Televisa)</loc>
+<fighter1>Mariana Juarez</fighter1>
+<fighter2>Tamao Ozawa</fighter2>
+<rounds>10</rounds>
+<weight>Junior bantamweight division</weight>
+<loc>Reynosa, Mexico</loc>
+<fighter1>Carlos Ramirez</fighter1>
+<fighter2>Roberto Marroquin</fighter2>
+<rounds>10</rounds>
+<weight>Junior lightweight division</weight>
+<fighter1>Yazmin Rivas</fighter1>
+<fighter2>Ana Maria Lozano</fighter2>
+<rounds>10</rounds>
+<weight>Bantamweight division</weight>
 <loc>Buenos Aires, Argentina</loc>
 <fighter1>Marisa Nunez</fighter1>
 <fighter2>Adela Peralta</fighter2>
@@ -153,7 +59,7 @@
 <weight>Junior welterweight division</weight>
 <loc>Mississauga, Canada</loc>
 <fighter1>Brandon Cook</fighter1>
-<fighter2>TBA</fighter2>
+<fighter2>Davide Doria</fighter2>
 <rounds>10</rounds>
 <weight>Junior middleweight division</weight>
 <fighter1>Kevin Higson</fighter1>
@@ -162,43 +68,112 @@
 <weight>Junior middleweight division</weight>
 <loc>Fredericton, Canada</loc>
 <fighter1>Samuel Vargas</fighter1>
-<fighter2>David Peralta</fighter2>
+<fighter2>Juan Armando Garcia</fighter2>
 <rounds>10</rounds>
 <weight>Junior middleweight division</weight>
-<loc>Santiago de Chile, Chile</loc>
-<fighter1>Yulihan Avila</fighter1>
-<fighter2>Calixta Silgado</fighter2>
+<fighter1>Brandon Brewer</fighter1>
+<fighter2>Diego Marocchi</fighter2>
 <rounds>10</rounds>
-<weight>Junior featherweight division</weight>
-<fighter1>Alys Sanchez</fighter1>
-<fighter2>Jessica Arreguin</fighter2>
-<rounds>10</rounds>
-<weight>Bantamweight division</weight>
+<weight>Junior middleweight division</weight>
 <loc>Hong Kong</loc>
 <fighter1>Rex Tso</fighter1>
 <fighter2>Young Gil Bae</fighter2>
 <rounds>12</rounds>
 <weight>Junior bantamweight division</weight>
+<fighter1>Ryota Murata</fighter1>
+<fighter2>Felipe Pedroso</fighter2>
+<rounds>10</rounds>
+<weight>Middleweight division</weight>
 <loc>Riga, Latvia</loc>
 <fighter1>Mairis Briedis</fighter1>
 <fighter2>Olanrewaju Durodola</fighter2>
 <rounds>12</rounds>
 <weight>Cruiserweight division</weight>
-<fighter1>Vyacheslav Gusev</fighter1>
-<fighter2>Leonardo Doronio</fighter2>
+<fighter1>Sergei Ekimov</fighter1>
+<fighter2>Charles Adamu</fighter2>
+<rounds>10</rounds>
+<weight>Light heavyweight division</weight>
+<loc>Poland</loc>
+<fighter1>Mariusz Wach</fighter1>
+<fighter2>Marcelo Nascimento</fighter2>
+<rounds>10</rounds>
+<weight>Heavyweight division</weight>
+<loc>Kiev, Ukraine</loc>
+<fighter1>Artem Dalakian</fighter1>
+<fighter2>Silvio Olteanu</fighter2>
 <rounds>12</rounds>
-<weight>Junior lightweight division</weight>
+<weight>Flyweight division</weight>
+<fighter1>Oleksandr Yegorov</fighter1>
+<fighter2>Andrei Isaeu</fighter2>
+<rounds>12</rounds>
+<weight>Junior featherweight division</weight>
+<fighter1>Oleg Yefimovych</fighter1>
+<fighter2>Eugen Tanasie</fighter2>
+<rounds>12</rounds>
+<weight>Featherweight division</weight>
 <loc>Hammond, Ind.</loc>
 <fighter1>Mike Jimenez</fighter1>
 <fighter2>Aaron Pryor Jr.</fighter2>
 <rounds>10</rounds>
 <weight>Super middleweight division</weight>
+<time>Tuesday, May 17, 2016</time>
+<loc>Carlton, Minn. (Fox Sports 1)</loc>
+<fighter1>Murat Gassiev</fighter1>
+<fighter2>Jordan Shimmell</fighter2>
+<rounds>12</rounds>
+<weight>Cruiserweight division</weight>
+<fighter1>John Wesley Nofire</fighter1>
+<fighter2>Joey Abell</fighter2>
+<rounds>10</rounds>
+<weight>Heavyweight division</weight>
+<time>Thursday, May 19, 2016</time>
+<loc>Rayong, Thailand</loc>
+<fighter1>Nawaphon Por Chokchai</fighter1>
+<fighter2>Macrea Gandionco</fighter2>
+<rounds>12</rounds>
+<weight>Flyweight division</weight>
 <time>Friday, May 20, 2016</time>
+<loc>Indio, Calif. (Estrella TV)</loc>
+<fighter1>Eddie Gomez</fighter1>
+<fighter2>John Karl Sosa</fighter2>
+<rounds>10</rounds>
+<weight>Welterweight division</weight>
+<fighter1>Fidel Maldonado Jr.</fighter1>
+<fighter2>Art Hovhannisyan</fighter2>
+<rounds>10</rounds>
+<weight>Lightweight division</weight>
+<fighter1>Roy Tapia</fighter1>
+<fighter2>Jose Bustos</fighter2>
+<rounds>8</rounds>
+<weight>Junior featherweight division</weight>
+<loc>Tucson, Ariz. (CBS Sports Net)</loc>
+<fighter1>Hanzel Martinez</fighter1>
+<fighter2>Isaac Nettey</fighter2>
+<rounds>8</rounds>
+<weight>Junior featherweight division</weight>
+<fighter1>Emmanuel Robles</fighter1>
+<fighter2>Gerardo Cuevas</fighter2>
+<rounds>8</rounds>
+<weight>Junior welterweight division</weight>
+<loc>Cuacasia, Colombia</loc>
+<fighter1>Dayana Cordero</fighter1>
+<fighter2>Maribel Ramirez</fighter2>
+<rounds>10</rounds>
+<weight>Bantamweight division</weight>
+<fighter1>Darleys Perez</fighter1>
+<fighter2>Wegner Ortega</fighter2>
+<rounds>8</rounds>
+<weight>Junior welterweight division</weight>
 <loc>Paris</loc>
 <fighter1>Youri Kalenga</fighter1>
 <fighter2>Yunier Dorticos</fighter2>
 <rounds>12</rounds>
 <weight>Cruiserweight division</weight>
+<loc>Flemington, Australia</loc>
+<fighter1>Will Tomlinson</fighter1>
+<fighter2>Hero Tito</fighter2>
+<rounds>10</rounds>
+<weight>Lightweight division</weight>
 <time>Saturday, May 21, 2016</time>
 <loc>Moscow</loc>
 <fighter1>Deontay Wilder</fighter1>
@@ -209,8 +184,16 @@
 <fighter2>Victor Ramirez</fighter2>
 <rounds>12</rounds>
 <weight>Cruiserweight division</weight>
+<fighter1>Umar Salamov</fighter1>
+<fighter2>Bob Ajisafe</fighter2>
+<rounds>12</rounds>
+<weight>Light heavyweight division</weight>
 <fighter1>Dmitry Kudryashov</fighter1>
 <fighter2>Julio Cesar Dos Santos</fighter2>
+<rounds>10</rounds>
+<weight>Cruiserweight division</weight>
+<fighter1>Rakhim Chakhkiev</fighter1>
+<fighter2>Tamas Lodi</fighter2>
 <rounds>10</rounds>
 <weight>Cruiserweight division</weight>
 <loc>Houston, Texas (Showtime)</loc>
@@ -226,6 +209,19 @@
 <fighter2>John Jackson</fighter2>
 <rounds>12</rounds>
 <weight>Junior middleweight division</weight>
+<loc>Las Vegas (CBS Sports Net)</loc>
+<fighter1>Arif Magomedov</fighter1>
+<fighter2>Andrew Hernandez</fighter2>
+<rounds>10</rounds>
+<weight>Middleweight division</weight>
+<fighter1>John Vera</fighter1>
+<fighter2>Joey Ruelas</fighter2>
+<rounds>8</rounds>
+<weight>Junior middleweight division</weight>
+<fighter1>Jerren Cochran</fighter1>
+<fighter2>Juan Antonio Lopez</fighter2>
+<rounds>8</rounds>
+<weight>Featherweight division</weight>
 <loc>Laredo, Texas (UniMas)</loc>
 <fighter1>Raymundo Beltran</fighter1>
 <fighter2>Ivan Najera</fighter2>
@@ -235,8 +231,13 @@
 <fighter2>Claudinei Lacerda</fighter2>
 <rounds>8</rounds>
 <weight>Welterweight division</weight>
+<loc>London</loc>
 <fighter1>David Haye</fighter1>
 <fighter2>Arnold Gjergjaj</fighter2>
+<rounds>10</rounds>
+<weight>Heavyweight division</weight>
+<fighter1>Shannon Briggs</fighter1>
+<fighter2>TBA</fighter2>
 <rounds>10</rounds>
 <weight>Heavyweight division</weight>
 <fighter1>Joe Mullender</fighter1>
@@ -248,6 +249,16 @@
 <fighter2>Carlos Takam</fighter2>
 <rounds>12</rounds>
 <weight>Heavyweight division</weight>
+<loc>Charleroi, Belgium</loc>
+<fighter1>Ryad Merhy</fighter1>
+<fighter2>Cristian Medina</fighter2>
+<rounds>12</rounds>
+<weight>Cruiserweight division</weight>
+<loc>Dudley, England</loc>
+<fighter1>Craig Cunningham</fighter1>
+<fighter2>Ryan Aston</fighter2>
+<rounds>10</rounds>
+<weight>Middleweight division</weight>
 <time>Wednesday, May 25, 2016</time>
 <loc>Beijing</loc>
 <fighter1>Amnat Ruenroeng</fighter1>
@@ -258,19 +269,65 @@
 <fighter2>Jose Jimenez</fighter2>
 <rounds>12</rounds>
 <weight>Strawweight division</weight>
+<fighter1>Zong Ju Cai</fighter1>
+<fighter2>Samson Tor Buamas</fighter2>
+<rounds>10</rounds>
+<weight>Strawweight division</weight>
 <time>Friday, May 27, 2016</time>
 <loc>Niagara Fall, N.Y. (CBS Sports Net)</loc>
 <fighter1>Jarrell Miller</fighter1>
-<fighter2>Razvan Cojanu</fighter2>
+<fighter2>Nick Guivas</fighter2>
 <rounds>10</rounds>
 <weight>Heavyweight division</weight>
+<fighter1>Harmonito Dela Torre</fighter1>
+<fighter2>Guillermo Sanchez</fighter2>
+<rounds>8</rounds>
+<weight>Lightweight division</weight>
+<fighter1>Nick Casal</fighter1>
+<fighter2>Antonio Fernandez</fighter2>
+<rounds>6</rounds>
+<weight>Welterweight division</weight>
+<fighter1>Junior Anthony Wright</fighter1>
+<fighter2>Carlos Reyes</fighter2>
+<rounds>6</rounds>
+<weight>Cruiserweight division</weight>
+<fighter1>Mehdi Amar</fighter1>
+<fighter2>Sergei Demchenko</fighter2>
+<rounds>12</rounds>
+<weight>Light heavyweight division</weight>
+<fighter1>Cedric Vitu</fighter1>
+<fighter2>Isaac Real</fighter2>
+<rounds>12</rounds>
+<weight>Junior middleweight division</weight>
+<fighter1>Samuele Esposito</fighter1>
+<fighter2>Franck Petitjean</fighter2>
+<rounds>12</rounds>
+<weight>Junior welterweight division</weight>
+<fighter1>Maiva Hamadouche</fighter1>
+<fighter2>Brenda Carabajal</fighter2>
+<rounds>10</rounds>
+<weight>Lightweight division</weight>
+<fighter1>Ahmed El Mousaoui</fighter1>
+<fighter2>Viktor Plotnykov</fighter2>
+<rounds>10</rounds>
+<weight>Welterweight division</weight>
+<loc>Alcobendas, Spain</loc>
+<fighter1>Nicolas Gonzalez</fighter1>
+<fighter2>Steve Jamoye</fighter2>
+<rounds>10</rounds>
+<weight>Junior welterweight division</weight>
 <time>Saturday, May 28, 2016</time>
 <loc>Glendale, Ariz. (CBS Sports Net)</loc>
 <fighter1>Shane Mosley</fighter1>
 <fighter2>David Avanesyan</fighter2>
 <rounds>12</rounds>
 <weight>Welterweight division</weight>
-<loc>Glasgow, Scotland</loc>
+<loc>San Antonio, Texas (Fox Sports)</loc>
+<fighter1>Felix Diaz</fighter1>
+<fighter2>Miguel Vazquez</fighter2>
+<rounds>10</rounds>
+<weight>Junior welterweight division</weight>
+<loc>Glasgow, Scotland (Sky)</loc>
 <fighter1>Ricky Burns</fighter1>
 <fighter2>Michele Di Rocco</fighter2>
 <rounds>12</rounds>
@@ -279,6 +336,52 @@
 <fighter2>Willie Limond</fighter2>
 <rounds>12</rounds>
 <weight>Junior welterweight division</weight>
+<fighter1>Tommy McCarthy</fighter1>
+<fighter2>Jon-Lewis Dickinson</fighter2>
+<rounds>10</rounds>
+<weight>Cruiserweight division</weight>
+<loc>Bacalod City, Philippines</loc>
+<fighter1>Donnie Nietes</fighter1>
+<fighter2>Raul Garcia</fighter2>
+<rounds>12</rounds>
+<weight>Junior Flyweight division</weight>
+<fighter1>Milan Melindo</fighter1>
+<fighter2>Javier Mendoza</fighter2>
+<rounds>12</rounds>
+<weight>Junior Flyweight division</weight>
+<fighter1>Arthur Villanueva</fighter1>
+<fighter2>Juan Jimenez</fighter2>
+<rounds>10</rounds>
+<weight>Junior bantamweight division</weight>
+<loc>Kjellerup, Denmark</loc>
+<fighter1>Patrick Nielsen</fighter1>
+<fighter2>Denis Douglin</fighter2>
+<rounds>12</rounds>
+<weight>Super middleweight division</weight>
+<loc>Tinqueux, France</loc>
+<fighter1>Anne Sophie Da Costa</fighter1>
+<fighter2>Soledad Macedo</fighter2>
+<rounds>10</rounds>
+<weight>Junior flyweight division</weight>
+<loc>Acapulco, Mexico</loc>
+<fighter1>Nery Saguilan</fighter1>
+<fighter2>Marcos Villasana</fighter2>
+<rounds>12</rounds>
+<weight>Lightweight division</weight>
+<fighter1>Rey Vargas</fighter1>
+<fighter2>Alexis Kabore</fighter2>
+<rounds>12</rounds>
+<weight>Lightweight division</weight>
+<loc>Telcor, Nicaragua</loc>
+<fighter1>Carlos Buitrago</fighter1>
+<fighter2>Roger Collado</fighter2>
+<rounds>8</rounds>
+<weight>Junior flyweight division</weight>
+<loc>Szczecin, Poland</loc>
+<fighter1>Krzysztof Wlodarczyk</fighter1>
+<fighter2>Kai Kurzawa</fighter2>
+<rounds>12</rounds>
+<weight>Cruiserweight division</weight>
 <time>Sunday, May 29, 2016</time>
 <loc>Liverpool, England (Sky)</loc>
 <fighter1>Tony Bellew</fighter1>
@@ -293,27 +396,67 @@
 <fighter2>Tony Dodson</fighter2>
 <rounds>12</rounds>
 <weight>Light heavyweight division</weight>
+<fighter1>Stephen Smith</fighter1>
+<fighter2>Daniel Brizuela</fighter2>
+<rounds>10</rounds>
+<weight>Junior lightweight division</weight>
+<fighter1>Kofi Yates</fighter1>
+<fighter2>Tom Farrell</fighter2>
+<rounds>10</rounds>
+<weight>Junior welterweight division</weight>
+<time>Thursday, June 2, 2016</time>
+<fighter1>Vyacheslav Gusev</fighter1>
+<fighter2>Leonardo Doronio</fighter2>
+<rounds>12</rounds>
+<weight>Junior middleweight division</weight>
+<fighter1>Maxim Vlasov</fighter1>
+<fighter2>Ismayl Sillah</fighter2>
+<rounds>10</rounds>
+<weight>Cruiserweight division</weight>
 <time>Friday, June 3, 2016</time>
+<loc>Los Angeles (Estrella TV, RingTVLive.com)</loc>
+<fighter1>Ronny Rios</fighter1>
+<fighter2>Efrain Esquivias</fighter2>
+<rounds>10</rounds>
+<weight>Featherweight division</weight>
+<fighter1>Seniesa Estrada</fighter1>
+<fighter2>TBA</fighter2>
+<rounds>6</rounds>
+<weight>Flyweight division</weight>
 <loc>Hollywood, Fla. (Spike)</loc>
 <fighter1>Rances Barthelemy</fighter1>
 <fighter2>Mickey Bey</fighter2>
 <rounds>12</rounds>
 <weight>Lightweight division</weight>
+<fighter1>Emmanuel Rodriguez</fighter1>
+<fighter2>Alberto Guevara</fighter2>
+<rounds>10</rounds>
+<weight>Bantamweight division</weight>
+<loc>Philadelphia (GoFightLive.tv)</loc>
+<fighter1>Dashon Johnson</fighter1>
+<fighter2>Decarlo Perez</fighter2>
+<rounds>8</rounds>
+<weight>Super middleweight division</weight>
 <time>Saturday, June 4, 2016</time>
 <loc>Carson, Calif. (HBO)</loc>
 <fighter1>Francisco Vargas</fighter1>
 <fighter2>Orlando Salido</fighter2>
 <rounds>12</rounds>
 <weight>Junior lightweight division</weight>
+<fighter1>Julian Ramirez</fighter1>
+<fighter2>Abraham Lopez</fighter2>
+<rounds>10</rounds>
+<weight>Featherweight division</weight>
+<loc>Montreal (ESPN)</loc>
+<fighter1>Artur Beterbiev</fighter1>
+<fighter2>Ezequiel Maderna</fighter2>
+<rounds>12</rounds>
+<weight>Light heavyweight division</weight>
 <loc>Liverpool, England</loc>
 <fighter1>Liam Smith</fighter1>
-<fighter2>TBA</fighter2>
+<fighter2>Predrag Radosevic</fighter2>
 <rounds>12</rounds>
 <weight>Junior middleweight division</weight>
-<fighter1>Zolani Tete</fighter1>
-<fighter2>TBA</fighter2>
-<rounds>12</rounds>
-<weight>Bantamweight division</weight>
 <fighter1>Ryan Farrag</fighter1>
 <fighter2>Karim Guerfi</fighter2>
 <rounds>12</rounds>
@@ -323,9 +466,42 @@
 <rounds>12</rounds>
 <weight>Junior featherweight division</weight>
 <fighter1>Paul Butler</fighter1>
-<fighter2>TBA</fighter2>
+<fighter2>Petchbarngborn Kokietgym</fighter2>
 <rounds>12</rounds>
 <weight>Junior bantamweight division</weight>
+<fighter1>Zolani Tete</fighter1>
+<fighter2>TBA</fighter2>
+<rounds>12</rounds>
+<weight>Bantamweight division</weight>
+<loc>Cancun, Mexico (Televisa)</loc>
+<fighter1>Andres Gutierrez</fighter1>
+<fighter2>Cristian Mijares</fighter2>
+<rounds>12</rounds>
+<weight>Featherweight division</weight>
+<loc>Roeselare, Belgium</loc>
+<fighter1>Delfine Persoon</fighter1>
+<fighter2>Christina Linardatou</fighter2>
+<rounds>10</rounds>
+<weight>Lightweight division</weight>
+<loc>Magdeburg, Germany</loc>
+<fighter1>Agit Kabayel</fighter1>
+<fighter2>Christian Lewandowski</fighter2>
+<rounds>12</rounds>
+<weight>Heavyweight division</weight>
+<fighter1>Tom Schwarz</fighter1>
+<fighter2>Dennis Lewandowski</fighter2>
+<rounds>10</rounds>
+<weight>Heavyweight division</weight>
+<loc>Italy</loc>
+<fighter1>Matteo Signani</fighter1>
+<fighter2>Dmitry Chudinov</fighter2>
+<rounds>12</rounds>
+<weight>Middleweight division</weight>
+<loc>Torrelavega, Spain</loc>
+<fighter1>Sergio Garcia</fighter1>
+<fighter2>Pavel Mamontov</fighter2>
+<rounds>12</rounds>
+<weight>Junior middleweight division</weight>
 <loc>Montevideo, Uruguay</loc>
 <fighter1>Daud Yordan</fighter1>
 <fighter2>Cristian Coria</fighter2>
@@ -335,35 +511,141 @@
 <fighter2>Valeria Rodrigues dos Santos</fighter2>
 <rounds>10</rounds>
 <weight>Lightweight division</weight>
+<time>Friday, June 10, 2016</time>
+<fighter1>Enzo Maccarinelli</fighter1>
+<fighter2>Dmytro Kucher</fighter2>
+<rounds>12</rounds>
+<weight>Cruiserweight division</weight>
 <time>Saturday, June 11, 2016</time>
+<loc>Verona, N.Y. (Showtime)</loc>
+<fighter1>Ruslan Provodnikov</fighter1>
+<fighter2>John Molina</fighter2>
+<rounds>12</rounds>
+<weight>Junior welterweight division</weight>
+<fighter1>Demetrius Andrade</fighter1>
+<fighter2>Willie Nelson</fighter2>
+<rounds>12</rounds>
+<weight>Junior middleweight division</weight>
+<fighter1>Dejan Zlaticanin</fighter1>
+<fighter2>Emiliano Marsili</fighter2>
+<rounds>12</rounds>
+<weight>Lightweight division</weight>
+<fighter1>Andrey Fedosov</fighter1>
+<fighter2>Mario Heredia</fighter2>
+<rounds>10</rounds>
+<weight>Heavyweight division</weight>
 <loc>New York (HBO)</loc>
 <fighter1>Vasyl Lomachenko</fighter1>
 <fighter2>Roman Martinez</fighter2>
 <rounds>12</rounds>
 <weight>Junior lightweight division</weight>
 <fighter1>Felix Verdejo</fighter1>
-<fighter2>Jose Felix Jr.</fighter2>
+<fighter2>Juan Jose Martinez</fighter2>
 <rounds>10</rounds>
 <weight>Lightweight division</weight>
+<fighter1>Shiming Zou</fighter1>
+<fighter2>Jozsef Ajtai</fighter2>
+<rounds>10</rounds>
+<weight>Flyweight division</weight>
+<loc>Trelew, Argentina</loc>
+<fighter1>Omar Narvaez</fighter1>
+<fighter2>Breilor Teran</fighter2>
+<rounds>10</rounds>
+<weight>Bantamweight division</weight>
 <loc>South Africa</loc>
 <fighter1>Lusanda Komanisi</fighter1>
 <fighter2>Tshifhiwa Munyai</fighter2>
 <rounds>12</rounds>
 <weight>Featherweight division</weight>
+<loc>Santiago de Chile, Chile</loc>
+<fighter1>Yulihan Avila</fighter1>
+<fighter2>TBA</fighter2>
+<rounds>10</rounds>
+<weight>Junior featherweight division</weight>
+<fighter1>Alys Sanchez</fighter1>
+<fighter2>Jessica Arreguin</fighter2>
+<rounds>10</rounds>
+<weight>Bantamweight division</weight>
+<loc>Colombia</loc>
+<fighter1>Liliana Palmera</fighter1>
+<fighter2>Jessica Gonzalez</fighter2>
+<rounds>10</rounds>
+<weight>Junior featherweight division</weight>
+<loc>Windhoek, Namibia</loc>
+<fighter1>Paulus Ambunda</fighter1>
+<fighter2>Moises Flores</fighter2>
+<rounds>12</rounds>
+<weight>Junior featherweight division</weight>
+<time>Monday, June 13, 2016</time>
+<loc>Tokyo</loc>
+<fighter1>Naoko Fujioka</fighter1>
+<fighter2>Shindo Go</fighter2>
+<rounds>10</rounds>
+<weight>Bantamweight division</weight>
 <time>Friday, June 17, 2016</time>
 <loc>Thailand</loc>
 <fighter1>Pungluang Sor Singyu</fighter1>
 <fighter2>Marlon Tapales</fighter2>
 <rounds>12</rounds>
 <weight>Bantamweight division</weight>
+<loc>Pont-Audemer, France</loc>
+<fighter1>Giodi Scala</fighter1>
+<fighter2>Omar Lamiri</fighter2>
+<rounds>12</rounds>
+<weight>Bantamweight division</weight>
+<time>Saturday, June 18, 2016</time>
+<loc>Chicago (NBC)</loc>
+<fighter1>Juan Carlos Payano</fighter1>
+<fighter2>Rau’shee Warren</fighter2>
+<rounds>12</rounds>
+<weight>Bantamweight division</weight>
+<fighter1>Andrzej Fonfara</fighter1>
+<fighter2>Joe Smith</fighter2>
+<rounds>12</rounds>
+<weight>Light heavyweight division</weight>
+<fighter1>Erickson Lubin</fighter1>
+<fighter2>Victor Lupo Puiu</fighter2>
+<rounds>10</rounds>
+<weight>Junior middleweight division</weight>
+<time>Friday, June 24, 2016</time>
+<loc>Sydney</loc>
+<fighter1>Daniel Geale</fighter1>
+<fighter2>Renold Quinlan</fighter2>
+<rounds>12</rounds>
+<weight>Super middleweight division</weight>
+<fighter1>Javier Fortuna</fighter1>
+<fighter2>Jason Sosa</fighter2>
+<rounds>12</rounds>
+<weight>Junior lightweight division</weight>
+<fighter1>Jun Qiu Xiao</fighter1>
+<fighter2>Nehomar Cermeno</fighter2>
+<rounds>12</rounds>
+<weight>Junior featherweight division</weight>
+<fighter1>Alexia Graf</fighter1>
+<fighter2>Noemi Bosques</fighter2>
+<rounds>10</rounds>
+<weight>Junior featherweight division</weight>
+<loc>Brescia, Italy</loc>
+<fighter1>Salvatore Erittu</fighter1>
+<fighter2>Franz Rill</fighter2>
+<rounds>12</rounds>
+<weight>Heavyweight division</weight>
+<fighter1>Gianluca Frezza</fighter1>
+<fighter2>Timo Schwarzkopf</fighter2>
+<rounds>12</rounds>
+<weight>Welterweight division</weight>
+<fighter1>Valeria Imbrogno</fighter1>
+<fighter2>Kleopatra Tolnai</fighter2>
+<rounds>10</rounds>
+<weight>Junior flyweight division</weight>
 <time>Saturday, June 25, 2016</time>
 <loc>Brooklyn, N.Y. (Showtime)</loc>
 <fighter1>Keith Thurman</fighter1>
 <fighter2>Shawn Porter</fighter2>
 <rounds>12</rounds>
 <weight>Welterweight division</weight>
-<fighter1>Abner Mares</fighter1>
-<fighter2>Jesus Cuellar</fighter2>
+<fighter1>Jesus Cuellar</fighter1>
+<fighter2>Abner Mares</fighter2>
 <rounds>12</rounds>
 <weight>Featherweight division</weight>
 <fighter1>Anthony Joshua</fighter1>
@@ -374,20 +656,115 @@
 <fighter2>Martin Murray</fighter2>
 <rounds>12</rounds>
 <weight>Super middleweight division</weight>
+<fighter1>John Wayne Hibbert</fighter1>
+<fighter2>Andrea Scarpa</fighter2>
+<rounds>12</rounds>
+<weight>Junior welterweight division</weight>
+<loc>Dallas (UniMas)</loc>
+<fighter1>Mike Alvarado</fighter1>
+<fighter2>Josh Torres</fighter2>
+<rounds>10</rounds>
+<weight>Welterweight division</weight>
+<fighter1>Matt Korobov</fighter1>
+<fighter2>Brian Vera</fighter2>
+<rounds>8</rounds>
+<weight>Super middleweight division</weight>
+<time>Friday, July 1, 2016</time>
+<fighter1>Zac Dunn</fighter1>
+<fighter2>TBA</fighter2>
+<rounds>12</rounds>
+<weight>Super middleweight division</weight>
+<time>Saturday, July 2, 2016</time>
+<fighter1>Ardin Diale</fighter1>
+<fighter2>Daigo Higa</fighter2>
+<rounds>12</rounds>
+<weight>Flyweight division</weight>
 <time>Saturday, July 9, 2016</time>
 <loc>Manchester, England</loc>
 <fighter1>Tyson Fury</fighter1>
 <fighter2>Wladimir Klitschko</fighter2>
 <rounds>12</rounds>
 <weight>Heavyweight division</weight>
+<loc>Lemoore, Calif. (UniMas)</loc>
+<fighter1>Jose Ramirez</fighter1>
+<fighter2>TBA</fighter2>
+<rounds>10</rounds>
+<weight>Junior welterweight division</weight>
+<time>Monday, July 11, 2016</time>
+<loc>Ekaterinburg, Russia</loc>
+<fighter1>Sergey Kovalev</fighter1>
+<fighter2>Isaac Chilemba</fighter2>
+<rounds>12</rounds>
+<weight>Light heavyweight division</weight>
+<time>Saturday, July 16, 2016</time>
+<fighter1>Rakeem Noble</fighter1>
+<fighter2>Dean Evans</fighter2>
+<rounds>10</rounds>
+<weight>Junior welterweight division</weight>
+<fighter1>Wadi Camacho</fighter1>
+<fighter2>Danny Couzens</fighter2>
+<rounds>10</rounds>
+<weight>Cruiserweight division</weight>
+<fighter1>Jack Morris</fighter1>
+<fighter2>Kelvin Young</fighter2>
+<rounds>10</rounds>
+<weight>Light heavyweight division</weight>
+<loc>Berlin</loc>
+<fighter1>Tyron Zeuge</fighter1>
+<fighter2>Giovanni De Carolis</fighter2>
+<rounds>12</rounds>
+<weight>Super middleweight division</weight>
+<fighter1>Orlando Fiordigiglio</fighter1>
+<fighter2>Carmelito De Jesus</fighter2>
+<rounds>12</rounds>
+<weight>Junior middleweight division</weight>
+<time>Friday, July 22, 2016</time>
+<loc>TBA (Showtime)</loc>
+<fighter1>Adam Lopez</fighter1>
+<fighter2>TBA</fighter2>
+<rounds>10</rounds>
+<weight>Junior featherweight division</weight>
 <time>Saturday, July 23, 2016</time>
+<loc>Las Vegas (HBO PPV)</loc>
 <fighter1>Terence Crawford</fighter1>
 <fighter2>Viktor Postol</fighter2>
 <rounds>12</rounds>
 <weight>Junior welterweight division</weight>
+<fighter1>Gilberto Ramirez</fighter1>
+<fighter2>Dominik Britsch</fighter2>
+<rounds>12</rounds>
+<weight>Super middleweight division</weight>
+<fighter1>Oscar Valdez</fighter1>
+<fighter2>Matias Rueda</fighter2>
+<rounds>12</rounds>
+<weight>Featherweight division</weight>
+<fighter1>Jose Benavidez</fighter1>
+<fighter2>Francisco Santana</fighter2>
+<rounds>10</rounds>
+<weight>Welterweight division</weight>
+<fighter1>Ik Yang</fighter1>
+<fighter2>Leonardo Zappavigna</fighter2>
+<rounds>10</rounds>
+<weight>Welterweight division</weight>
+<fighter1>Ryota Murata</fighter1>
+<fighter2>George Tahdooahnippah</fighter2>
+<rounds>10</rounds>
+<weight>Middleweight division</weight>
 <time>Saturday, July 30, 2016</time>
 <loc>Brooklyn, N.Y.</loc>
 <fighter1>Leo Santa Cruz</fighter1>
 <fighter2>Carl Frampton</fighter2>
 <rounds>12</rounds>
 <weight>Featherweight division</weight>
+<time>Saturday, Aug. 13, 2016</time>
+<loc>Olavinlinna, Finland</loc>
+<fighter1>Edis Tatli</fighter1>
+<fighter2>TBA</fighter2>
+<rounds>12</rounds>
+<weight>Lightweight division</weight>
+<time>Saturday, Aug. 20, 2016</time>
+<loc>Eatons Hill, Australia</loc>
+<fighter1>Trent Broadhurst</fighter1>
+<fighter2>Shawn Miller</fighter2>
+<rounds>12</rounds>
+<weight>Light heavyweight division</weight>
