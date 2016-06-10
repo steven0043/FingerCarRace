@@ -34,89 +34,6 @@
 <fighter2>Sonny Liston</fighter2>
 <rounds>15</rounds>
 <weight>Heavyweight division</weight>
-<time>Saturday, June 4, 2016</time>
-<loc>Carson, Calif. (HBO)</loc>
-<fighter1>Francisco Vargas</fighter1>
-<fighter2>Orlando Salido</fighter2>
-<rounds>12</rounds>
-<weight>Junior lightweight division</weight>
-<fighter1>Julian Ramirez</fighter1>
-<fighter2>Abraham Lopez</fighter2>
-<rounds>10</rounds>
-<weight>Featherweight division</weight>
-<fighter1>Gabriel Rosado</fighter1>
-<fighter2>Antonio Gutierrez</fighter2>
-<rounds>10</rounds>
-<weight>Middleweight division</weight>
-<loc>Montreal (ESPN)</loc>
-<fighter1>Artur Beterbiev</fighter1>
-<fighter2>Ezequiel Maderna</fighter2>
-<rounds>12</rounds>
-<weight>Light heavyweight division</weight>
-<fighter1>Bryant Perrella</fighter1>
-<fighter2>David Grayton</fighter2>
-<rounds>10</rounds>
-<weight>Welterweight division</weight>
-<loc>Liverpool, England</loc>
-<fighter1>Liam Smith</fighter1>
-<fighter2>Predrag Radosevic</fighter2>
-<rounds>12</rounds>
-<weight>Junior middleweight division</weight>
-<fighter1>Ryan Farrag</fighter1>
-<fighter2>Karim Guerfi</fighter2>
-<rounds>12</rounds>
-<weight>Bantamweight division</weight>
-<fighter1>Paul Butler</fighter1>
-<fighter2>Petchbarngborn Kokietgym</fighter2>
-<rounds>12</rounds>
-<weight>Junior bantamweight division</weight>
-<fighter1>Zolani Tete</fighter1>
-<fighter2>Victor Ruiz</fighter2>
-<rounds>12</rounds>
-<weight>Bantamweight division</weight>
-<fighter1>Thomas Stalker</fighter1>
-<fighter2>Antonio Bento</fighter2>
-<rounds>10</rounds>
-<weight>Lightweight division</weight>
-<loc>Cancun, Mexico (Televisa)</loc>
-<fighter1>Andres Gutierrez</fighter1>
-<fighter2>Cristian Mijares</fighter2>
-<rounds>12</rounds>
-<weight>Featherweight division</weight>
-<loc>Roeselare, Belgium</loc>
-<fighter1>Delfine Persoon</fighter1>
-<fighter2>Christina Linardatou</fighter2>
-<rounds>10</rounds>
-<weight>Lightweight division</weight>
-<loc>Magdeburg, Germany</loc>
-<fighter1>Agit Kabayel</fighter1>
-<fighter2>Christian Lewandowski</fighter2>
-<rounds>12</rounds>
-<weight>Heavyweight division</weight>
-<fighter1>Tom Schwarz</fighter1>
-<fighter2>Dennis Lewandowski</fighter2>
-<rounds>10</rounds>
-<weight>Heavyweight division</weight>
-<loc>Torrelavega, Spain</loc>
-<fighter1>Sergio Garcia</fighter1>
-<fighter2>Pavel Mamontov</fighter2>
-<rounds>12</rounds>
-<weight>Junior middleweight division</weight>
-<loc>Montevideo, Uruguay</loc>
-<fighter1>Daud Yordan</fighter1>
-<fighter2>Cristian Coria</fighter2>
-<rounds>12</rounds>
-<weight>Lightweight division</weight>
-<fighter1>Cecilia Comunales</fighter1>
-<fighter2>Valeria Rodrigues dos Santos</fighter2>
-<rounds>10</rounds>
-<weight>Lightweight division</weight>
-<time>Monday, June 6, 2016</time>
-<loc>Tokyo</loc>
-<fighter1>Yuko Kuroki</fighter1>
-<fighter2>Norj Guro</fighter2>
-<rounds>10</rounds>
-<weight>Strawweight division</weight>
 <time>Friday, June 10, 2016</time>
 <loc>Las Vegas (CBS Sports Net)</loc>
 <fighter1>Demond Brock</fighter1>
@@ -143,7 +60,7 @@
 <rounds>12</rounds>
 <weight>Junior middleweight division</weight>
 <fighter1>Dejan Zlaticanin</fighter1>
-<fighter2>TBA</fighter2>
+<fighter2>Franklin Mamani</fighter2>
 <rounds>12</rounds>
 <weight>Lightweight division</weight>
 <fighter1>Andrey Fedosov</fighter1>
