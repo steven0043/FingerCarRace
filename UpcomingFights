@@ -1,111 +1,3 @@
-<time>Saturday, July 9, 2016</time>
-<loc>Trenton, N.J. (ESPN)</loc>
-<fighter1>Mario Barrios</fighter1>
-<fighter2>Davis Boschiero</fighter2>
-<rounds>12</rounds>
-<weight>Junior lightweight division</weight>
-<fighter1>Eddie Ramirez</fighter1>
-<fighter2>Jorge Maysonet</fighter2>
-<rounds>10</rounds>
-<weight>Junior welterweight division</weight>
-<loc>Lemoore, Calif. (UniMas)</loc>
-<fighter1>Jose Ramirez</fighter1>
-<fighter2>Tomas Mendez</fighter2>
-<rounds>10</rounds>
-<weight>Junior welterweight division</weight>
-<fighter1>Andy Vences</fighter1>
-<fighter2>Moises Delgadillo</fighter2>
-<rounds>8</rounds>
-<weight>Junior lightweight division</weight>
-<loc>San Mateo, Calif. (beIN Sports en Espanol)</loc>
-<fighter1>Albert Pagara</fighter1>
-<fighter2>Cesar Juarez</fighter2>
-<rounds>12</rounds>
-<weight>Junior featherweight division</weight>
-<fighter1>Jason Pagara</fighter1>
-<fighter2>Abraham Alvarez</fighter2>
-<rounds>10</rounds>
-<weight>Junior welterweight division</weight>
-<loc>Brooks, Calif.</loc>
-<fighter1>Manuel Avila</fighter1>
-<fighter2>Prosper Ankrah</fighter2>
-<rounds>10</rounds>
-<weight>Featherweight division</weight>
-<fighter1>Manuel Roman</fighter1>
-<fighter2>Javier Gallo</fighter2>
-<rounds>8</rounds>
-<weight>Junior featherweight division</weight>
-<loc>Rio Rancho, N.M.</loc>
-<fighter1>Fidel Maldonado</fighter1>
-<fighter2>Gerardo Cuevas</fighter2>
-<rounds>8</rounds>
-<weight>Junior welterweight division</weight>
-<time>Monday, July 11, 2016</time>
-<loc>Ekaterinburg, Russia</loc>
-<fighter1>Sergey Kovalev</fighter1>
-<fighter2>Isaac Chilemba</fighter2>
-<rounds>12</rounds>
-<weight>Light heavyweight division</weight>
-<fighter1>Magomed Kurbanov</fighter1>
-<fighter2>Sasha Yengoyan</fighter2>
-<rounds>10</rounds>
-<weight>Junior middleweight division</weight>
-<time>Friday, July 15, 2016</time>
-<loc>Indio, Calif. (Estrella TV)</loc>
-<fighter1>Pablo Cesar Cano</fighter1>
-<fighter2>Alfonso Gomez</fighter2>
-<rounds>10</rounds>
-<weight>Welterweight division</weight>
-<fighter1>Jayson Velez</fighter1>
-<fighter2>Rene Alvarado</fighter2>
-<rounds>10</rounds>
-<weight>Junior lightweight division</weight>
-<loc>Tunica, Miss. (ESPN)</loc>
-<fighter1>Sergey Lipinets</fighter1>
-<fighter2>Walter Castillo</fighter2>
-<rounds>10</rounds>
-<weight>Junior welterweight division</weight>
-<fighter1>Tugstsogt Nyambayar</fighter1>
-<fighter2>Rafael Vazquez</fighter2>
-<rounds>10</rounds>
-<weight>Featherweight division</weight>
-<loc>Kissimmee, Fla. (Telemundo)</loc>
-<fighter1>Orlando Cruz</fighter1>
-<fighter2>Alejandro Valdez</fighter2>
-<rounds>10</rounds>
-<weight>Junior lightweight division</weight>
-<loc>Buenos Aires, Argentina</loc>
-<fighter1>Anahi Esther Sanchez</fighter1>
-<fighter2>Tamara Nunez</fighter2>
-<rounds>10</rounds>
-<weight>Junior lightweight division</weight>
-<loc>Saarbruecken, Germany</loc>
-<fighter1>Juergen Doberstein</fighter1>
-<fighter2>Robin Krasniqi</fighter2>
-<rounds>12</rounds>
-<weight>Super middleweight division</weight>
-<loc>Accra, Ghana</loc>
-<fighter1>Emmanuel Tagoe</fighter1>
-<fighter2>Carlo Magali</fighter2>
-<rounds>12</rounds>
-<weight>Lightweight division</weight>
-<fighter1>Dodzi Kemeh</fighter1>
-<fighter2>Stephen Okine</fighter2>
-<rounds>12</rounds>
-<weight>Welterweight division</weight>
-<fighter1>Joshua Clottey</fighter1>
-<fighter2>Anderson Clayton</fighter2>
-<rounds>10</rounds>
-<weight>Junior middleweight division</weight>
-<fighter1>Joseph Agbeko</fighter1>
-<fighter2>Haji Juma</fighter2>
-<rounds>10</rounds>
-<weight>Bantamweight division</weight>
-<loc>Tokyo</loc>
-<fighter1>Takuya Kogawa</fighter1>
-<fighter2>Masafumi Otake</fighter2>
-<rounds>10</rounds>
-<weight>Flyweight division</weight>
 <time>Saturday, July 16, 2016</time>
 <loc>Birmingham, Ala. (Fox)</loc>
 <fighter1>Deontay Wilder</fighter1>
@@ -440,22 +332,18 @@
 <fighter2>Leonard Bundu</fighter2>
 <rounds>12</rounds>
 <weight>Welterweight division</weight>
-<time>Saturday, Sept. 3, 2016</time>
-<loc>Sheffield, England (Sky)</loc>
-<fighter1>Kell Brook</fighter1>
-<fighter2>Jessie Vargas</fighter2>
-<rounds>12</rounds>
-<weight>Welterweight division</weight>
-<fighter1>Scott Cardle</fighter1>
-<fighter2>Kevin Hooper</fighter2>
-<rounds>12</rounds>
-<weight>Lightweight division</weight>
 <time>Saturday, Sept. 10, 2016</time>
 <loc>London (HBO, Sky Box Office)</loc>
 <fighter1>Gennady Golovkin</fighter1>
 <fighter2>Kell Brook</fighter2>
 <rounds>12</rounds>
 <weight>Middleweight division</weight>
+<loc>Inglewood, Calif. (HBO)</loc>
+<fighter1>Carlos Cuadras</fighter1>
+<fighter2>Roman Gonzalez</fighter2>
+<rounds>12</rounds>
+<weight>Junior bantamweight division</weight>
+<loc>Lemoore, Calif. (UniMas)</loc>
 <fighter1>Andy Ruiz Jr.</fighter1>
 <fighter2>Franklin Lawrence</fighter2>
 <rounds>10</rounds>
