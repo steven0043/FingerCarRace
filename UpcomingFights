@@ -1,83 +1,13 @@
-<time>Saturday, July 23, 2016</time>
-<loc>Las Vegas (HBO PPV)</loc>
-<fighter1>Terence Crawford</fighter1>
-<fighter2>Viktor Postol</fighter2>
-<rounds>12</rounds>
-<weight>Junior welterweight division</weight>
-<fighter1>Oscar Valdez</fighter1>
-<fighter2>Matias Rueda</fighter2>
-<rounds>12</rounds>
-<weight>Featherweight division</weight>
-<fighter1>Jose Benavidez</fighter1>
-<fighter2>Francisco Santana</fighter2>
-<rounds>10</rounds>
-<weight>Welterweight division</weight>
-<fighter1>Oleksandr Gvozdyk</fighter1>
-<fighter2>Tommy Karpency</fighter2>
-<rounds>10</rounds>
-<weight>Light heavyweight division</weight>
-<fighter1>Ik Yang</fighter1>
-<fighter2>Leonardo Zappavigna</fighter2>
-<rounds>10</rounds>
-<weight>Welterweight division</weight>
-<fighter1>Ryota Murata</fighter1>
-<fighter2>George Tahdooahnippah</fighter2>
-<rounds>10</rounds>
-<weight>Middleweight division</weight>
-<loc>Cancun, Mexico</loc>
-<fighter1>Jessica Chavez</fighter1>
-<fighter2>Esmeralda Moreno</fighter2>
-<rounds>10</rounds>
-<weight>Flyweight division</weight>
-<loc>Uncasville, Conn.</loc>
-<fighter1>Delvin Rodriguez</fighter1>
-<fighter2>Shawn Cameron</fighter2>
-<rounds>10</rounds>
-<weight>Junior middleweight division</weight>
-<time>Monday, July 25, 2016</time>
-<loc>Tokyo</loc>
-<fighter1>Jack Brubaker</fighter1>
-<fighter2>Suyon Takayama</fighter2>
-<rounds>12</rounds>
-<weight>Welterweight division</weight>
-<fighter1>Hiroki Okada</fighter1>
-<fighter2>Cristiano Aoqui</fighter2>
-<rounds>10</rounds>
-<weight>Junior welterweight division</weight>
-<time>Wednesday, July 27, 2016</time>
-<loc>Thailand</loc>
-<fighter1>Pungluang Sor Singyu</fighter1>
-<fighter2>Marlon Tapales</fighter2>
-<rounds>12</rounds>
-<weight>Bantamweight division</weight>
 <time>Friday, July 29, 2016</time>
-<loc>Quebec, Canada</loc>
+<loc>Quebec, Canada (Spike)</loc>
 <fighter1>Adonis Stevenson</fighter1>
 <fighter2>Thomas Williams Jr.</fighter2>
 <rounds>12</rounds>
 <weight>Light heavyweight division</weight>
 <fighter1>Eleider Alvarez</fighter1>
-<fighter2>Chad Dawson</fighter2>
+<fighter2>Robert Berridge</fighter2>
 <rounds>10</rounds>
 <weight>Light heavyweight division</weight>
-<loc>Accra, Ghana</loc>
-<fighter1>Isaac Sackey</fighter1>
-<fighter2>TBA</fighter2>
-<rounds>10</rounds>
-<weight>Junior featherweight division</weight>
-<fighter1>Felix Williams</fighter1>
-<fighter2>TBA</fighter2>
-<rounds>10</rounds>
-<weight>Featherweight division</weight>
-<loc>Johannesburg, South Africa</loc>
-<fighter1>Jack Asis</fighter1>
-<fighter2>Malcolm Klassen</fighter2>
-<rounds>12</rounds>
-<weight>Junior lightweight division</weight>
-<fighter1>Macbute Sinyabi</fighter1>
-<fighter2>Santiago Allione</fighter2>
-<rounds>12</rounds>
-<weight>Featherweight division</weight>
 <time>Saturday, July 30, 2016</time>
 <loc>Brooklyn, N.Y. (Showtime)</loc>
 <fighter1>Leo Santa Cruz</fighter1>
@@ -341,6 +271,7 @@
 <rounds>10</rounds>
 <weight>Bantamweight division</weight>
 <time>Wednesday, Aug. 31, 2016</time>
+<loc>Tokyo</loc>
 <fighter1>Kohei Kono</fighter1>
 <fighter2>Luis Concepcion</fighter2>
 <rounds>12</rounds>
@@ -428,6 +359,7 @@
 <rounds>12</rounds>
 <weight>Junior featherweight division</weight>
 <time>Saturday, Sept. 17, 2016</time>
+<loc>Las Vegas (HBO PPV)</loc>
 <fighter1>Canelo Alvarez</fighter1>
 <fighter2>Liam Smith</fighter2>
 <rounds>12</rounds>
