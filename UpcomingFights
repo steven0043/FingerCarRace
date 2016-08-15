@@ -1,123 +1,3 @@
-<time>Saturday, Aug. 6, 2016</time>
-<loc>Oakland, Calif. (HBO)</loc>
-<fighter1>Andre Ward</fighter1>
-<fighter2>Alexander Brand</fighter2>
-<rounds>12</rounds>
-<weight>Light heavyweight division</weight>
-<fighter1>Maurice Hooker</fighter1>
-<fighter2>Ty Barnett</fighter2>
-<rounds>10</rounds>
-<weight>Junior welterweight division</weight>
-<loc>Tucson, Ariz. (UniMas)</loc>
-<fighter1>Juan Diaz</fighter1>
-<fighter2>Cesar Vazquez</fighter2>
-<rounds>10</rounds>
-<weight>Junior welterweight division</weight>
-<fighter1>Trevor McCumby</fighter1>
-<fighter2>Shujaa El Amin</fighter2>
-<rounds>8</rounds>
-<weight>Light heavyweight division</weight>
-<fighter1>Egor Mekhovtsev</fighter1>
-<fighter2>Alexander Johnson</fighter2>
-<rounds>8</rounds>
-<weight>Light heavyweight division</weight>
-<loc>Bedford, Canada</loc>
-<fighter1>Tyson Cave</fighter1>
-<fighter2>Javier Franco</fighter2>
-<rounds>10</rounds>
-<weight>Junior featherweight division</weight>
-<fighter1>Dillon Carman</fighter1>
-<fighter2>Julien Collette</fighter2>
-<rounds>10</rounds>
-<weight>Heavyweight division</weight>
-<loc>Accra, Ghana</loc>
-<fighter1>Duke Micah</fighter1>
-<fighter2>Yaqub Kareem</fighter2>
-<rounds>12</rounds>
-<weight>Bantamweight division</weight>
-<loc>Mexico City</loc>
-<fighter1>Dante Jardon</fighter1>
-<fighter2>Nery Saguilan</fighter2>
-<rounds>12</rounds>
-<weight>Lightweight division</weight>
-<loc>Windhoek, Namibia</loc>
-<fighter1>Paulus Moses</fighter1>
-<fighter2>Thompson Mokwana</fighter2>
-<rounds>12</rounds>
-<weight>Lightweight division</weight>
-<fighter1>Immanuel Naidjala</fighter1>
-<fighter2>Fadhili Majiha</fighter2>
-<rounds>12</rounds>
-<weight>Bantamweight division</weight>
-<time>Sunday, Aug. 7, 2016</time>
-<loc>Osaka, Japan</loc>
-<fighter1>Ken Shiro</fighter1>
-<fighter2>Toshimasa Ouchi</fighter2>
-<rounds>12</rounds>
-<weight>Junior flyweight division</weight>
-<time>Friday, Aug. 12, 2016</time>
-<loc>Verona, N.Y. (ESPN)</loc>
-<fighter1>Miguel Flores</fighter1>
-<fighter2>Ryan Kielczewski</fighter2>
-<rounds>10</rounds>
-<weight>Featherweight division</weight>
-<fighter1>Bryant Perella</fighter1>
-<fighter2>Yordenis Ugas</fighter2>
-<rounds>10</rounds>
-<weight>Welterweight division</weight>
-<loc>Ashton under Lyne, England</loc>
-<fighter1>Jack Catterall</fighter1>
-<fighter2>Lukasz Janik</fighter2>
-<rounds>8</rounds>
-<weight>Junior welterweight division</weight>
-<fighter1>Jimmy Kelly</fighter1>
-<fighter2>Sergei Melis</fighter2>
-<rounds>8</rounds>
-<weight>Junior middleweight division</weight>
-<time>Saturday, Aug. 13, 2016</time>
-<loc>Melbourne Park, Australia</loc>
-<fighter1>Will Tomlinson</fighter1>
-<fighter2>Hurricane Futa</fighter2>
-<rounds>10</rounds>
-<weight>Lightweight division</weight>
-<fighter1>Michael Zerafa</fighter1>
-<fighter2>Istvan Zeller</fighter2>
-<rounds>10</rounds>
-<weight>Middleweight division</weight>
-<fighter1>Shannon O’Connell</fighter1>
-<fighter2>Kimika Miyoshi</fighter2>
-<rounds>10</rounds>
-<weight>Junior featherweight division</weight>
-<loc>Budall, Australia</loc>
-<fighter1>Bowie Tupou</fighter1>
-<fighter2>Julius Long</fighter2>
-<rounds>12</rounds>
-<weight>Heavyweight division</weight>
-<fighter1>Willie Nasio</fighter1>
-<fighter2>Hunter Sam</fighter2>
-<rounds>10</rounds>
-<weight>Heavyweight division</weight>
-<loc>Olavinlinna, Finland</loc>
-<fighter1>Edis Tatli</fighter1>
-<fighter2>Cristian Morales</fighter2>
-<rounds>12</rounds>
-<weight>Lightweight division</weight>
-<loc>Soka, Japan</loc>
-<fighter1>Naoko Shibata</fighter1>
-<fighter2>Maria Salinas</fighter2>
-<rounds>10</rounds>
-<weight>Junior flyweight division</weight>
-<loc>Rosarito, Mexico</loc>
-<fighter1>Antonio Margarito</fighter1>
-<fighter2>Ramon Alvarez</fighter2>
-<rounds>10</rounds>
-<weight>Junior middleweight division</weight>
-<loc>Veracruz, Mexico</loc>
-<fighter1>Tomas Rojas</fighter1>
-<fighter2>Alan Guzman</fighter2>
-<rounds>12</rounds>
-<weight>Featherweight division</weight>
-<loc>Pensacola, Fla.</loc>
 <time>Friday, Aug. 19, 2016</time>
 <loc>Los Angeles (Estrella TV, RingTVLive.com)</loc>
 <fighter1>Ivan Delgado</fighter1>
@@ -128,42 +8,11 @@
 <fighter2>Oscar Riojas</fighter2>
 <rounds>8</rounds>
 <weight>Light heavyweight division</weight>
-<fighter1>Oscar Duarte</fighter1>
-<fighter2>Omar Garcia</fighter2>
-<rounds>6</rounds>
-<weight>Lightweight division</weight>
-<fighter1>Alexis Rocha</fighter1>
-<fighter2>Israel Villela</fighter2>
-<rounds>4</rounds>
-<weight>Welterweight division</weight>
 <loc>Rochester, N.Y. (Showtime)</loc>
 <fighter1>Jarrell Miller</fighter1>
 <fighter2>Fred Kassi</fighter2>
 <rounds>10</rounds>
 <weight>Heavyweight division</weight>
-<fighter1>Nikolay Potapov</fighter1>
-<fighter2>Antonio Nieves</fighter2>
-<rounds>10</rounds>
-<weight>Bantamweight division</weight>
-<fighter1>Bakhtiyar Eyubov</fighter1>
-<fighter2>Karim Mayfield</fighter2>
-<rounds>10</rounds>
-<weight>Welterweight division</weight>
-<time>Saturday, Aug. 20, 2016</time>
-<loc>Eatons Hill, Australia</loc>
-<fighter1>Trent Broadhurst</fighter1>
-<fighter2>Shawn Miller</fighter2>
-<rounds>12</rounds>
-<weight>Light heavyweight division</weight>
-<loc>Sanda, Japan</loc>
-<fighter1>Riku Kano</fighter1>
-<fighter2>Katsunari Takayama</fighter2>
-<rounds>12</rounds>
-<weight>Strawweight division</weight>
-<fighter1>Kei Takenaka</fighter1>
-<fighter2>Louisa Hawton</fighter2>
-<rounds>10</rounds>
-<weight>Junior flyweight division</weight>
 <loc>Milwaukee, Wis.</loc>
 <fighter1>Luis Arias</fighter1>
 <fighter2>Darryl Cunningham</fighter2>
@@ -173,16 +22,12 @@
 <fighter2>Joshua Okine</fighter2>
 <rounds>10</rounds>
 <weight>Middleweight division</weight>
-<loc>Asuncion, Paraguay</loc>
-<fighter1>Billy Wright</fighter1>
-<fighter2>TBA</fighter2>
-<rounds>12</rounds>
-<weight>Heavyweight division</weight>
-<fighter1>Saul Farah</fighter1>
-<fighter2>TBA</fighter2>
-<rounds>12</rounds>
-<weight>Heavyweight division</weight>
 <time>Sunday, Aug. 21, 2016</time>
+<loc>Las Vegas, Nevada</loc>
+<fighter1>Conor McGregor</fighter1>
+<fighter2>Nate Diaz</fighter2>
+<rounds>5</rounds>
+<weight>170 lbs</weight>
 <loc>Brooklyn, N.Y. (NBC)</loc>
 <fighter1>Errol Spence Jr.</fighter1>
 <fighter2>Leonard Bundu</fighter2>
@@ -225,6 +70,7 @@
 <fighter2>Wade Ryan</fighter2>
 <rounds>10</rounds>
 <weight>Middleweight division</weight>
+<loc>Accra, Ghana</loc>
 <fighter1>Isaac Dogboe</fighter1>
 <fighter2>Neil John Tabanao</fighter2>
 <rounds>12</rounds>
@@ -418,6 +264,7 @@
 <rounds>10</rounds>
 <weight>Welterweight division</weight>
 <time>Friday, Sept. 16, 2016</time>
+<loc>Osaka, Japan</loc>
 <fighter1>Shinsuke Yamanaka</fighter1>
 <fighter2>Anselmo Moreno</fighter2>
 <rounds>12</rounds>
@@ -426,6 +273,15 @@
 <fighter2>Hozumi Hasegawa</fighter2>
 <rounds>12</rounds>
 <weight>Junior featherweight division</weight>
+<loc>Las Vegas (BounceTV)</loc>
+<fighter1>Ishe Smith</fighter1>
+<fighter2>Frank Galarza</fighter2>
+<rounds>10</rounds>
+<weight>Junior middleweight division</weight>
+<fighter1>Christopher Pearson</fighter1>
+<fighter2>Justin DeLoach</fighter2>
+<rounds>10</rounds>
+<weight>Junior middleweight division</weight>
 <loc>Altantic City</loc>
 <fighter1>Tomas Lamanna</fighter1>
 <fighter2>Dusty Hernandez-Harrison</fighter2>
@@ -441,6 +297,18 @@
 <fighter2>Liam Smith</fighter2>
 <rounds>12</rounds>
 <weight>Junior middleweight division</weight>
+<fighter1>Joseph Diaz</fighter1>
+<fighter2>TBA</fighter2>
+<rounds>10</rounds>
+<weight>Featherweight division</weight>
+<fighter1>Diego De La Hoya</fighter1>
+<fighter2>TBA</fighter2>
+<rounds>10</rounds>
+<weight>Junior featherweight division</weight>
+<fighter1>Jason Quigley</fighter1>
+<fighter2>TBA</fighter2>
+<rounds>10</rounds>
+<weight>Middleweight division</weight>
 <loc>Gdansk, Poland</loc>
 <fighter1>Krzysztof Glowacki</fighter1>
 <fighter2>Oleksandr Usyk</fighter2>
@@ -595,6 +463,12 @@
 <fighter2>TBA</fighter2>
 <rounds>12</rounds>
 <weight>Junior lightweight division</weight>
+<time>Saturday, Nov. 5, 2016</time>
+<loc>Las Vegas (HBO Pay-Per-View)</loc>
+<fighter1>Jessie Vargas</fighter1>
+<fighter2>Manny Pacquiao</fighter2>
+<rounds>12</rounds>
+<weight>Welterweight division</weight>
 <time>Friday, Nov. 11, 2016</time>
 <loc>Zwevezele, Belgium</loc>
 <fighter1>Delfine Persoon</fighter1>
