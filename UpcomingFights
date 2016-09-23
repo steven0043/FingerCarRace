@@ -1,60 +1,3 @@
-<time>Friday, Sept. 16, 2016</time>
-<loc>Osaka, Japan</loc>
-<fighter1>Shinsuke Yamanaka</fighter1>
-<fighter2>Anselmo Moreno</fighter2>
-<rounds>12</rounds>
-<weight>Bantamweight division</weight>
-<fighter1>Hugo Ruiz</fighter1>
-<fighter2>Hozumi Hasegawa</fighter2>
-<rounds>12</rounds>
-<weight>Junior featherweight division</weight>
-<loc>Las Vegas (BounceTV)</loc>
-<fighter1>Ishe Smith</fighter1>
-<fighter2>Frank Galarza</fighter2>
-<rounds>10</rounds>
-<weight>Junior middleweight division</weight>
-<time>Saturday, Sept. 17, 2016</time>
-<loc>Las Vegas (HBO PPV)</loc>
-<fighter1>Saul Canelo</fighter1>
-<fighter2>Liam Smith</fighter2>
-<rounds>12</rounds>
-<weight>Junior middleweight division</weight>
-<fighter1>Gabriel Rosado</fighter1>
-<fighter2>Willie Monroe</fighter2>
-<rounds>12</rounds>
-<weight>Middleweight division</weight>
-<fighter1>Joseph Diaz</fighter1>
-<fighter2>Andrew Cancio</fighter2>
-<rounds>10</rounds>
-<weight>Featherweight division</weight>
-<fighter1>Diego DeLaHoya</fighter1>
-<fighter2>Luis DelValle</fighter2>
-<rounds>10</rounds>
-<weight>Junior featherweight division</weight>
-<loc>Gdansk, Poland</loc>
-<fighter1>Krzysztof Glowacki</fighter1>
-<fighter2>Oleksandr Usyk</fighter2>
-<rounds>12</rounds>
-<weight>Cruiserweight division</weight>
-<loc>Blackpool, England</loc>
-<fighter1>Adam Little</fighter1>
-<fighter2>Martin Gethin</fighter2>
-<rounds>12</rounds>
-<weight>Welterweight division</weight>
-<loc>London</loc>
-<fighter1>Johnny Garton</fighter1>
-<fighter2>Tyler Goodjohn</fighter2>
-<rounds>10</rounds>
-<weight>Welterweight division</weight>
-<loc>Goeppingen, Germany</loc>
-<fighter1>Firat Arslan</fighter1>
-<fighter2>Nuri Seferi</fighter2>
-<rounds>12</rounds>
-<weight>Cruiserweight division</weight>
-<fighter1>Christian Hammer</fighter1>
-<fighter2>Timur Musafarov</fighter2>
-<rounds>12</rounds>
-<weight>Heavyweight division</weight>
 <time>Saturday, Sept. 24, 2016</time>
 <loc>Manchester, England</loc>
 <fighter1>Anthony Crolla</fighter1>
@@ -205,3 +148,9 @@
 <fighter2>TBA</fighter2>
 <rounds>12</rounds>
 <weight>Lightweight division</weight>
+<time>Saturday, Nov. 19, 2016</time>
+<loc>Las Vegas (HBO Pay-Per-View)</loc>
+<fighter1>Sergey Kovalev</fighter1>
+<fighter2>Andre Ward</fighter2>
+<rounds>12</rounds>
+<weight>Light Heavyweight division</weight>
