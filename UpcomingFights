@@ -1,60 +1,9 @@
-<time>Saturday, Sept. 24, 2016</time>
-<loc>Manchester, England</loc>
-<fighter1>Anthony Crolla</fighter1>
-<fighter2>Jorge Linares</fighter2>
-<rounds>12</rounds>
-<weight>Lightweight division</weight>
-<fighter1>Isaac Lowe</fighter1>
-<fighter2>Tshifhiwa Munyai</fighter2>
-<rounds>12</rounds>
-<weight>Featherweight division</weight>
-<fighter1>Hosea Burton</fighter1>
-<fighter2>Frank Buglioni</fighter2>
-<rounds>12</rounds>
-<weight>Light heavyweight division</weight>
-<loc>Carson, Calif.</loc>
-<fighter1>Donnie Nietes</fighter1>
-<fighter2>Edgar Sosa</fighter2>
-<rounds>12</rounds>
-<weight>Flyweight division</weight>
-<loc>Frankfurt, Germany</loc>
-<fighter1>Marco Huck</fighter1>
-<fighter2>Ovill McKenzie</fighter2>
-<rounds>12</rounds>
-<weight>Cruiserweight division</weight>
-<fighter1>Nihito Arakawa</fighter1>
-<fighter2>Yusuke Tsukada</fighter2>
-<rounds>10</rounds>
-<weight>Lightweight division</weight>
-<time>Friday, Sept. 30, 2016</time>
-<loc>Indio, Calif. (Estrella TV)</loc>
-<fighter1>Andrew Cancio</fighter1>
-<fighter2>TBA</fighter2>
-<rounds>10</rounds>
-<weight>Junior lightweight division</weight>
-<fighter1>Julian Ramirez</fighter1>
-<fighter2>TBA</fighter2>
-<rounds>8</rounds>
-<weight>Featherweight division</weight>
-<fighter1>Juan Antonio Lopez</fighter1>
-<fighter2>Stephon Young</fighter2>
-<rounds>10</rounds>
-<weight>Bantamweight division</weight>
-<fighter1>John Vera</fighter1>
-<fighter2>Milorad Zizic</fighter2>
-<rounds>8</rounds>
-<weight>Junior middleweight division</weight>
 <time>Saturday, Oct. 1, 2016</time>
-<loc>TBA</loc>
-<fighter1>Jermall Charlo</fighter1>
-<fighter2>Julian Williams</fighter2>
+<loc>Manukau City, New Zealand</loc>
+<fighter1>Joseph Parker</fighter1>
+<fighter2>Alexander Dimitrenko</fighter2>
 <rounds>12</rounds>
-<weight>Junior middleweight division</weight>
-<loc>Oslo, Norway</loc>
-<fighter1>Cecilia Braekhus</fighter1>
-<fighter2>Anne Sophie Mathis</fighter2>
-<rounds>10</rounds>
-<weight>Welterweight division</weight>
+<weight>Heavyweight division</weight>
 <loc>Neubrandenburg, Germany</loc>
 <fighter1>Juergen Braehmer</fighter1>
 <fighter2>Nathan Cleverly</fighter2>
@@ -64,11 +13,6 @@
 <fighter2>Ryno Liebenberg</fighter2>
 <rounds>12</rounds>
 <weight>Light heavyweight division</weight>
-<loc>Manukau City, New Zealand</loc>
-<fighter1>Joseph Parker</fighter1>
-<fighter2>Alexander Dimitrenko</fighter2>
-<rounds>12</rounds>
-<weight>Heavyweight division</weight>
 <time>Monday, Oct. 3, 2016</time>
 <fighter1>Satoshi Hosono</fighter1>
 <fighter2>Jonathan Victor Barros</fighter2>
@@ -104,10 +48,6 @@
 <fighter2>BJ Flores</fighter2>
 <rounds>12</rounds>
 <weight>Cruiserweight division</weight>
-<fighter1>Luke Jackson</fighter1>
-<fighter2>TBA</fighter2>
-<rounds>10</rounds>
-<weight>Featherweight division</weight>
 <loc>Frederikshavn, Denmark</loc>
 <fighter1>Dennis Ceylan</fighter1>
 <fighter2>Ryan Walsh</fighter2>
@@ -119,15 +59,6 @@
 <rounds>12</rounds>
 <weight>Heavyweight division</weight>
 <time>Friday, Nov. 4, 2016</time>
-<loc>Ekaterinburg, Russia</loc>
-<fighter1>Dmitry Mikhaylenko</fighter1>
-<fighter2>TBA</fighter2>
-<rounds>12</rounds>
-<weight>Welterweight division</weight>
-<fighter1>Evgeny Chuprakov</fighter1>
-<fighter2>TBA</fighter2>
-<rounds>12</rounds>
-<weight>Junior lightweight division</weight>
 <time>Saturday, Nov. 5, 2016</time>
 <loc>Las Vegas (HBO Pay-Per-View)</loc>
 <fighter1>Jessie Vargas</fighter1>
@@ -135,22 +66,15 @@
 <rounds>12</rounds>
 <weight>Welterweight division</weight>
 <time>Friday, Nov. 11, 2016</time>
-<loc>Zwevezele, Belgium</loc>
-<fighter1>Delfine Persoon</fighter1>
-<fighter2>TBA</fighter2>
-<rounds>10</rounds>
-<weight>Lightweight division</weight>
-<fighter1>Yves Ngabu</fighter1>
-<fighter2>TBA</fighter2>
-<rounds>12</rounds>
-<weight>Cruiserweight division</weight>
-<fighter1>Hedi Slimani</fighter1>
-<fighter2>TBA</fighter2>
-<rounds>12</rounds>
-<weight>Lightweight division</weight>
 <time>Saturday, Nov. 19, 2016</time>
 <loc>Las Vegas (HBO Pay-Per-View)</loc>
 <fighter1>Sergey Kovalev</fighter1>
 <fighter2>Andre Ward</fighter2>
 <rounds>12</rounds>
 <weight>Light Heavyweight division</weight>
+<time>Saturday, Nov. 26, 2016</time>
+<loc>HBO</loc>
+<fighter1>Vasyl Lomachenko</fighter1>
+<fighter2>Nicolas Walters</fighter2>
+<rounds>12</rounds>
+<weight>Featherweight division</weight>
