@@ -1,59 +1,81 @@
-<time>Friday, Oct. 14, 2016</time>
-<loc>Launceston, Tasmania, Australia</loc>
-<fighter1>Daniel Geale</fighter1>
-<fighter2>Renold Quinlan</fighter2>
-<rounds>12</rounds>
-<weight>Super middleweight division</weight>
-<loc>Hamburg, Germany</loc>
-<fighter1>Noel Gevor</fighter1>
-<fighter2>Mirko Larghetti</fighter2>
-<rounds>12</rounds>
-<weight>Cruiserweight division</weight>
-<time>Saturday, Oct. 15, 2016</time>
-<loc>Liverpool, England (Sky)</loc>
-<fighter1>Tony Bellew</fighter1>
-<fighter2>BJ Flores</fighter2>
-<rounds>12</rounds>
-<weight>Cruiserweight division</weight>
-<fighter1>Luke Campbell</fighter1>
-<fighter2>Derry Matthews</fighter2>
-<rounds>12</rounds>
-<weight>Lightweight division</weight>
-<fighter1>Ryan Burnett</fighter1>
-<fighter2>Ryan Farrag</fighter2>
-<rounds>12</rounds>
-<weight>Bantamweight  division</weight>
-<fighter1>Sean Dodd</fighter1>
-<fighter2>Francesco Patera</fighter2>
-<rounds>12</rounds>
-<weight>Lightweight  division</weight>
-<loc>Germany</loc>
-<fighter1>Erkan Teper</fighter1>
-<fighter2>Christian Hammer</fighter2>
-<rounds>12</rounds>
-<weight>Heavyweight  division</weight>
-<loc>Frederikshavn, Denmark</loc>
-<fighter1>Dennis Ceylan</fighter1>
-<fighter2>Ryan Walsh</fighter2>
-<rounds>12</rounds>
-<weight>Featherweight division</weight>
 <time>Saturday, Oct. 21, 2016</time>
 <loc>Australia</loc>
 <fighter1>Jeff Horn</fighter1>
 <fighter2>Rico Mueller</fighter2>
 <rounds>12</rounds>
 <weight>Welterweight division</weight>
+<loc>Birmingham, England</loc>
+<fighter1>Frankie Gavin</fighter1>
+<fighter2>Sam Eggington</fighter2>
+<rounds>12</rounds>
+<weight>Welterweight division</weight>
+<fighter1>Gamal Yafai</fighter1>
+<fighter2>Sean Davis</fighter2>
+<rounds>12</rounds>
+<weight>Featherweight division</weight>
+<fighter1>Anthony Ogogo</fighter1>
+<fighter2>Craig Cunningham</fighter2>
+<rounds>10</rounds>
+<weight>Middleweight division</weight>
 <time>Saturday, Nov. 5, 2016</time>
-<loc>Las Vegas (HBO Pay-Per-View)</loc>
+<loc>Las Vegas (Pay-Per-View)</loc>
 <fighter1>Jessie Vargas</fighter1>
 <fighter2>Manny Pacquiao</fighter2>
 <rounds>12</rounds>
 <weight>Welterweight division</weight>
-<time>Friday, Nov. 11, 2016</time>
+<fighter1>Nonito Donaire</fighter1>
+<fighter2>Jessie Magdaleno</fighter2>
+<rounds>12</rounds>
+<weight>Junior featherweight division</weight>
+<fighter1>Oscar Valdez</fighter1>
+<fighter2>Hiroshige Osawa</fighter2>
+<rounds>12</rounds>
+<weight>Featherweight division</weight>
+<fighter1>Zou Shiming</fighter1>
+<fighter2>Prasitsak Papoem</fighter2>
+<rounds>12</rounds>
+<weight>Flyweight division</weight>
+<time>Saturday, Nov. 12, 2016</time>
+<loc>Spike TV</loc>
+<fighter1>Danny Garcia</fighter1>
+<fighter2>Samuel Vargas</fighter2>
+<rounds>12</rounds>
+<weight>Welterweight division</weight>
+<fighter1>Jarrett Hurd</fighter1>
+<fighter2>Jorge Cota</fighter2>
+<rounds>12</rounds>
+<weight>Middleweight division</weight>
+<loc>Monte Carlo, Sky Sports</loc>
+<fighter1>Luis Ortiz</fighter1>
+<fighter2>Malik Scott</fighter2>
+<rounds>12</rounds>
+<weight>Heavyweight division</weight>
+<fighter1>Jamie McDonnell</fighter1>
+<fighter2>Liborio Solis</fighter2>
+<rounds>12</rounds>
+<weight>Bantamweight division</weight>
+<fighter1>Jason Sosa</fighter1>
+<fighter2>Stephen Smith</fighter2>
+<rounds>12</rounds>
+<weight>Junior Lightweight division</weight>
+<fighter1>Arthur Abraham</fighter1>
+<fighter2>Martin Murray</fighter2>
+<rounds>12</rounds>
+<weight>Super middleweight division</weight>
+<time>Friday, Nov. 18, 2016</time>
+<loc>Sky Sports</loc>
+<fighter1>George Groves</fighter1>
+<fighter2>Eduard Gutknecht</fighter2>
+<rounds>12</rounds>
+<weight>Super middleweight division</weight>
 <time>Saturday, Nov. 19, 2016</time>
 <loc>Las Vegas (HBO Pay-Per-View)</loc>
 <fighter1>Sergey Kovalev</fighter1>
 <fighter2>Andre Ward</fighter2>
+<rounds>12</rounds>
+<weight>Light Heavyweight division</weight>
+<fighter1>Isaac Chilemba</fighter1>
+<fighter2>Oleksandr Gvozdyk</fighter2>
 <rounds>12</rounds>
 <weight>Light Heavyweight division</weight>
 <time>Saturday, Nov. 26, 2016</time>
@@ -62,3 +84,15 @@
 <fighter2>Nicholas Walters</fighter2>
 <rounds>12</rounds>
 <weight>Featherweight division</weight>
+<time>Saturday, Dec. 10, 2016</time>
+<loc>Sky Box Office</loc>
+<fighter1>Anthony Joshua</fighter1>
+<fighter2>Wladimir Klitschko</fighter2>
+<rounds>12</rounds>
+<weight>Heavyweight division</weight>
+<time>Saturday, Dec. 17, 2016</time>
+<loc>HBO</loc>
+<fighter1>Orlando Salido</fighter1>
+<fighter2>Takashi Miura</fighter2>
+<rounds>12</rounds>
+<weight>Junior Lightweight division</weight>
