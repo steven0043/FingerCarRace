@@ -1,25 +1,9 @@
-
-<time>Friday, Nov. 18, 2016</time>
-<loc>Sky Sports</loc>
-<fighter1>George Groves</fighter1>
-<fighter2>Eduard Gutknecht</fighter2>
-<rounds>12</rounds>
-<weight>Super middleweight division</weight>
 <time>Saturday, Nov. 19, 2016</time>
 <loc>Las Vegas (HBO Pay-Per-View)</loc>
 <fighter1>Sergey Kovalev</fighter1>
 <fighter2>Andre Ward</fighter2>
 <rounds>12</rounds>
 <weight>Light Heavyweight division</weight>
-<fighter1>Isaac Chilemba</fighter1>
-<fighter2>Oleksandr Gvozdyk</fighter2>
-<rounds>12</rounds>
-<weight>Light Heavyweight division</weight>
-
-<fighter1>Curtis Stevens</fighter1>
-<fighter2>James De La Rosa</fighter2>
-<rounds>10</rounds>
-<weight>Middleweight division</weight>
 
 <time>Saturday, Nov. 26, 2016</time>
 <loc>HBO</loc>
@@ -27,7 +11,68 @@
 <fighter2>Nicholas Walters</fighter2>
 <rounds>12</rounds>
 <weight>Featherweight division</weight>
+
+<loc>Brentwood, England</loc>
+<fighter1>Bradley Skeete</fighter1>
+<fighter2>John Thain</fighter2>
+<rounds>12</rounds>
+<weight>Welterweight division</weight>
+
+<loc>Cardiff, Wales</loc>
+<fighter1>BJ Saunders</fighter1>
+<fighter2>Artur Akavov</fighter2>
+<rounds>12</rounds>
+<weight>Middleweight division</weight>
+
+<fighter1>Terry Flanagan</fighter1>
+<fighter2>Orlando Cruz</fighter2>
+<rounds>12</rounds>
+<weight>Lightweight division</weight>
+
+<fighter1>Liam Williams</fighter1>
+<fighter2>Gabor Gorbics</fighter2>
+<rounds>12</rounds>
+<weight>Junior Middleweight division</weight>
+
+<fighter1>Tommy Langford</fighter1>
+<fighter2>Sam Sheedy</fighter2>
+<rounds>12</rounds>
+<weight>Middleweight division</weight>
+
+<loc>London</loc>
+
+<fighter1>Katie Taylor</fighter1>
+<fighter2>Karina Kopinska</fighter2>
+<rounds>6</rounds>
+<weight>Junior Lightweight division</weight>
+
+<fighter1>Ohara Davies</fighter1>
+<fighter2>Andrea Scarpa</fighter2>
+<rounds>12</rounds>
+<weight>Junior Welterweight division</weight>
+
+<fighter1>Martin Gethin</fighter1>
+<fighter2>John-Wayne Hibbert</fighter2>
+<rounds>12</rounds>
+<weight>Junior Welterweight division</weight>
+
+<fighter1>Martin Ward</fighter1>
+<fighter2>Ronnie Clark</fighter2>
+<rounds>12</rounds>
+<weight>Junior Lightweight division</weight>
+
+<fighter1>Ben Hall</fighter1>
+<fighter2>Carson Jones</fighter2>
+<rounds>10</rounds>
+<weight>Welterweight division</weight>
+
 <time>Saturday, Dec. 10, 2016</time>
+
+<loc>HBO</loc>
+<fighter1>Terence Crawford</fighter1>
+<fighter2>John Molina</fighter2>
+<rounds>12</rounds>
+<weight>Light Welterweight division</weight>
 
 <loc>New Zealand</loc>
 <fighter1>Joseph Parker</fighter1>
