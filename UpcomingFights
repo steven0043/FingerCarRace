@@ -19,10 +19,6 @@
 <weight>Welterweight division</weight>
 
 <loc>Cardiff, Wales</loc>
-<fighter1>BJ Saunders</fighter1>
-<fighter2>Artur Akavov</fighter2>
-<rounds>12</rounds>
-<weight>Middleweight division</weight>
 
 <fighter1>Terry Flanagan</fighter1>
 <fighter2>Orlando Cruz</fighter2>
@@ -65,6 +61,14 @@
 <fighter2>Carson Jones</fighter2>
 <rounds>10</rounds>
 <weight>Welterweight division</weight>
+
+<time>Saturday, Dec. 10, 2016</time>
+
+<loc>Paisley</loc>
+<fighter1>Billy Saunders</fighter1>
+<fighter2>Artur Akavov</fighter2>
+<rounds>12</rounds>
+<weight>Middleweight division</weight>
 
 <time>Saturday, Dec. 10, 2016</time>
 
