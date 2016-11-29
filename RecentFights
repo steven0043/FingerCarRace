@@ -1,3 +1,44 @@
+<time>Saturday, Nov. 26, 2016</time>
+<loc>HBO</loc>
+<fighter1>Vasyl Lomachenko</fighter1>
+<fighter2>Nicholas Walters</fighter2>
+<rounds>12</rounds>
+<weight>Featherweight division</weight>
+
+<loc>Brentwood, England</loc>
+<fighter1>Bradley Skeete</fighter1>
+<fighter2>John Thain</fighter2>
+<rounds>12</rounds>
+<weight>Welterweight division</weight>
+
+<loc>Cardiff, Wales</loc>
+
+<fighter1>Terry Flanagan</fighter1>
+<fighter2>Orlando Cruz</fighter2>
+<rounds>12</rounds>
+<weight>Lightweight division</weight>
+
+<fighter1>Liam Williams</fighter1>
+<fighter2>Gabor Gorbics</fighter2>
+<rounds>12</rounds>
+<weight>Junior Middleweight division</weight>
+
+<fighter1>Tommy Langford</fighter1>
+<fighter2>Sam Sheedy</fighter2>
+<rounds>12</rounds>
+<weight>Middleweight division</weight>
+
+<loc>London</loc>
+
+<fighter1>Ohara Davies</fighter1>
+<fighter2>Andrea Scarpa</fighter2>
+<rounds>12</rounds>
+<weight>Junior Welterweight division</weight>
+
+<fighter1>Ben Hall</fighter1>
+<fighter2>Carson Jones</fighter2>
+<rounds>10</rounds>
+<weight>Welterweight division</weight>
 <time>Saturday, Nov. 19, 2016</time>
 <loc>Las Vegas (HBO Pay-Per-View)</loc>
 <fighter1>Sergey Kovalev</fighter1>
