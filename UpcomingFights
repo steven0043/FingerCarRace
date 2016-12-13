@@ -1,88 +1,23 @@
-<time>Saturday, Nov. 19, 2016</time>
-<loc>Las Vegas (HBO Pay-Per-View)</loc>
-<fighter1>Sergey Kovalev</fighter1>
-<fighter2>Andre Ward</fighter2>
-<rounds>12</rounds>
-<weight>Light Heavyweight division</weight>
-
-<time>Saturday, Dec. 10, 2016</time>
-
-<loc>New Zealand</loc>
-<fighter1>Joseph Parker</fighter1>
-<fighter2>Andy Ruiz</fighter2>
-<rounds>12</rounds>
-<weight>Heavyweight division</weight>
-
-<fighter1>Jeff Horn</fighter1>
-<fighter2>Ali Funeka</fighter2>
-<rounds>12</rounds>
-<weight>Welterweight division</weight>
-
-<loc>Sky Box Office</loc>
-<fighter1>Anthony Joshua</fighter1>
-<fighter2>Eric Molina</fighter2>
-<rounds>12</rounds>
-<weight>Heavyweight division</weight>
-
-<fighter1>Dillian Whyte</fighter1>
-<fighter2>Dereck Chisora</fighter2>
-<rounds>12</rounds>
-<weight>Heavyweight division</weight>
-
-<fighter1>Khalid Yafai</fighter1>
-<fighter2>Luis Concepcion</fighter2>
-<rounds>12</rounds>
-<weight>Junior Bantamweight division</weight>
-
-<fighter1>Hosea Burton</fighter1>
-<fighter2>Frank Buglioni</fighter2>
-<rounds>12</rounds>
-<weight>Light Heavyweight division</weight>
-
-<fighter1>Luis Ortiz</fighter1>
-<fighter2>Dave Allen</fighter2>
-<rounds>8</rounds>
-<weight>Heavyweight division</weight>
-
-<fighter1>Katie Taylor</fighter1>
-<fighter2>Viviane Obenauf</fighter2>
-<rounds>6</rounds>
-<weight>Junior Lightweight division</weight>
-
-<fighter1>Callum Smith</fighter1>
-<fighter2>Luke Blackledge</fighter2>
-<rounds>12</rounds>
-<weight>Super Middleweight division</weight>
-
-<fighter1>Scott Quigg</fighter1>
-<fighter2>Jose Cayetano</fighter2>
+<time>Friday, Dec. 16, 2016</time>
+<loc>HBO Latino</loc>
+<fighter1>Vyacheslav Shabranskyy</fighter1>
+<fighter2>Sullivan Barrera</fighter2>
 <rounds>10</rounds>
-<weight>Featherweight division</weight>
-
-<loc>HBO</loc>
-<fighter1>Terence Crawford</fighter1>
-<fighter2>John Molina</fighter2>
-<rounds>12</rounds>
-<weight>Light Welterweight division</weight>
-
-<loc>Galen Center, Los Angeles</loc>
-
-<fighter1>Jesus Cuellar</fighter1>
-<fighter2>Abner Mares</fighter2>
-<rounds>12</rounds>
-<weight>Featherweight division</weight>
-
-<fighter1>Jermall Charlo</fighter1>
-<fighter2>Julian Williams</fighter2>
-<rounds>12</rounds>
-<weight>Light middleweight division</weight>
+<weight>Light Heavyweight Division</weight>
 
 <time>Saturday, Dec. 17, 2016</time>
+<loc>Russia</loc>
+<fighter1>Alexander Povetkin</fighter1>
+<fighter2>Bermane Stiverne</fighter2>
+<rounds>12</rounds>
+<weight>Heavyweight Division</weight>
+
 <loc>HBO</loc>
 <fighter1>Bernard Hopkins</fighter1>
 <fighter2>Joe Smith</fighter2>
 <rounds>12</rounds>
 <weight>Light Heavyweight Division</weight>
+
 <fighter1>Joseph Diaz</fighter1>
 <fighter2>Horacio Garcia</fighter2>
 <rounds>10</rounds>
@@ -93,12 +28,75 @@
 <rounds>12</rounds>
 <weight>Cruiserweight division</weight>
 
+<time>Friday, Dec. 23, 2016</time>
+<loc>Quebec</loc>
+<fighter1>Artur Beterbiev</fighter1>
+<fighter2>Isidro Prieto</fighter2>
+<rounds>12</rounds>
+<weight>Light Heavyweight Division</weight>
+
+<time>Friday, Dec. 30, 2016</time>
+<loc>Japan</loc>
+<fighter1>Naoya Inoue</fighter1>
+<fighter2>Kohei Kono</fighter2>
+<rounds>12</rounds>
+<weight>Junior Bantamweight Division</weight>
+
+<fighter1>Akira Yaegashi</fighter1>
+<fighter2>Wittawas Basapean</fighter2>
+<rounds>12</rounds>
+<weight>Junior Flyweight Division</weight>
+
+<time>Saturday, Dec. 31, 2016</time>
+<loc>Japan</loc>
+<fighter1>Moises Fuentes</fighter1>
+<fighter2>Kosei Tanaka</fighter2>
+<rounds>12</rounds>
+<weight>Junior Flyweight Division</weight>
+
+<fighter1>Jonathan Guzman</fighter1>
+<fighter2>Yukinori Oguni</fighter2>
+<rounds>12</rounds>
+<weight>Junior Featherweight Division</weight>
+
+<fighter1>Kazuto Ioka</fighter1>
+<fighter2>Stamp Kiatniwat</fighter2>
+<rounds>12</rounds>
+<weight>Flyweight Division</weight>
+
+<fighter1>Jezreel Corrales</fighter1>
+<fighter2>Takashi Uchiyama</fighter2>
+<rounds>12</rounds>
+<weight>Junior Lightweight Division</weight>
+
+<fighter1>Ryoichi Taguchi</fighter1>
+<fighter2>Carlos Canizales</fighter2>
+<rounds>12</rounds>
+<weight>Junior Flyweight Division</weight>
+
+<time>Friday, Jan. 13, 2017</time>
+<loc>USA</loc>
+<fighter1>Erislandy Lara</fighter1>
+<fighter2>Yuri Foreman</fighter2>
+<rounds>12</rounds>
+<weight>Junior Middleweight Division</weight>
+
+<fighter1>Anthony Dirrell</fighter1>
+<fighter2>Norbert Nemesapati</fighter2>
+<rounds>10</rounds>
+<weight>Super Middleweight Division</weight>
+
 <time>Saturday, Jan. 14, 2017</time>
 <loc>USA</loc>
 <fighter1>Badou Jack</fighter1>
 <fighter2>James DeGale</fighter2>
 <rounds>12</rounds>
 <weight>Super Middleweight Division</weight>
+
+<fighter1>Jose Pedraza</fighter1>
+<fighter2>Gervonta Davis</fighter2>
+<rounds>12</rounds>
+<weight>Junior Lightweight Division</weight>
 
 <time>Saturday, Jan. 28, 2017</time>
 <loc>Las Vegas, USA</loc>
@@ -111,6 +109,17 @@
 <fighter2>Mikey Garcia</fighter2>
 <rounds>12</rounds>
 <weight>Lightweight Division</weight>
+
+<loc>USA</loc>
+<fighter1>Francisco Vargas</fighter1>
+<fighter2>Miguel Berchelt</fighter2>
+<rounds>12</rounds>
+<weight>Junior Lightweight Division</weight>
+
+<fighter1>Takashi Miura</fighter1>
+<fighter2>Miguel Roman</fighter2>
+<rounds>12</rounds>
+<weight>Junior Lightweight Division</weight>
 
 <time>Feb. 3, 2017</time>
 <loc>Australia</loc>
@@ -128,6 +137,35 @@
 <rounds>12</rounds>
 <weight>Light welterweight Division</weight>
 
+<time>Friday, Feb. 17, 2017</time>
+<loc>USA</loc>
+
+<fighter1>Roy Jones</fighter1>
+<fighter2>Bobby Gunn</fighter2>
+<rounds>12</rounds>
+<weight>Cruiserweight Division</weight>
+
+<time>Friday, Feb. 17, 2017</time>
+<loc>Canada</loc>
+
+<fighter1>Eleider Alvarez</fighter1>
+<fighter2>Lucian Bute</fighter2>
+<rounds>12</rounds>
+<weight>Light Heavyweight Division</weight>
+
+<time>Saturday, Feb. 25, 2017</time>
+<loc>USA</loc>
+
+<fighter1>Miguel Cotto</fighter1>
+<fighter2>James Kirkland</fighter2>
+<rounds>12</rounds>
+<weight>Junior Middleweight Division</weight>
+
+<fighter1>Guillermo Rigondeaux</fighter1>
+<fighter2>Moises Flores</fighter2>
+<rounds>12</rounds>
+<weight>Junior Featherweight Division</weight>
+
 <time>Saturday, March. 4, 2017</time>
 <loc>London</loc>
 
@@ -142,3 +180,11 @@
 <fighter2>Keith Thurman</fighter2>
 <rounds>12</rounds>
 <weight>Welterweight Division</weight>
+
+<time>Saturday, April. 29, 2017</time>
+<loc>Wembley, Over 80,000 fans</loc>
+
+<fighter1>Anthony Joshua</fighter1>
+<fighter2>Wladimir Klitschko</fighter2>
+<rounds>12</rounds>
+<weight>Heavyweight Division</weight>
