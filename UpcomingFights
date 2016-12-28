@@ -1,12 +1,10 @@
-
-<time>Friday, Dec. 23, 2016</time>
-<loc>Quebec</loc>
-<fighter1>Artur Beterbiev</fighter1>
-<fighter2>Isidro Prieto</fighter2>
-<rounds>12</rounds>
-<weight>Light Heavyweight Division</weight>
-
 <time>Friday, Dec. 30, 2016</time>
+<loc>Cincinnati</loc>
+<fighter1>Hank Lundy</fighter1>
+<fighter2>John Delperdang</fighter2>
+<rounds>12</rounds>
+<weight>Lightweight Division</weight>
+
 <loc>Japan</loc>
 <fighter1>Naoya Inoue</fighter1>
 <fighter2>Kohei Kono</fighter2>
@@ -133,7 +131,7 @@
 <weight>Light Heavyweight Division</weight>
 
 <time>Saturday, Feb. 25, 2017</time>
-<loc>USA</loc>
+<loc>Frisco, Texas (HBO PPV)</loc>
 
 <fighter1>Miguel Cotto</fighter1>
 <fighter2>James Kirkland</fighter2>
@@ -145,6 +143,12 @@
 <rounds>12</rounds>
 <weight>Junior Featherweight Division</weight>
 
+<loc>Birmingham, Ala. (PBC on Fox)</loc>
+<fighter1>Deontay Wilder</fighter1>
+<fighter2>Andrzej Wawrzyk</fighter2>
+<rounds>12</rounds>
+<weight>Heavyweight Division</weight>
+
 <time>Saturday, March. 4, 2017</time>
 <loc>London</loc>
 
@@ -153,6 +157,18 @@
 <rounds>12</rounds>
 <weight>Heavyweight Division</weight>
 
+<loc>USA</loc>
+
+<fighter1>Danny Garcia</fighter1>
+<fighter2>Keith Thurman</fighter2>
+<rounds>12</rounds>
+<weight>Welterweight Division</weight>
+
+<fighter1>Erickson Lubin</fighter1>
+<fighter2>Jorge Cota</fighter2>
+<rounds>12</rounds>
+<weight>Junior Middleweight Division</weight>
+
 <time>Saturday, March. 18, 2017</time>
 <loc>Madison Square Garden</loc>
 
@@ -160,13 +176,6 @@
 <fighter2>Daniel Jacobs</fighter2>
 <rounds>12</rounds>
 <weight>Middleweight Division</weight>
-
-<loc>USA</loc>
-
-<fighter1>Danny Garcia</fighter1>
-<fighter2>Keith Thurman</fighter2>
-<rounds>12</rounds>
-<weight>Welterweight Division</weight>
 
 <time>Saturday, April. 29, 2017</time>
 <loc>Wembley, Over 80,000 fans</loc>
