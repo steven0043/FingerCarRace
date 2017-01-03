@@ -1,48 +1,3 @@
-<time>Friday, Dec. 30, 2016</time>
-<loc>Cincinnati</loc>
-<fighter1>Hank Lundy</fighter1>
-<fighter2>John Delperdang</fighter2>
-<rounds>12</rounds>
-<weight>Lightweight Division</weight>
-
-<loc>Japan</loc>
-<fighter1>Naoya Inoue</fighter1>
-<fighter2>Kohei Kono</fighter2>
-<rounds>12</rounds>
-<weight>Junior Bantamweight Division</weight>
-
-<fighter1>Akira Yaegashi</fighter1>
-<fighter2>Wittawas Basapean</fighter2>
-<rounds>12</rounds>
-<weight>Junior Flyweight Division</weight>
-
-<time>Saturday, Dec. 31, 2016</time>
-<loc>Japan</loc>
-<fighter1>Moises Fuentes</fighter1>
-<fighter2>Kosei Tanaka</fighter2>
-<rounds>12</rounds>
-<weight>Junior Flyweight Division</weight>
-
-<fighter1>Jonathan Guzman</fighter1>
-<fighter2>Yukinori Oguni</fighter2>
-<rounds>12</rounds>
-<weight>Junior Featherweight Division</weight>
-
-<fighter1>Kazuto Ioka</fighter1>
-<fighter2>Stamp Kiatniwat</fighter2>
-<rounds>12</rounds>
-<weight>Flyweight Division</weight>
-
-<fighter1>Jezreel Corrales</fighter1>
-<fighter2>Takashi Uchiyama</fighter2>
-<rounds>12</rounds>
-<weight>Junior Lightweight Division</weight>
-
-<fighter1>Ryoichi Taguchi</fighter1>
-<fighter2>Carlos Canizales</fighter2>
-<rounds>12</rounds>
-<weight>Junior Flyweight Division</weight>
-
 <time>Friday, Jan. 13, 2017</time>
 <loc>USA</loc>
 <fighter1>Erislandy Lara</fighter1>
@@ -79,6 +34,11 @@
 <rounds>12</rounds>
 <weight>Lightweight Division</weight>
 
+<fighter1>Lee Selby</fighter1>
+<fighter2>Jonathan Barros</fighter2>
+<rounds>12</rounds>
+<weight>Featherweight Division</weight>
+
 <loc>USA</loc>
 <fighter1>Francisco Vargas</fighter1>
 <fighter2>Miguel Berchelt</fighter2>
@@ -89,6 +49,19 @@
 <fighter2>Miguel Roman</fighter2>
 <rounds>12</rounds>
 <weight>Junior Lightweight Division</weight>
+
+<time>Feb. 2, 2017</time>
+<loc>Tunica, Miss. (PBC on FS1/Fox Deportes):</loc>
+
+<fighter1>Sammy Vasquez</fighter1>
+<fighter2>Luis Collazo</fighter2>
+<rounds>10</rounds>
+<weight>Welterweight Division</weight>
+
+<fighter1>Yordenis Ugas</fighter1>
+<fighter2>Levan Ghvamichava</fighter2>
+<rounds>10</rounds>
+<weight>Welterweight Division</weight>
 
 <time>Feb. 3, 2017</time>
 <loc>Australia</loc>
@@ -106,13 +79,24 @@
 <rounds>12</rounds>
 <weight>Middleweight Division</weight>
 
-<time>Saturday, Feb. 11, 2017</time>
-<loc>USA</loc>
+<time>Friday, Feb. 10, 2017</time>
+<loc>Miami, Okla. (Showtime)</loc>
 
-<fighter1>Adrien Broner</fighter1>
-<fighter2>Adrian Granados</fighter2>
+<fighter1>Ivan Baranchyk</fighter1>
+<fighter2>Abel Ramos</fighter2>
+<rounds>10</rounds>
+<weight>Junior welterweight Division</weight>
+
+<loc>Toledo, Ohio (PBC on Bounce TV)</loc>
+<fighter1>Robert Easter</fighter1>
+<fighter2>Luis Cruz</fighter2>
 <rounds>12</rounds>
-<weight>Light welterweight Division</weight>
+<weight>Lightweight Division</weight>
+
+<fighter1>Rau'Shee Warren</fighter1>
+<fighter2>Zhanat Zhakiyanov</fighter2>
+<rounds>12</rounds>
+<weight>Bantamweight Division</weight>
 
 <time>Friday, Feb. 17, 2017</time>
 <loc>USA</loc>
@@ -129,6 +113,24 @@
 <fighter2>Lucian Bute</fighter2>
 <rounds>12</rounds>
 <weight>Light Heavyweight Division</weight>
+
+<time>Saturday, Feb. 18, 2017</time>
+<loc>Cincinnati (Showtime)</loc>
+
+<fighter1>Adrien Broner</fighter1>
+<fighter2>Adrian Granados</fighter2>
+<rounds>12</rounds>
+<weight>Light welterweight Division</weight>
+
+<fighter1>Gary Russell</fighter1>
+<fighter2>Oscar Escandon</fighter2>
+<rounds>12</rounds>
+<weight>Featherrweight Division</weight>
+
+<fighter1>Jermell Charlo</fighter1>
+<fighter2>Charles Hatley</fighter2>
+<rounds>12</rounds>
+<weight>Junior Middleweight Division</weight>
 
 <time>Saturday, Feb. 25, 2017</time>
 <loc>Frisco, Texas (HBO PPV)</loc>
@@ -147,6 +149,11 @@
 <fighter1>Deontay Wilder</fighter1>
 <fighter2>Andrzej Wawrzyk</fighter2>
 <rounds>12</rounds>
+<weight>Heavyweight Division</weight>
+
+<fighter1>Dominic Breazeale</fighter1>
+<fighter2>Artur Szpilka</fighter2>
+<rounds>10</rounds>
 <weight>Heavyweight Division</weight>
 
 <time>Saturday, March. 4, 2017</time>
