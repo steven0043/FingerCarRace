@@ -133,6 +133,24 @@
 <weight>Junior Middleweight Division</weight>
 
 <time>Saturday, Feb. 25, 2017</time>
+
+<loc>Hull, England</loc>
+
+<fighter1>Gavin McDonnell</fighter1>
+<fighter2>Rey Vargas</fighter2>
+<rounds>12</rounds>
+<weight>Junior Featherweight Division</weight>
+
+<fighter1>Luke Campbell</fighter1>
+<fighter2>Jairo Lopez</fighter2>
+<rounds>12</rounds>
+<weight>Lightweight Division</weight>
+
+<fighter1>Tommy Coyle</fighter1>
+<fighter2>Kofi Yates</fighter2>
+<rounds>10</rounds>
+<weight>Junior Welterweight Division</weight>
+
 <loc>Frisco, Texas (HBO PPV)</loc>
 
 <fighter1>Miguel Cotto</fighter1>
@@ -153,6 +171,11 @@
 
 <fighter1>Dominic Breazeale</fighter1>
 <fighter2>Artur Szpilka</fighter2>
+<rounds>10</rounds>
+<weight>Heavyweight Division</weight>
+
+<fighter1>Travis Kauffman</fighter1>
+<fighter2>Amir Mansour</fighter2>
 <rounds>10</rounds>
 <weight>Heavyweight Division</weight>
 
@@ -183,6 +206,15 @@
 <fighter2>Daniel Jacobs</fighter2>
 <rounds>12</rounds>
 <weight>Middleweight Division</weight>
+
+<time>Saturday, March. 25, 2017</time>
+
+<loc>Manchester Arena</loc>
+
+<fighter1>Jorge Linares</fighter1>
+<fighter2>Anthony Crolla</fighter2>
+<rounds>12</rounds>
+<weight>Lightweight Division</weight>
 
 <time>Saturday, April. 29, 2017</time>
 <loc>Wembley, Over 80,000 fans</loc>
