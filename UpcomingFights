@@ -207,6 +207,11 @@
 <rounds>12</rounds>
 <weight>Middleweight Division</weight>
 
+<fighter1>Roman Gonzalez</fighter1>
+<fighter2>Srisaket Rungvisai</fighter2>
+<rounds>12</rounds>
+<weight>Junior Bantamweight Division</weight>
+
 <time>Saturday, March. 25, 2017</time>
 
 <loc>Manchester Arena</loc>
@@ -215,6 +220,22 @@
 <fighter2>Anthony Crolla</fighter2>
 <rounds>12</rounds>
 <weight>Lightweight Division</weight>
+
+<time>Saturday, April. 15, 2017</time>
+<loc>Glasgow, UK</loc>
+
+<fighter1>Ricky Burns</fighter1>
+<fighter2>Julius Indongo</fighter2>
+<rounds>12</rounds>
+<weight>Junior Welterweight Division</weight>
+
+<time>Saturday, April. 22, 2017</time>
+<loc>Australia</loc>
+
+<fighter1>Manny Pacquiao</fighter1>
+<fighter2>Jeff Horn</fighter2>
+<rounds>12</rounds>
+<weight>Welterweight Division</weight>
 
 <time>Saturday, April. 29, 2017</time>
 <loc>Wembley, Over 80,000 fans</loc>
