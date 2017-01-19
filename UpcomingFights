@@ -1,26 +1,10 @@
-<time>Friday, Jan. 13, 2017</time>
-<loc>USA</loc>
-<fighter1>Erislandy Lara</fighter1>
-<fighter2>Yuri Foreman</fighter2>
+<time>Friday, Jan. 20, 2017</time>
+<loc>Atlantic City, N.J. (Showtime)</loc>
+<fighter1>Adam Lopez</fighter1>
+<fighter2>Danny Roman</fighter2>
 <rounds>12</rounds>
-<weight>Junior Middleweight Division</weight>
+<weight>Junior Featherweight Division</weight>
 
-<fighter1>Anthony Dirrell</fighter1>
-<fighter2>Norbert Nemesapati</fighter2>
-<rounds>10</rounds>
-<weight>Super Middleweight Division</weight>
-
-<time>Saturday, Jan. 14, 2017</time>
-<loc>USA</loc>
-<fighter1>Badou Jack</fighter1>
-<fighter2>James DeGale</fighter2>
-<rounds>12</rounds>
-<weight>Super Middleweight Division</weight>
-
-<fighter1>Jose Pedraza</fighter1>
-<fighter2>Gervonta Davis</fighter2>
-<rounds>12</rounds>
-<weight>Junior Lightweight Division</weight>
 
 <time>Saturday, Jan. 28, 2017</time>
 <loc>Las Vegas, USA</loc>
@@ -79,6 +63,16 @@
 <rounds>12</rounds>
 <weight>Middleweight Division</weight>
 
+<fighter1>David Price</fighter1>
+<fighter2>Christian Hammer</fighter2>
+<rounds>10</rounds>
+<weight>Heavyweight Division</weight>
+
+<fighter1>Adam Etches</fighter1>
+<fighter2>John Ryder</fighter2>
+<rounds>10</rounds>
+<weight>Middleweight Division</weight>
+
 <time>Friday, Feb. 10, 2017</time>
 <loc>Miami, Okla. (Showtime)</loc>
 
@@ -131,6 +125,11 @@
 <fighter2>Charles Hatley</fighter2>
 <rounds>12</rounds>
 <weight>Junior Middleweight Division</weight>
+
+<fighter1>Marcus Browne</fighter1>
+<fighter2>Thomas Williams</fighter2>
+<rounds>12</rounds>
+<weight>Light Heavyweight Division</weight>
 
 <time>Saturday, Feb. 25, 2017</time>
 
@@ -187,6 +186,11 @@
 <rounds>12</rounds>
 <weight>Heavyweight Division</weight>
 
+<fighter1>Ohara Davies</fighter1>
+<fighter2>Derry Mathews</fighter2>
+<rounds>12</rounds>
+<weight>Junior Welterweight Division</weight>
+
 <loc>USA</loc>
 
 <fighter1>Danny Garcia</fighter1>
@@ -198,6 +202,15 @@
 <fighter2>Jorge Cota</fighter2>
 <rounds>12</rounds>
 <weight>Junior Middleweight Division</weight>
+
+
+<time>Saturday, March. 11, 2017</time>
+<loc>Verona, N.Y. (HBO)</loc>
+
+<fighter1>David Lemieux</fighter1>
+<fighter2>Curtis Stevens</fighter2>
+<rounds>12</rounds>
+<weight>Middleweight Division</weight>
 
 <time>Saturday, March. 18, 2017</time>
 <loc>Madison Square Garden</loc>
@@ -220,6 +233,14 @@
 <fighter2>Anthony Crolla</fighter2>
 <rounds>12</rounds>
 <weight>Lightweight Division</weight>
+
+<time>Saturday, April. 1, 2017</time>
+<loc>Dortmund, Germany</loc>
+
+<fighter1>Mairis Briedis</fighter1>
+<fighter2>Marco Huck</fighter2>
+<rounds>12</rounds>
+<weight>Cruiserweight Division</weight>
 
 <time>Saturday, April. 15, 2017</time>
 <loc>Glasgow, UK</loc>
