@@ -1,15 +1,3 @@
-<time>Saturday, Jan. 21, 2017</time>
-<loc>Guild Hall, Preston, Lancashire (ITV4)</loc>
-<fighter1>Robbie Davies</fighter1>
-<fighter2>Zoltan Szabo</fighter2>
-<rounds>12</rounds>
-<weight>Super Lightweight Division</weight>
-
-<fighter1>Jack Arnfield</fighter1>
-<fighter2>Mick Hall</fighter2>
-<rounds>12</rounds>
-<weight>Middleweight Division</weight>
-
 <time>Saturday, Jan. 28, 2017</time>
 <loc>Las Vegas, USA</loc>
 <fighter1>Carl Frampton</fighter1>
@@ -27,6 +15,16 @@
 <rounds>12</rounds>
 <weight>Featherweight Division</weight>
 
+<fighter1>Josh Taylor</fighter1>
+<fighter2>Sherali Mamajonov</fighter2>
+<rounds>8</rounds>
+<weight>Super Middleweight</weight>
+
+<fighter1>David Benavidez</fighter1>
+<fighter2>Alfonso Olvera</fighter2>
+<rounds>10</rounds>
+<weight>Junior Welterweight</weight>
+
 <loc>USA</loc>
 <fighter1>Francisco Vargas</fighter1>
 <fighter2>Miguel Berchelt</fighter2>
@@ -37,6 +35,11 @@
 <fighter2>Miguel Roman</fighter2>
 <rounds>12</rounds>
 <weight>Junior Lightweight Division</weight>
+
+<fighter1>Tureano Johnson</fighter1>
+<fighter2>Antonio Gutierrez</fighter2>
+<rounds>10</rounds>
+<weight>Middleweight Division</weight>
 
 <time>Feb. 2, 2017</time>
 <loc>Tunica, Miss. (PBC on FS1/Fox Deportes):</loc>
@@ -51,7 +54,20 @@
 <rounds>10</rounds>
 <weight>Welterweight Division</weight>
 
+<fighter1>Ryan Karl</fighter1>
+<fighter2>Eddie Ramirez</fighter2>
+<rounds>10</rounds>
+<weight>Junior Welterweight Division</weight>
+
 <time>Feb. 3, 2017</time>
+
+<loc>San Juan, Puerto Rico (UniMas)</loc>
+
+<fighter1>Felix Verdejo</fighter1>
+<fighter2>Oliver Flores</fighter2>
+<rounds>10</rounds>
+<weight>Lightweight Division</weight>
+
 <loc>Australia</loc>
 
 <fighter1>Anthony Mundine</fighter1>
@@ -120,20 +136,24 @@
 <rounds>12</rounds>
 <weight>Light welterweight Division</weight>
 
-<fighter1>Gary Russell</fighter1>
-<fighter2>Oscar Escandon</fighter2>
+<fighter1>David Avanesyan</fighter1>
+<fighter2>Lamont Peterson</fighter2>
 <rounds>12</rounds>
-<weight>Featherrweight Division</weight>
-
-<fighter1>Jermell Charlo</fighter1>
-<fighter2>Charles Hatley</fighter2>
-<rounds>12</rounds>
-<weight>Junior Middleweight Division</weight>
+<weight>Welterweight Division</weight>
 
 <fighter1>Marcus Browne</fighter1>
 <fighter2>Thomas Williams</fighter2>
 <rounds>12</rounds>
 <weight>Light Heavyweight Division</weight>
+
+<time>Friday, Feb. 24, 2017</time>
+
+<loc>Oslo, Norway</loc>
+
+<fighter1>Cecilia Braekhus</fighter1>
+<fighter2>Rey Vargas</fighter2>
+<rounds>10</rounds>
+<weight>Welterweight Division</weight>
 
 <time>Saturday, Feb. 25, 2017</time>
 
@@ -166,6 +186,11 @@
 <rounds>12</rounds>
 <weight>Junior Featherweight Division</weight>
 
+<fighter1>Maurice Hooker</fighter1>
+<fighter2>Juan Lopez</fighter2>
+<rounds>10</rounds>
+<weight>Junior Welterweight Division</weight>
+
 <loc>Birmingham, Ala. (PBC on Fox)</loc>
 <fighter1>Deontay Wilder</fighter1>
 <fighter2>Andrzej Wawrzyk</fighter2>
@@ -173,7 +198,7 @@
 <weight>Heavyweight Division</weight>
 
 <fighter1>Dominic Breazeale</fighter1>
-<fighter2>Artur Szpilka</fighter2>
+<fighter2>Izuagbe Ugonoh</fighter2>
 <rounds>10</rounds>
 <weight>Heavyweight Division</weight>
 
@@ -207,7 +232,6 @@
 <rounds>12</rounds>
 <weight>Junior Middleweight Division</weight>
 
-
 <time>Saturday, March. 11, 2017</time>
 <loc>Verona, N.Y. (HBO)</loc>
 
@@ -215,6 +239,19 @@
 <fighter2>Curtis Stevens</fighter2>
 <rounds>12</rounds>
 <weight>Middleweight Division</weight>
+
+<fighter1>Yuriorkis Gamboa</fighter1>
+<fighter2>Rene Alvarado</fighter2>
+<rounds>10</rounds>
+<weight>Junior Lightweight Division</weight>
+
+<time>Friday, March. 11, 2017</time>
+<loc>Madison Square Garden</loc>
+
+<fighter1>Michael Conlan</fighter1>
+<fighter2>Tim Ibarra</fighter2>
+<rounds>6</rounds>
+<weight>Featherweight Division</weight>
 
 <time>Saturday, March. 18, 2017</time>
 <loc>Madison Square Garden</loc>
@@ -227,6 +264,11 @@
 <fighter1>Roman Gonzalez</fighter1>
 <fighter2>Srisaket Rungvisai</fighter2>
 <rounds>12</rounds>
+<weight>Junior Bantamweight Division</weight>
+
+<fighter1>Carlos Cuadras</fighter1>
+<fighter2>David Carmona</fighter2>
+<rounds>10</rounds>
 <weight>Junior Bantamweight Division</weight>
 
 <time>Saturday, March. 25, 2017</time>
@@ -246,6 +288,19 @@
 <rounds>12</rounds>
 <weight>Cruiserweight Division</weight>
 
+<time>Saturday, April. 8, 2017</time>
+<loc>Manchester, UK</loc>
+
+<fighter1>Terry Flanagan</fighter1>
+<fighter2>Petr Petrov</fighter2>
+<rounds>12</rounds>
+<weight>Lightweight Division</weight>
+
+<fighter1>Liam Smith</fighter1>
+<fighter2>Liam Williams</fighter2>
+<rounds>12</rounds>
+<weight>Junior Middleweight Division</weight>
+
 <time>Saturday, April. 15, 2017</time>
 <loc>Glasgow, UK</loc>
 
@@ -255,6 +310,24 @@
 <weight>Junior Welterweight Division</weight>
 
 <time>Saturday, April. 22, 2017</time>
+
+<loc>Leicester, England</loc>
+
+<fighter1>Tommy Langford</fighter1>
+<fighter2>Craig Cunningham</fighter2>
+<rounds>12</rounds>
+<weight>Middleweight Division</weight>
+
+<fighter1>Tyrone Nurse</fighter1>
+<fighter2>Joe Hughes</fighter2>
+<rounds>12</rounds>
+<weight>Junior Welterweight Division</weight>
+
+<fighter1>Jahmane Smyle</fighter1>
+<fighter2>Vijender Singh</fighter2>
+<rounds>10</rounds>
+<weight>Super Middleweight Division</weight>
+
 <loc>Australia</loc>
 
 <fighter1>Manny Pacquiao</fighter1>
@@ -272,9 +345,25 @@
 
 
 <time>Saturday, May. 6, 2017</time>
+<loc>London, England</loc>
+
+<fighter1>Bradley Skeete</fighter1>
+<fighter2>Shayne Singleton</fighter2>
+<rounds>12</rounds>
+<weight>Welterweight Division</weight>
+
 <loc>T-Mobile Arena, Las Vegas, Nevada</loc>
 
 <fighter1>Saul Canelo</fighter1>
 <fighter2>Julio Chavez</fighter2>
 <rounds>12</rounds>
 <weight>Caneloweight Division (165 lbs)</weight>
+
+<time>Saturday, May. 13, 2017</time>
+<loc>Leeds, England</loc>
+
+<fighter1>Josh Warrington</fighter1>
+<fighter2>Marco McCullough</fighter2>
+<rounds>12</rounds>
+<weight>Featherweight Division</weight>
+
