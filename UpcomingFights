@@ -5,42 +5,6 @@
 <rounds>12</rounds>
 <weight>Featherweight Division</weight>
 
-<fighter1>Dejan Zlaticanin</fighter1>
-<fighter2>Mikey Garcia</fighter2>
-<rounds>12</rounds>
-<weight>Lightweight Division</weight>
-
-<fighter1>Lee Selby</fighter1>
-<fighter2>Jonathan Barros</fighter2>
-<rounds>12</rounds>
-<weight>Featherweight Division</weight>
-
-<fighter1>Josh Taylor</fighter1>
-<fighter2>Sherali Mamajonov</fighter2>
-<rounds>8</rounds>
-<weight>Super Middleweight</weight>
-
-<fighter1>David Benavidez</fighter1>
-<fighter2>Alfonso Olvera</fighter2>
-<rounds>10</rounds>
-<weight>Junior Welterweight</weight>
-
-<loc>USA</loc>
-<fighter1>Francisco Vargas</fighter1>
-<fighter2>Miguel Berchelt</fighter2>
-<rounds>12</rounds>
-<weight>Junior Lightweight Division</weight>
-
-<fighter1>Takashi Miura</fighter1>
-<fighter2>Miguel Roman</fighter2>
-<rounds>12</rounds>
-<weight>Junior Lightweight Division</weight>
-
-<fighter1>Tureano Johnson</fighter1>
-<fighter2>Antonio Gutierrez</fighter2>
-<rounds>10</rounds>
-<weight>Middleweight Division</weight>
-
 <time>Feb. 2, 2017</time>
 <loc>Tunica, Miss. (PBC on FS1/Fox Deportes):</loc>
 
@@ -92,6 +56,11 @@
 <fighter2>John Ryder</fighter2>
 <rounds>10</rounds>
 <weight>Middleweight Division</weight>
+
+<fighter1>Kid Galahad</fighter1>
+<fighter2>Joseph Agbeko</fighter2>
+<rounds>12</rounds>
+<weight>Featherweight Division</weight>
 
 <time>Friday, Feb. 10, 2017</time>
 <loc>Miami, Okla. (Showtime)</loc>
@@ -146,6 +115,16 @@
 <rounds>12</rounds>
 <weight>Light Heavyweight Division</weight>
 
+<time>Feb. 21, 2017</time>
+
+<loc>Houston (PBC on FS1/Fox Deportes)</loc>
+
+<fighter1>Miguel Flores</fighter1>
+<fighter2>Dat Nguyen</fighter2>
+<rounds>10</rounds>
+<weight>Junior Lightweight Division</weight>
+
+
 <time>Friday, Feb. 24, 2017</time>
 
 <loc>Oslo, Norway</loc>
@@ -186,6 +165,11 @@
 <rounds>12</rounds>
 <weight>Junior Featherweight Division</weight>
 
+<fighter1>Diego De La Hoya</fighter1>
+<fighter2>Yoandris Salinas</fighter2>
+<rounds>10</rounds>
+<weight>Junior Featherweight Division</weight>
+
 <fighter1>Maurice Hooker</fighter1>
 <fighter2>Juan Lopez</fighter2>
 <rounds>10</rounds>
@@ -193,17 +177,17 @@
 
 <loc>Birmingham, Ala. (PBC on Fox)</loc>
 <fighter1>Deontay Wilder</fighter1>
-<fighter2>Andrzej Wawrzyk</fighter2>
+<fighter2>Gerald Washington</fighter2>
 <rounds>12</rounds>
 <weight>Heavyweight Division</weight>
 
+<fighter1>Tony Harrison</fighter1>
+<fighter2>Jarrett Hurd</fighter2>
+<rounds>12</rounds>
+<weight>Junior Middleweight Division</weight>
+
 <fighter1>Dominic Breazeale</fighter1>
 <fighter2>Izuagbe Ugonoh</fighter2>
-<rounds>10</rounds>
-<weight>Heavyweight Division</weight>
-
-<fighter1>Travis Kauffman</fighter1>
-<fighter2>Amir Mansour</fighter2>
 <rounds>10</rounds>
 <weight>Heavyweight Division</weight>
 
@@ -250,7 +234,7 @@
 <rounds>10</rounds>
 <weight>Junior Lightweight Division</weight>
 
-<time>Friday, March. 11, 2017</time>
+<time>Friday, March. 17, 2017</time>
 <loc>Madison Square Garden</loc>
 
 <fighter1>Michael Conlan</fighter1>
