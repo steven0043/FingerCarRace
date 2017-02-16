@@ -6,8 +6,6 @@
 <rounds>12</rounds>
 <weight>Cruiserweight Division</weight>
 
-<time>Friday, Feb. 17, 2017</time>
-
 <time>Saturday, Feb. 18, 2017</time>
 <loc>Cincinnati (Showtime)</loc>
 
@@ -185,6 +183,18 @@
 <fighter2>Tim Ibarra</fighter2>
 <rounds>6</rounds>
 <weight>Featherweight Division</weight>
+
+<loc>Reading, Pa. (PBC on Bounce)</loc>
+
+<fighter1>Travis Kauffman</fighter1>
+<fighter2>Amir Mansour</fighter2>
+<rounds>12</rounds>
+<weight>Heavyweight Division</weight>
+
+<fighter1>Edner Cherry</fighter1>
+<fighter2>Omar Douglas</fighter2>
+<rounds>10</rounds>
+<weight>Lightweight Division</weight>
 
 <time>Saturday, March. 18, 2017</time>
 <loc>Madison Square Garden</loc>
