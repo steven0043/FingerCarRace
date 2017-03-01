@@ -1,43 +1,3 @@
-<time>Saturday, Feb. 25, 2017</time>
-
-<loc>Hull, England</loc>
-
-<fighter1>Gavin McDonnell</fighter1>
-<fighter2>Rey Vargas</fighter2>
-<rounds>12</rounds>
-<weight>Junior Featherweight Division</weight>
-
-<fighter1>Luke Campbell</fighter1>
-<fighter2>Jairo Lopez</fighter2>
-<rounds>12</rounds>
-<weight>Lightweight Division</weight>
-
-<fighter1>Tommy Coyle</fighter1>
-<fighter2>Rakeem Noble</fighter2>
-<rounds>10</rounds>
-<weight>Junior Welterweight Division</weight>
-
-<loc>Birmingham, Ala. (PBC on Fox)</loc>
-<fighter1>Deontay Wilder</fighter1>
-<fighter2>Gerald Washington</fighter2>
-<rounds>12</rounds>
-<weight>Heavyweight Division</weight>
-
-<fighter1>Tony Harrison</fighter1>
-<fighter2>Jarrett Hurd</fighter2>
-<rounds>12</rounds>
-<weight>Junior Middleweight Division</weight>
-
-<fighter1>Dominic Breazeale</fighter1>
-<fighter2>Izuagbe Ugonoh</fighter2>
-<rounds>10</rounds>
-<weight>Heavyweight Division</weight>
-
-<fighter1>Caleb Plant</fighter1>
-<fighter2>Thomas Awimbono</fighter2>
-<rounds>10</rounds>
-<weight>Super Middleweight Division</weight>
-
 <time>Saturday, March. 4, 2017</time>
 <loc>London</loc>
 
@@ -60,6 +20,11 @@
 <fighter2>Andoni Gago</fighter2>
 <rounds>10</rounds>
 <weight>Featherweight Division</weight>
+
+<fighter1>Ted Cheeseman</fighter1>
+<fighter2>Jack Sellers</fighter2>
+<rounds>10</rounds>
+<weight>Junior Middleweight Division</weight>
 
 <loc>USA</loc>
 
@@ -168,6 +133,11 @@
 <rounds>12</rounds>
 <weight>Light Heavyweight Division</weight>
 
+<fighter1>Erkan Teper</fighter1>
+<fighter2>Mariusz Wach</fighter2>
+<rounds>10</rounds>
+<weight>Heavyweight Division</weight>
+
 <time>Thursday, March. 23, 2017</time>
 
 <loc>Indio, Calif. (ESPN2/ESPN Deportes)</loc>
@@ -254,6 +224,11 @@
 <rounds>10</rounds>
 <weight>Light Heavyweight Division</weight>
 
+<fighter1>Oleksandr Usyk</fighter1>
+<fighter2>Michael Hunter</fighter2>
+<rounds>12</rounds>
+<weight>Cruiserweight Division</weight>
+
 <time>Saturday, April. 15, 2017</time>
 <loc>Glasgow, UK</loc>
 
@@ -279,7 +254,7 @@
 <loc>Leicester, England</loc>
 
 <fighter1>Tommy Langford</fighter1>
-<fighter2>Craig Cunningham</fighter2>
+<fighter2>Avtandil Khurtsidze</fighter2>
 <rounds>12</rounds>
 <weight>Middleweight Division</weight>
 
@@ -292,6 +267,35 @@
 <fighter2>Vijender Singh</fighter2>
 <rounds>10</rounds>
 <weight>Super Middleweight Division</weight>
+
+<loc>Liverpool, England</loc>
+
+<fighter1>Martin Murray</fighter1>
+<fighter2>Gabriel Rosado</fighter2>
+<rounds>12</rounds>
+<weight>Middleweight Division</weight>
+
+<fighter1>Rocky Fielding</fighter1>
+<fighter2>John Ryder</fighter2>
+<rounds>12</rounds>
+<weight>Super Middleweight Division</weight>
+
+<loc>Carson, Calif</loc>
+
+<fighter1>Oscar Valdez</fighter1>
+<fighter2>Miguel Marriaga</fighter2>
+<rounds>12</rounds>
+<weight>Featherweight Division</weight>
+
+<fighter1>Gilberto Ramirez</fighter1>
+<fighter2>Max Bursak</fighter2>
+<rounds>12</rounds>
+<weight>Super Middleweight Division</weight>
+
+<fighter1>Jessie Magdaleno</fighter1>
+<fighter2>Adeilson Dos Santos</fighter2>
+<rounds>12</rounds>
+<weight>Junior Featherweight Division</weight>
 
 <loc>Australia</loc>
 
@@ -317,12 +321,27 @@
 <rounds>12</rounds>
 <weight>Welterweight Division</weight>
 
+<fighter1>Ryan Walsh</fighter1>
+<fighter2>Marco McCullough</fighter2>
+<rounds>12</rounds>
+<weight>Featherweight Division</weight>
+
+<fighter1>George Jupp</fighter1>
+<fighter2>Mitchell Smith</fighter2>
+<rounds>12</rounds>
+<weight>Lightweight Division</weight>
+
 <loc>T-Mobile Arena, Las Vegas, Nevada</loc>
 
 <fighter1>Saul Canelo</fighter1>
 <fighter2>Julio Chavez</fighter2>
 <rounds>12</rounds>
-<weight>Caneloweight Division (165 lbs)</weight>
+<weight>Super Middleweight (165 lbs)</weight>
+
+<fighter1>Lucas Matthysse</fighter1>
+<fighter2>Emmanuel Taylor</fighter2>
+<rounds>10</rounds>
+<weight>Welterweight Division</weight>
 
 <time>Saturday, May. 13, 2017</time>
 <loc>Leeds, England</loc>
