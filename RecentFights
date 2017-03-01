@@ -1,16 +1,32 @@
-<time>Friday, Feb. 24, 2017</time>
+<time>Saturday, Feb. 25, 2017</time>
 
-<loc>London</loc>
+<loc>Hull, England</loc>
 
-<fighter1>Thomas Essomba</fighter1>
-<fighter2>Jay Harris</fighter2>
+<fighter1>Gavin McDonnell</fighter1>
+<fighter2>Rey Vargas</fighter2>
 <rounds>12</rounds>
-<weight>Flyweight Division</weight>
+<weight>Junior Featherweight Division</weight>
 
-<fighter1>Boy Jones</fighter1>
-<fighter2>Craig Poxton</fighter2>
+<loc>Birmingham, Ala. (PBC on Fox)</loc>
+<fighter1>Deontay Wilder</fighter1>
+<fighter2>Gerald Washington</fighter2>
+<rounds>12</rounds>
+<weight>Heavyweight Division</weight>
+
+<fighter1>Tony Harrison</fighter1>
+<fighter2>Jarrett Hurd</fighter2>
+<rounds>12</rounds>
+<weight>Junior Middleweight Division</weight>
+
+<fighter1>Dominic Breazeale</fighter1>
+<fighter2>Izuagbe Ugonoh</fighter2>
 <rounds>10</rounds>
-<weight>Junior Lightweight Division</weight>
+<weight>Heavyweight Division</weight>
+
+<fighter1>Caleb Plant</fighter1>
+<fighter2>Thomas Awimbono</fighter2>
+<rounds>10</rounds>
+<weight>Super Middleweight Division</weight>
 
 <loc>Canada</loc>
 
