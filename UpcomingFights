@@ -1,51 +1,3 @@
-<time>Saturday, March. 4, 2017</time>
-<loc>London</loc>
-
-<fighter1>David Haye</fighter1>
-<fighter2>Tony Bellew</fighter2>
-<rounds>12</rounds>
-<weight>Heavyweight Division</weight>
-
-<loc>Brooklyn, New York</loc>
-
-<fighter1>Danny Garcia</fighter1>
-<fighter2>Keith Thurman</fighter2>
-<rounds>12</rounds>
-<weight>Welterweight Division</weight>
-
-<loc>London</loc>
-<fighter1>Sam Eggington</fighter1>
-<fighter2>Paul Malignaggi</fighter2>
-<rounds>12</rounds>
-<weight>Junior Welterweight Division</weight>
-
-<fighter1>Ohara Davies</fighter1>
-<fighter2>Derry Mathews</fighter2>
-<rounds>12</rounds>
-<weight>Junior Welterweight Division</weight>
-
-<fighter1>Lee Selby</fighter1>
-<fighter2>Andoni Gago</fighter2>
-<rounds>10</rounds>
-<weight>Featherweight Division</weight>
-
-<fighter1>Ted Cheeseman</fighter1>
-<fighter2>Jack Sellers</fighter2>
-<rounds>10</rounds>
-<weight>Junior Middleweight Division</weight>
-
-<loc>USA</loc>
-
-<fighter1>Erickson Lubin</fighter1>
-<fighter2>Jorge Cota</fighter2>
-<rounds>12</rounds>
-<weight>Junior Middleweight Division</weight>
-
-<fighter1>Andrzej Fonfara</fighter1>
-<fighter2>Chad Dawson</fighter2>
-<rounds>10</rounds>
-<weight>Light Heavyweight Division</weight>
-
 <time>Friday, March. 10, 2017</time>
 <loc>Detroit (Showtime)</loc>
 
@@ -67,17 +19,15 @@
 <rounds>10</rounds>
 <weight>Junior Lightweight Division</weight>
 
-<loc>Oxon Hill, Md. (Showtime)</loc>
+<fighter1>Zachary Ochoa</fighter1>
+<fighter2>Yves Ulysse</fighter2>
+<rounds>10</rounds>
+<weight>Junior Welterweight Division</weight>
 
-<fighter1>Gary Russell</fighter1>
-<fighter2>Oscar Escandon</fighter2>
-<rounds>12</rounds>
-<weight>Featherweight Division</weight>
-
-<fighter1>Jermell Charlo</fighter1>
-<fighter2>Charles Hatley</fighter2>
-<rounds>12</rounds>
-<weight>Junior Middleweight Division</weight>
+<fighter1>Diego De La Hoya</fighter1>
+<fighter2>Roberto Pucheta</fighter2>
+<rounds>8</rounds>
+<weight>Junior Featherweight Division</weight>
 
 <loc>Ludwigshafen, Germany</loc>
 
