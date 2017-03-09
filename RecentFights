@@ -1,3 +1,36 @@
+<time>Saturday, March. 4, 2017</time>
+<loc>London</loc>
+
+<fighter1>David Haye</fighter1>
+<fighter2>Tony Bellew</fighter2>
+<rounds>12</rounds>
+<weight>Heavyweight Division</weight>
+
+<loc>Brooklyn, New York</loc>
+
+<fighter1>Danny Garcia</fighter1>
+<fighter2>Keith Thurman</fighter2>
+<rounds>12</rounds>
+<weight>Welterweight Division</weight>
+
+<loc>London</loc>
+<fighter1>Sam Eggington</fighter1>
+<fighter2>Paul Malignaggi</fighter2>
+<rounds>12</rounds>
+<weight>Junior Welterweight Division</weight>
+
+<loc>USA</loc>
+
+<fighter1>Erickson Lubin</fighter1>
+<fighter2>Jorge Cota</fighter2>
+<rounds>12</rounds>
+<weight>Junior Middleweight Division</weight>
+
+<fighter1>Andrzej Fonfara</fighter1>
+<fighter2>Chad Dawson</fighter2>
+<rounds>10</rounds>
+<weight>Light Heavyweight Division</weight>
+
 <time>Saturday, Feb. 25, 2017</time>
 
 <loc>Hull, England</loc>
