@@ -1,34 +1,4 @@
-<time>Tuesday, March. 15, 2017</time>
-<loc>PBC (Fox)</loc>
-
-<fighter1>Sergey Derevyanchenko</fighter1>
-<fighter2>Kemahl Russell</fighter2>
-<rounds>10</rounds>
-<weight>Middleweight Division</weight>
-
 <time>Saturday, March. 11, 2017</time>
-<loc>Verona, N.Y. (HBO)</loc>
-
-<fighter1>David Lemieux</fighter1>
-<fighter2>Curtis Stevens</fighter2>
-<rounds>12</rounds>
-<weight>Middleweight Division</weight>
-
-<fighter1>Yuriorkis Gamboa</fighter1>
-<fighter2>Rene Alvarado</fighter2>
-<rounds>10</rounds>
-<weight>Junior Lightweight Division</weight>
-
-<fighter1>Zachary Ochoa</fighter1>
-<fighter2>Yves Ulysse</fighter2>
-<rounds>10</rounds>
-<weight>Junior Welterweight Division</weight>
-
-<fighter1>Diego De La Hoya</fighter1>
-<fighter2>Roberto Pucheta</fighter2>
-<rounds>8</rounds>
-<weight>Junior Featherweight Division</weight>
-
 <loc>Ludwigshafen, Germany</loc>
 
 <fighter1>Jack Culcay</fighter1>
@@ -51,10 +21,10 @@
 <rounds>12</rounds>
 <weight>Heavyweight Division</weight>
 
-<fighter1>Edner Cherry</fighter1>
-<fighter2>Omar Douglas</fighter2>
+<fighter1>Kermit Cintron</fighter1>
+<fighter2>David Grayton</fighter2>
 <rounds>10</rounds>
-<weight>Lightweight Division</weight>
+<weight>Welterweight Division</weight>
 
 <time>Saturday, March. 18, 2017</time>
 <loc>Madison Square Garden</loc>
@@ -233,6 +203,13 @@
 <rounds>12</rounds>
 <weight>Super Middleweight Division</weight>
 
+<loc>New York (Showtime)</loc>
+
+<fighter1>Shawn Porter</fighter1>
+<fighter2>Andre Berto</fighter2>
+<rounds>12</rounds>
+<weight>Welterweight Division</weight>
+
 <loc>Carson, Calif</loc>
 
 <fighter1>Oscar Valdez</fighter1>
@@ -303,6 +280,14 @@
 <fighter2>Kiko Martinez</fighter2>
 <rounds>12</rounds>
 <weight>Featherweight Division</weight>
+
+<time>Saturday, May. 20, 2017</time>
+<loc>London</loc>
+
+<fighter1>Gervonta Davis</fighter1>
+<fighter2>Liam Walsh</fighter2>
+<rounds>12</rounds>
+<weight>Junior Lightweight Division</weight>
 
 <time>Saturday, May. 27, 2017</time>
 <loc>Sheffield, England</loc>
