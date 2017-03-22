@@ -12,28 +12,6 @@
 <rounds>12</rounds>
 <weight>Junior Bantamweight Division</weight>
 
-<fighter1>Carlos Cuadras</fighter1>
-<fighter2>David Carmona</fighter2>
-<rounds>10</rounds>
-<weight>Junior Bantamweight Division</weight>
-
-<fighter1>Andy Lee</fighter1>
-<fighter2>Keandre Leatherwood</fighter2>
-<rounds>8</rounds>
-<weight>Middleweight Division</weight>
-
-<loc>Leipzig, Germany</loc>
-
-<fighter1>Robert Stieglitz</fighter1>
-<fighter2>Nikola Sjekloca</fighter2>
-<rounds>12</rounds>
-<weight>Light Heavyweight Division</weight>
-
-<fighter1>Erkan Teper</fighter1>
-<fighter2>Mariusz Wach</fighter2>
-<rounds>10</rounds>
-<weight>Heavyweight Division</weight>
-
 <time>Thursday, March. 23, 2017</time>
 
 <loc>Indio, Calif. (ESPN2/ESPN Deportes)</loc>
@@ -75,20 +53,25 @@
 <weight>Super Middleweight Division</weight>
 
 <time>Saturday, April. 1, 2017</time>
-
-<loc>Auckland, New Zealand</loc>
-
-<fighter1>Joseph Parker</fighter1>
-<fighter2>Hughie Fury</fighter2>
-<rounds>12</rounds>
-<weight>Heavyweight Division</weight>
-
 <loc>Dortmund, Germany</loc>
 
 <fighter1>Mairis Briedis</fighter1>
 <fighter2>Marco Huck</fighter2>
 <rounds>12</rounds>
 <weight>Cruiserweight Division</weight>
+
+<time>Tuesday, April. 4, 2017</time>
+<loc>Bethlehem, Pa.: (PBC on Fox)</loc>
+
+<fighter1>Edner Cherry</fighter1>
+<fighter2>Omar Douglas</fighter2>
+<rounds>10</rounds>
+<weight>Junior Lightweight Division</weight>
+
+<fighter1>Milton Santiago</fighter1>
+<fighter2>Haskell Rhodes</fighter2>
+<rounds>10</rounds>
+<weight>Junior Welterweight Division</weight>
 
 <time>Saturday, April. 8, 2017</time>
 <loc>Manchester, UK</loc>
@@ -107,6 +90,11 @@
 <fighter2>Arthur Villanueva</fighter2>
 <rounds>12</rounds>
 <weight>Bantamweight Division</weight>
+
+<fighter1>Jack Catterall</fighter1>
+<fighter2>Martin Gethin</fighter2>
+<rounds>10</rounds>
+<weight>Junior Welterweight Division</weight>
 
 <loc>Oxon Hill, Md. (HBO)</loc>
 
@@ -133,10 +121,20 @@
 <rounds>12</rounds>
 <weight>Junior Welterweight Division</weight>
 
+<fighter1>Scott Cardle</fighter1>
+<fighter2>Robbie Barrett</fighter2>
+<rounds>12</rounds>
+<weight>Lightweight Division</weight>
+
 <fighter1>Charlie Edwards</fighter1>
 <fighter2>Iain Butcher</fighter2>
 <rounds>12</rounds>
 <weight>Junior Bantamweight Division</weight>
+
+<fighter1>Callum Johnson</fighter1>
+<fighter2>Schiller Hyppolite</fighter2>
+<rounds>12</rounds>
+<weight>Light Heavyweight Division</weight>
 
 <time>Saturday, April. 22, 2017</time>
 
@@ -215,8 +213,15 @@
 <rounds>12</rounds>
 <weight>Heavyweight Division</weight>
 
-
 <time>Saturday, May. 6, 2017</time>
+
+<loc>Auckland, New Zealand</loc>
+
+<fighter1>Joseph Parker</fighter1>
+<fighter2>Hughie Fury</fighter2>
+<rounds>12</rounds>
+<weight>Heavyweight Division</weight>
+
 <loc>London, England</loc>
 
 <fighter1>Bradley Skeete</fighter1>
@@ -254,6 +259,33 @@
 <rounds>12</rounds>
 <weight>Featherweight Division</weight>
 
+<fighter1>Jazza Dickens</fighter1>
+<fighter2>Thomas Ward</fighter2>
+<rounds>12</rounds>
+<weight>Junior Lightweight Division</weight>
+
+<loc>Birmingham, England</loc>
+
+<fighter1>Kal Yafai</fighter1>
+<fighter2>Suguru Muranaka</fighter2>
+<rounds>12</rounds>
+<weight>Junior Bantamweight Division</weight>
+
+<fighter1>Sam Eggington</fighter1>
+<fighter2>Cerefino Rodriguez</fighter2>
+<rounds>12</rounds>
+<weight>Welterweight Division</weight>
+
+<fighter1>Frankie Gavin</fighter1>
+<fighter2>Dave Ryan</fighter2>
+<rounds>10</rounds>
+<weight>Welterweight Division</weight>
+
+<fighter1>Gamal Yafai</fighter1>
+<fighter2>Sean Davis</fighter2>
+<rounds>10</rounds>
+<weight>Junior Featherweight Division</weight>
+
 <time>Saturday, May. 20, 2017</time>
 <loc>London</loc>
 
@@ -269,3 +301,15 @@
 <fighter2>Errol Spence</fighter2>
 <rounds>12</rounds>
 <weight>Welterweight Division</weight>
+
+<loc>Oxon Hill, Md.</loc>
+
+<fighter1>Gary Russell</fighter1>
+<fighter2>Oscar Escandon</fighter2>
+<rounds>12</rounds>
+<weight>Featherweight Division</weight>
+
+<fighter1>Jermell Charlo</fighter1>
+<fighter2>Charles Hatley</fighter2>
+<rounds>12</rounds>
+<weight>Junior Middleweight Division</weight>
