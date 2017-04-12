@@ -1,50 +1,3 @@
-<time>Saturday, April. 8, 2017</time>
-<loc>Manchester, UK</loc>
-
-<fighter1>Terry Flanagan</fighter1>
-<fighter2>Petr Petrov</fighter2>
-<rounds>12</rounds>
-<weight>Lightweight Division</weight>
-
-<fighter1>Liam Smith</fighter1>
-<fighter2>Liam Williams</fighter2>
-<rounds>12</rounds>
-<weight>Junior Middleweight Division</weight>
-
-<fighter1>Zolani Tete</fighter1>
-<fighter2>Arthur Villanueva</fighter2>
-<rounds>12</rounds>
-<weight>Bantamweight Division</weight>
-
-<fighter1>Jack Catterall</fighter1>
-<fighter2>Martin Gethin</fighter2>
-<rounds>10</rounds>
-<weight>Junior Welterweight Division</weight>
-
-<loc>Oxon Hill, Md. (HBO)</loc>
-
-<fighter1>Vasyl Lomachenko</fighter1>
-<fighter2>Jason Sosa</fighter2>
-<rounds>12</rounds>
-<weight>Junior Lightweight Division</weight>
-
-<fighter1>Oleksandr Gvozdyk</fighter1>
-<fighter2>Yunieski Gonzalez</fighter2>
-<rounds>10</rounds>
-<weight>Light Heavyweight Division</weight>
-
-<fighter1>Oleksandr Usyk</fighter1>
-<fighter2>Michael Hunter</fighter2>
-<rounds>12</rounds>
-<weight>Cruiserweight Division</weight>
-
-<time>Sunday, April. 9, 2017</time>
-<loc>Los Angeles</loc>
-
-<fighter1>Josesito Lopez</fighter1>
-<fighter2>Saul Corral</fighter2>
-<rounds>10</rounds>
-<weight>Welterweight Division</weight>
 
 <time>Friday, April. 14, 2017</time>
 <loc>Oxon Hill, Md. (Showtime)</loc>
@@ -81,6 +34,14 @@
 <fighter2>Ryan Collins</fighter2>
 <rounds>10</rounds>
 <weight>Lightweight Division</weight>
+
+<time>Saturday, April. 15, 2017</time>
+<loc>Uncasville, Conn.</loc>
+
+<fighter1>Sullivan Barrera</fighter1>
+<fighter2>Paul Parker</fighter2>
+<rounds>10</rounds>
+<weight>Light Heavyweight Division</weight>
 
 <time>Saturday, April. 22, 2017</time>
 
@@ -161,6 +122,11 @@
 <fighter2>Wladimir Klitschko</fighter2>
 <rounds>12</rounds>
 <weight>Heavyweight Division</weight>
+
+<fighter1>Luke Campbell</fighter1>
+<fighter2>Darleys Perez</fighter2>
+<rounds>12</rounds>
+<weight>Lightweight Division</weight>
 
 <fighter1>Scott Quigg</fighter1>
 <fighter2>Viorel Simion</fighter2>
@@ -314,13 +280,6 @@
 <rounds>12</rounds>
 <weight>Heavyweight Division</weight>
 
-<loc>Australia</loc>
-
-<fighter1>Manny Pacquiao</fighter1>
-<fighter2>Jeff Horn</fighter2>
-<rounds>12</rounds>
-<weight>Welterweight Division</weight>
-
 <time>Saturday, June. 17, 2017</time>
 <loc>Las Vegas</loc>
 
@@ -333,4 +292,20 @@
 <fighter2>Moises Flores</fighter2>
 <rounds>12</rounds>
 <weight>Bantamweight Division</weight>
+
+<time>Friday, June. 30, 2017</time>
+<loc>Toledo, Ohio</loc>
+
+<fighter1>Robert Easter</fighter1>
+<fighter2>Denis Shafikov</fighter2>
+<rounds>12</rounds>
+<weight>Lightweight Division</weight>
+
+<time>Saturday, July. 1, 2017</time>
+<loc>Australia</loc>
+
+<fighter1>Manny Pacquiao</fighter1>
+<fighter2>Jeff Horn</fighter2>
+<rounds>12</rounds>
+<weight>Welterweight Division</weight>
 
