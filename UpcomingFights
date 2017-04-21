@@ -1,3 +1,15 @@
+<loc>New York (Showtime)</loc>
+
+<fighter1>Shawn Porter</fighter1>
+<fighter2>Andre Berto</fighter2>
+<rounds>12</rounds>
+<weight>Welterweight Division</weight>
+
+<fighter1>Jermell Charlo</fighter1>
+<fighter2>Charles Hatley</fighter2>
+<rounds>12</rounds>
+<weight>Junior Middleweight Division</weight>
+
 <time>Saturday, April. 22, 2017</time>
 
 <loc>Erfurt, Germany</loc>
@@ -35,23 +47,6 @@
 <fighter2>John Ryder</fighter2>
 <rounds>12</rounds>
 <weight>Super Middleweight Division</weight>
-
-<loc>New York (Showtime)</loc>
-
-<fighter1>Shawn Porter</fighter1>
-<fighter2>Andre Berto</fighter2>
-<rounds>12</rounds>
-<weight>Welterweight Division</weight>
-
-<fighter1>Jermell Charlo</fighter1>
-<fighter2>Charles Hatley</fighter2>
-<rounds>12</rounds>
-<weight>Junior Middleweight Division</weight>
-
-<fighter1>Luis Ortiz</fighter1>
-<fighter2>Derric Rossy</fighter2>
-<rounds>10</rounds>
-<weight>Heavyweight Division</weight>
 
 <loc>Carson, Calif</loc>
 
