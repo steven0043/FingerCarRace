@@ -1,11 +1,3 @@
-<time>Fridayday, April. 28, 2017</time>
-<loc>Sofia, Bulgaria</loc>
-
-<fighter1>Kubrat Pulev</fighter1>
-<fighter2>Kevin Johnson</fighter2>
-<rounds>12</rounds>
-<weight>Heavyweight Division</weight>
-
 <time>Saturday, April. 29, 2017</time>
 <loc>Wembley, 90,000 fans</loc>
 
@@ -30,11 +22,6 @@
 <weight>Lightweight Division</weight>
 
 <loc>Las Vegas</loc>
-
-<fighter1>Beibut Shumenov</fighter1>
-<fighter2>Yunier Dorticos</fighter2>
-<rounds>12</rounds>
-<weight>Cruiserweight Division</weight>
 
 <fighter1>Carlos Zambrano</fighter1>
 <fighter2>Claudio Marrero</fighter2>
