@@ -6,6 +6,40 @@
 <rounds>12</rounds>
 <weight>Junior Welterweight Division</weight>
 
+
+
+
+<loc>Oxon Hill, Md.</loc>
+
+<fighter1>Gary Russell</fighter1>
+<fighter2>Oscar Escandon</fighter2>
+<rounds>12</rounds>
+<weight>Featherweight Division</weight>
+
+<fighter1>Jose Uzcategui</fighter1>
+<fighter2>Andre Dirrell</fighter2>
+<rounds>12</rounds>
+<weight>Super Middleweight Division</weight>
+
+<fighter1>Rances Barthelemy</fighter1>
+<fighter2>Kiryl Relikh</fighter2>
+<rounds>12</rounds>
+<weight>Junior Welterweight Division</weight>
+
+<loc>Laredo, Texas</loc>
+
+<fighter1>David Benavidez</fighter1>
+<fighter2>Rogeliov Medina</fighter2>
+<rounds>12</rounds>
+<weight>Super Middleweight Division</weight>
+
+<loc>Tokyo</loc>
+
+<fighter1>Hassan N'Dam</fighter1>
+<fighter2>Ryota Murata</fighter2>
+<rounds>12</rounds>
+<weight>Middleweight Division</weight>
+
 <time>Saturday, May. 13, 2017</time>
 <loc>Leeds, England</loc>
 
