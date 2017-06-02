@@ -1,3 +1,17 @@
+<time>Saturday, May. 27, 2017</time>
+<loc>Sheffield, England</loc>
+
+<fighter1>Kell Brook</fighter1>
+<fighter2>Errol Spence</fighter2>
+<rounds>12</rounds>
+<weight>Welterweight Division</weight>
+
+<fighter1>Dave Allen</fighter1>
+<fighter2>Lenroy Thomas</fighter2>
+<rounds>12</rounds>
+<weight>Heavyweight Division</weight>
+
+
 <time>Saturday, May. 20, 2017</time>
 <loc>New York (HBO)</loc>
 
@@ -5,9 +19,6 @@
 <fighter2>Felix Diaz</fighter2>
 <rounds>12</rounds>
 <weight>Junior Welterweight Division</weight>
-
-
-
 
 <loc>Oxon Hill, Md.</loc>
 
