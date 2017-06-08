@@ -1,31 +1,15 @@
-<time>June. 2, 2017</time>
-<loc>London, England</loc>
+<time>Friday, June. 9, 2017</time>
+<loc>Verona, N.Y.</loc>
 
-<fighter1>Bradley Skeete</fighter1>
-<fighter2>Shayne Singleton</fighter2>
-<rounds>12</rounds>
-<weight>Welterweight Division</weight>
+<fighter1>Joel Diaz</fighter1>
+<fighter2>Regis Prograis</fighter2>
+<rounds>10</rounds>
+<weight>Junior Welterweight Division</weight>
 
-<fighter1>Lee Markham</fighter1>
-<fighter2>Joe Mullender</fighter2>
-<rounds>12</rounds>
-<weight>Middleweight Division</weight>
+<loc>Verona, N.Y.</loc>
 
-<time>Saturday, June. 3, 2017</time>
-<loc>Montreal (Showtime)</loc>
-
-<fighter1>Adonis Stevenson</fighter1>
-<fighter2>Andrzej Fonfara</fighter2>
-<rounds>12</rounds>
-<weight>Light Heavyweight Division</weight>
-
-<fighter1>Eleider Alvarez</fighter1>
-<fighter2>Jean Pascal</fighter2>
-<rounds>12</rounds>
-<weight>Light Heavyweight Division</weight>
-
-<fighter1>Custio Clayton</fighter1>
-<fighter2>Oscar Cortez</fighter2>
+<fighter1>Cecilia Braekhus</fighter1>
+<fighter2>Erica Farias</fighter2>
 <rounds>10</rounds>
 <weight>Welterweight Division</weight>
 
@@ -93,6 +77,11 @@
 <rounds>10</rounds>
 <weight>Junior Welterweight Division</weight>
 
+<fighter1>Earl Newman</fighter1>
+<fighter2>Lionell Thompson</fighter2>
+<rounds>10</rounds>
+<weight>Light Heavyweight Division</weight>
+
 <time>Saturday, June. 24, 2017</time>
 <loc>Gdansk, Poland</loc>
 
@@ -122,6 +111,20 @@
 <rounds>12</rounds>
 <weight>Junior Bantamweight Division</weight>
 
+<loc>Dresden, Germany</loc>
+
+<fighter1>Karo Murat</fighter1>
+<fighter2>Dominic Boesel</fighter2>
+<rounds>12</rounds>
+<weight>Light Heavyweight Division</weight>
+
+<loc>London</loc>
+
+<fighter1>Frank Buglioni</fighter1>
+<fighter2>Ricky Summers</fighter2>
+<rounds>12</rounds>
+<weight>Light Heavyweight Division</weight>
+
 <time>Saturday, July. 8, 2017</time>
 <loc>London</loc>
 
@@ -146,6 +149,14 @@
 <fighter2>Ohara Davies</fighter2>
 <rounds>12</rounds>
 <weight>Junior Welterweight Division</weight>
+
+<time>Monday, July. 10, 2017</time>
+<loc>Ekaterinburg, Russia</loc>
+
+<fighter1>Denis Lebedev</fighter1>
+<fighter2>Mark Flanagan</fighter2>
+<rounds>12</rounds>
+<weight>Cruiserweight Division</weight>
 
 <time>Tuesday, July. 11, 2017</time>
 <loc>Moscow</loc>
