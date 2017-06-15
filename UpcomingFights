@@ -179,6 +179,14 @@
 <weight>Lightweight Division</weight>
 
 <time>Saturday, July. 29, 2017</time>
+
+<loc>Belfast</loc>
+
+<fighter1>Carl Frampton</fighter1>
+<fighter2>Andres Gutierrez</fighter2>
+<rounds>12</rounds>
+<weight>Featherweight Division</weight>
+
 <loc>Las Vegas</loc>
 
 <fighter1>Adrien Broner</fighter1>
@@ -194,6 +202,14 @@
 <weight>Light Heavyweight Division</weight>
 
 <time>Saturday, Aug. 26, 2017</time>
+
+<loc>Las Vegas</loc>
+
+<fighter1>Floyd Mayweather</fighter1>
+<fighter2>Conor McGregor</fighter2>
+<rounds>12</rounds>
+<weight>Junior Middleweight Division</weight>
+
 <loc>Carson, Calif.</loc>
 
 <fighter1>Miguel Cotto</fighter1>
