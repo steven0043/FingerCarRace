@@ -1,45 +1,25 @@
-<time>Saturday, June. 17, 2017</time>
-<loc>Las Vegas</loc>
+<time>Friday, June. 23, 2017</time>
+<loc>Newcastle</loc>
 
-<fighter1>Andre Ward</fighter1>
-<fighter2>Sergey Kovalev</fighter2>
-<rounds>12</rounds>
-<weight>Light Heavyweight Division</weight>
+<fighter1>Josh Kelly</fighter1>
+<fighter2>Tom Whitfield</fighter2>
+<rounds>6</rounds>
+<weight>Welterweight Division</weight>
 
-<fighter1>Guillermo Rigondeaux</fighter1>
-<fighter2>Moises Flores</fighter2>
-<rounds>12</rounds>
-<weight>Bantamweight Division</weight>
-
-<fighter1>Dmitry Bivol</fighter1>
-<fighter2>Cedric Agnew</fighter2>
-<rounds>10</rounds>
-<weight>Light Heavyweight Division</weight>
-
-<fighter1>Luis Arias</fighter1>
-<fighter2>Arif Magomedov</fighter2>
-<rounds>10</rounds>
-<weight>Middleweight Division</weight>
-
-<loc>Wetzlar, Germany</loc>
-
-<fighter1>Tyron Zeuge</fighter1>
-<fighter2>Paul Smith</fighter2>
-<rounds>12</rounds>
-<weight>Super Middleweight Division</weight>
-
-<time>Tuesday, June. 20, 2017</time>
-<loc>Las Vegas</loc>
-
-<fighter1>Eddie Ramirez</fighter1>
-<fighter2>Erick Bone</fighter2>
-<rounds>10</rounds>
+<fighter1>Bradley Saunders</fighter1>
+<fighter2>Casey Blair</fighter2>
+<rounds>6</rounds>
 <weight>Junior Welterweight Division</weight>
 
-<fighter1>Earl Newman</fighter1>
-<fighter2>Lionell Thompson</fighter2>
-<rounds>10</rounds>
-<weight>Light Heavyweight Division</weight>
+<fighter1>Stuart Hall</fighter1>
+<fighter2>Jose Aguilar</fighter2>
+<rounds>6</rounds>
+<weight>Bantamweight Division</weight>
+
+<fighter1>Anthony Fowler</fighter1>
+<fighter2>Nikoloz Gvajava</fighter2>
+<rounds>6</rounds>
+<weight>Junior Middleweight Division</weight>
 
 <time>Saturday, June. 24, 2017</time>
 <loc>Gdansk, Poland</loc>
@@ -49,6 +29,11 @@
 <rounds>12</rounds>
 <weight>Heavyweight Division</weight>
 
+<fighter1>Krzysztof Glowacki</fighter1>
+<fighter2>Brian Howard</fighter2>
+<rounds>10</rounds>
+<weight>Cruiserweight Division</weight>
+
 <time>Friday, June. 30, 2017</time>
 <loc>Toledo, Ohio</loc>
 
@@ -56,6 +41,11 @@
 <fighter2>Denis Shafikov</fighter2>
 <rounds>12</rounds>
 <weight>Lightweight Division</weight>
+
+<fighter1>Julian Williams</fighter1>
+<fighter2>Joshua Conley</fighter2>
+<rounds>10</rounds>
+<weight>Junior Middleweight Division</weight>
 
 <time>Saturday, July. 1, 2017</time>
 <loc>Australia</loc>
@@ -69,6 +59,11 @@
 <fighter2>Teiru Kinoshita</fighter2>
 <rounds>12</rounds>
 <weight>Junior Bantamweight Division</weight>
+
+<fighter1>Michael Conlan</fighter1>
+<fighter2>Jarrett Owen</fighter2>
+<rounds>6</rounds>
+<weight>Featherweight Division</weight>
 
 <loc>Dresden, Germany</loc>
 
@@ -84,13 +79,25 @@
 <rounds>12</rounds>
 <weight>Light Heavyweight Division</weight>
 
+<fighter1>Matthew Ryan</fighter1>
+<fighter2>Ted Cheeseman</fighter2>
+<rounds>12</rounds>
+<weight>Light Middleweight Division</weight>
+
+<loc>Moscow</loc>
+
+<fighter1>Alexander Povetkin</fighter1>
+<fighter2>Andriy Rudenko</fighter2>
+<rounds>12</rounds>
+<weight>Heavyweight Division</weight>
+
 <time>Saturday, July. 8, 2017</time>
 <loc>London</loc>
 
-<fighter1>Billy Saunders</fighter1>
-<fighter2>Avtandil Khurtsidze</fighter2>
+<fighter1>Bradley Skeete</fighter1>
+<fighter2>Dale Evans</fighter2>
 <rounds>12</rounds>
-<weight>Middleweight Division</weight>
+<weight>Welterweight Division</weight>
 
 <fighter1>Darryll Williams</fighter1>
 <fighter2>Jahmaine Smyle</fighter2>
@@ -116,14 +123,6 @@
 <fighter2>Mark Flanagan</fighter2>
 <rounds>12</rounds>
 <weight>Cruiserweight Division</weight>
-
-<time>Tuesday, July. 11, 2017</time>
-<loc>Moscow</loc>
-
-<fighter1>Alexander Povetkin</fighter1>
-<fighter2>Andriy Rudenko</fighter2>
-<rounds>12</rounds>
-<weight>Heavyweight Division</weight>
 
 <time>Saturday, July. 15, 2017</time>
 
@@ -216,6 +215,24 @@
 <fighter2>Yoshihiro Kamegai</fighter2>
 <rounds>12</rounds>
 <weight>Junior Middleweight Division</weight>
+
+<time>Saturday, September. 9, 2017</time>
+<loc>Los Angeles, Calf.</loc>
+
+<fighter1>Srisaket Rungvisai</fighter1>
+<fighter2>Roman Gonzalez</fighter2>
+<rounds>12</rounds>
+<weight>Junior Bantamweight Division</weight>
+
+<fighter1>Naoya Inoue</fighter1>
+<fighter2>Antonio Nieves</fighter2>
+<rounds>12</rounds>
+<weight>Junior Bantamweight Division</weight>
+
+<fighter1>Carlos Cuadras</fighter1>
+<fighter2>Juan Estrada</fighter2>
+<rounds>12</rounds>
+<weight>Junior Bantamweight Division</weight>
 
 <time>Saturday, September. 16, 2017</time>
 <loc>Las Vegas</loc>
