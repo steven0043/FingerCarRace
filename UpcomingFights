@@ -55,6 +55,11 @@
 <rounds>12</rounds>
 <weight>Heavyweight Division</weight>
 
+<fighter1>Eduard Troyanovsky</fighter1>
+<fighter2>Michele Di Rocco</fighter2>
+<rounds>12</rounds>
+<weight>Junior Welterweight Division</weight>
+
 <time>Saturday, July. 8, 2017</time>
 <loc>London</loc>
 
@@ -73,6 +78,11 @@
 <rounds>12</rounds>
 <weight>Welterweight Division</weight>
 
+<fighter1>Anthony Yarde</fighter1>
+<fighter2>Richard Baranyi</fighter2>
+<rounds>12</rounds>
+<weight>Light Heavyweight Division</weight>
+
 <loc>Glasgow</loc>
 
 <fighter1>Josh Taylor</fighter1>
@@ -88,6 +98,11 @@
 <rounds>12</rounds>
 <weight>Cruiserweight Division</weight>
 
+<fighter1>Dmitry Mikhaylenko</fighter1>
+<fighter2>Qudratillo Abduqaxorov</fighter2>
+<rounds>12</rounds>
+<weight>Welterweight Division</weight>
+
 <time>Saturday, July. 15, 2017</time>
 
 <loc>London</loc>
@@ -97,10 +112,25 @@
 <rounds>12</rounds>
 <weight>Super Middleweight Division</weight>
 
+<fighter1>Lee Selby</fighter1>
+<fighter2>Jonathan Barros</fighter2>
+<rounds>12</rounds>
+<weight>Featherweight Division</weight>
+
+<fighter1>Kid Galahad</fighter1>
+<fighter2>Dennis Ceylan</fighter2>
+<rounds>12</rounds>
+<weight>Featherweight Division</weight>
+
 <fighter1>Martin Ward</fighter1>
 <fighter2>Anthony Cacace</fighter2>
 <rounds>12</rounds>
 <weight>Junior Lightweight Division</weight>
+
+<fighter1>Robbie Davies</fighter1>
+<fighter2>Michal Syrowatka</fighter2>
+<rounds>10</rounds>
+<weight>Junior Welterweight Division</weight>
 
 <loc>Inglewood, Calif</loc>
 
@@ -157,12 +187,36 @@
 <rounds>12</rounds>
 <weight>Junior Welterweight Division</weight>
 
+<fighter1>Jermall Charlo</fighter1>
+<fighter2>Sebastian Heiland</fighter2>
+<rounds>12</rounds>
+<weight>Middleweight Division</weight>
+
+<fighter1>Jarrell Miller</fighter1>
+<fighter2>Gerald Washington</fighter2>
+<rounds>10</rounds>
+<weight>Heavyweight Division</weight>
+
 <loc>Quebec City</loc>
 
 <fighter1>Artur Beterbiev</fighter1>
 <fighter2>Enrico Koelling</fighter2>
 <rounds>12</rounds>
 <weight>Light Heavyweight Division</weight>
+
+<time>Sunday, July. 30, 2017</time>
+
+<loc>Bakersfield, Calif.</loc>
+
+<fighter1>Victor Ortiz</fighter1>
+<fighter2>Saul Corral</fighter2>
+<rounds>10</rounds>
+<weight>Welterweight Division</weight>
+
+<fighter1>Justin DeLoach</fighter1>
+<fighter2>Fernando Guerrero</fighter2>
+<rounds>10</rounds>
+<weight>Junior Middleweight Division</weight>
 
 <time>Saturday, Aug. 26, 2017</time>
 
@@ -180,7 +234,20 @@
 <rounds>12</rounds>
 <weight>Junior Middleweight Division</weight>
 
+<fighter1>Rey Vargas</fighter1>
+<fighter2>Ronny Rios</fighter2>
+<rounds>12</rounds>
+<weight>Junior Featherweight Division</weight>
+
 <time>Saturday, September. 9, 2017</time>
+
+<loc>Ekaterinburg, Russia</loc>
+
+<fighter1>Shane Mosley</fighter1>
+<fighter2>Magomed Kurbanov</fighter2>
+<rounds>12</rounds>
+<weight>Junior Middleweight Division</weight>
+
 <loc>Los Angeles, Calf.</loc>
 
 <fighter1>Srisaket Rungvisai</fighter1>
@@ -205,3 +272,11 @@
 <fighter2>Saul Canelo</fighter2>
 <rounds>12</rounds>
 <weight>Middleweight Division</weight>
+
+<time>Saturday, September. 23, 2017</time>
+<loc>Manchester</loc>
+
+<fighter1>Joseph Parker</fighter1>
+<fighter2>Hughie Fury</fighter2>
+<rounds>12</rounds>
+<weight>Heavyweight Division</weight>
