@@ -1,66 +1,12 @@
-<time>Friday, June. 30, 2017</time>
-<loc>Toledo, Ohio</loc>
+<time>Saturday, July. 8, 2017</time>
 
-<fighter1>Robert Easter</fighter1>
-<fighter2>Denis Shafikov</fighter2>
-<rounds>12</rounds>
-<weight>Lightweight Division</weight>
+<loc>Glasgow</loc>
 
-<fighter1>Julian Williams</fighter1>
-<fighter2>Joshua Conley</fighter2>
-<rounds>10</rounds>
-<weight>Junior Middleweight Division</weight>
-
-<time>Saturday, July. 1, 2017</time>
-<loc>Australia</loc>
-
-<fighter1>Manny Pacquiao</fighter1>
-<fighter2>Jeff Horn</fighter2>
-<rounds>12</rounds>
-<weight>Welterweight Division</weight>
-
-<fighter1>Jerwin Ancajas</fighter1>
-<fighter2>Teiru Kinoshita</fighter2>
-<rounds>12</rounds>
-<weight>Junior Bantamweight Division</weight>
-
-<fighter1>Michael Conlan</fighter1>
-<fighter2>Jarrett Owen</fighter2>
-<rounds>6</rounds>
-<weight>Featherweight Division</weight>
-
-<loc>Dresden, Germany</loc>
-
-<fighter1>Karo Murat</fighter1>
-<fighter2>Dominic Boesel</fighter2>
-<rounds>12</rounds>
-<weight>Light Heavyweight Division</weight>
-
-<loc>London</loc>
-
-<fighter1>Frank Buglioni</fighter1>
-<fighter2>Ricky Summers</fighter2>
-<rounds>12</rounds>
-<weight>Light Heavyweight Division</weight>
-
-<fighter1>Matthew Ryan</fighter1>
-<fighter2>Ted Cheeseman</fighter2>
-<rounds>12</rounds>
-<weight>Light Middleweight Division</weight>
-
-<loc>Moscow</loc>
-
-<fighter1>Alexander Povetkin</fighter1>
-<fighter2>Andriy Rudenko</fighter2>
-<rounds>12</rounds>
-<weight>Heavyweight Division</weight>
-
-<fighter1>Eduard Troyanovsky</fighter1>
-<fighter2>Michele Di Rocco</fighter2>
+<fighter1>Josh Taylor</fighter1>
+<fighter2>Ohara Davies</fighter2>
 <rounds>12</rounds>
 <weight>Junior Welterweight Division</weight>
 
-<time>Saturday, July. 8, 2017</time>
 <loc>London</loc>
 
 <fighter1>Bradley Skeete</fighter1>
@@ -82,13 +28,6 @@
 <fighter2>Richard Baranyi</fighter2>
 <rounds>12</rounds>
 <weight>Light Heavyweight Division</weight>
-
-<loc>Glasgow</loc>
-
-<fighter1>Josh Taylor</fighter1>
-<fighter2>Ohara Davies</fighter2>
-<rounds>12</rounds>
-<weight>Junior Welterweight Division</weight>
 
 <time>Monday, July. 10, 2017</time>
 <loc>Ekaterinburg, Russia</loc>
@@ -217,6 +156,30 @@
 <fighter2>Fernando Guerrero</fighter2>
 <rounds>10</rounds>
 <weight>Junior Middleweight Division</weight>
+
+
+<time>Saturday, Aug. 5, 2017</time>
+
+<loc>Los Angeles</loc>
+
+<fighter1>Vasyl Lomachenko</fighter1>
+<fighter2>Miguel Marriaga</fighter2>
+<rounds>12</rounds>
+<weight>Junior Lightweight Division</weight>
+
+<fighter1>Raymundo Beltran</fighter1>
+<fighter2>Bryan Vasquez</fighter2>
+<rounds>10</rounds>
+<weight>Lightweight Division</weight>
+
+<time>Saturday, Aug. 19, 2017</time>
+
+<loc>Lincoln, Neb.</loc>
+
+<fighter1>Terence Crawford</fighter1>
+<fighter2>Julius Indongo</fighter2>
+<rounds>12</rounds>
+<weight>Junior Welterweight Division</weight>
 
 <time>Saturday, Aug. 26, 2017</time>
 
