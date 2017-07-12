@@ -1,47 +1,3 @@
-<time>Saturday, July. 8, 2017</time>
-
-<loc>Glasgow</loc>
-
-<fighter1>Josh Taylor</fighter1>
-<fighter2>Ohara Davies</fighter2>
-<rounds>12</rounds>
-<weight>Junior Welterweight Division</weight>
-
-<loc>London</loc>
-
-<fighter1>Bradley Skeete</fighter1>
-<fighter2>Dale Evans</fighter2>
-<rounds>12</rounds>
-<weight>Welterweight Division</weight>
-
-<fighter1>Darryll Williams</fighter1>
-<fighter2>Jahmaine Smyle</fighter2>
-<rounds>10</rounds>
-<weight>Super Middleweight Division</weight>
-
-<fighter1>Gary Corcroan</fighter1>
-<fighter2>Larry Ekundayo</fighter2>
-<rounds>12</rounds>
-<weight>Welterweight Division</weight>
-
-<fighter1>Anthony Yarde</fighter1>
-<fighter2>Richard Baranyi</fighter2>
-<rounds>12</rounds>
-<weight>Light Heavyweight Division</weight>
-
-<time>Monday, July. 10, 2017</time>
-<loc>Ekaterinburg, Russia</loc>
-
-<fighter1>Denis Lebedev</fighter1>
-<fighter2>Mark Flanagan</fighter2>
-<rounds>12</rounds>
-<weight>Cruiserweight Division</weight>
-
-<fighter1>Dmitry Mikhaylenko</fighter1>
-<fighter2>Qudratillo Abduqaxorov</fighter2>
-<rounds>12</rounds>
-<weight>Welterweight Division</weight>
-
 <time>Saturday, July. 15, 2017</time>
 
 <loc>London</loc>
@@ -57,7 +13,7 @@
 <weight>Featherweight Division</weight>
 
 <fighter1>Kid Galahad</fighter1>
-<fighter2>Dennis Ceylan</fighter2>
+<fighter2>Jose Cayetano</fighter2>
 <rounds>12</rounds>
 <weight>Featherweight Division</weight>
 
@@ -157,6 +113,19 @@
 <rounds>10</rounds>
 <weight>Junior Middleweight Division</weight>
 
+<time>Friday, Aug. 4, 2017</time>
+
+<loc>Indio, Calif.</loc>
+
+<fighter1>Mauricio Herrera</fighter1>
+<fighter2>Jesus Soto Karass</fighter2>
+<rounds>10</rounds>
+<weight>Welterweight Division</weight>
+
+<fighter1>Vyacheslav Shabranskyy</fighter1>
+<fighter2>Todd May</fighter2>
+<rounds>10</rounds>
+<weight>Light Heavyweight Division</weight>
 
 <time>Saturday, Aug. 5, 2017</time>
 
