@@ -1,79 +1,4 @@
-<time>Saturday, July. 15, 2017</time>
-
-<loc>London</loc>
-
-<fighter1>Chris Eubank</fighter1>
-<fighter2>Arthur Abraham</fighter2>
-<rounds>12</rounds>
-<weight>Super Middleweight Division</weight>
-
-<fighter1>Lee Selby</fighter1>
-<fighter2>Jonathan Barros</fighter2>
-<rounds>12</rounds>
-<weight>Featherweight Division</weight>
-
-<fighter1>Kid Galahad</fighter1>
-<fighter2>Jose Cayetano</fighter2>
-<rounds>12</rounds>
-<weight>Featherweight Division</weight>
-
-<fighter1>Martin Ward</fighter1>
-<fighter2>Anthony Cacace</fighter2>
-<rounds>12</rounds>
-<weight>Junior Lightweight Division</weight>
-
-<fighter1>Robbie Davies</fighter1>
-<fighter2>Michal Syrowatka</fighter2>
-<rounds>12</rounds>
-<weight>Junior Welterweight Division</weight>
-
-<loc>Inglewood, Calif</loc>
-
-<fighter1>Miguel Berchelt</fighter1>
-<fighter2>Takashi Miura</fighter2>
-<rounds>12</rounds>
-<weight>Junior Lightweight Division</weight>
-
-<fighter1>Jezreel Corrales</fighter1>
-<fighter2>Robinson Castellanos</fighter2>
-<rounds>12</rounds>
-<weight>Junior Lightweight Division</weight>
-
-<fighter1>Joe Smith</fighter1>
-<fighter2>Sullivan Barrera</fighter2>
-<rounds>12</rounds>
-<weight>Light Heavyweight Division</weight>
-
-<loc>Uniondale, N.Y.</loc>
-
-<fighter1>Omar Figueroa</fighter1>
-<fighter2>Robert Guerrero</fighter2>
-<rounds>10</rounds>
-<weight>Welterweight Division</weight>
-
-<fighter1>Marcus Browne</fighter1>
-<fighter2>Seanie Monaghan</fighter2>
-<rounds>10</rounds>
-<weight>Junior Heavyweight Division</weight>
-
-<fighter1>Artur Szpilka</fighter1>
-<fighter2>Adam Kownacki</fighter2>
-<rounds>10</rounds>
-<weight>Heavyweight Division</weight>
-
-<fighter1>Jose Pedraza</fighter1>
-<fighter2>Jamel Herring</fighter2>
-<rounds>10</rounds>
-<weight>Lightweight Division</weight>
-
 <time>Saturday, July. 29, 2017</time>
-
-<loc>Belfast</loc>
-
-<fighter1>Carl Frampton</fighter1>
-<fighter2>Andres Gutierrez</fighter2>
-<rounds>12</rounds>
-<weight>Featherweight Division</weight>
 
 <loc>Las Vegas</loc>
 
@@ -91,6 +16,13 @@
 <fighter2>Gerald Washington</fighter2>
 <rounds>10</rounds>
 <weight>Heavyweight Division</weight>
+
+<loc>Belfast</loc>
+
+<fighter1>Carl Frampton</fighter1>
+<fighter2>Andres Gutierrez</fighter2>
+<rounds>12</rounds>
+<weight>Featherweight Division</weight>
 
 <loc>Quebec City</loc>
 
@@ -150,6 +82,35 @@
 <rounds>12</rounds>
 <weight>Junior Welterweight Division</weight>
 
+<fighter1>Oleksandr Gvozdyk</fighter1>
+<fighter2>Craig Baker</fighter2>
+<rounds>10</rounds>
+<weight>Light Heavyweight Division</weight>
+
+<fighter1>Shakur Stevenson</fighter1>
+<fighter2>David Paz</fighter2>
+<rounds>6</rounds>
+<weight>Featherweight Division</weight>
+
+<fighter1>Mike Alvarado</fighter1>
+<fighter2>Sidney De Siqueira</fighter2>
+<rounds>10</rounds>
+<weight>Welterweight Division</weight>
+
+<fighter1>Bryan Jennings</fighter1>
+<fighter2>Daniel Martz</fighter2>
+<rounds>8</rounds>
+<weight>Heavyweight Division</weight>
+
+<time>Friday, Aug. 25, 2017</time>
+
+<loc>USA</loc>
+
+<fighter1>Sergiy Derevyanchenko</fighter1>
+<fighter2>Tureano Johnson</fighter2>
+<rounds>12</rounds>
+<weight>Middleweight Division</weight>
+
 <time>Saturday, Aug. 26, 2017</time>
 
 <loc>Las Vegas</loc>
@@ -198,6 +159,21 @@
 <weight>Junior Bantamweight Division</weight>
 
 <time>Saturday, September. 16, 2017</time>
+
+<loc>London</loc>
+
+<fighter1>BJ Saunders</fighter1>
+<fighter2>Willie Monroe</fighter2>
+<rounds>12</rounds>
+<weight>Middleweight Division</weight>
+
+<loc>Liverpool</loc>
+
+<fighter1>Callum Smith</fighter1>
+<fighter2>Erik Skoglund</fighter2>
+<rounds>12</rounds>
+<weight>Super Middleweight Division</weight>
+
 <loc>Las Vegas</loc>
 
 <fighter1>Gennady Golovkin</fighter1>
