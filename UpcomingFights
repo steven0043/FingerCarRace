@@ -33,6 +33,11 @@
 <rounds>12</rounds>
 <weight>Featherweight Division</weight>
 
+<fighter1>Paddy Gallagher</fighter1>
+<fighter2>Ricardo Silva</fighter2>
+<rounds>10</rounds>
+<weight>Welterweight Division</weight>
+
 <loc>Quebec City</loc>
 
 <fighter1>Artur Beterbiev</fighter1>
@@ -143,12 +148,12 @@
 
 <time>Saturday, September. 9, 2017</time>
 
-<loc>Ekaterinburg, Russia</loc>
+<loc>Berlin</loc>
 
-<fighter1>Shane Mosley</fighter1>
-<fighter2>Magomed Kurbanov</fighter2>
+<fighter1>Oleksandr Usyk</fighter1>
+<fighter2>Marco Huck</fighter2>
 <rounds>12</rounds>
-<weight>Junior Middleweight Division</weight>
+<weight>Cruiserweight Division</weight>
 
 <loc>Los Angeles, Calf.</loc>
 
@@ -171,7 +176,7 @@
 
 <loc>London</loc>
 
-<fighter1>BJ Saunders</fighter1>
+<fighter1>Billy Saunders</fighter1>
 <fighter2>Willie Monroe</fighter2>
 <rounds>12</rounds>
 <weight>Middleweight Division</weight>
@@ -197,3 +202,49 @@
 <fighter2>Hughie Fury</fighter2>
 <rounds>12</rounds>
 <weight>Heavyweight Division</weight>
+
+<time>Saturday, September. 30, 2017</time>
+<loc>Riga, Latvia</loc>
+
+<fighter1>Mairis Briedis</fighter1>
+<fighter2>Mike Perez</fighter2>
+<rounds>12</rounds>
+<weight>Cruiserweight Division</weight>
+
+<loc>Liverpool</loc>
+
+<fighter1>Paul Butler</fighter1>
+<fighter2>Stuart Hall</fighter2>
+<rounds>12</rounds>
+<weight>Bantamweight Division</weight>
+
+<fighter1>Rocky Fielding</fighter1>
+<fighter2>David Brophy</fighter2>
+<rounds>12</rounds>
+<weight>Super Middleweight Division</weight>
+
+<fighter1>Tom Farrell</fighter1>
+<fighter2>Ohara Davies</fighter2>
+<rounds>12</rounds>
+<weight>Junior Welterweight Division</weight>
+
+<fighter1>Sean Dodd</fighter1>
+<fighter2>Tom Stalker</fighter2>
+<rounds>12</rounds>
+<weight>Lightweight Division</weight>
+
+<time>Saturday, October. 14, 2017</time>
+<loc>London</loc>
+
+<fighter1>George Groves</fighter1>
+<fighter2>Jamie Cox</fighter2>
+<rounds>12</rounds>
+<weight>Super Middleweight Division</weight>
+
+<time>Saturday, October. 28, 2017</time>
+<loc>Manchester</loc>
+
+<fighter1>Liam Smith</fighter1>
+<fighter2>Liam Williams</fighter2>
+<rounds>12</rounds>
+<weight>Junior Middleweight Division</weight>
