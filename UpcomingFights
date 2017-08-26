@@ -7,15 +7,15 @@
 <rounds>12</rounds>
 <weight>Junior Middleweight Division</weight>
 
-<fighter1>Gervonta Davis</fighter1>
-<fighter2>Francisco Fonseca</fighter2>
-<rounds>12</rounds>
-<weight>Junior Lightweight Division</weight>
-
 <fighter1>Nathan Cleverly</fighter1>
 <fighter2>Badou Jack</fighter2>
 <rounds>12</rounds>
 <weight>Light Heavyweight Division</weight>
+
+<fighter1>Gervonta Davis</fighter1>
+<fighter2>Francisco Fonseca</fighter2>
+<rounds>12</rounds>
+<weight>Junior Lightweight Division</weight>
 
 <fighter1>Andrew Tabiti</fighter1>
 <fighter2>Steve Cunningham</fighter2>
@@ -50,7 +50,7 @@
 <fighter1>Antonio Margarito</fighter1>
 <fighter2>Carson Jones</fighter2>
 <rounds>10</rounds>
-<weight>Juniort Middleweight Division</weight>
+<weight>Junior Middleweight Division</weight>
 
 <time>Saturday, September. 9, 2017</time>
 
