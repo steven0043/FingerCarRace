@@ -34,15 +34,6 @@
 <rounds>12</rounds>
 <weight>Junior Featherweight Division</weight>
 
-<time>Friday, Aug. 25, 2017</time>
-
-<loc>USA</loc>
-
-<fighter1>Sergiy Derevyanchenko</fighter1>
-<fighter2>Tureano Johnson</fighter2>
-<rounds>12</rounds>
-<weight>Middleweight Division</weight>
-
 <time>Saturday, September. 2, 2017</time>
 
 <loc>Chihuahua, Mexico</loc>
@@ -51,6 +42,30 @@
 <fighter2>Carson Jones</fighter2>
 <rounds>10</rounds>
 <weight>Junior Middleweight Division</weight>
+
+<fighter1>Ramon Alvarez</fighter1>
+<fighter2>Johhny Navarrete</fighter2>
+<rounds>10</rounds>
+<weight>Junior Middleweight Division</weight>
+
+<time>Friday, September. 8, 2017</time>
+
+<loc>Las Vegas</loc>
+
+<fighter1>David Benavidez</fighter1>
+<fighter2>Ronald Gavril</fighter2>
+<rounds>12</rounds>
+<weight>Super Middleweight Division</weight>
+
+<fighter1>J'Leon Love</fighter1>
+<fighter2>Abraham Han</fighter2>
+<rounds>10</rounds>
+<weight>Super Middleweight Division</weight>
+
+<fighter1>Caleb Plant</fighter1>
+<fighter2>Alan Campa</fighter2>
+<rounds>10</rounds>
+<weight>Super Middleweight Division</weight>
 
 <time>Saturday, September. 9, 2017</time>
 
@@ -103,6 +118,11 @@
 <fighter2>Erik Skoglund</fighter2>
 <rounds>12</rounds>
 <weight>Super Middleweight Division</weight>
+
+<fighter1>Martin Murray</fighter1>
+<fighter2>Arman Torosyan</fighter2>
+<rounds>10</rounds>
+<weight>Middleweight Division</weight>
 
 <fighter1>David Price</fighter1>
 <fighter2>Zumbano Love</fighter2>
@@ -162,6 +182,13 @@
 <rounds>12</rounds>
 <weight>Bantamweight Division</weight>
 
+<loc>San Antonio</loc>
+
+<fighter1>Yunier Dorticos</fighter1>
+<fighter2>Dmitry Kudryashov</fighter2>
+<rounds>12</rounds>
+<weight>Cruiserweight Division</weight>
+
 <loc>Inglewood, California</loc>
 
 <fighter1>Jorge Linares</fighter1>
@@ -205,12 +232,6 @@
 <weight>Lightweight Division</weight>
 
 <time>Saturday, October. 7, 2017</time>
-<loc>Los Angeles</loc>
-
-<fighter1>Leo Santa Cruz</fighter1>
-<fighter2>Abner Mares</fighter2>
-<rounds>12</rounds>
-<weight>Featherweight Division</weight>
 
 <loc>Manchester, England</loc>
 
@@ -244,8 +265,49 @@
 <rounds>12</rounds>
 <weight>Super Middleweight Division</weight>
 
+<loc>Carson, Calif.</loc>
+
+<fighter1>Leo Santa Cruz</fighter1>
+<fighter2>Chris Avalos</fighter2>
+<rounds>12</rounds>
+<weight>Featherweight Division</weight>
+
+<fighter1>Abner Mares</fighter1>
+<fighter2>Andres Gutierrez</fighter2>
+<rounds>12</rounds>
+<weight>Featherweight Division</weight>
+
+<loc>New York</loc>
+
+<fighter1>Erislandy Lara</fighter1>
+<fighter2>Terrell Gausha</fighter2>
+<rounds>12</rounds>
+<weight>Junior Middleweight Division</weight>
+
+<fighter1>Jermell Charlo</fighter1>
+<fighter2>Erickson Lubin</fighter2>
+<rounds>12</rounds>
+<weight>Junior Middleweight Division</weight>
+
+<fighter1>Jarrett Hurd</fighter1>
+<fighter2>Austin Trout</fighter2>
+<rounds>12</rounds>
+<weight>Junior Middleweight Division</weight>
+
+<loc>London</loc>
+
+<fighter1>George Groves</fighter1>
+<fighter2>Jamie Cox</fighter2>
+<rounds>12</rounds>
+<weight>Super Middleweight Division</weight>
+
 <time>Saturday, October. 21, 2017</time>
 <loc>Leeds</loc>
+
+<fighter1>Josh Warrington</fighter1>
+<fighter2>Dennis Ceylan</fighter2>
+<rounds>12</rounds>
+<weight>Featherweight Division</weight>
 
 <fighter1>Tyrone Nurse</fighter1>
 <fighter2>Jack Catterall</fighter2>
@@ -258,6 +320,16 @@
 <fighter2>Zhanat Zhakiyanov</fighter2>
 <rounds>12</rounds>
 <weight>Bantamweight Division</weight>
+
+<fighter1>Paul Hyland</fighter1>
+<fighter2>Stephen Ormond</fighter2>
+<rounds>12</rounds>
+<weight>Lightweight Division</weight>
+
+<fighter1>Tommy Coyle</fighter1>
+<fighter2>Tyrone McCullagh</fighter2>
+<rounds>10</rounds>
+<weight>Junior Welterweight Division</weight>
 
 <loc>Tokyo, Japan</loc>
 
