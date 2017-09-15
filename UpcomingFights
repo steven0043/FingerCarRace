@@ -8,7 +8,7 @@
 <weight>Middleweight Division</weight>
 
 <fighter1>Joseph Diaz</fighter1>
-<fighter2>Jorge Lara</fighter2>
+<fighter2>Rafael Rivera</fighter2>
 <rounds>12</rounds>
 <weight>Featherweight Division</weight>
 
@@ -30,7 +30,7 @@
 <weight>Middleweight Division</weight>
 
 <fighter1>Anthony Yarde</fighter1>
-<fighter2>Ryan Ford</fighter2>
+<fighter2>Norbert Nemesapati</fighter2>
 <rounds>10</rounds>
 <weight>Light Heavyweight Division</weight>
 
@@ -118,6 +118,16 @@
 <rounds>12</rounds>
 <weight>Cruiserweight Division</weight>
 
+<fighter1>Nonito Donaire</fighter1>
+<fighter2>Ruben Hernandez</fighter2>
+<rounds>10</rounds>
+<weight>Featherweight Division</weight>
+
+<fighter1>Keith Tapia</fighter1>
+<fighter2>Lateef Kayode</fighter2>
+<rounds>10</rounds>
+<weight>Cruiserweight Division</weight>
+
 <loc>Inglewood, California</loc>
 
 <fighter1>Jorge Linares</fighter1>
@@ -137,6 +147,13 @@
 <fighter2>Mike Perez</fighter2>
 <rounds>12</rounds>
 <weight>Cruiserweight Division</weight>
+
+<loc>Boston</loc>
+
+<fighter1>Gary O'Sullivan </fighter1>
+<fighter2>Nick Quigley</fighter2>
+<rounds>10</rounds>
+<weight>Middleweight Division</weight>
 
 <loc>Liverpool</loc>
 
@@ -160,7 +177,7 @@
 <rounds>12</rounds>
 <weight>Lightweight Division</weight>
 
-<time>Tuesday, October. 2, 2017</time>
+<time>Tuesday, October. 3, 2017</time>
 
 <loc>USA</loc>
 
@@ -194,6 +211,11 @@
 <fighter2>Avni Yildirim</fighter2>
 <rounds>12</rounds>
 <weight>Super Middleweight Division</weight>
+
+<fighter1>Firat Arslan</fighter1>
+<fighter2>Mauricio Barragan</fighter2>
+<rounds>10</rounds>
+<weight>Cruiserweight Division</weight>
 
 <time>Saturday, October. 14, 2017</time>
 <loc>London</loc>
@@ -281,12 +303,26 @@
 <rounds>10</rounds>
 <weight>Junior Welterweight Division</weight>
 
+<loc>Verona, N.Y.</loc>
+
+<fighter1>Jezreel Corales</fighter1>
+<fighter2>Alberto Machado</fighter2>
+<rounds>12</rounds>
+<weight>Junior Lightweight Division</weight>
+
 <loc>Newark, N.J.</loc>
 
 <fighter1>Murat Gassiev</fighter1>
 <fighter2>Krzysztof Wlodarczyk</fighter2>
 <rounds>12</rounds>
 <weight>Cruiserweight Division</weight>
+
+<loc>Norway</loc>
+
+<fighter1>Cecilia Braekhus</fighter1>
+<fighter2>Mikaela Lauren</fighter2>
+<rounds>10</rounds>
+<weight>Welterweight Division</weight>
 
 <loc>Tokyo, Japan</loc>
 
@@ -308,6 +344,21 @@
 <fighter2>Sho Ishida</fighter2>
 <rounds>12</rounds>
 <weight>Junior Bantamweight Division</weight>
+
+<fighter1>Katie Taylor</fighter1>
+<fighter2>Anahi Sanchez</fighter2>
+<rounds>10</rounds>
+<weight>Lightweight Division</weight>
+
+<fighter1>Lenroy Thomas</fighter1>
+<fighter2>Dave Allen</fighter2>
+<rounds>12</rounds>
+<weight>Heavyweight Division</weight>
+
+<fighter1>Frank Buglioni</fighter1>
+<fighter2>Callum Johnson</fighter2>
+<rounds>12</rounds>
+<weight>Light Heavyweight Division</weight>
 
 <loc>Manchester</loc>
 
@@ -333,8 +384,16 @@
 <rounds>12</rounds>
 <weight>Super Middleweight Division</weight>
 
-<time>October, October. 31, 2017</time>
-<loc>Las Vegas</loc>
+<time>November. 4, 2017</time>
+<loc>Brooklyn</loc>
+
+<fighter1>Deontay Wilder</fighter1>
+<fighter2>Luis Ortiz</fighter2>
+<rounds>12</rounds>
+<weight>Heavyweight Division</weight>
+
+<time>November. 11, 2017</time>
+<loc>Fresno, Calif.</loc>
 
 <fighter1>Jessie Magdaleno</fighter1>
 <fighter2>Cesar Juarez</fighter2>
@@ -345,3 +404,25 @@
 <fighter2>Enrico Koelling</fighter2>
 <rounds>12</rounds>
 <weight>Light Heavyweight Division</weight>
+
+<fighter1>Jose Ramirez</fighter1>
+<fighter2>Mike Reed</fighter2>
+<rounds>10</rounds>
+<weight>Junior Welterweight Division</weight>
+
+<time>November. 25, 2017</time>
+<loc>New York</loc>
+
+<fighter1>Sergey Kovalev</fighter1>
+<fighter2>Vyacheslav Sharbranskyy</fighter2>
+<rounds>10</rounds>
+<weight>Light Heavyweight Division</weight>
+
+<time>December. 9, 2017</time>
+<loc>New York</loc>
+
+<fighter1>Vasyl Lomachenko</fighter1>
+<fighter2>Guillermo Rigondeaux</fighter2>
+<rounds>12</rounds>
+<weight>Junior Lightweight Division</weight>
+
