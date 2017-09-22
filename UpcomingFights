@@ -7,69 +7,6 @@
 <rounds>12</rounds>
 <weight>Middleweight Division</weight>
 
-<fighter1>Joseph Diaz</fighter1>
-<fighter2>Rafael Rivera</fighter2>
-<rounds>12</rounds>
-<weight>Featherweight Division</weight>
-
-<fighter1>Diego De La Hoya</fighter1>
-<fighter2>Randy Caballero</fighter2>
-<rounds>12</rounds>
-<weight>Featherweight Division</weight>
-
-<fighter1>Ryan Martin</fighter1>
-<fighter2>Francisco Rojo</fighter2>
-<rounds>10</rounds>
-<weight>Lightweight Division</weight>
-
-<loc>London</loc>
-
-<fighter1>Billy Saunders</fighter1>
-<fighter2>Willie Monroe</fighter2>
-<rounds>12</rounds>
-<weight>Middleweight Division</weight>
-
-<fighter1>Anthony Yarde</fighter1>
-<fighter2>Norbert Nemesapati</fighter2>
-<rounds>10</rounds>
-<weight>Light Heavyweight Division</weight>
-
-<fighter1>Daniel Dubois</fighter1>
-<fighter2>A.J. Carter</fighter2>
-<rounds>10</rounds>
-<weight>Heavyweight Division</weight>
-
-<fighter1>Joe Pigford</fighter1>
-<fighter2>Kieran Smith</fighter2>
-<rounds>12</rounds>
-<weight>Junior Middleweight Division</weight>
-
-<loc>Liverpool</loc>
-
-<fighter1>Callum Smith</fighter1>
-<fighter2>Erik Skoglund</fighter2>
-<rounds>12</rounds>
-<weight>Super Middleweight Division</weight>
-
-<fighter1>Martin Murray</fighter1>
-<fighter2>Arman Torosyan</fighter2>
-<rounds>10</rounds>
-<weight>Middleweight Division</weight>
-
-<fighter1>Zach Parker</fighter1>
-<fighter2>Luke Blackledge</fighter2>
-<rounds>10</rounds>
-<weight>Super Middleweight Division</weight>
-
-<time>Friday, September. 15, 2017</time>
-
-<loc>Las Vegas</loc>
-
-<fighter1>Claudio Marrero</fighter1>
-<fighter2>Jesus Rojas</fighter2>
-<rounds>12</rounds>
-<weight>Featherweight Division</weight>
-
 <time>Friday, September. 22, 2017</time>
 <loc>Tucson, Ariz.</loc>
 
