@@ -1,3 +1,41 @@
+<time>Saturday, September. 16, 2017</time>
+
+<loc>Las Vegas</loc>
+
+<fighter1>Saul Canelo</fighter1>
+<fighter2>Gennady Golovkin</fighter2>
+<rounds>12</rounds>
+<weight>Middleweight Division</weight>
+
+<fighter1>Joseph Diaz</fighter1>
+<fighter2>Rafael Rivera</fighter2>
+<rounds>12</rounds>
+<weight>Featherweight Division</weight>
+
+<fighter1>Diego De La Hoya</fighter1>
+<fighter2>Randy Caballero</fighter2>
+<rounds>12</rounds>
+<weight>Featherweight Division</weight>
+
+<fighter1>Ryan Martin</fighter1>
+<fighter2>Francisco Rojo</fighter2>
+<rounds>10</rounds>
+<weight>Lightweight Division</weight>
+
+<loc>London</loc>
+
+<fighter1>Billy Saunders</fighter1>
+<fighter2>Willie Monroe</fighter2>
+<rounds>12</rounds>
+<weight>Middleweight Division</weight>
+
+<loc>Liverpool</loc>
+
+<fighter1>Callum Smith</fighter1>
+<fighter2>Erik Skoglund</fighter2>
+<rounds>12</rounds>
+<weight>Super Middleweight Division</weight>
+
 <time>Friday, September. 8, 2017</time>
 
 <loc>Las Vegas</loc>
