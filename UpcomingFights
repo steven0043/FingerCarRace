@@ -1,88 +1,14 @@
-<time>Saturday, September. 16, 2017</time>
-
-<loc>Las Vegas</loc>
-
-<fighter1>Saul Canelo</fighter1>
-<fighter2>Gennady Golovkin</fighter2>
-<rounds>12</rounds>
-<weight>Middleweight Division</weight>
-
-<time>Friday, September. 22, 2017</time>
-<loc>Tucson, Ariz.</loc>
-
-<fighter1>Oscar Valdez</fighter1>
-<fighter2>Genesis Servania</fighter2>
-<rounds>12</rounds>
-<weight>Featherweight Division</weight>
-
-<fighter1>Gilberto Ramirez</fighter1>
-<fighter2>Jessie Hart</fighter2>
-<rounds>12</rounds>
-<weight>Super Middleweight Division</weight>
-
-<fighter1>Michael Conlan</fighter1>
-<fighter2>Kenny Guzman</fighter2>
-<rounds>6</rounds>
-<weight>Featherweight Division</weight>
-
-<time>Saturday, September. 23, 2017</time>
-<loc>Manchester</loc>
-
-<fighter1>Joseph Parker</fighter1>
-<fighter2>Hughie Fury</fighter2>
-<rounds>12</rounds>
-<weight>Heavyweight Division</weight>
-
-<fighter1>Jimmy Kelly</fighter1>
-<fighter2>Stiliyan Kostov</fighter2>
-<rounds>12</rounds>
-<weight>Junior Middleweight Division</weight>
-
-<fighter1>Josh Wale</fighter1>
-<fighter2>Don Broadhurst</fighter2>
-<rounds>12</rounds>
-<weight>Bantamweight Division</weight>
-
-<fighter1>Joe Murray</fighter1>
-<fighter2>Matty Fagan</fighter2>
-<rounds>10</rounds>
-<weight>Lightweight Division</weight>
-
-<loc>San Antonio</loc>
-
-<fighter1>Yunier Dorticos</fighter1>
-<fighter2>Dmitry Kudryashov</fighter2>
-<rounds>12</rounds>
-<weight>Cruiserweight Division</weight>
-
-<fighter1>Nonito Donaire</fighter1>
-<fighter2>Ruben Hernandez</fighter2>
-<rounds>10</rounds>
-<weight>Featherweight Division</weight>
-
-<fighter1>Keith Tapia</fighter1>
-<fighter2>Lateef Kayode</fighter2>
-<rounds>10</rounds>
-<weight>Cruiserweight Division</weight>
-
-<loc>Inglewood, California</loc>
-
-<fighter1>Jorge Linares</fighter1>
-<fighter2>Luke Campbell</fighter2>
-<rounds>12</rounds>
-<weight>Lightweight Division</weight>
-
-<fighter1>Antonio Orozco</fighter1>
-<fighter2>Roberto Oritz</fighter2>
-<rounds>10</rounds>
-<weight>Junior Welterweight Division</weight>
-
 <time>Saturday, September. 30, 2017</time>
 <loc>Riga, Latvia</loc>
 
 <fighter1>Mairis Briedis</fighter1>
 <fighter2>Mike Perez</fighter2>
 <rounds>12</rounds>
+<weight>Cruiserweight Division</weight>
+
+<fighter1>Krzysztof Glowacki</fighter1>
+<fighter2>Leonard Damian Bruzzese</fighter2>
+<rounds>10</rounds>
 <weight>Cruiserweight Division</weight>
 
 <loc>Boston</loc>
@@ -113,6 +39,16 @@
 <fighter2>Tom Stalker</fighter2>
 <rounds>12</rounds>
 <weight>Lightweight Division</weight>
+
+<fighter1>Anthony Fowler</fighter1>
+<fighter2>Jay Byrne</fighter2>
+<rounds>6</rounds>
+<weight>Junior Middleweight Division</weight>
+
+<fighter1>Dereck Chisora</fighter1>
+<fighter2>Mario Kollias</fighter2>
+<rounds>6</rounds>
+<weight>Heavyweight Division</weight>
 
 <time>Tuesday, October. 3, 2017</time>
 
@@ -179,6 +115,11 @@
 <rounds>12</rounds>
 <weight>Featherweight Division</weight>
 
+<fighter1>Eddie Ramirez</fighter1>
+<fighter2>Antonio DeMarco</fighter2>
+<rounds>10</rounds>
+<weight>Junior Welterweight Division</weight>
+
 <loc>New York</loc>
 
 <fighter1>Erislandy Lara</fighter1>
@@ -195,6 +136,27 @@
 <fighter2>Austin Trout</fighter2>
 <rounds>12</rounds>
 <weight>Junior Middleweight Division</weight>
+
+<fighter1>Tony Harrison</fighter1>
+<fighter2>Paul Valenzuela</fighter2>
+<rounds>10</rounds>
+<weight>Middleweight Division</weight>
+
+<loc>Munich</loc>
+
+<fighter1>Francesco Pianeta</fighter1>
+<fighter2>Kevin Johnson</fighter2>
+<rounds>12</rounds>
+<weight>Heavyweight Division</weight>
+
+<time>Thursday, October. 19, 2017</time>
+
+<loc>Las Vegas</loc>
+
+<fighter1>Gabriel Rosado</fighter1>
+<fighter2>Glen Tapia</fighter2>
+<rounds>10</rounds>
+<weight>Middleweight Division</weight>
 
 <time>Friday, October. 20, 2017</time>
 
@@ -247,11 +209,21 @@
 <rounds>12</rounds>
 <weight>Junior Lightweight Division</weight>
 
+<fighter1>Demetrius Andrade</fighter1>
+<fighter2>Alantex Fox</fighter2>
+<rounds>10</rounds>
+<weight>Middleweight Division</weight>
+
 <loc>Newark, N.J.</loc>
 
 <fighter1>Murat Gassiev</fighter1>
 <fighter2>Krzysztof Wlodarczyk</fighter2>
 <rounds>12</rounds>
+<weight>Cruiserweight Division</weight>
+
+<fighter1>Mateusz Masternak</fighter1>
+<fighter2>Stivens Bujaj</fighter2>
+<rounds>10</rounds>
 <weight>Cruiserweight Division</weight>
 
 <loc>Norway</loc>
@@ -267,6 +239,15 @@
 <fighter2>Ryota Murata</fighter2>
 <rounds>12</rounds>
 <weight>Middleweight Division</weight>
+
+<time>Friday, October. 27, 2017</time>
+
+<loc>Germany</loc>
+
+<fighter1>Juergen Braehmer</fighter1>
+<fighter2>Rob Brant</fighter2>
+<rounds>12</rounds>
+<weight>Super Middleweight Division</weight>
 
 <time>Saturday, October. 28, 2017</time>
 
@@ -314,12 +295,13 @@
 <rounds>10</rounds>
 <weight>Junior Welterweight Division</weight>
 
-<loc>Germany</loc>
+<time>November. 2, 2017</time>
+<loc>Tuscon, Ariz.</loc>
 
-<fighter1>Juergen Braehmer</fighter1>
-<fighter2>Rob Brant</fighter2>
-<rounds>12</rounds>
-<weight>Super Middleweight Division</weight>
+<fighter1>Jesus Soto Karass</fighter1>
+<fighter2>Juan Carlos Abreu</fighter2>
+<rounds>10</rounds>
+<weight>Welterweight Division</weight>
 
 <time>November. 4, 2017</time>
 <loc>Brooklyn</loc>
@@ -329,7 +311,54 @@
 <rounds>12</rounds>
 <weight>Heavyweight Division</weight>
 
+<fighter1>Bermane Stiverne</fighter1>
+<fighter2>Dominic Breazeale</fighter2>
+<rounds>12</rounds>
+<weight>Heavyweight Division</weight>
+
+<loc>Monte Carlo</loc>
+
+<fighter1>Dmitry Bivol</fighter1>
+<fighter2>Trent Broadhurst</fighter2>
+<rounds>12</rounds>
+<weight>Light Heavyweight Division</weight>
+
+<fighter1>Jamie McDonnell</fighter1>
+<fighter2>Liborio Solis</fighter2>
+<rounds>12</rounds>
+<weight>Bantamweight Division</weight>
+
+<fighter1>Scott Quigg</fighter1>
+<fighter2>Oleg Yefimovich</fighter2>
+<rounds>12</rounds>
+<weight>Featherweight Division</weight>
+
+<fighter1>Agit Kabayel</fighter1>
+<fighter2>Dereck Chisora</fighter2>
+<rounds>12</rounds>
+<weight>Heavyweight Division</weight>
+
 <time>November. 11, 2017</time>
+
+<loc>Uniondale, N.Y.</loc>
+
+<fighter1>Daniel Jacobs</fighter1>
+<fighter2>Luis Arias</fighter2>
+<rounds>12</rounds>
+<weight>Middleweight Division</weight>
+
+<fighter1>Jarrell Miller</fighter1>
+<fighter2>Mariusz Wach</fighter2>
+<rounds>12</rounds>
+<weight>Heavyweight Division</weight>
+
+<loc>Edinburgh, Scotland</loc>
+
+<fighter1>Josh Taylor</fighter1>
+<fighter2>Miguel Vazquez</fighter2>
+<rounds>12</rounds>
+<weight>Junior Welterweight Division</weight>
+
 <loc>Fresno, Calif.</loc>
 
 <fighter1>Jessie Magdaleno</fighter1>
@@ -346,6 +375,14 @@
 <fighter2>Mike Reed</fighter2>
 <rounds>10</rounds>
 <weight>Junior Welterweight Division</weight>
+
+<time>November. 18, 2017</time>
+<loc>Belfast, Northern Ireland</loc>
+
+<fighter1>Jerwin Ancajas</fighter1>
+<fighter2>Jamie Conlan</fighter2>
+<rounds>12</rounds>
+<weight>Junior Bantamweight Division</weight>
 
 <time>November. 25, 2017</time>
 <loc>New York</loc>
