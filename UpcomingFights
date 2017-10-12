@@ -1,40 +1,27 @@
-<time>Saturday, October. 7, 2017</time>
-
-<loc>Manchester, England</loc>
-
-<fighter1>Anthony Crolla</fighter1>
-<fighter2>Ricky Burns</fighter2>
-<rounds>12</rounds>
-<weight>Lightweight Division</weight>
-
-<fighter1>Sam Eggington</fighter1>
-<fighter2>Mohamed Mimoune</fighter2>
-<rounds>12</rounds>
-<weight>Welterweight Division</weight>
-
-<fighter1>Robbie Barrett</fighter1>
-<fighter2>Lewis Ritson</fighter2>
-<rounds>12</rounds>
-<weight>Lightweight Division</weight>
-
-<fighter1>Conor Benn</fighter1>
-<fighter2>Nathan Clarke</fighter2>
-<rounds>6</rounds>
-<weight>Lightweight Division</weight>
-
-<loc>Stuttgart, Germany</loc>
-
-<fighter1>Chris Eubank</fighter1>
-<fighter2>Avni Yildirim</fighter2>
-<rounds>12</rounds>
-<weight>Super Middleweight Division</weight>
-
-<fighter1>Firat Arslan</fighter1>
-<fighter2>Mauricio Barragan</fighter2>
-<rounds>10</rounds>
-<weight>Cruiserweight Division</weight>
-
 <time>Saturday, October. 14, 2017</time>
+
+<loc>New York</loc>
+
+<fighter1>Erislandy Lara</fighter1>
+<fighter2>Terrell Gausha</fighter2>
+<rounds>12</rounds>
+<weight>Junior Middleweight Division</weight>
+
+<fighter1>Jermell Charlo</fighter1>
+<fighter2>Erickson Lubin</fighter2>
+<rounds>12</rounds>
+<weight>Junior Middleweight Division</weight>
+
+<fighter1>Jarrett Hurd</fighter1>
+<fighter2>Austin Trout</fighter2>
+<rounds>12</rounds>
+<weight>Junior Middleweight Division</weight>
+
+<fighter1>Tony Harrison</fighter1>
+<fighter2>Paul Valenzuela</fighter2>
+<rounds>10</rounds>
+<weight>Middleweight Division</weight>
+
 <loc>London</loc>
 
 <fighter1>George Groves</fighter1>
@@ -63,28 +50,6 @@
 <fighter2>Antonio DeMarco</fighter2>
 <rounds>10</rounds>
 <weight>Junior Welterweight Division</weight>
-
-<loc>New York</loc>
-
-<fighter1>Erislandy Lara</fighter1>
-<fighter2>Terrell Gausha</fighter2>
-<rounds>12</rounds>
-<weight>Junior Middleweight Division</weight>
-
-<fighter1>Jermell Charlo</fighter1>
-<fighter2>Erickson Lubin</fighter2>
-<rounds>12</rounds>
-<weight>Junior Middleweight Division</weight>
-
-<fighter1>Jarrett Hurd</fighter1>
-<fighter2>Austin Trout</fighter2>
-<rounds>12</rounds>
-<weight>Junior Middleweight Division</weight>
-
-<fighter1>Tony Harrison</fighter1>
-<fighter2>Paul Valenzuela</fighter2>
-<rounds>10</rounds>
-<weight>Middleweight Division</weight>
 
 <loc>Munich</loc>
 
@@ -238,6 +203,11 @@
 <rounds>12</rounds>
 <weight>Heavyweight Division</weight>
 
+<fighter1>Dominic Breazeale</fighter1>
+<fighter2>Eric Molina</fighter2>
+<rounds>12</rounds>
+<weight>Heavyweight Division</weight>
+
 <fighter1>Shawn Porter</fighter1>
 <fighter2>Adrian Granados</fighter2>
 <rounds>10</rounds>
@@ -367,6 +337,14 @@
 <rounds>10</rounds>
 <weight>Light Heavyweight Division</weight>
 
+<time>December. 2, 2017</time>
+<loc>New York</loc>
+
+<fighter1>Miguel Cotto</fighter1>
+<fighter2>Sadam Ali</fighter2>
+<rounds>12</rounds>
+<weight>Junior Middleweight Division</weight>
+
 <time>December. 9, 2017</time>
 <loc>New York</loc>
 
@@ -374,6 +352,16 @@
 <fighter2>Guillermo Rigondeaux</fighter2>
 <rounds>12</rounds>
 <weight>Junior Lightweight Division</weight>
+
+<fighter1>Christopher Diaz</fighter1>
+<fighter2>Casey Ramos</fighter2>
+<rounds>10</rounds>
+<weight>Junior Lightweight Division</weight>
+
+<fighter1>Shakur Stevenson</fighter1>
+<fighter2>Oscar Mendoza</fighter2>
+<rounds>6</rounds>
+<weight>Featherweight Division</weight>
 
 <time>December. 17, 2017</time>
 <loc>London</loc>
