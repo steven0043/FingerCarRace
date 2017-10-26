@@ -1,104 +1,3 @@
-<time>Thursday, October. 19, 2017</time>
-
-<loc>Las Vegas</loc>
-
-<fighter1>Gabriel Rosado</fighter1>
-<fighter2>Glen Tapia</fighter2>
-<rounds>10</rounds>
-<weight>Middleweight Division</weight>
-
-<fighter1>Alejandro Barrera</fighter1>
-<fighter2>KeAndre Gibson</fighter2>
-<rounds>10</rounds>
-<weight>Welterweight Division</weight>
-
-<time>Friday, October. 20, 2017</time>
-
-<loc>London</loc>
-
-<fighter1>Joe Joyce</fighter1>
-<fighter2>Ian Lewison</fighter2>
-<rounds>10</rounds>
-<weight>Heavyweight Division</weight>
-
-<time>Saturday, October. 21, 2017</time>
-<loc>Leeds</loc>
-
-<fighter1>Josh Warrington</fighter1>
-<fighter2>Dennis Ceylan</fighter2>
-<rounds>12</rounds>
-<weight>Featherweight Division</weight>
-
-<fighter1>Tyrone Nurse</fighter1>
-<fighter2>Jack Catterall</fighter2>
-<rounds>12</rounds>
-<weight>Junior Welterweight Division</weight>
-
-<loc>Belfast</loc>
-
-<fighter1>Ryan Burnett</fighter1>
-<fighter2>Zhanat Zhakiyanov</fighter2>
-<rounds>12</rounds>
-<weight>Bantamweight Division</weight>
-
-<fighter1>Paul Hyland</fighter1>
-<fighter2>Stephen Ormond</fighter2>
-<rounds>12</rounds>
-<weight>Lightweight Division</weight>
-
-<fighter1>Tyrone McKenna</fighter1>
-<fighter2>Renald Garrido</fighter2>
-<rounds>10</rounds>
-<weight>Junior Welterweight Division</weight>
-
-<loc>Verona, N.Y.</loc>
-
-<fighter1>Jezreel Corales</fighter1>
-<fighter2>Alberto Machado</fighter2>
-<rounds>12</rounds>
-<weight>Junior Lightweight Division</weight>
-
-<fighter1>Demetrius Andrade</fighter1>
-<fighter2>Alantex Fox</fighter2>
-<rounds>10</rounds>
-<weight>Middleweight Division</weight>
-
-<loc>Newark, N.J.</loc>
-
-<fighter1>Murat Gassiev</fighter1>
-<fighter2>Krzysztof Wlodarczyk</fighter2>
-<rounds>12</rounds>
-<weight>Cruiserweight Division</weight>
-
-<fighter1>Mateusz Masternak</fighter1>
-<fighter2>Stivens Bujaj</fighter2>
-<rounds>10</rounds>
-<weight>Cruiserweight Division</weight>
-
-<loc>Norway</loc>
-
-<fighter1>Cecilia Braekhus</fighter1>
-<fighter2>Mikaela Lauren</fighter2>
-<rounds>10</rounds>
-<weight>Welterweight Division</weight>
-
-<loc>Tokyo, Japan</loc>
-
-<fighter1>Hassan N'Dam</fighter1>
-<fighter2>Ryota Murata</fighter2>
-<rounds>12</rounds>
-<weight>Middleweight Division</weight>
-
-<fighter1>Daigo Higa</fighter1>
-<fighter2>Tomas Masson</fighter2>
-<rounds>12</rounds>
-<weight>Flyweight Division</weight>
-
-<fighter1>Ken Shiro</fighter1>
-<fighter2>Pedro Guevara</fighter2>
-<rounds>12</rounds>
-<weight>Junior Flyweight Division</weight>
-
 <time>Friday, October. 27, 2017</time>
 
 <loc>Germany</loc>
@@ -132,15 +31,15 @@
 <rounds>10</rounds>
 <weight>Lightweight Division</weight>
 
+<fighter1>Frank Buglioni</fighter1>
+<fighter2>Craig Richards</fighter2>
+<rounds>12</rounds>
+<weight>Light Heavyweight Division</weight>
+
 <fighter1>Lenroy Thomas</fighter1>
 <fighter2>Dave Allen</fighter2>
 <rounds>12</rounds>
 <weight>Heavyweight Division</weight>
-
-<fighter1>Frank Buglioni</fighter1>
-<fighter2>Callum Johnson</fighter2>
-<rounds>12</rounds>
-<weight>Light Heavyweight Division</weight>
 
 <time>November. 2, 2017</time>
 <loc>Tuscon, Ariz.</loc>
@@ -276,6 +175,13 @@
 <rounds>12</rounds>
 <weight>Bantamweight Division</weight>
 
+<loc>Las Vegas</loc>
+
+<fighter1>Julian Williams</fighter1>
+<fighter2>Ishe Smith</fighter2>
+<rounds>10</rounds>
+<weight>Junior Middleweight Division</weight>
+
 <time>November. 21, 2017</time>
 <loc>St. Petersburg, Fla.</loc>
 
@@ -289,6 +195,11 @@
 
 <fighter1>Sergey Kovalev</fighter1>
 <fighter2>Vyacheslav Sharbranskyy</fighter2>
+<rounds>10</rounds>
+<weight>Light Heavyweight Division</weight>
+
+<fighter1>Sullivan Barrera</fighter1>
+<fighter2>Felix Valera</fighter2>
 <rounds>10</rounds>
 <weight>Light Heavyweight Division</weight>
 
@@ -322,6 +233,13 @@
 <fighter2>Oscar Mendoza</fighter2>
 <rounds>6</rounds>
 <weight>Featherweight Division</weight>
+
+<loc>USA</loc>
+
+<fighter1>Tevin Farmer</fighter1>
+<fighter2>Kenichi Ogawa</fighter2>
+<rounds>12</rounds>
+<weight>Junior Lightweight Division</weight>
 
 <time>December. 16, 2017</time>
 <loc>Quebec</loc>
