@@ -1,37 +1,3 @@
-<time>Saturday, October. 28, 2017</time>
-
-<loc>Cardiff, Wales</loc>
-
-<fighter1>Anthony Joshua</fighter1>
-<fighter2>Carlos Takam</fighter2>
-<rounds>12</rounds>
-<weight>Heavyweight Division</weight>
-
-<fighter1>Dillian Whyte</fighter1>
-<fighter2>Robert Helenius</fighter2>
-<rounds>12</rounds>
-<weight>Heavyweight Division</weight>
-
-<fighter1>Kal Yafai</fighter1>
-<fighter2>Sho Ishida</fighter2>
-<rounds>12</rounds>
-<weight>Junior Bantamweight Division</weight>
-
-<fighter1>Katie Taylor</fighter1>
-<fighter2>Anahi Sanchez</fighter2>
-<rounds>10</rounds>
-<weight>Lightweight Division</weight>
-
-<fighter1>Frank Buglioni</fighter1>
-<fighter2>Craig Richards</fighter2>
-<rounds>12</rounds>
-<weight>Light Heavyweight Division</weight>
-
-<fighter1>Lenroy Thomas</fighter1>
-<fighter2>Dave Allen</fighter2>
-<rounds>12</rounds>
-<weight>Heavyweight Division</weight>
-
 <time>November. 2, 2017</time>
 <loc>Tuscon, Ariz.</loc>
 
@@ -55,7 +21,7 @@
 
 <fighter1>Shawn Porter</fighter1>
 <fighter2>Adrian Granados</fighter2>
-<rounds>10</rounds>
+<rounds>12</rounds>
 <weight>Welterweight Division</weight>
 
 <fighter1>Sergey Lipinets</fighter1>
@@ -116,10 +82,20 @@
 <rounds>12</rounds>
 <weight>Heavyweight Division</weight>
 
+<fighter1>Cletus Seldin</fighter1>
+<fighter2>Roberto Ortiz</fighter2>
+<rounds>10</rounds>
+<weight>Junior Welterweight Division</weight>
+
 <loc>Edinburgh, Scotland</loc>
 
 <fighter1>Josh Taylor</fighter1>
 <fighter2>Miguel Vazquez</fighter2>
+<rounds>12</rounds>
+<weight>Junior Welterweight Division</weight>
+
+<fighter1>Jason Easton</fighter1>
+<fighter2>Josef Zahradnik</fighter2>
 <rounds>12</rounds>
 <weight>Junior Welterweight Division</weight>
 
@@ -207,6 +183,11 @@
 <rounds>12</rounds>
 <weight>Junior Middleweight Division</weight>
 
+<fighter1>Rey Vargas</fighter1>
+<fighter2>Oscar Negrete</fighter2>
+<rounds>12</rounds>
+<weight>Junior Featherweight Division</weight>
+
 <time>December. 9, 2017</time>
 <loc>New York</loc>
 
@@ -225,12 +206,30 @@
 <rounds>6</rounds>
 <weight>Featherweight Division</weight>
 
-<loc>USA</loc>
+<fighter1>Michael Conlan</fighter1>
+<fighter2>Luis Molina</fighter2>
+<rounds>6</rounds>
+<weight>Featherweight Division</weight>
+
+<loc>Las Vegas</loc>
+
+<fighter1>Orlando Salido</fighter1>
+<fighter2>Mickey Roman</fighter2>
+<rounds>12</rounds>
+<weight>Junior Lightweight Division</weight>
 
 <fighter1>Tevin Farmer</fighter1>
 <fighter2>Kenichi Ogawa</fighter2>
 <rounds>12</rounds>
 <weight>Junior Lightweight Division</weight>
+
+<time>December. 13, 2017</time>
+<loc>Brisbane, Australia</loc>
+
+<fighter1>Jeff Horn</fighter1>
+<fighter2>Gary Corcoran</fighter2>
+<rounds>12</rounds>
+<weight>Welterweight Division</weight>
 
 <time>December. 16, 2017</time>
 <loc>Quebec</loc>
@@ -247,3 +246,8 @@
 <fighter2>David Haye</fighter2>
 <rounds>12</rounds>
 <weight>Heavyweight Division</weight>
+
+<fighter1>Rocky Fielding</fighter1>
+<fighter2>Erik Skoglund</fighter2>
+<rounds>12</rounds>
+<weight>Super Middleweight Division</weight>
