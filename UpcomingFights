@@ -1,66 +1,4 @@
-<time>November. 4, 2017</time>
-<loc>Brooklyn</loc>
-
-<fighter1>Deontay Wilder</fighter1>
-<fighter2>Bermane Stiverne</fighter2>
-<rounds>12</rounds>
-<weight>Heavyweight Division</weight>
-
-<fighter1>Dominic Breazeale</fighter1>
-<fighter2>Eric Molina</fighter2>
-<rounds>12</rounds>
-<weight>Heavyweight Division</weight>
-
-<fighter1>Shawn Porter</fighter1>
-<fighter2>Adrian Granados</fighter2>
-<rounds>12</rounds>
-<weight>Welterweight Division</weight>
-
-<fighter1>Sergey Lipinets</fighter1>
-<fighter2>Akihiro Kondo</fighter2>
-<rounds>12</rounds>
-<weight>Junior Welterweight Division</weight>
-
-<loc>Monte Carlo</loc>
-
-<fighter1>Dmitry Bivol</fighter1>
-<fighter2>Trent Broadhurst</fighter2>
-<rounds>12</rounds>
-<weight>Light Heavyweight Division</weight>
-
-<fighter1>Jamie McDonnell</fighter1>
-<fighter2>Liborio Solis</fighter2>
-<rounds>12</rounds>
-<weight>Bantamweight Division</weight>
-
-<fighter1>Scott Quigg</fighter1>
-<fighter2>Oleg Yefimovich</fighter2>
-<rounds>12</rounds>
-<weight>Featherweight Division</weight>
-
-<fighter1>Agit Kabayel</fighter1>
-<fighter2>Dereck Chisora</fighter2>
-<rounds>12</rounds>
-<weight>Heavyweight Division</weight>
-
 <time>November. 11, 2017</time>
-
-<loc>Newcastle</loc>
-
-<fighter1>Liam Smith</fighter1>
-<fighter2>Liam Williams</fighter2>
-<rounds>12</rounds>
-<weight>Junior Middleweight Division</weight>
-
-<fighter1>Thomas Ward</fighter1>
-<fighter2>Sean Davis</fighter2>
-<rounds>12</rounds>
-<weight>Junior Lightweight Division</weight>
-
-<fighter1>Josh Leather</fighter1>
-<fighter2>Glen Foot</fighter2>
-<rounds>10</rounds>
-<weight>Junior Welterweight Division</weight>
 
 <loc>Uniondale, N.Y.</loc>
 
@@ -91,12 +29,34 @@
 <rounds>12</rounds>
 <weight>Junior Welterweight Division</weight>
 
-<loc>Fresno, Calif.</loc>
+<fighter1>Martin Bakole</fighter1>
+<fighter2>Ali Baghouz</fighter2>
+<rounds>10</rounds>
+<weight>Heavyweight Division</weight>
 
-<fighter1>Jessie Magdaleno</fighter1>
-<fighter2>Cesar Juarez</fighter2>
+<loc>Newcastle</loc>
+
+<fighter1>Liam Smith</fighter1>
+<fighter2>Liam Williams</fighter2>
 <rounds>12</rounds>
-<weight>Junior Featherweight Division</weight>
+<weight>Junior Middleweight Division</weight>
+
+<fighter1>Thomas Ward</fighter1>
+<fighter2>Sean Davis</fighter2>
+<rounds>12</rounds>
+<weight>Junior Lightweight Division</weight>
+
+<fighter1>Josh Leather</fighter1>
+<fighter2>Glen Foot</fighter2>
+<rounds>10</rounds>
+<weight>Junior Welterweight Division</weight>
+
+<fighter1>Nathan Gorman</fighter1>
+<fighter2> Mohammed Soltby</fighter2>
+<rounds>10</rounds>
+<weight>Heavyweight Division</weight>
+
+<loc>Fresno, Calif.</loc>
 
 <fighter1>Artur Beterbiev</fighter1>
 <fighter2>Enrico Koelling</fighter2>
@@ -163,7 +123,7 @@
 <weight>Light Heavyweight Division</weight>
 
 <fighter1>Jason Sosa</fighter1>
-<fighter2>Robinson Castellanos</fighter2>
+<fighter2>Yuriorkis Gamboa</fighter2>
 <rounds>10</rounds>
 <weight>Junior Lightweight Division</weight>
 
@@ -179,6 +139,13 @@
 <fighter2>Oscar Negrete</fighter2>
 <rounds>12</rounds>
 <weight>Junior Featherweight Division</weight>
+
+<loc>Potsdam, Germany</loc>
+
+<fighter1>Tyron Zeuge</fighter1>
+<fighter2>Isaac Ekpo</fighter2>
+<rounds>12</rounds>
+<weight>Super Middleweight Division</weight>
 
 <time>December. 9, 2017</time>
 <loc>New York</loc>
@@ -223,6 +190,14 @@
 <rounds>12</rounds>
 <weight>Welterweight Division</weight>
 
+<time>December. 15, 2017</time>
+<loc>Ekaterinburg, Russia</loc>
+
+<fighter1>Alexander Povetkin</fighter1>
+<fighter2>Christian Hammer</fighter2>
+<rounds>12</rounds>
+<weight>Heavyweight Division</weight>
+
 <time>December. 16, 2017</time>
 <loc>Quebec</loc>
 
@@ -243,3 +218,16 @@
 <fighter2>Erik Skoglund</fighter2>
 <rounds>12</rounds>
 <weight>Super Middleweight Division</weight>
+
+<fighter1>Joe Joyce</fighter1>
+<fighter2>Tom Little</fighter2>
+<rounds>10</rounds>
+<weight>Heavyweight Division</weight>
+
+<time>January. 20, 2017</time>
+<loc>New York</loc>
+
+<fighter1>Errol Spence</fighter1>
+<fighter2>Lamont Peterson</fighter2>
+<rounds>12</rounds>
+<weight>Welterweight Division</weight>
