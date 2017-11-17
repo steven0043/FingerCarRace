@@ -1,73 +1,3 @@
-<time>November. 11, 2017</time>
-
-<loc>Uniondale, N.Y.</loc>
-
-<fighter1>Daniel Jacobs</fighter1>
-<fighter2>Luis Arias</fighter2>
-<rounds>12</rounds>
-<weight>Middleweight Division</weight>
-
-<fighter1>Jarrell Miller</fighter1>
-<fighter2>Mariusz Wach</fighter2>
-<rounds>12</rounds>
-<weight>Heavyweight Division</weight>
-
-<fighter1>Cletus Seldin</fighter1>
-<fighter2>Roberto Ortiz</fighter2>
-<rounds>10</rounds>
-<weight>Junior Welterweight Division</weight>
-
-<loc>Edinburgh, Scotland</loc>
-
-<fighter1>Josh Taylor</fighter1>
-<fighter2>Miguel Vazquez</fighter2>
-<rounds>12</rounds>
-<weight>Junior Welterweight Division</weight>
-
-<fighter1>Jason Easton</fighter1>
-<fighter2>Josef Zahradnik</fighter2>
-<rounds>12</rounds>
-<weight>Junior Welterweight Division</weight>
-
-<fighter1>Martin Bakole</fighter1>
-<fighter2>Ali Baghouz</fighter2>
-<rounds>10</rounds>
-<weight>Heavyweight Division</weight>
-
-<loc>Newcastle</loc>
-
-<fighter1>Liam Williams</fighter1>
-<fighter2>Liam Smith</fighter2>
-<rounds>12</rounds>
-<weight>Junior Middleweight Division</weight>
-
-<fighter1>Thomas Ward</fighter1>
-<fighter2>Sean Davis</fighter2>
-<rounds>12</rounds>
-<weight>Junior Lightweight Division</weight>
-
-<fighter1>Josh Leather</fighter1>
-<fighter2>Glen Foot</fighter2>
-<rounds>10</rounds>
-<weight>Junior Welterweight Division</weight>
-
-<fighter1>Nathan Gorman</fighter1>
-<fighter2> Mohammed Soltby</fighter2>
-<rounds>10</rounds>
-<weight>Heavyweight Division</weight>
-
-<loc>Fresno, Calif.</loc>
-
-<fighter1>Artur Beterbiev</fighter1>
-<fighter2>Enrico Koelling</fighter2>
-<rounds>12</rounds>
-<weight>Light Heavyweight Division</weight>
-
-<fighter1>Jose Ramirez</fighter1>
-<fighter2>Mike Reed</fighter2>
-<rounds>10</rounds>
-<weight>Junior Welterweight Division</weight>
-
 <time>November. 17, 2017</time>
 <loc>Flint, Mich.</loc>
 
@@ -94,12 +24,22 @@
 <rounds>12</rounds>
 <weight>Bantamweight Division</weight>
 
+<fighter1>Paddy Barnes</fighter1>
+<fighter2>Eliecer Quezada</fighter2>
+<rounds>10</rounds>
+<weight>Flyweight Division</weight>
+
 <loc>Las Vegas</loc>
 
 <fighter1>Julian Williams</fighter1>
 <fighter2>Ishe Smith</fighter2>
 <rounds>10</rounds>
 <weight>Junior Middleweight Division</weight>
+
+<fighter1>Earl Newman</fighter1>
+<fighter2>Lionell Thompson</fighter2>
+<rounds>10</rounds>
+<weight>Light Heavyweight Division</weight>
 
 <time>November. 21, 2017</time>
 <loc>St. Petersburg, Fla.</loc>
@@ -140,12 +80,24 @@
 <rounds>12</rounds>
 <weight>Junior Featherweight Division</weight>
 
+<fighter1>Angel Acosta</fighter1>
+<fighter2>Juan Alejo</fighter2>
+<rounds>12</rounds>
+<weight>Junior Flyweight Division</weight>
+
 <loc>Potsdam, Germany</loc>
 
 <fighter1>Tyron Zeuge</fighter1>
 <fighter2>Isaac Ekpo</fighter2>
 <rounds>12</rounds>
 <weight>Super Middleweight Division</weight>
+
+<loc>Leicester, England</loc>
+
+<fighter1>Anthony Yigit</fighter1>
+<fighter2>Joe Hughes</fighter2>
+<rounds>12</rounds>
+<weight>Junior Welterweight Division</weight>
 
 <time>December. 9, 2017</time>
 <loc>New York</loc>
@@ -181,6 +133,33 @@
 <fighter2>Kenichi Ogawa</fighter2>
 <rounds>12</rounds>
 <weight>Junior Lightweight Division</weight>
+
+<fighter1>Francisco Vargas</fighter1>
+<fighter2>Stephen Smith</fighter2>
+<rounds>12</rounds>
+<weight>Junior Lightweight Division</weight>
+
+<loc>London</loc>
+
+<fighter1>James DeGale</fighter1>
+<fighter2>Caleb Truax</fighter2>
+<rounds>12</rounds>
+<weight>Super Middleweight Division</weight>
+
+<fighter1>Lee Selby</fighter1>
+<fighter2>Eduardo Ramirez</fighter2>
+<rounds>12</rounds>
+<weight>Featherweight Division</weight>
+
+<fighter1>Anthony Yarde</fighter1>
+<fighter2>Nikola Sjekloca</fighter2>
+<rounds>12</rounds>
+<weight>Light Heavyweight Division</weight>
+
+<fighter1>Daniel Dubois</fighter1>
+<fighter2>Dorian Darch</fighter2>
+<rounds>10</rounds>
+<weight>Heavyweight Division</weight>
 
 <time>December. 13, 2017</time>
 <loc>Brisbane, Australia</loc>
@@ -223,6 +202,19 @@
 <fighter2>Tom Little</fighter2>
 <rounds>10</rounds>
 <weight>Heavyweight Division</weight>
+
+<time>December. 30, 2017</time>
+<loc>Yokohama, Japan</loc>
+
+<fighter1>Naoya Inoue</fighter1>
+<fighter2>Yoan Boyeaux</fighter2>
+<rounds>12</rounds>
+<weight>Junior Bantamweight Division</weight>
+
+<fighter1>Ken Shiro</fighter1>
+<fighter2>Gilberto Pedroza</fighter2>
+<rounds>12</rounds>
+<weight>Junior Flymweight Division</weight>
 
 <time>January. 20, 2017</time>
 <loc>New York</loc>
