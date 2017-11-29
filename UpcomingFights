@@ -1,21 +1,3 @@
-<time>November. 25, 2017</time>
-<loc>New York</loc>
-
-<fighter1>Sergey Kovalev</fighter1>
-<fighter2>Vyacheslav Sharbranskyy</fighter2>
-<rounds>12</rounds>
-<weight>Light Heavyweight Division</weight>
-
-<fighter1>Sullivan Barrera</fighter1>
-<fighter2>Felix Valera</fighter2>
-<rounds>10</rounds>
-<weight>Light Heavyweight Division</weight>
-
-<fighter1>Jason Sosa</fighter1>
-<fighter2>Yuriorkis Gamboa</fighter2>
-<rounds>10</rounds>
-<weight>Junior Lightweight Division</weight>
-
 <time>December. 2, 2017</time>
 <loc>New York</loc>
 
@@ -47,6 +29,11 @@
 <fighter2>Joe Hughes</fighter2>
 <rounds>12</rounds>
 <weight>Junior Welterweight Division</weight>
+
+<fighter1>Luke Watkins</fighter1>
+<fighter2>Mike Stafford</fighter2>
+<rounds>12</rounds>
+<weight>Cruiserweight Division</weight>
 
 <time>December. 9, 2017</time>
 <loc>New York</loc>
@@ -88,6 +75,11 @@
 <rounds>12</rounds>
 <weight>Junior Lightweight Division</weight>
 
+<fighter1>Denis Shafikov</fighter1>
+<fighter2>Rene Alvarado</fighter2>
+<rounds>10</rounds>
+<weight>Junior Welterweight Division</weight>
+
 <loc>London</loc>
 
 <fighter1>James DeGale</fighter1>
@@ -118,6 +110,18 @@
 <rounds>12</rounds>
 <weight>Welterweight Division</weight>
 
+<loc>London</loc>
+
+<fighter1>Katie Taylor</fighter1>
+<fighter2>Jessica McCaskill</fighter2>
+<rounds>10</rounds>
+<weight>Lightweight Division</weight>
+
+<fighter1>Martin Ward</fighter1>
+<fighter2>Juli Giner</fighter2>
+<rounds>12</rounds>
+<weight>Junior Lightweight Division</weight>
+
 <time>December. 15, 2017</time>
 <loc>Ekaterinburg, Russia</loc>
 
@@ -125,6 +129,23 @@
 <fighter2>Christian Hammer</fighter2>
 <rounds>12</rounds>
 <weight>Heavyweight Division</weight>
+
+<loc>Lancaster, Calif.</loc>
+
+<fighter1>Jessie Vargas</fighter1>
+<fighter2>Aaron Herrera</fighter2>
+<rounds>10</rounds>
+<weight>Welterweight Division</weight>
+
+<fighter1>Diego Chaves</fighter1>
+<fighter2>Jamal James</fighter2>
+<rounds>10</rounds>
+<weight>Welterweight Division</weight>
+
+<fighter1>John Molina</fighter1>
+<fighter2>Ivan Redkach</fighter2>
+<rounds>10</rounds>
+<weight>Junior Welterweight Division</weight>
 
 <time>December. 16, 2017</time>
 <loc>Quebec</loc>
@@ -134,23 +155,10 @@
 <rounds>12</rounds>
 <weight>Middleweight Division</weight>
 
-<time>December. 17, 2017</time>
-<loc>London</loc>
-
-<fighter1>Tony Bellew</fighter1>
-<fighter2>David Haye</fighter2>
-<rounds>12</rounds>
-<weight>Heavyweight Division</weight>
-
-<fighter1>Rocky Fielding</fighter1>
-<fighter2>Erik Skoglund</fighter2>
-<rounds>12</rounds>
-<weight>Super Middleweight Division</weight>
-
-<fighter1>Joe Joyce</fighter1>
-<fighter2>Tom Little</fighter2>
+<fighter1>Antoine Douglas</fighter1>
+<fighter2>Gary O'Sullivan</fighter2>
 <rounds>10</rounds>
-<weight>Heavyweight Division</weight>
+<weight>Middleweight Division</weight>
 
 <time>December. 30, 2017</time>
 <loc>Yokohama, Japan</loc>
@@ -163,12 +171,59 @@
 <fighter1>Ken Shiro</fighter1>
 <fighter2>Gilberto Pedroza</fighter2>
 <rounds>12</rounds>
-<weight>Junior Flymweight Division</weight>
+<weight>Junior Flyweight Division</weight>
 
-<time>January. 20, 2017</time>
+<time>December. 31, 2017</time>
+<loc>Tokyo, Japan</loc>
+
+<fighter1>Milan Melindo</fighter1>
+<fighter2>Ryoichi Taguchi</fighter2>
+<rounds>12</rounds>
+<weight>Junior Flyweight Division</weight>
+
+<fighter1>Hiroto Kyoguchi</fighter1>
+<fighter2>Carlos Buitrago</fighter2>
+<rounds>12</rounds>
+<weight>Strawweight Division</weight>
+
+<fighter1>Sho Kimura</fighter1>
+<fighter2>Toshiyuki Igarashi</fighter2>
+<rounds>12</rounds>
+<weight>Flyweight Division</weight>
+
+<time>January. 20, 2018</time>
 <loc>New York</loc>
 
 <fighter1>Errol Spence</fighter1>
 <fighter2>Lamont Peterson</fighter2>
 <rounds>12</rounds>
 <weight>Welterweight Division</weight>
+
+<time>January. 27, 2018</time>
+<loc>Inglewood, Calif.</loc>
+
+<fighter1>Lucas Matthysse</fighter1>
+<fighter2>Tewa Kiram</fighter2>
+<rounds>12</rounds>
+<weight>Welterweight Division</weight>
+
+<fighter1>Jorge Linares</fighter1>
+<fighter2>Mercito Gesta</fighter2>
+<rounds>12</rounds>
+<weight>Lightweight Division</weight>
+
+<time>February. 3, 2018</time>
+<loc>Corpus Christi, Texas</loc>
+
+<fighter1>Gilberto Ramirez</fighter1>
+<fighter2>Habib Ahmed</fighter2>
+<rounds>12</rounds>
+<weight>Super Middleweight Division</weight>
+
+<time>February. 17, 2018</time>
+<loc>Manchester, England</loc>
+
+<fighter1>George Groves</fighter1>
+<fighter2>Chris Eubank</fighter2>
+<rounds>12</rounds>
+<weight>Super Middleweight Division</weight>
