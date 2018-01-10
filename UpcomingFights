@@ -1,51 +1,3 @@
-<time>December. 16, 2017</time>
-<loc>Quebec</loc>
-
-<fighter1>Billy Saunders</fighter1>
-<fighter2>David Lemieux</fighter2>
-<rounds>12</rounds>
-<weight>Middleweight Division</weight>
-
-<fighter1>Antoine Douglas</fighter1>
-<fighter2>Gary O'Sullivan</fighter2>
-<rounds>10</rounds>
-<weight>Middleweight Division</weight>
-
-<fighter1>Cletus Seldin</fighter1>
-<fighter2>Yves Ulysses</fighter2>
-<rounds>10</rounds>
-<weight>Junior Welterweight Division</weight>
-
-<time>December. 30, 2017</time>
-<loc>Yokohama, Japan</loc>
-
-<fighter1>Naoya Inoue</fighter1>
-<fighter2>Yoan Boyeaux</fighter2>
-<rounds>12</rounds>
-<weight>Junior Bantamweight Division</weight>
-
-<fighter1>Ken Shiro</fighter1>
-<fighter2>Gilberto Pedroza</fighter2>
-<rounds>12</rounds>
-<weight>Junior Flyweight Division</weight>
-
-<time>December. 31, 2017</time>
-<loc>Tokyo, Japan</loc>
-
-<fighter1>Milan Melindo</fighter1>
-<fighter2>Ryoichi Taguchi</fighter2>
-<rounds>12</rounds>
-<weight>Junior Flyweight Division</weight>
-
-<fighter1>Hiroto Kyoguchi</fighter1>
-<fighter2>Carlos Buitrago</fighter2>
-<rounds>12</rounds>
-<weight>Strawweight Division</weight>
-
-<fighter1>Sho Kimura</fighter1>
-<fighter2>Toshiyuki Igarashi</fighter2>
-<rounds>12</rounds>
-<weight>Flyweight Division</weight>
 
 <time>January. 17, 2018</time>
 <loc>Sydney, Australia</loc>
@@ -62,6 +14,16 @@
 <fighter2>Lamont Peterson</fighter2>
 <rounds>12</rounds>
 <weight>Welterweight Division</weight>
+
+<fighter1>Robert Easter</fighter1>
+<fighter2>Javier Fortuna</fighter2>
+<rounds>12</rounds>
+<weight>Lightweight Division</weight>
+
+<fighter1>Adam Kownacki</fighter1>
+<fighter2>Iago Kiladze</fighter2>
+<rounds>10</rounds>
+<weight>Heavyweight Division</weight>
 
 <time>January. 27, 2018</time>
 
@@ -84,7 +46,29 @@
 <rounds>12</rounds>
 <weight>Lightweight Division</weight>
 
+<fighter1>Yoshihiro Kamegai</fighter1>
+<fighter2>Daquan Pauldo</fighter2>
+<rounds>10</rounds>
+<weight>Junior Middleweight Division</weight>
+
 <time>February. 3, 2018</time>
+
+<loc>London</loc>
+
+<fighter1>Lawrence Okolie</fighter1>
+<fighter2>Isaac Chamberlain</fighter2>
+<rounds>10</rounds>
+<weight>Cruiserweight Division</weight>
+
+<fighter1>Reece Bellotti</fighter1>
+<fighter2>Ben Jones</fighter2>
+<rounds>12</rounds>
+<weight>Featherweight Division</weight>
+
+<fighter1>Ted Cheeseman</fighter1>
+<fighter2>Carson Jones</fighter2>
+<rounds>10</rounds>
+<weight>Junior Middleweight Division</weight>
 
 <loc>Sochi, Russia</loc>
 
@@ -111,12 +95,31 @@
 <fighter1>Sergey Lipinets</fighter1>
 <fighter2>Mikey Garcia</fighter2>
 <rounds>12</rounds>
-<weight>Welterweight Division</weight>
+<weight>Junior Welterweight Division</weight>
 
 <fighter1>Rances Barthelemy</fighter1>
 <fighter2>Kiryl Relikh</fighter2>
 <rounds>12</rounds>
 <weight>Junior Welterweight Division</weight>
+
+<fighter1>Richard Commey</fighter1>
+<fighter2>Alejandro Luna</fighter2>
+<rounds>12</rounds>
+<weight>Lightweight Division</weight>
+
+<loc>Cancun, Mexico</loc>
+
+<fighter1>Miguel Berchelt</fighter1>
+<fighter2>Cristian Mijares</fighter2>
+<rounds>12</rounds>
+<weight>Junior Lightweight Division</weight>
+
+<loc>London</loc>
+
+<fighter1>Zolani Tete</fighter1>
+<fighter2>Omar Narvaez</fighter2>
+<rounds>12</rounds>
+<weight>Bantamweight Division</weight>
 
 <time>February. 16, 2018</time>
 <loc>Reno, Nev.</loc>
@@ -126,11 +129,50 @@
 <rounds>12</rounds>
 <weight>Lightweight Division</weight>
 
+<fighter1>Egidijus Kavaliauskas</fighter1>
+<fighter2>David Avanesyan</fighter2>
+<rounds>10</rounds>
+<weight>Welterweight Division</weight>
+
 <time>February. 17, 2018</time>
 <loc>Manchester, England</loc>
 
 <fighter1>George Groves</fighter1>
 <fighter2>Chris Eubank</fighter2>
+<rounds>12</rounds>
+<weight>Super Middleweight Division</weight>
+
+<fighter1>Ryan Walsh</fighter1>
+<fighter2>Isaac Lowe</fighter2>
+<rounds>12</rounds>
+<weight>Featherweight Division</weight>
+
+<fighter1>Arfan Iqbal</fighter1>
+<fighter2>Simon Vallily</fighter2>
+<rounds>10</rounds>
+<weight>Cruiserweight Division</weight>
+
+<loc>Las Vegas</loc>
+
+<fighter1>Danny Garcia</fighter1>
+<fighter2>Brandon Rios</fighter2>
+<rounds>12</rounds>
+<weight>Welterweight Division</weight>
+
+<fighter1>David Benavidez</fighter1>
+<fighter2>Ronald Gavril</fighter2>
+<rounds>12</rounds>
+<weight>Super Middleweight Division</weight>
+
+<loc>El Paso, Texas</loc>
+
+<fighter1>Devon Alexander</fighter1>
+<fighter2>Victor Ortiz</fighter2>
+<rounds>12</rounds>
+<weight>Welterweight Division</weight>
+
+<fighter1>Caleb Plant</fighter1>
+<fighter2>Rogelio Medina</fighter2>
 <rounds>12</rounds>
 <weight>Super Middleweight Division</weight>
 
@@ -147,6 +189,24 @@
 <rounds>10</rounds>
 <weight>Junior Bantamweight Division</weight>
 
+<fighter1>Brian Viloria</fighter1>
+<fighter2>Artem Dalakian</fighter2>
+<rounds>12</rounds>
+<weight>Flyweight Division</weight>
+
+<time>March. 1, 2018</time>
+<loc>Tokyo</loc>
+
+<fighter1>Luis Nery</fighter1>
+<fighter2>Shinsuke Yamanaka</fighter2>
+<rounds>12</rounds>
+<weight>Bantamweight Division</weight>
+
+<fighter1>Ryosuke Iwasa</fighter1>
+<fighter2>Ernesto Saulong</fighter2>
+<rounds>12</rounds>
+<weight>Junior Featherweight Division</weight>
+
 <time>March. 3, 2018</time>
 <loc>Sheffield, England</loc>
 
@@ -155,6 +215,36 @@
 <rounds>12</rounds>
 <weight>Junior Middleweight Division</weight>
 
+<fighter1>Gamal Yafai</fighter1>
+<fighter2>Gavin McDonnell</fighter2>
+<rounds>12</rounds>
+<weight>Junior Featherweight Division</weight>
+
+<loc>New York</loc>
+
+<fighter1>Sergey Kovalev</fighter1>
+<fighter2>Igor Mikhalkin</fighter2>
+<rounds>12</rounds>
+<weight>Light Heavyweight Division</weight>
+
+<fighter1>Dmitry Bivol</fighter1>
+<fighter2>Sullivan Barrera</fighter2>
+<rounds>12</rounds>
+<weight>Light Heavyweight Division</weight>
+
+<time>March. 10, 2018</time>
+<loc>Carson, Calif.</loc>
+
+<fighter1>Oscar Valdez</fighter1>
+<fighter2>Scott Quigg</fighter2>
+<rounds>12</rounds>
+<weight>Featherweight Division</weight>
+
+<fighter1>Andy Vences</fighter1>
+<fighter2>Erick DeLeon</fighter2>
+<rounds>10</rounds>
+<weight>Junior Lightweight Division</weight>
+
 <time>March. 17, 2018</time>
 <loc>New York</loc>
 
@@ -162,6 +252,22 @@
 <fighter2>Amir Imam</fighter2>
 <rounds>12</rounds>
 <weight>Junior Welterweight Division</weight>
+
+<time>April. 14, 2018</time>
+<loc>London</loc>
+
+<fighter1>Terry Flanagan</fighter1>
+<fighter2>Maurice Hooker</fighter2>
+<rounds>12</rounds>
+<weight>Junior Welterweight Division</weight>
+
+<time>April. 21, 2018</time>
+<loc>Belfast, Northern Ireland</loc>
+
+<fighter1>Carl Frampton</fighter1>
+<fighter2>Nonito Donaire</fighter2>
+<rounds>12</rounds>
+<weight>Featherweight Division</weight>
 
 <time>May. 5, 2018</time>
 <loc>London</loc>
