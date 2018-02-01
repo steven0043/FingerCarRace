@@ -1,30 +1,21 @@
-<time>January. 27, 2018</time>
+<time>February. 3, 2018</time>
 
-<loc>Riga, Latvia</loc>
+<loc>Sochi, Russia</loc>
 
-<fighter1>Oleksandr Usyk</fighter1>
-<fighter2>Mairis Briedis</fighter2>
+<fighter1>Murat Gassiev</fighter1>
+<fighter2>Yunier Dorticos</fighter2>
 <rounds>12</rounds>
 <weight>Cruiserweight Division</weight>
 
-<loc>Inglewood, Calif.</loc>
-
-<fighter1>Lucas Matthysse</fighter1>
-<fighter2>Tewa Kiram</fighter2>
+<fighter1>Maksim Vlosov</fighter1>
+<fighter2>Olanreqaju Dorolola</fighter2>
 <rounds>12</rounds>
-<weight>Welterweight Division</weight>
+<weight>Cruiserweight Division</weight>
 
-<fighter1>Jorge Linares</fighter1>
-<fighter2>Mercito Gesta</fighter2>
+<fighter1>Fedor Chudinov</fighter1>
+<fighter2>Bobby Gunn</fighter2>
 <rounds>12</rounds>
-<weight>Lightweight Division</weight>
-
-<fighter1>Yoshihiro Kamegai</fighter1>
-<fighter2>Daquan Pauldo</fighter2>
-<rounds>10</rounds>
-<weight>Junior Middleweight Division</weight>
-
-<time>February. 3, 2018</time>
+<weight>Super Middleweight Division</weight>
 
 <loc>London</loc>
 
@@ -43,12 +34,10 @@
 <rounds>10</rounds>
 <weight>Junior Middleweight Division</weight>
 
-<loc>Sochi, Russia</loc>
-
-<fighter1>Murat Gassiev</fighter1>
-<fighter2>Yunier Dorticos</fighter2>
-<rounds>12</rounds>
-<weight>Cruiserweight Division</weight>
+<fighter1>Joshua Buatsi</fighter1>
+<fighter2>Joseph Jordan</fighter2>
+<rounds>6</rounds>
+<weight>Light Heavyweight Division</weight>
 
 <loc>Corpus Christi, Texas</loc>
 
@@ -61,6 +50,15 @@
 <fighter2>Israel Gonzalez</fighter2>
 <rounds>12</rounds>
 <weight>Junior Bantamweight Division</weight>
+
+<time>February. 8, 2018</time>
+
+<loc>Pensacola, Fla</loc>
+
+<fighter1>Roy Jones</fighter1>
+<fighter2>Scott Sigmon</fighter2>
+<rounds>10</rounds>
+<weight>Cruiserweight Division</weight>
 
 <time>February. 10, 2018</time>
 
@@ -339,6 +337,18 @@
 <rounds>12</rounds>
 <weight>Junior Lightweight Division</weight>
 
+<loc>Liverpool, England</loc>
+
+<fighter1>Amir Khan</fighter1>
+<fighter2>Phil Lo Greco</fighter2>
+<rounds>12</rounds>
+<weight>Welterweight Division</weight>
+
+<fighter1>Sean Dodd </fighter1>
+<fighter2>Tommy Coyle</fighter2>
+<rounds>12</rounds>
+<weight>Lightweight Division</weight>
+
 <loc>TBA</loc>
 
 <fighter1>Adrien Broner</fighter1>
@@ -353,6 +363,13 @@
 <fighter2>David Haye</fighter2>
 <rounds>12</rounds>
 <weight>Heavyweight Division</weight>
+
+<loc>Las Vegas</loc>
+
+<fighter1>Gennady Golovkin</fighter1>
+<fighter2>Saul Canelo</fighter2>
+<rounds>12</rounds>
+<weight>Middleweight Division</weight
 
 <time>May. 19, 2018</time>
 
