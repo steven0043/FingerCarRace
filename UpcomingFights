@@ -1,61 +1,3 @@
-<time>February. 3, 2018</time>
-
-<loc>Sochi, Russia</loc>
-
-<fighter1>Murat Gassiev</fighter1>
-<fighter2>Yunier Dorticos</fighter2>
-<rounds>12</rounds>
-<weight>Cruiserweight Division</weight>
-
-<fighter1>Maksim Vlosov</fighter1>
-<fighter2>Olanreqaju Dorolola</fighter2>
-<rounds>12</rounds>
-<weight>Cruiserweight Division</weight>
-
-<fighter1>Fedor Chudinov</fighter1>
-<fighter2>Bobby Gunn</fighter2>
-<rounds>12</rounds>
-<weight>Super Middleweight Division</weight>
-
-<loc>London</loc>
-
-<fighter1>KSI</fighter1>
-<fighter2>Joe Weller</fighter2>
-<rounds>6</rounds>
-<weight>YouTube Division</weight>
-
-<fighter1>Lawrence Okolie</fighter1>
-<fighter2>Isaac Chamberlain</fighter2>
-<rounds>10</rounds>
-<weight>Cruiserweight Division</weight>
-
-<fighter1>Reece Bellotti</fighter1>
-<fighter2>Ben Jones</fighter2>
-<rounds>12</rounds>
-<weight>Featherweight Division</weight>
-
-<fighter1>Ted Cheeseman</fighter1>
-<fighter2>Carson Jones</fighter2>
-<rounds>10</rounds>
-<weight>Junior Middleweight Division</weight>
-
-<fighter1>Joshua Buatsi</fighter1>
-<fighter2>Joseph Jordan</fighter2>
-<rounds>6</rounds>
-<weight>Light Heavyweight Division</weight>
-
-<loc>Corpus Christi, Texas</loc>
-
-<fighter1>Gilberto Ramirez</fighter1>
-<fighter2>Habib Ahmed</fighter2>
-<rounds>12</rounds>
-<weight>Super Middleweight Division</weight>
-
-<fighter1>Jerwin Ancajas</fighter1>
-<fighter2>Israel Gonzalez</fighter2>
-<rounds>12</rounds>
-<weight>Junior Bantamweight Division</weight>
-
 <time>February. 8, 2018</time>
 
 <loc>Pensacola, Fla</loc>
@@ -70,11 +12,19 @@
 <loc>Cancun, Mexico</loc>
 
 <fighter1>Miguel Berchelt</fighter1>
-<fighter2>Cristian Mijares</fighter2>
+<fighter2>Maxwell Awuku</fighter2>
 <rounds>12</rounds>
 <weight>Junior Lightweight Division</weight>
 
 <time>February. 16, 2018</time>
+
+<loc>London</loc>
+
+<fighter1>Joe Joyce</fighter1>
+<fighter2>Rudolf Jozic</fighter2>
+<rounds>12</rounds>
+<weight>Heavyweight Division</weight>
+
 <loc>Reno, Nev.</loc>
 
 <fighter1>Raymundo Beltran</fighter1>
@@ -94,6 +44,16 @@
 <fighter2>Chris Eubank</fighter2>
 <rounds>12</rounds>
 <weight>Super Middleweight Division</weight>
+
+<fighter1>Zach Parker</fighter1>
+<fighter2>Adasat Rodriguez</fighter2>
+<rounds>10</rounds>
+<weight>Super Middleweight Division</weight>
+
+<fighter1>Tommy Langford</fighter1>
+<fighter2>Jack Arnfield</fighter2>
+<rounds>12</rounds>
+<weight>Middleweight Division</weight>
 
 <fighter1>Ryan Walsh</fighter1>
 <fighter2>Isaac Lowe</fighter2>
@@ -286,6 +246,11 @@
 <rounds>12</rounds>
 <weight>Junior Welterweight Division</weight>
 
+<fighter1>Oleksandr Gvozdyk</fighter1>
+<fighter2>Mehdi Amar</fighter2>
+<rounds>12</rounds>
+<weight>Light Heavyweight Division</weight>
+
 <time>March. 24, 2018</time>
 <loc>London</loc>
 
@@ -304,6 +269,11 @@
 
 <fighter1>Anthony Joshua</fighter1>
 <fighter2>Joseph Parker</fighter2>
+<rounds>12</rounds>
+<weight>Heavyweight Division</weight>
+
+<fighter1>Alexander Povetkin</fighter1>
+<fighter2>David Price</fighter2>
 <rounds>12</rounds>
 <weight>Heavyweight Division</weight>
 
@@ -349,7 +319,7 @@
 <rounds>12</rounds>
 <weight>Welterweight Division</weight>
 
-<fighter1>Sean Dodd </fighter1>
+<fighter1>Sean Dodd</fighter1>
 <fighter2>Tommy Coyle</fighter2>
 <rounds>12</rounds>
 <weight>Lightweight Division</weight>
@@ -375,6 +345,14 @@
 <fighter2>Saul Canelo</fighter2>
 <rounds>12</rounds>
 <weight>Middleweight Division</weight
+
+<time>May. 11, 2018</time>
+<loc>Jeddah, Saudi Arabia</loc>
+
+<fighter1>Oleksandr Usyk</fighter1>
+<fighter2>Murat Gassiev</fighter2>
+<rounds>12</rounds>
+<weight>Cruiserweight Division</weight>
 
 <time>May. 19, 2018</time>
 
