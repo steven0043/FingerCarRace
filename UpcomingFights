@@ -19,6 +19,11 @@
 <rounds>10</rounds>
 <weight>Welterweight Division</weight>
 
+<fighter1>Shakur Stevenson</fighter1>
+<fighter2>Juan Tapia</fighter2>
+<rounds>8</rounds>
+<weight>Featherweight Division</weight>
+
 <time>February. 17, 2018</time>
 <loc>Manchester, England</loc>
 
@@ -76,6 +81,15 @@
 <rounds>12</rounds>
 <weight>Super Middleweight Division</weight>
 
+<time>February. 22, 2018</time>
+
+<loc>Indio, Calif.</loc>
+
+<fighter1>Joseph Diaz</fighter1>
+<fighter2>Victor Terrazas</fighter2>
+<rounds>10</rounds>
+<weight>Featherweight Division</weight>
+
 <time>February. 24, 2018</time>
 
 <loc>Nuremberg, Germany</loc>
@@ -84,6 +98,18 @@
 <fighter2>Juergen Braehmer</fighter2>
 <rounds>12</rounds>
 <weight>Super Middleweight Division</weight>
+
+<loc>London</loc>
+
+<fighter1>Anthony Yarde</fighter1>
+<fighter2>Tony Averlant</fighter2>
+<rounds>12</rounds>
+<weight>Light Heavyweight Division</weight>
+
+<fighter1>Daniel Dubois</fighter1>
+<fighter2>DL Jones</fighter2>
+<rounds>10</rounds>
+<weight>Heavyweight Division</weight>
 
 <loc>Inglewood, Calif.</loc>
 
@@ -134,6 +160,11 @@
 <rounds>12</rounds>
 <weight>Middleweight Division</weight>
 
+<fighter1>Andre Dirrell</fighter1>
+<fighter2>Jose Uzcategui</fighter2>
+<rounds>12</rounds>
+<weight>Super Middleweight Division</weight>
+
 <loc>Sheffield, England</loc>
 
 <fighter1>Kell Brook</fighter1>
@@ -180,7 +211,7 @@
 <loc>Deadwood, South Dakota</loc>
 
 <fighter1>Regis Prograis</fighter1>
-<fighter2>Viktor Postol</fighter2>
+<fighter2>Julius Indongo</fighter2>
 <rounds>12</rounds>
 <weight>Junior Welterweight Division</weight>
 
@@ -259,6 +290,11 @@
 <rounds>12</rounds>
 <weight>Heavyweight Division</weight>
 
+<fighter1>Ryan Burnett</fighter1>
+<fighter2>Yonfrez Parejo</fighter2>
+<rounds>12</rounds>
+<weight>Bantamweight Division</weight>
+
 <time>April. 7, 2018</time>
 <loc>New York</loc>
 
@@ -288,6 +324,11 @@
 <fighter2>Nonito Donaire</fighter2>
 <rounds>12</rounds>
 <weight>Featherweight Division</weight>
+
+<fighter1>Zolani Tete</fighter1>
+<fighter2>Omar Narvaez</fighter2>
+<rounds>12</rounds>
+<weight>Bantamweight Division</weight>
 
 <fighter1>Jono Carroll</fighter1>
 <fighter2>Marco McCullough</fighter2>
@@ -335,6 +376,13 @@
 <fighter2>Murat Gassiev</fighter2>
 <rounds>12</rounds>
 <weight>Cruiserweight Division</weight>
+
+<loc>Bolton, England</loc>
+
+<fighter1>Sam Sexton</fighter1>
+<fighter2>Hughie Fury</fighter2>
+<rounds>12</rounds>
+<weight>Heavyweight Division</weight>
 
 <time>May. 19, 2018</time>
 
