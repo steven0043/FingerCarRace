@@ -1,3 +1,45 @@
+<loc>Las Vegas</loc>
+
+<fighter1>Danny Garcia</fighter1>
+<fighter2>Brandon Rios</fighter2>
+<rounds>12</rounds>
+<weight>Welterweight Division</weight>
+
+<fighter1>David Benavidez</fighter1>
+<fighter2>Ronald Gavril</fighter2>
+<rounds>12</rounds>
+<weight>Super Middleweight Division</weight>
+<loc>El Paso, Texas</loc>
+
+<fighter1>Devon Alexander</fighter1>
+<fighter2>Victor Ortiz</fighter2>
+<rounds>12</rounds>
+<weight>Welterweight Division</weight>
+
+<fighter1>Caleb Plant</fighter1>
+<fighter2>Rogelio Medina</fighter2>
+<rounds>12</rounds>
+<weight>Super Middleweight Division</weight>
+
+<time>February. 17, 2018</time>
+<loc>Manchester, England</loc>
+
+<fighter1>George Groves</fighter1>
+<fighter2>Chris Eubank</fighter2>
+<rounds>12</rounds>
+<weight>Super Middleweight Division</weight>
+
+<fighter1>Tommy Langford</fighter1>
+<fighter2>Jack Arnfield</fighter2>
+<rounds>12</rounds>
+<weight>Middleweight Division</weight>
+
+<fighter1>Ryan Walsh</fighter1>
+<fighter2>Isaac Lowe</fighter2>
+<rounds>12</rounds>
+<weight>Featherweight Division</weight>
+
+
 <time>February. 3, 2018</time>
 
 <loc>Sochi, Russia</loc>
