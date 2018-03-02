@@ -9,10 +9,6 @@
 <rounds>12</rounds>
 <weight>Heavyweight Division</weight>
 
-<fighter1>Jermall Charlo</fighter1>
-<fighter2>Hugo Centeno</fighter2>
-<rounds>12</rounds>
-<weight>Middleweight Division</weight>
 
 <fighter1>Andre Dirrell</fighter1>
 <fighter2>Jose Uzcategui</fighter2>
@@ -163,6 +159,11 @@
 <fighter2>Erislandy Lara</fighter2>
 <rounds>12</rounds>
 <weight>Junior Middleweight Division</weight>
+
+<fighter1>Jermall Charlo</fighter1>
+<fighter2>Hugo Centeno</fighter2>
+<rounds>12</rounds>
+<weight>Middleweight Division</weight>
 
 <time>April. 14, 2018</time>
 
