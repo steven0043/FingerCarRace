@@ -1,3 +1,39 @@
+
+
+<time>March. 3, 2018</time>
+
+<loc>New York</loc>
+
+<fighter1>Deontay Wilder</fighter1>
+<fighter2>Luis Ortiz</fighter2>
+<rounds>12</rounds>
+<weight>Heavyweight Division</weight>
+
+
+<fighter1>Andre Dirrell</fighter1>
+<fighter2>Jose Uzcategui</fighter2>
+<rounds>12</rounds>
+<weight>Super Middleweight Division</weight>
+
+<loc>Sheffield, England</loc>
+
+<fighter1>Gamal Yafai</fighter1>
+<fighter2>Gavin McDonnell</fighter2>
+<rounds>12</rounds>
+<weight>Junior Featherweight Division</weight>
+
+<loc>New York</loc>
+
+<fighter1>Sergey Kovalev</fighter1>
+<fighter2>Igor Mikhalkin</fighter2>
+<rounds>12</rounds>
+<weight>Light Heavyweight Division</weight>
+
+<fighter1>Dmitry Bivol</fighter1>
+<fighter2>Sullivan Barrera</fighter2>
+<rounds>12</rounds>
+<weight>Light Heavyweight Division</weight>
+
 <time>February. 24, 2018</time>
 
 <loc>Inglewood, Calif.</loc>
