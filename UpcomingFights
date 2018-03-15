@@ -1,48 +1,3 @@
-<time>March. 9, 2018</time>
-
-<loc>Deadwood, South Dakota</loc>
-
-<fighter1>Regis Prograis</fighter1>
-<fighter2>Julius Indongo</fighter2>
-<rounds>12</rounds>
-<weight>Junior Welterweight Division</weight>
-
-<fighter1>Ivan Baranchyk</fighter1>
-<fighter2>Petr Petrov</fighter2>
-<rounds>12</rounds>
-<weight>Junior Welterweight Division</weight>
-
-<time>March. 10, 2018</time>
-
-<loc>San Antonio</loc>
-
-<fighter1>Sergey Lipinets</fighter1>
-<fighter2>Mikey Garcia</fighter2>
-<rounds>12</rounds>
-<weight>Junior Welterweight Division</weight>
-
-<fighter1>Rances Barthelemy</fighter1>
-<fighter2>Kiryl Relikh</fighter2>
-<rounds>12</rounds>
-<weight>Junior Welterweight Division</weight>
-
-<fighter1>Richard Commey</fighter1>
-<fighter2>Alejandro Luna</fighter2>
-<rounds>12</rounds>
-<weight>Lightweight Division</weight>
-
-<loc>Carson, Calif.</loc>
-
-<fighter1>Oscar Valdez</fighter1>
-<fighter2>Scott Quigg</fighter2>
-<rounds>12</rounds>
-<weight>Featherweight Division</weight>
-
-<fighter1>Andy Vences</fighter1>
-<fighter2>Erick DeLeon</fighter2>
-<rounds>10</rounds>
-<weight>Junior Lightweight Division</weight>
-
 <time>March. 17, 2018</time>
 <loc>New York</loc>
 
@@ -55,6 +10,11 @@
 <fighter2>Mehdi Amar</fighter2>
 <rounds>12</rounds>
 <weight>Light Heavyweight Division</weight>
+
+<fighter1>Michael Conlan</fighter1>
+<fighter2>David Berna</fighter2>
+<rounds>8</rounds>
+<weight>Featherweight Division</weight>
 
 <loc>London</loc>
 
@@ -116,6 +76,11 @@
 <rounds>10</rounds>
 <weight>Welterweight Division</weight>
 
+<fighter1>Joe Cordina</fighter1>
+<fighter2>Andy Townend</fighter2>
+<rounds>10</rounds>
+<weight>Lightweight Division</weight>
+
 <time>April. 7, 2018</time>
 <loc>New York</loc>
 
@@ -123,6 +88,11 @@
 <fighter2>Erislandy Lara</fighter2>
 <rounds>12</rounds>
 <weight>Junior Middleweight Division</weight>
+
+<fighter1>Caleb Truax</fighter1>
+<fighter2>James DeGale</fighter2>
+<rounds>12</rounds>
+<weight>Super Middleweight Division</weight>
 
 <time>April. 14, 2018</time>
 
@@ -155,6 +125,11 @@
 <fighter2>Marco McCullough</fighter2>
 <rounds>12</rounds>
 <weight>Junior Lightweight Division</weight>
+
+<fighter1>Conrad Cummings</fighter1>
+<fighter2>Luke Keeler</fighter2>
+<rounds>10</rounds>
+<weight>Middleweight Division</weight>
 
 <loc>Liverpool, England</loc>
 
@@ -203,6 +178,24 @@
 <rounds>10</rounds>
 <weight>Lightweight Division</weight>
 
+<time>April. 28, 2018</time>
+<loc>Philadelphia</loc>
+
+<fighter1>Jessie Magdaleno</fighter1>
+<fighter2>Isaac Dogboe</fighter2>
+<rounds>12</rounds>
+<weight>Junior Featherweight Division</weight>
+
+<fighter1>Jesse Hart</fighter1>
+<fighter2>Demond Nicholson</fighter2>
+<rounds>10</rounds>
+<weight>Super Middleweight Division</weight>
+
+<fighter1>Bryant Jennings</fighter1>
+<fighter2>Joey Dawejko</fighter2>
+<rounds>10</rounds>
+<weight>Heavyweight Division</weight>
+
 <time>May. 5, 2018</time>
 <loc>London</loc>
 
@@ -232,6 +225,21 @@
 <fighter2>Hughie Fury</fighter2>
 <rounds>12</rounds>
 <weight>Heavyweight Division</weight>
+
+<time>May. 12, 2018</time>
+<loc>New York</loc>
+
+<fighter1>Jorge Linares</fighter1>
+<fighter2>Vasyl Lomachenko</fighter2>
+<rounds>12</rounds>
+<weight>Lightweight Division</weight>
+
+<loc>USA</loc>
+
+<fighter1>Sadam Ali</fighter1>
+<fighter2>Liam Smith</fighter2>
+<rounds>12</rounds>
+<weight>Junior Middleweight Division</weight>
 
 <time>May. 19, 2018</time>
 
