@@ -16,10 +16,13 @@
 <rounds>12</rounds>
 <weight>Junior Middleweight Division</weight>
 
-<fighter1>Sergio Mora</fighter1>
-<fighter2>Alfredo Angulo</fighter2>
-<rounds>8</rounds>
-<weight>Super Middleweight Division</weight>
+<time>April. 12, 2018</time>
+<loc>Indio, Calif.</loc>
+
+<fighter1>Francisco Vargas</fighter1>
+<fighter2>Rod Salka</fighter2>
+<rounds>10</rounds>
+<weight>Junior Lightweight Division</weight>
 
 <time>April. 15, 2018</time>
 <loc>Yokohama, Japan</loc>
@@ -188,6 +191,11 @@
 <rounds>12</rounds>
 <weight>Light Heavyweight Division</weight>
 
+<fighter1>Gary Russell</fighter1>
+<fighter2>Joseph Diaz</fighter2>
+<rounds>12</rounds>
+<weight>Featherweight Division</weight>
+
 <time>May. 25, 2018</time>
 
 <loc>Tokyo</loc>
@@ -228,6 +236,11 @@
 <fighter2>Abner Mares</fighter2>
 <rounds>12</rounds>
 <weight>Featherweight Division</weight>
+
+<fighter1>Jermell Charlo</fighter1>
+<fighter2>Austin Trout</fighter2>
+<rounds>12</rounds>
+<weight>Junior Middleweight Division</weight>
 
 <loc>Las Vegas</loc>
 
