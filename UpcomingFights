@@ -1,43 +1,22 @@
-<time>April. 7, 2018</time>
+<time>April. 21, 2018</time>
+
 <loc>New York</loc>
 
-<fighter1>Jarrett Hurd</fighter1>
-<fighter2>Erislandy Lara</fighter2>
+<fighter1>Adrien Broner</fighter1>
+<fighter2>Jessie Vargas</fighter2>
 <rounds>12</rounds>
-<weight>Junior Middleweight Division</weight>
+<weight>Junior Welterweight Division</weight>
 
-<fighter1>Caleb Truax</fighter1>
-<fighter2>James DeGale</fighter2>
-<rounds>12</rounds>
-<weight>Super Middleweight Division</weight>
-
-<fighter1>Julian Williams</fighter1>
-<fighter2>Nathaniel Gallimore</fighter2>
-<rounds>12</rounds>
-<weight>Junior Middleweight Division</weight>
-
-<time>April. 12, 2018</time>
-<loc>Indio, Calif.</loc>
-
-<fighter1>Francisco Vargas</fighter1>
-<fighter2>Rod Salka</fighter2>
-<rounds>10</rounds>
-<weight>Junior Lightweight Division</weight>
-
-<time>April. 15, 2018</time>
-<loc>Yokohama, Japan</loc>
-
-<fighter1>Ryota Murata</fighter1>
-<fighter2>Emanuele Blandamura</fighter2>
+<fighter1>Jermall Charlo</fighter1>
+<fighter2>Hugo Centeno</fighter2>
 <rounds>12</rounds>
 <weight>Middleweight Division</weight>
 
-<fighter1>Daigo Higa</fighter1>
-<fighter2>Cristopher Rosales</fighter2>
+<fighter1>Gervonta Davis</fighter1>
+<fighter2>Jesus Cuellar</fighter2>
 <rounds>12</rounds>
-<weight>Flyweight Division</weight>
+<weight>Junior Lightweight Division</weight>
 
-<time>April. 21, 2018</time>
 <loc>Belfast, Northern Ireland</loc>
 
 <fighter1>Carl Frampton</fighter1>
@@ -50,10 +29,10 @@
 <rounds>12</rounds>
 <weight>Bantamweight Division</weight>
 
-<fighter1>Jono Carroll</fighter1>
-<fighter2>Marco McCullough</fighter2>
-<rounds>12</rounds>
-<weight>Junior Lightweight Division</weight>
+<fighter1>Tyrone McKenna</fighter1>
+<fighter2>Anthony Upton</fighter2>
+<rounds>10</rounds>
+<weight>Junior Welterweight Division</weight>
 
 <fighter1>Conrad Cummings</fighter1>
 <fighter2>Luke Keeler</fighter2>
@@ -72,22 +51,10 @@
 <rounds>12</rounds>
 <weight>Lightweight Division</weight>
 
-<loc>New York</loc>
-
-<fighter1>Adrien Broner</fighter1>
-<fighter2>Jessie Vargas</fighter2>
-<rounds>12</rounds>
-<weight>Junior Welterweight Division</weight>
-
-<fighter1>Jermall Charlo</fighter1>
-<fighter2>Hugo Centeno</fighter2>
-<rounds>12</rounds>
-<weight>Middleweight Division</weight>
-
-<fighter1>Gervonta Davis</fighter1>
-<fighter2>Jesus Cuellar</fighter2>
-<rounds>12</rounds>
-<weight>Junior Lightweight Division</weight>
+<fighter1>Conor Benn</fighter1>
+<fighter2>Chris Truman</fighter2>
+<rounds>6</rounds>
+<weight>Lightweight Division</weight>
 
 <time>April. 28, 2018</time>
 <loc>New York, HBO</loc>
@@ -133,15 +100,25 @@
 <rounds>12</rounds>
 <weight>Heavyweight Division</weight>
 
+<fighter1>Paul Butler</fighter1>
+<fighter2>Emmanuel Rodriguez</fighter2>
+<rounds>12</rounds>
+<weight>Bantamweight Division</weight>
+
 <fighter1>John Ryder</fighter1>
 <fighter2>Jamie Cox</fighter2>
 <rounds>12</rounds>
 <weight>Super Middleweight Division</weight>
 
+<fighter1>Lenroy Thomas</fighter1>
+<fighter2>Joe Joyce</fighter2>
+<rounds>12</rounds>
+<weight>Heavyweight Division</weight>
+
 <loc>Las Vegas</loc>
 
 <fighter1>Gennady Golovkin</fighter1>
-<fighter2>Gary O'Sullivan</fighter2>
+<fighter2>Vanes Martirosyan</fighter2>
 <rounds>12</rounds>
 <weight>Middleweight Division</weight
 
@@ -174,6 +151,11 @@
 <fighter2>Liam Smith</fighter2>
 <rounds>12</rounds>
 <weight>Junior Middleweight Division</weight>
+
+<fighter1>Rey Vargas</fighter1>
+<fighter2>Azat Hovhannisyan</fighter2>
+<rounds>12</rounds>
+<weight>Junior Featherweight Division</weight>
 
 <time>May. 19, 2018</time>
 
@@ -218,6 +200,13 @@
 <fighter2>Jonas Sultan</fighter2>
 <rounds>12</rounds>
 <weight>Junior Bantamweight Division</weight>
+
+<loc>Quebec City</loc>
+
+<fighter1>David Lemieux</fighter1>
+<fighter2>Karim Achour</fighter2>
+<rounds>12</rounds>
+<weight>Middleweight Division</weight>
 
 <time>June. 2, 2018</time>
 
@@ -280,3 +269,8 @@
 <fighter2>Lucas Matthysse</fighter2>
 <rounds>12</rounds>
 <weight>Welterweight Division</weight>
+
+<fighter1>Moruti Mthalane</fighter1>
+<fighter2>Muhammad Waseem</fighter2>
+<rounds>12</rounds>
+<weight>Flyweight Division</weight>
