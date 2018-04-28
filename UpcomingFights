@@ -16,7 +16,6 @@
 <rounds>10</rounds>
 <weight>Lightweight Division</weight>
 
-<time>April. 28, 2018</time>
 <loc>Philadelphia</loc>
 
 <fighter1>Jessie Magdaleno</fighter1>
@@ -33,6 +32,13 @@
 <fighter2>Joey Dawejko</fighter2>
 <rounds>10</rounds>
 <weight>Heavyweight Division</weight>
+
+<loc>Bilbao Arena, Bilbao</loc>
+
+<fighter1>Bradley Skeete</fighter1>
+<fighter2>Kerman Lejarraga</fighter2>
+<rounds>12</rounds>
+<weight>Welterweight Division</weight>
 
 <time>May. 4, 2018</time>
 <loc>Carson, Calif</loc>
