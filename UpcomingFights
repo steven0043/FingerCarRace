@@ -1,45 +1,3 @@
-<time>April. 28, 2018</time>
-<loc>New York, HBO</loc>
-
-<fighter1>Daniel Jacobs</fighter1>
-<fighter2>Maciej Suleck</fighter2>
-<rounds>12</rounds>
-<weight>Middleweight Division</weight>
-
-<fighter1>Jarrell Miller</fighter1>
-<fighter2>Johann Duhaupas</fighter2>
-<rounds>12</rounds>
-<weight>Heavyweight Division</weight>
-
-<fighter1>Katie Taylor</fighter1>
-<fighter2>Victoria Bustos</fighter2>
-<rounds>10</rounds>
-<weight>Lightweight Division</weight>
-
-<loc>Philadelphia</loc>
-
-<fighter1>Jessie Magdaleno</fighter1>
-<fighter2>Isaac Dogboe</fighter2>
-<rounds>12</rounds>
-<weight>Junior Featherweight Division</weight>
-
-<fighter1>Jesse Hart</fighter1>
-<fighter2>Demond Nicholson</fighter2>
-<rounds>10</rounds>
-<weight>Super Middleweight Division</weight>
-
-<fighter1>Bryant Jennings</fighter1>
-<fighter2>Joey Dawejko</fighter2>
-<rounds>10</rounds>
-<weight>Heavyweight Division</weight>
-
-<loc>Bilbao Arena, Bilbao</loc>
-
-<fighter1>Bradley Skeete</fighter1>
-<fighter2>Kerman Lejarraga</fighter2>
-<rounds>12</rounds>
-<weight>Welterweight Division</weight>
-
 <time>May. 4, 2018</time>
 <loc>Carson, Calif</loc>
 
@@ -76,17 +34,22 @@
 <rounds>12</rounds>
 <weight>Heavyweight Division</weight>
 
-<loc>Las Vegas</loc>
+<fighter1>Martin Ward</fighter1>
+<fighter2>James Tennyson</fighter2>
+<rounds>12</rounds>
+<weight>Junior Lightweight Division</weight>
+
+<loc>L.A.</loc>
 
 <fighter1>Gennady Golovkin</fighter1>
 <fighter2>Vanes Martirosyan</fighter2>
 <rounds>12</rounds>
 <weight>Middleweight Division</weight
 
-<fighter1>Roman Gonzalez</fighter1>
-<fighter2>Pedro Guevara</fighter2>
-<rounds>10</rounds>
-<weight>Bantamweight Division</weight
+<fighter1>Ryan Martin</fighter1>
+<fighter2>Breidis Prescott</fighter2>
+<rounds>8</rounds>
+<weight>Junior Welterweight Division</weight
 
 <fighter1>Cecilia Braekhus</fighter1>
 <fighter2>Kali Reis</fighter2>
@@ -94,12 +57,6 @@
 <weight>Welterweight Division</weight
 
 <time>May. 11, 2018</time>
-<loc>Jeddah, Saudi Arabia</loc>
-
-<fighter1>Oleksandr Usyk</fighter1>
-<fighter2>Murat Gassiev</fighter2>
-<rounds>12</rounds>
-<weight>Cruiserweight Division</weight>
 
 <loc>Bolton, England</loc>
 
@@ -107,6 +64,18 @@
 <fighter2>Hughie Fury</fighter2>
 <rounds>12</rounds>
 <weight>Heavyweight Division</weight>
+
+<loc>Las Vegas</loc>
+
+<fighter1>Tony Harrison</fighter1>
+<fighter2>Ishe Smith</fighter2>
+<rounds>10</rounds>
+<weight>Junior Middleweight Division</weight>
+
+<fighter1>Andrew Tabiti</fighter1>
+<fighter2>Lateef Kayode</fighter2>
+<rounds>10</rounds>
+<weight>Cruiserweight Division</weight>
 
 <time>May. 12, 2018</time>
 <loc>New York</loc>
@@ -119,7 +88,7 @@
 <loc>Verona, N.Y.</loc>
 
 <fighter1>Sadam Ali</fighter1>
-<fighter2>Liam Smith</fighter2>
+<fighter2>Jaime Munguia</fighter2>
 <rounds>12</rounds>
 <weight>Junior Middleweight Division</weight>
 
@@ -143,6 +112,8 @@
 <fighter2>Badou Jack</fighter2>
 <rounds>12</rounds>
 <weight>Light Heavyweight Division</weight>
+
+<loc>Oxon Hill, Md.</loc>
 
 <fighter1>Gary Russell</fighter1>
 <fighter2>Joseph Diaz</fighter2>
@@ -172,6 +143,11 @@
 <rounds>12</rounds>
 <weight>Junior Bantamweight Division</weight>
 
+<fighter1>Khalid Yafai</fighter1>
+<fighter2>David Carmona</fighter2>
+<rounds>12</rounds>
+<weight>Junior Bantamweight Division</weight>
+
 <loc>Quebec City</loc>
 
 <fighter1>David Lemieux</fighter1>
@@ -188,6 +164,20 @@
 <rounds>12</rounds>
 <weight>Super Middleweight Division</weight>
 
+<time>June. 6, 2018</time>
+
+<loc>London</loc>
+
+<fighter1>Luke Watkins</fighter1>
+<fighter2>Lawrence Okolie</fighter2>
+<rounds>12</rounds>
+<weight>Cruiserweight Division</weight>
+
+<fighter1>Reece Bellotti</fighter1>
+<fighter2>Ryan Doyle</fighter2>
+<rounds>12</rounds>
+<weight>Featherweight Division</weight>
+
 <time>June. 9, 2018</time>
 
 <loc>Los Angeles</loc>
@@ -201,6 +191,13 @@
 <fighter2>Austin Trout</fighter2>
 <rounds>12</rounds>
 <weight>Junior Middleweight Division</weight>
+
+<loc>Manchester, England</loc>
+
+<fighter1>Terry Flanagan</fighter1>
+<fighter2>Maurice Hooker</fighter2>
+<rounds>12</rounds>
+<weight>Junior Welterweight Division</weight>
 
 <loc>Las Vegas</loc>
 
@@ -218,6 +215,28 @@
 <rounds>12</rounds>
 <weight>Welterweight Division</weight>
 
+<fighter1>Devon Alexander</fighter1>
+<fighter2>Andre Berto</fighter2>
+<rounds>12</rounds>
+<weight>Welterweight Division</weight>
+
+<loc>Newcastle, England</loc>
+
+<fighter1>Lewis Ritson</fighter1>
+<fighter2>Paul Hyland</fighter2>
+<rounds>12</rounds>
+<weight>Lightweight Division</weight>
+
+<fighter1>Kris George</fighter1>
+<fighter2>Josh Kelly</fighter2>
+<rounds>12</rounds>
+<weight>Welterweight Division</weight>
+
+<fighter1>Stuart Hall</fighter1>
+<fighter2>Gavin McDonnell</fighter2>
+<rounds>12</rounds>
+<weight>Junior Featherweight Division</weight>
+
 <time>June. 23, 2018</time>
 
 <loc>Glasgow</loc>
@@ -234,10 +253,14 @@
 <rounds>12</rounds>
 <weight>Middleweight Division</weight>
 
-<fighter1>Terry Flanagan</fighter1>
-<fighter2>Maurice Hooker</fighter2>
+<time>June. 30, 2018</time>
+
+<loc>Oklahoma City, Okla.</loc>
+
+<fighter1>Gilberto Ramirez</fighter1>
+<fighter2>Roamer Angulo</fighter2>
 <rounds>12</rounds>
-<weight>Junior Welterweight Division</weight>
+<weight>Super Middleweight Division</weight>
 
 <time>July. 14, 2018</time>
 
@@ -252,3 +275,19 @@
 <fighter2>Muhammad Waseem</fighter2>
 <rounds>12</rounds>
 <weight>Flyweight Division</weight>
+
+<time>July. 21, 2018</time>
+<loc>Jeddah, Saudi Arabia</loc>
+
+<fighter1>Oleksandr Usyk</fighter1>
+<fighter2>Murat Gassiev</fighter2>
+<rounds>12</rounds>
+<weight>Cruiserweight Division</weight>
+
+<time>September. 29, 2018</time>
+<loc>Cologne, Germany</loc>
+
+<fighter1>Manuel Charr</fighter1>
+<fighter2>Fres Oquendo</fighter2>
+<rounds>12</rounds>
+<weight>Heavyeight Division</weight>
