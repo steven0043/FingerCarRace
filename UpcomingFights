@@ -28,6 +28,11 @@
 
 <loc>Manchester, England</loc>
 
+<fighter1>Tyson Fury</fighter1>
+<fighter2>Sefer Seferi</fighter2>
+<rounds>10</rounds>
+<weight>Heavyweight Division</weight>
+
 <fighter1>Terry Flanagan</fighter1>
 <fighter2>Maurice Hooker</fighter2>
 <rounds>12</rounds>
@@ -44,6 +49,11 @@
 <fighter2>Jeff Horn</fighter2>
 <rounds>12</rounds>
 <weight>Welterweight Division</weight>
+
+<fighter1>Jose Pedraza</fighter1>
+<fighter2>Antonio Moran</fighter2>
+<rounds>10</rounds>
+<weight>Lightweight Division</weight>
 
 <time>June. 16, 2018</time>
 
