@@ -1,3 +1,34 @@
+<time>June. 9, 2018</time>
+
+<loc>Los Angeles</loc>
+
+<fighter1>Leo Santa Cruz</fighter1>
+<fighter2>Abner Mares</fighter2>
+<rounds>12</rounds>
+<weight>Featherweight Division</weight>
+
+<fighter1>Jermell Charlo</fighter1>
+<fighter2>Austin Trout</fighter2>
+<rounds>12</rounds>
+<weight>Junior Middleweight Division</weight>
+
+<loc>Manchester, England</loc>
+<fighter1>Terry Flanagan</fighter1>
+<fighter2>Maurice Hooker</fighter2>
+<rounds>12</rounds>
+<weight>Junior Welterweight Division</weight>
+<loc>Las Vegas</loc>
+
+<fighter1>Terence Crawford</fighter1>
+<fighter2>Jeff Horn</fighter2>
+<rounds>12</rounds>
+<weight>Welterweight Division</weight>
+
+<fighter1>Jose Pedraza</fighter1>
+<fighter2>Antonio Moran</fighter2>
+<rounds>10</rounds>
+<weight>Lightweight Division</weight>
+
 <time>June. 6, 2018</time>
 
 <loc>London</loc>
