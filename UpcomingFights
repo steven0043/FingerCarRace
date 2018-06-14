@@ -1,79 +1,11 @@
-<time>June. 9, 2018</time>
+<time>June. 15, 2018</time>
 
-<loc>Los Angeles</loc>
+<loc>London</loc>
 
-<fighter1>Leo Santa Cruz</fighter1>
-<fighter2>Abner Mares</fighter2>
+<fighter1>Joe Joyce</fighter1>
+<fighter2>Richard Lartey</fighter2>
 <rounds>12</rounds>
-<weight>Featherweight Division</weight>
-
-<fighter1>Jermell Charlo</fighter1>
-<fighter2>Austin Trout</fighter2>
-<rounds>12</rounds>
-<weight>Junior Middleweight Division</weight>
-
-<loc>Manchester, England</loc>
-
-<fighter1>Tyson Fury</fighter1>
-<fighter2>Sefer Seferi</fighter2>
-<rounds>10</rounds>
 <weight>Heavyweight Division</weight>
-
-<fighter1>Terry Flanagan</fighter1>
-<fighter2>Maurice Hooker</fighter2>
-<rounds>12</rounds>
-<weight>Junior Welterweight Division</weight>
-
-<fighter1>Nathan Gorman</fighter1>
-<fighter2>Sean Turner</fighter2>
-<rounds>10</rounds>
-<weight>Heavyweight Division</weight>
-
-<fighter1>Mark Heffron</fighter1>
-<fighter2>Andrew Robinson</fighter2>
-<rounds>10</rounds>
-<weight>Middleweight Division</weight>
-
-<loc>Las Vegas</loc>
-
-<fighter1>Terence Crawford</fighter1>
-<fighter2>Jeff Horn</fighter2>
-<rounds>12</rounds>
-<weight>Welterweight Division</weight>
-
-<fighter1>Jose Pedraza</fighter1>
-<fighter2>Antonio Moran</fighter2>
-<rounds>10</rounds>
-<weight>Lightweight Division</weight>
-
-<fighter1>Jose Benavidez</fighter1>
-<fighter2>Frank Rojas</fighter2>
-<rounds>10</rounds>
-<weight>Welterweight Division</weight>
-
-<fighter1>Shakur Stevenson</fighter1>
-<fighter2>Aelio Mesquia</fighter2>
-<rounds>8</rounds>
-<weight>Featherweight Division</weight>
-
-<time>June. 10, 2018</time>
-
-<loc>Lancaster, Calif.</loc>
-
-<fighter1>Travis Kauffman</fighter1>
-<fighter2>Scott Alexander</fighter2>
-<rounds>10</rounds>
-<weight>Havyweight Division</weight>
-
-<fighter1>Gerald Washington</fighter1>
-<fighter2>Wes Nofire</fighter2>
-<rounds>10</rounds>
-<weight>Havyweight Division</weight>
-
-<fighter1>Michael Hunter</fighter1>
-<fighter2>Iago Kiladze</fighter2>
-<rounds>10</rounds>
-<weight>Havyweight Division</weight>
 
 <time>June. 16, 2018</time>
 
@@ -84,15 +16,15 @@
 <rounds>12</rounds>
 <weight>Welterweight Division</weight>
 
-<fighter1>Devon Alexander</fighter1>
-<fighter2>Andre Berto</fighter2>
-<rounds>12</rounds>
-<weight>Welterweight Division</weight>
-
 <fighter1>Danny Roman</fighter1>
 <fighter2>Moises Flores</fighter2>
 <rounds>12</rounds>
 <weight>Junior Featherweight Division</weight>
+
+<fighter1>Javier Fortuna</fighter1>
+<fighter2>Adrian Granados</fighter2>
+<rounds>10</rounds>
+<weight>Junior Welterweight Division</weight>
 
 <loc>Newcastle, England</loc>
 
@@ -115,6 +47,11 @@
 <fighter2>Anthony Nelson</fighter2>
 <rounds>12</rounds>
 <weight>Junior Bantamweight Division</weight>
+
+<fighter1>Ricky Burns</fighter1>
+<fighter2>Ivan Njegac</fighter2>
+<rounds>6</rounds>
+<weight>Junior Welterweight Division</weight>
 
 <time>June. 22, 2018</time>
 
@@ -146,7 +83,7 @@
 
 <loc>London</loc>
 
-<fighter1>BJ Saunders</fighter1>
+<fighter1>Roberto Garcia</fighter1>
 <fighter2>Martin Murray</fighter2>
 <rounds>12</rounds>
 <weight>Middleweight Division</weight>
@@ -156,10 +93,22 @@
 <rounds>12</rounds>
 <weight>Junior Welterweight Division</weight>
 
+<fighter1>Anthony Yarde</fighter1>
+<fighter2>Dariusz Sek</fighter2>
+<rounds>10</rounds>
+<weight>Light Heavyweight Division</weight>
+
 <fighter1>Daniel Dubois</fighter1>
 <fighter2>Tom Little</fighter2>
 <rounds>10</rounds>
 <weight>Heavyweight Division</weight>
+
+<loc>Oaxaca, Mexico</loc>
+
+<fighter1>Miguel Berchelt</fighter1>
+<fighter2>Jonathan Barros</fighter2>
+<rounds>12</rounds>
+<weight>Junior Lightweight Division</weight>
 
 <loc>Paris</loc>
 
@@ -254,6 +203,26 @@
 <rounds>12</rounds>
 <weight>Heavyweight Division</weight>
 
+<fighter1>Kell Brook</fighter1>
+<fighter2>Brandon Cook</fighter2>
+<rounds>12</rounds>
+<weight>Junior Middleweight Division</weight>
+
+<fighter1>Katie Taylor</fighter1>
+<fighter2>Kimberly Connor</fighter2>
+<rounds>10</rounds>
+<weight>Lightweight Division</weight>
+
+<fighter1>Joshua Buatsi</fighter1>
+<fighter2>Ricky Summers</fighter2>
+<rounds>10</rounds>
+<weight>Light Heavyweight Division</weight>
+
+<fighter1>Conor Benn</fighter1>
+<fighter2>Cedric Peynaud</fighter2>
+<rounds>8</rounds>
+<weight>Welterweight Division</weight>
+
 <time>August. 4, 2018</time>
 <loc>Atlantic City, N.J.</loc>
 
@@ -273,6 +242,22 @@
 <fighter2>Tevin Farmer</fighter2>
 <rounds>12</rounds>
 <weight>Junior Lightweight Division</weight>
+
+<time>August. 18, 2018</time>
+<loc>Belfast, Northern Ireland</loc>
+
+<fighter1>Carl Frampton</fighter1>
+<fighter2>Luke Jackson</fighter2>
+<rounds>12</rounds>
+<weight>Featherweight Division</weight>
+
+<time>September. 15, 2018</time>
+<loc>Las Vegas</loc>
+
+<fighter1>Gennady Golovkin</fighter1>
+<fighter2>Saul Canelo</fighter2>
+<rounds>12</rounds>
+<weight>Middleweight Division</weight>
 
 <time>September. 29, 2018</time>
 <loc>Cologne, Germany</loc>
