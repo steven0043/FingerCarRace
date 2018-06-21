@@ -1,51 +1,3 @@
-
-
-<time>June. 16, 2018</time>
-
-<loc>Dallas</loc>
-
-<fighter1>Errol Spence</fighter1>
-<fighter2>Carlos Ocampo</fighter2>
-<rounds>12</rounds>
-<weight>Welterweight Division</weight>
-
-<fighter1>Danny Roman</fighter1>
-<fighter2>Moises Flores</fighter2>
-<rounds>12</rounds>
-<weight>Junior Featherweight Division</weight>
-
-<fighter1>Javier Fortuna</fighter1>
-<fighter2>Adrian Granados</fighter2>
-<rounds>10</rounds>
-<weight>Junior Welterweight Division</weight>
-
-<loc>Newcastle, England</loc>
-
-<fighter1>Lewis Ritson</fighter1>
-<fighter2>Paul Hyland</fighter2>
-<rounds>12</rounds>
-<weight>Lightweight Division</weight>
-
-<fighter1>Kris George</fighter1>
-<fighter2>Josh Kelly</fighter2>
-<rounds>12</rounds>
-<weight>Welterweight Division</weight>
-
-<fighter1>Stuart Hall</fighter1>
-<fighter2>Gavin McDonnell</fighter2>
-<rounds>12</rounds>
-<weight>Junior Featherweight Division</weight>
-
-<fighter1>Charlie Edwards</fighter1>
-<fighter2>Anthony Nelson</fighter2>
-<rounds>12</rounds>
-<weight>Junior Bantamweight Division</weight>
-
-<fighter1>Ricky Burns</fighter1>
-<fighter2>Ivan Njegac</fighter2>
-<rounds>6</rounds>
-<weight>Junior Welterweight Division</weight>
-
 <time>June. 22, 2018</time>
 
 <loc>Detroit</loc>
@@ -146,6 +98,21 @@
 <rounds>12</rounds>
 <weight>Super Middleweight Division</weight>
 
+<fighter1>Alex Saucedo</fighter1>
+<fighter2>Lenny Zappavigna</fighter2>
+<rounds>10</rounds>
+<weight>Junior Welterweight Division</weight>
+
+<fighter1>Mike Alvarado</fighter1>
+<fighter2>Martin Martinez</fighter2>
+<rounds>10</rounds>
+<weight>Welterweight Division</weight>
+
+<fighter1>Gilberto Ramirez</fighter1>
+<fighter2>Roamer Angulo</fighter2>
+<rounds>12</rounds>
+<weight>Super Middleweight Division</weight>
+
 <time>July. 14, 2018</time>
 
 <loc>Kuala Lumpur, Malaysia</loc>
@@ -172,13 +139,25 @@
 <rounds>12</rounds>
 <weight>Junior Welterweight Division</weight>
 
+<loc>Offenburg, Germany</loc>
+
+<fighter1>Tyron Zeuge</fighter1>
+<fighter2>Rocky Fielding</fighter2>
+<rounds>12</rounds>
+<weight>Super Middleweight Division</weight>
+
 <time>July. 21, 2018</time>
-<loc>Jeddah, Saudi Arabia</loc>
+<loc>Moscow</loc>
 
 <fighter1>Oleksandr Usyk</fighter1>
 <fighter2>Murat Gassiev</fighter2>
 <rounds>12</rounds>
 <weight>Cruiserweight Division</weight>
+
+<fighter1>Cecilia Braekhus</fighter1>
+<fighter2>Inna Sagaydakovskya</fighter2>
+<rounds>10</rounds>
+<weight>Welterweight Division</weight>
 
 <loc>London</loc>
 
@@ -216,6 +195,13 @@
 <rounds>8</rounds>
 <weight>Welterweight Division</weight>
 
+<loc>Los Angeles</loc>
+
+<fighter1>Mikey Garcia</fighter1>
+<fighter2>Robert Easter</fighter2>
+<rounds>12</rounds>
+<weight>Lightweight Division</weight>
+
 <time>August. 4, 2018</time>
 <loc>Atlantic City, N.J.</loc>
 
@@ -243,6 +229,18 @@
 <fighter2>Luke Jackson</fighter2>
 <rounds>12</rounds>
 <weight>Featherweight Division</weight>
+
+<fighter1>Cristofer Rosales</fighter1>
+<fighter2>Paddy Barnes</fighter2>
+<rounds>12</rounds>
+<weight>Flyweight Division</weight>
+
+<loc>Cebu City, Philippines</loc>
+
+<fighter1>Donnie Nietes</fighter1>
+<fighter2>Aston Palicte</fighter2>
+<rounds>12</rounds>
+<weight>Junior Bantamweight Division</weight>
 
 <time>September. 15, 2018</time>
 <loc>Las Vegas</loc>
