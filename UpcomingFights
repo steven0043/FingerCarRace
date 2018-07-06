@@ -1,50 +1,3 @@
-
-<time>June. 30, 2018</time>
-
-<loc>Belfast, Northern Ireland</loc>
-
-<fighter1>Michael Conlan</fighter1>
-<fighter2>Adeilson Dos Santos</fighter2>
-<rounds>8</rounds>
-<weight>Featherweight Division</weight>
-
-<fighter1>Tyrone McKenna</fighter1>
-<fighter2>Jack Catterall</fighter2>
-<rounds>10</rounds>
-<weight>Junior Welterweight Division</weight>
-
-<fighter1>Jono Carroll</fighter1>
-<fighter2>Declan Geraghty</fighter2>
-<rounds>12</rounds>
-<weight>Junior Lightweight Division</weight>
-
-<fighter1>Gary Corcoran</fighter1>
-<fighter2>Victor Ray Ankrah</fighter2>
-<rounds>8</rounds>
-<weight>Welterweight Division</weight>
-
-<fighter1>Tyrone McCullagh</fighter1>
-<fighter2>Joe Ham</fighter2>
-<rounds>10</rounds>
-<weight>Junior Featherweight Division</weight>
-
-<loc>Oklahoma City, Okla.</loc>
-
-<fighter1>Gilberto Ramirez</fighter1>
-<fighter2>Roamer Angulo</fighter2>
-<rounds>12</rounds>
-<weight>Super Middleweight Division</weight>
-
-<fighter1>Alex Saucedo</fighter1>
-<fighter2>Lenny Zappavigna</fighter2>
-<rounds>10</rounds>
-<weight>Junior Welterweight Division</weight>
-
-<fighter1>Mike Alvarado</fighter1>
-<fighter2>Martin Martinez</fighter2>
-<rounds>10</rounds>
-<weight>Welterweight Division</weight>
-
 <time>July. 7, 2018</time>
 
 <loc>Fresno, Calif.</loc>
@@ -53,6 +6,24 @@
 <fighter2>Danny O'Connor</fighter2>
 <rounds>12</rounds>
 <weight>Junior Welterweight Division</weight>
+
+
+<fighter1>Egidijus Kavaliauskas</fighter1>
+<fighter2>Juan Abreu</fighter2>
+<rounds>10</rounds>
+<weight>Welterweight Division</weight>
+
+<fighter1>Andy Ruiz</fighter1>
+<fighter2>Kevin Johnson</fighter2>
+<rounds>10</rounds>
+<weight>Heavyweight Division</weight>
+
+<loc>Astana, Kazakhstan</loc>
+
+<fighter1>Beibut Shumenov</fighter1>
+<fighter2>Hizni Altunkaya</fighter2>
+<rounds>12</rounds>
+<weight>Cruiserweight Division</weight>
 
 <loc>London</loc>
 
