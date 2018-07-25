@@ -1,3 +1,39 @@
+
+<time>July. 21, 2018</time>
+<loc>Moscow</loc>
+
+<fighter1>Oleksandr Usyk</fighter1>
+<fighter2>Murat Gassiev</fighter2>
+<rounds>12</rounds>
+<weight>Cruiserweight Division</weight>
+
+<fighter1>Cecilia Braekhus</fighter1>
+<fighter2>Inna Sagaydakovskya</fighter2>
+<rounds>10</rounds>
+<weight>Welterweight Division</weight>
+
+<fighter1>Mairis Briedis</fighter1>
+<fighter2>Brandon Deslaurier</fighter2>
+<rounds>10</rounds>
+<weight>Cruiserweight Division</weight>
+
+<fighter1>Fedor Chudinov</fighter1>
+<fighter2>Nadjib Mohammedi</fighter2>
+<rounds>12</rounds>
+<weight>Super Middleweight Division</weight>
+
+<loc>Las Vegas</loc>
+
+<fighter1>Jaime Munguia</fighter1>
+<fighter2>Liam Smith</fighter2>
+<rounds>12</rounds>
+<weight>Junior Middleweight Division</weight>
+
+<fighter1>Alberto Machado</fighter1>
+<fighter2>Rafael Mensah</fighter2>
+<rounds>12</rounds>
+<weight>Junior Lightweight Division</weight>
+
 <time>July. 14, 2018</time>
 
 <loc>Kuala Lumpur, Malaysia</loc>
