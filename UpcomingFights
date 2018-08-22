@@ -1,39 +1,11 @@
-<time>August. 18, 2018</time>
-<loc>Belfast, Northern Ireland</loc>
-
-<fighter1>Carl Frampton</fighter1>
-<fighter2>Luke Jackson</fighter2>
-<rounds>12</rounds>
-<weight>Featherweight Division</weight>
-
-<fighter1>Tyson Fury</fighter1>
-<fighter2>Francesco Pianeta</fighter2>
-<rounds>10</rounds>
-<weight>Heavyweight Division</weight>
-
-<fighter1>Cristofer Rosales</fighter1>
-<fighter2>Paddy Barnes</fighter2>
-<rounds>12</rounds>
-<weight>Flyweight Division</weight>
-
-<loc>Atlantic City, N.J.</loc>
-
-<fighter1>Bryant Jennings</fighter1>
-<fighter2>Alexander Dimitrenko</fighter2>
-<rounds>12</rounds>
-<weight>Heavyweight Division</weight>
-
-<fighter1>Jesse Hart</fighter1>
-<fighter2>Mike Gavronski</fighter2>
-<rounds>10</rounds>
-<weight>Super Middleweight Division</weight>
-
-<fighter1>Shakur Stevenson</fighter1>
-<fighter2>Carlos Ruiz</fighter2>
-<rounds>8</rounds>
-<weight>Featherweight Division</weight>
-
 <time>August. 25, 2018</time>
+<loc>UK</loc>
+
+<fighter1>KSI</fighter1>
+<fighter2>Logan Paul</fighter2>
+<rounds>8</rounds>
+<weight>YouTube Division</weight>
+
 <loc>USA</loc>
 
 <fighter1>Raymundo Beltran</fighter1>
@@ -46,6 +18,15 @@
 <rounds>12</rounds>
 <weight>Junior Featherweight Division</weight>
 
+<time>September. 1, 2018</time>
+
+<loc>Indio, Calif.</loc>
+
+<fighter1>Ryan Garcia</fighter1>
+<fighter2>Carlos Morales</fighter2>
+<rounds>10</rounds>
+<weight>Junior Lightweight Division</weight
+
 <time>September. 8, 2018</time>
 
 <loc>New York</loc>
@@ -54,6 +35,16 @@
 <fighter2>Danny Garcia</fighter2>
 <rounds>12</rounds>
 <weight>Welterweight Division</weight>
+
+<fighter1>Yordenis Ugas</fighter1>
+<fighter2>Cesar Barrionuevo</fighter2>
+<rounds>12</rounds>
+<weight>Welterweight Division</weight>
+
+<fighter1>Adam Kownacki</fighter1>
+<fighter2>Charles Martin</fighter2>
+<rounds>10</rounds>
+<weight>Heavyweight Division</weight>
 
 <loc>Birmingham, England</loc>
 
@@ -69,9 +60,19 @@
 
 <loc>Inglewood, Calif.</loc>
 
+<fighter1>Juan Estrada</fighter1>
+<fighter2>Felipe Orucuta</fighter2>
+<rounds>12</rounds>
+<weight>Bantamweight Division</weight>
+
 <fighter1>Donnie Nietes</fighter1>
 <fighter2>Aston Palicte</fighter2>
 <rounds>12</rounds>
+<weight>Junior Bantamweight Division</weight>
+
+<fighter1>Kazuto Ioka</fighter1>
+<fighter2>McWilliams Arroyo</fighter2>
+<rounds>10</rounds>
 <weight>Junior Bantamweight Division</weight>
 
 <loc>London</loc>
@@ -97,6 +98,21 @@
 <rounds>12</rounds>
 <weight>Middleweight Division</weight>
 
+<fighter1>Jaime Munguia</fighter1>
+<fighter2>Brandon Cook</fighter2>
+<rounds>12</rounds>
+<weight>Junior Middleweight Division</weight>
+
+<fighter1>David Lemieux</fighter1>
+<fighter2>Gary O'Sullivan</fighter2>
+<rounds>12</rounds>
+<weight>Middleweight Division</weight>
+
+<fighter1>Roman Gonzalez</fighter1>
+<fighter2>Moises Fuentes</fighter2>
+<rounds>10</rounds>
+<weight>Junior Bantamweight Division</weight>
+
 <time>September. 22, 2018</time>
 <loc>London</loc>
 
@@ -104,6 +120,16 @@
 <fighter2>Alexander Povetkin</fighter2>
 <rounds>12</rounds>
 <weight>Heavyweight Division</weight>
+
+<fighter1>Yvan Mendy</fighter1>
+<fighter2>Luke Campbell</fighter2>
+<rounds>12</rounds>
+<weight>Lightweight Division</weight>
+
+<fighter1>Matty Askin</fighter1>
+<fighter2>Lawrence Okolie</fighter2>
+<rounds>12</rounds>
+<weight>Cruiserweight Division</weight>
 
 <time>September. 29, 2018</time>
 <loc>Cologne, Germany</loc>
