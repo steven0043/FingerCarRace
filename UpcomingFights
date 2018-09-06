@@ -51,12 +51,6 @@
 <rounds>10</rounds>
 <weight>Junior Bantamweight Division</weight>
 
-<loc>London</loc>
-
-<fighter1>George Groves</fighter1>
-<fighter2>Callum Smith</fighter2>
-<rounds>12</rounds>
-<weight>Super Middleweight Division</weight>
 
 <time>September. 14, 2018</time>
 <loc>Fresno, Calif.</loc>
@@ -106,6 +100,15 @@
 <fighter2>Lawrence Okolie</fighter2>
 <rounds>12</rounds>
 <weight>Cruiserweight Division</weight>
+
+<time>September. 28, 2018</time>
+<loc>Saudi Arabia</loc>
+
+<fighter1>George Groves</fighter1>
+<fighter2>Callum Smith</fighter2>
+<rounds>12</rounds>
+<weight>Super Middleweight Division</weight>
+
 
 <time>September. 29, 2018</time>
 <loc>Cologne, Germany</loc>
