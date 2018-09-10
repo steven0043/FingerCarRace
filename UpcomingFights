@@ -1,57 +1,3 @@
-<time>September. 8, 2018</time>
-
-<loc>New York</loc>
-
-<fighter1>Danny Garcia</fighter1>
-<fighter2>Shawn Porter</fighter2>
-<rounds>12</rounds>
-<weight>Welterweight Division</weight>
-
-<fighter1>Yordenis Ugas</fighter1>
-<fighter2>Cesar Barrionuevo</fighter2>
-<rounds>12</rounds>
-<weight>Welterweight Division</weight>
-
-<fighter1>Adam Kownacki</fighter1>
-<fighter2>Charles Martin</fighter2>
-<rounds>10</rounds>
-<weight>Heavyweight Division</weight>
-
-<loc>Birmingham, England</loc>
-
-<fighter1>Amir Khan</fighter1>
-<fighter2>Samuel Vargas</fighter2>
-<rounds>12</rounds>
-<weight>Welterweight Division</weight>
-
-<fighter1>Jason Welborn</fighter1>
-<fighter2>Tommy Langford</fighter2>
-<rounds>12</rounds>
-<weight>Middleweight Division</weight>
-
-<fighter1>Sam Eggington</fighter1>
-<fighter2>Hassan Mwakinyo</fighter2>
-<rounds>10</rounds>
-<weight>Junior Middleweight Division</weight>
-
-<loc>Inglewood, Calif.</loc>
-
-<fighter1>Juan Estrada</fighter1>
-<fighter2>Felipe Orucuta</fighter2>
-<rounds>12</rounds>
-<weight>Bantamweight Division</weight>
-
-<fighter1>Donnie Nietes</fighter1>
-<fighter2>Aston Palicte</fighter2>
-<rounds>12</rounds>
-<weight>Junior Bantamweight Division</weight>
-
-<fighter1>Kazuto Ioka</fighter1>
-<fighter2>McWilliams Arroyo</fighter2>
-<rounds>10</rounds>
-<weight>Junior Bantamweight Division</weight>
-
-
 <time>September. 14, 2018</time>
 <loc>Fresno, Calif.</loc>
 
@@ -59,6 +5,11 @@
 <fighter2>Antonio Orozco</fighter2>
 <rounds>12</rounds>
 <weight>Junior Welterweight Division</weight>
+
+<fighter1>Jamel Herring</fighter1>
+<fighter2>John Moralde</fighter2>
+<rounds>10</rounds>
+<weight>Junior Lightweight Division</weight>
 
 <time>September. 15, 2018</time>
 <loc>Las Vegas</loc>
@@ -109,8 +60,27 @@
 <rounds>12</rounds>
 <weight>Super Middleweight Division</weight>
 
+<loc>Oakland, Calif.</loc>
+
+<fighter1>Jerwin Ancajas</fighter1>
+<fighter2>Alejandro Santiago</fighter2>
+<rounds>12</rounds>
+<weight>Junior Bantamweight Division</weight>
+
+<fighter1>Jessie Magdaleno</fighter1>
+<fighter2>Rico Ramos</fighter2>
+<rounds>10</rounds>
+<weight>Featherweight Division</weight>
 
 <time>September. 29, 2018</time>
+
+<loc>Indio, Calif.</loc>
+
+<fighter1>Jorge Linares</fighter1>
+<fighter2>Abner Cotto</fighter2>
+<rounds>12</rounds>
+<weight>Lightweight Division</weight>
+
 <loc>Cologne, Germany</loc>
 
 <fighter1>Manuel Charr</fighter1>
@@ -118,31 +88,246 @@
 <rounds>12</rounds>
 <weight>Heavyweight Division</weight>
 
+<time>September. 30, 2018</time>
+
+<loc>Ontario, Calif.</loc>
+
+<fighter1>Victor Ortiz</fighter1>
+<fighter2>John Molina</fighter2>
+<rounds>12</rounds>
+<weight>Welterweight Division</weight>
+
+<fighter1>Brandon Figueroa</fighter1>
+<fighter2>Oscar Escandon</fighter2>
+<rounds>10</rounds>
+<weight>Featherweight Division</weight>
+
+<fighter1>Joe Joyce</fighter1>
+<fighter2>Iago Kiladze</fighter2>
+<rounds>8</rounds>
+<weight>Heavyweight Division</weight>
+
+<time>October. 5, 2018</time>
+<loc>Belfast, Northern Ireland</loc>
+
+<fighter1>David Price</fighter1>
+<fighter2>Sean Turner</fighter2>
+<rounds>10</rounds>
+<weight>Heavyweight Division</weight>
+
+<fighter1>Declan Geraghty</fighter1>
+<fighter2>Marco McCullough</fighter2>
+<rounds>10</rounds>
+<weight>Junior Lightweight Division</weight>
+
+<fighter1>Tyrone McCullagh</fighter1>
+<fighter2>Josh Kennedy</fighter2>
+<rounds>10</rounds>
+<weight>Junior Featherweight Division</weight>
+
 <time>October. 6, 2018</time>
 <loc>Chicago, USA</loc>
+
+<fighter1>Jessie Vargas</fighter1>
+<fighter2>Thomas Dulorme</fighter2>
+<rounds>12</rounds>
+<weight>Welterweight Division</weight>
 
 <fighter1>Artur Beterbiev</fighter1>
 <fighter2>Callum Johnson</fighter2>
 <rounds>12</rounds>
 <weight>Light Heavyweight Division</weight>
 
-<fighter1>Katie Taylor</fighter1>
-<fighter2>Cindy Serrano</fighter2>
-<rounds>10</rounds>
-<weight>Lightweight Division</weight>
-
-<time>October. 20, 2018</time>
-<loc>Las Vegas</loc>
-
 <fighter1>Danny Roman</fighter1>
 <fighter2>Gavin McDonnell</fighter2>
 <rounds>12</rounds>
 <weight>Junior Featherweight Division</weight>
 
-<time>November. 8, 2018</time>
+<fighter1>Jarrell Miller</fighter1>
+<fighter2>Tomasz Adamek</fighter2>
+<rounds>12</rounds>
+<weight>Heavyweight Division</weight>
+
+<loc>Leicester, England</loc>
+
+<fighter1>Jack Catterall</fighter1>
+<fighter2>Ohara Davies</fighter2>
+<rounds>10</rounds>
+<weight>Junior Welterweight Division</weight>
+
+<fighter1>Nicola Adams</fighter1>
+<fighter2>Isabel Millan</fighter2>
+<rounds>10</rounds>
+<weight>Junior Bantamweight Division</weight>
+
+<fighter1>Daniel Dubois</fighter1>
+<fighter2>Kevin Johnson</fighter2>
+<rounds>10</rounds>
+<weight>Heavyweight Division</weight>
+
+<time>October. 7, 2018</time>
+<loc>Yokohama, Japan</loc>
+
+<fighter1>Naoya Inoue</fighter1>
+<fighter2>Juan Carlos Payano</fighter2>
+<rounds>12</rounds>
+<weight>Bantamweight Division</weight>
+
+<fighter1>Kiryl Relikh</fighter1>
+<fighter2>Eduard Troyanovsky</fighter2>
+<rounds>12</rounds>
+<weight>Welterweight Division</weight>
+
+<fighter1>Ken Shiro</fighter1>
+<fighter2>Milan Melindo</fighter2>
+<rounds>12</rounds>
+<weight>Junior Flyweight Division</weight>
+
+<time>October. 13, 2018</time>
+<loc>Omaha, Neb.</loc>
+
+<fighter1>Terence Crawford</fighter1>
+<fighter2>Jose Benavidez</fighter2>
+<rounds>12</rounds>
+<weight>Welterweight Division</weight>
+
+<loc>Ekaterinburg, Russia</loc>
+
+<fighter1>Zolani Tete</fighter1>
+<fighter2>Mikhael Aloyan</fighter2>
+<rounds>12</rounds>
+<weight>Bantamweight Division</weight>
+
+<loc>Newcastle, England</loc>
+
+<fighter1>Lewis Ritson</fighter1>
+<fighter2>Francesco Patera</fighter2>
+<rounds>12</rounds>
+<weight>Lightweight Division</weight>
+
+<fighter1>Glenn Foot</fighter1>
+<fighter2>Robbie Davies</fighter2>
+<rounds>12</rounds>
+<weight>Junior Welterweight Division</weight>
+
+<loc>London, England</loc>
+
+<fighter1>Martin Bakole</fighter1>
+<fighter2>Michael Hunter</fighter2>
+<rounds>10</rounds>
+<weight>Heavyweight Division</weight>
+
+<time>October. 20, 2018</time>
+<loc>Las Vegas</loc>
+
+<fighter1>Ryota Murata</fighter1>
+<fighter2>Rob Brant</fighter2>
+<rounds>12</rounds>
+<weight>Middleweight Division</weight>
+
+<loc>Boston</loc>
+
+<fighter1>BJ Saunders</fighter1>
+<fighter2>Demetrius Andrade</fighter2>
+<rounds>12</rounds>
+<weight>Middleweight Division</weight>
+
+<fighter1>Katie Taylor</fighter1>
+<fighter2>Cindy Serrano</fighter2>
+<rounds>10</rounds>
+<weight>Lightweight Division</weight>
+
+<fighter1>BJ Saunders</fighter1>
+<fighter2>Demetrius Andrade</fighter2>
+<rounds>12</rounds>
+<weight>Middleweight Division</weight>
+
+<fighter1>Tevin Farmer</fighter1>
+<fighter2>James Tennyson</fighter2>
+<rounds>12</rounds>
+<weight>Junior Lightweight Division</weight>
+
+<fighter1>Kid Galahad</fighter1>
+<fighter2>Toka Clary</fighter2>
+<rounds>12</rounds>
+<weight>Featherweight Division</weight>
+
+<loc>Orlando, Fla.</loc>
+
+<fighter1>Emmanuel Rodriguez</fighter1>
+<fighter2>Jason Moloney</fighter2>
+<rounds>12</rounds>
+<weight>Bantamweight Division</weight>
+
+<fighter1>Yunier Dorticos</fighter1>
+<fighter2>Mateusz Masternak</fighter2>
+<rounds>12</rounds>
+<weight>Cruiserweight Division</weight>
+
+<time>October. 27, 2018</time>
+<loc>New York</loc>
+
+<fighter1>Sergiy Derevyanchenko</fighter1>
+<fighter2>Daniel Jacobs</fighter2>
+<rounds>12</rounds>
+<weight>Middleweight Division</weight>
+
+<fighter1>Alberto Machado</fighter1>
+<fighter2>Yuandale Evans</fighter2>
+<rounds>12</rounds>
+<weight>Junior Lightweight Division</weight>
+
+<fighter1>Heather Hardy</fighter1>
+<fighter2>Shelly Vincent</fighter2>
+<rounds>10</rounds>
+<weight>Featherweight Division</weight>
+
+<loc>Sofia, Bulgaria</loc>
+
+<fighter1>Kubrat Pulev</fighter1>
+<fighter2>Hughie Fury</fighter2>
+<rounds>12</rounds>
+<weight>Heavyweight Division</weight>
+
+<loc>New Orleans</loc>
+
+<fighter1>Regis Prograis</fighter1>
+<fighter2>Terry Flanagan</fighter2>
+<rounds>12</rounds>
+<weight>Junior Welterweight Division</weight>
+
+<time>November. 3, 2018</time>
+<loc>El Paso, Texas</loc>
+
+<fighter1>Miguel Berchelt</fighter1>
+<fighter2>Miguel Roman</fighter2>
+<rounds>12</rounds>
+<weight>Junior Lightweight Division</weight>
+
+<loc>Glasgow, Scotland</loc>
+
+<fighter1>Josh Taylor</fighter1>
+<fighter2>Ryan Martin</fighter2>
+<rounds>12</rounds>
+<weight>Junior Welterweight Division</weight>
+
+<fighter1>Ryan Burnett</fighter1>
+<fighter2>Nonito Donaire</fighter2>
+<rounds>12</rounds>
+<weight>Bantamweight Division</weight>
+
+<time>December. 1, 2018</time>
 <loc>Quebec City</loc>
 
 <fighter1>Adonis Stevenson</fighter1>
 <fighter2>Oleksandr Gvozdyk</fighter2>
 <rounds>12</rounds>
 <weight>Light Heavyweight Division</weight>
+
+<time>December. 8, 2018</time>
+<loc>Las Vegas</loc>
+
+<fighter1>Deontay Wilder</fighter1>
+<fighter2>Tyson Fury</fighter2>
+<rounds>12</rounds>
+<weight>Heavyweight Division</weight>
