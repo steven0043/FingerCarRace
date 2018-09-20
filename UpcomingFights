@@ -1,28 +1,4 @@
 
-
-<time>September. 15, 2018</time>
-<loc>Las Vegas</loc>
-
-<fighter1>Canelo</fighter1>
-<fighter2>GGG</fighter2>
-<rounds>12</rounds>
-<weight>Middleweight Division</weight>
-
-<fighter1>Jaime Munguia</fighter1>
-<fighter2>Brandon Cook</fighter2>
-<rounds>12</rounds>
-<weight>Junior Middleweight Division</weight>
-
-<fighter1>David Lemieux</fighter1>
-<fighter2>Gary O'Sullivan</fighter2>
-<rounds>12</rounds>
-<weight>Middleweight Division</weight>
-
-<fighter1>Roman Gonzalez</fighter1>
-<fighter2>Moises Fuentes</fighter2>
-<rounds>10</rounds>
-<weight>Junior Bantamweight Division</weight>
-
 <time>September. 22, 2018</time>
 <loc>London</loc>
 
@@ -41,6 +17,16 @@
 <rounds>12</rounds>
 <weight>Cruiserweight Division</weight>
 
+<fighter1>Sergey Kuzmin</fighter1>
+<fighter2>David Price</fighter2>
+<rounds>10</rounds>
+<weight>Heavyweight Division</weight>
+
+<fighter1>Shakhram Giyasov</fighter1>
+<fighter2>Julio Laguna</fighter2>
+<rounds>6</rounds>
+<weight>Welterweight Division</weight>
+
 <time>September. 28, 2018</time>
 <loc>Saudi Arabia</loc>
 
@@ -49,7 +35,17 @@
 <rounds>12</rounds>
 <weight>Super Middleweight Division</weight>
 
+<fighter1>Chris Eubank</fighter1>
+<fighter2>JJ McDonagh</fighter2>
+<rounds>10</rounds>
+<weight>Super Middleweight Division</weight>
+
 <loc>Oakland, Calif.</loc>
+
+<fighter1>Jose Uzcategui</fighter1>
+<fighter2>Ezequiel Maderna</fighter2>
+<rounds>10</rounds>
+<weight>Super Middleweight Division</weight>
 
 <fighter1>Jerwin Ancajas</fighter1>
 <fighter2>Alejandro Santiago</fighter2>
@@ -98,11 +94,6 @@
 
 <time>October. 5, 2018</time>
 <loc>Belfast, Northern Ireland</loc>
-
-<fighter1>David Price</fighter1>
-<fighter2>Sean Turner</fighter2>
-<rounds>10</rounds>
-<weight>Heavyweight Division</weight>
 
 <fighter1>Declan Geraghty</fighter1>
 <fighter2>Marco McCullough</fighter2>
@@ -153,6 +144,13 @@
 <fighter2>Kevin Johnson</fighter2>
 <rounds>10</rounds>
 <weight>Heavyweight Division</weight>
+
+<loc>Bangkok, Thailand</loc>
+
+<fighter1>Srisaket Rungvisai</fighter1>
+<fighter2>Iran Diaz</fighter2>
+<rounds>12</rounds>
+<weight>Junior Bantamweight Division</weight>
 
 <time>October. 7, 2018</time>
 <loc>Yokohama, Japan</loc>
@@ -253,6 +251,19 @@
 <rounds>12</rounds>
 <weight>Cruiserweight Division</weight>
 
+<time>October. 21, 2018</time>
+<loc>Manila, Philippines</loc>
+
+<fighter1>Felix Alvarado</fighter1>
+<fighter2>Randy Petalcorin</fighter2>
+<rounds>12</rounds>
+<weight>Junior Flyweight Division</weight>
+
+<fighter1>Lee Haskins</fighter1>
+<fighter2>Kenny Demecillo</fighter2>
+<rounds>12</rounds>
+<weight>Bantamweight Division</weight>
+
 <time>October. 27, 2018</time>
 <loc>New York</loc>
 
@@ -285,6 +296,33 @@
 <rounds>12</rounds>
 <weight>Junior Welterweight Division</weight>
 
+<loc>London</loc>
+
+<fighter1>John Ryder</fighter1>
+<fighter2>Andrey Sirotkin</fighter2>
+<rounds>12</rounds>
+<weight>Super Middleweight Division</weight>
+
+<fighter1>Ted Cheeseman</fighter1>
+<fighter2>Andrey Sirotkin</fighter2>
+<rounds>12</rounds>
+<weight>Junior Middleweight Division</weight>
+
+<fighter1>Luke Watkins</fighter1>
+<fighter2>Isaac Chamberlain</fighter2>
+<rounds>10</rounds>
+<weight>Cruiserweight Division</weight>
+
+<fighter1>Jake Ball</fighter1>
+<fighter2>Craig Richards</fighter2>
+<rounds>10</rounds>
+<weight>Light Heavyweight Division</weight>
+
+<fighter1>Ryan Doyle</fighter1>
+<fighter2>Jordan Gill</fighter2>
+<rounds>12</rounds>
+<weight>Featherweight Division</weight>
+
 <time>November. 3, 2018</time>
 <loc>El Paso, Texas</loc>
 
@@ -305,13 +343,21 @@
 <rounds>12</rounds>
 <weight>Bantamweight Division</weight>
 
-<time>December. 1, 2018</time>
-<loc>Quebec City</loc>
+<time>November. 10, 2018</time>
+<loc>Manchester, England</loc>
 
-<fighter1>Adonis Stevenson</fighter1>
-<fighter2>Oleksandr Gvozdyk</fighter2>
+<fighter1>Oleksandr Usyk</fighter1>
+<fighter2>Tony Bellew</fighter2>
 <rounds>12</rounds>
-<weight>Light Heavyweight Division</weight>
+<weight>Cruiserweight Division</weight>
+
+<time>November. 16, 2018</time>
+<loc>Oklahoma City, Okla.</loc>
+
+<fighter1>Maurice Hooker</fighter1>
+<fighter2>Alex Saucedo</fighter2>
+<rounds>12</rounds>
+<weight>Junior Welterweight Division</weight>
 
 <time>December. 8, 2018</time>
 <loc>Las Vegas</loc>
@@ -320,3 +366,19 @@
 <fighter2>Tyson Fury</fighter2>
 <rounds>12</rounds>
 <weight>Heavyweight Division</weight>
+
+<time>December. 22, 2018</time>
+<loc>Manchester, England</loc>
+
+<fighter1>Josh Warrington</fighter1>
+<fighter2>Carl Frampton</fighter2>
+<rounds>12</rounds>
+<weight>Featherweight Division</weight>
+
+<time>February. 2, 2019</time>
+<loc>Quebec City</loc>
+
+<fighter1>Adonis Stevenson</fighter1>
+<fighter2>Oleksandr Gvozdyk</fighter2>
+<rounds>12</rounds>
+<weight>Light Heavyweight Division</weight>
