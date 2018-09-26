@@ -1,32 +1,3 @@
-
-<time>September. 22, 2018</time>
-<loc>London</loc>
-
-<fighter1>Anthony Joshua</fighter1>
-<fighter2>Alexander Povetkin</fighter2>
-<rounds>12</rounds>
-<weight>Heavyweight Division</weight>
-
-<fighter1>Yvan Mendy</fighter1>
-<fighter2>Luke Campbell</fighter2>
-<rounds>12</rounds>
-<weight>Lightweight Division</weight>
-
-<fighter1>Matty Askin</fighter1>
-<fighter2>Lawrence Okolie</fighter2>
-<rounds>12</rounds>
-<weight>Cruiserweight Division</weight>
-
-<fighter1>Sergey Kuzmin</fighter1>
-<fighter2>David Price</fighter2>
-<rounds>10</rounds>
-<weight>Heavyweight Division</weight>
-
-<fighter1>Shakhram Giyasov</fighter1>
-<fighter2>Julio Laguna</fighter2>
-<rounds>6</rounds>
-<weight>Welterweight Division</weight>
-
 <time>September. 28, 2018</time>
 <loc>Saudi Arabia</loc>
 
@@ -351,6 +322,21 @@
 <rounds>12</rounds>
 <weight>Cruiserweight Division</weight>
 
+<fighter1>Anthony Crolla</fighter1>
+<fighter2>Daud Yordan</fighter2>
+<rounds>12</rounds>
+<weight>Lightweight Division</weight>
+
+<fighter1>Joe Cordina</fighter1>
+<fighter2>Scotty Cardle</fighter2>
+<rounds>12</rounds>
+<weight>Lightweight Division</weight>
+
+<fighter1>Ryan Walsh</fighter1>
+<fighter2>Isaac Lowe</fighter2>
+<rounds>12</rounds>
+<weight>Featherweight Division</weight>
+
 <time>November. 16, 2018</time>
 <loc>Oklahoma City, Okla.</loc>
 
@@ -359,13 +345,36 @@
 <rounds>12</rounds>
 <weight>Junior Welterweight Division</weight>
 
-<time>December. 8, 2018</time>
-<loc>Las Vegas</loc>
+<time>November. 17, 2018</time>
+<loc>Atlantic City, N.J.</loc>
+
+<fighter1>Claressa Shields</fighter1>
+<fighter2>Christina Hammer</fighter2>
+<rounds>10</rounds>
+<weight>Middleweight Division</weight>
+
+<time>December. 1, 2018</time>
+<loc>L.A.</loc>
 
 <fighter1>Deontay Wilder</fighter1>
 <fighter2>Tyson Fury</fighter2>
 <rounds>12</rounds>
 <weight>Heavyweight Division</weight>
+
+<loc>Quebec City</loc>
+
+<fighter1>Adonis Stevenson</fighter1>
+<fighter2>Oleksandr Gvozdyk</fighter2>
+<rounds>12</rounds>
+<weight>Light Heavyweight Division</weight>
+
+<time>December. 8, 2018</time>
+<loc>New York</loc>
+
+<fighter1>Vasiliy Lomachenko</fighter1>
+<fighter2>Jose Pedraza</fighter2>
+<rounds>12</rounds>
+<weight>Lightweight Division</weight>
 
 <time>December. 22, 2018</time>
 <loc>Manchester, England</loc>
@@ -376,9 +385,9 @@
 <weight>Featherweight Division</weight>
 
 <time>February. 2, 2019</time>
-<loc>Quebec City</loc>
+<loc>Atlantic City</loc>
 
-<fighter1>Adonis Stevenson</fighter1>
-<fighter2>Oleksandr Gvozdyk</fighter2>
+<fighter1>Eleider Alvarez</fighter1>
+<fighter2>Sergey Kovalev</fighter2>
 <rounds>12</rounds>
 <weight>Light Heavyweight Division</weight>
