@@ -1,82 +1,12 @@
-<time>September. 28, 2018</time>
-<loc>Saudi Arabia</loc>
+<time>October. 6, 2018</time>
 
-<fighter1>George Groves</fighter1>
-<fighter2>Callum Smith</fighter2>
-<rounds>12</rounds>
-<weight>Super Middleweight Division</weight>
+<loc>Las Vegas</loc>
 
-<fighter1>Chris Eubank</fighter1>
-<fighter2>JJ McDonagh</fighter2>
-<rounds>10</rounds>
-<weight>Super Middleweight Division</weight>
-
-<loc>Oakland, Calif.</loc>
-
-<fighter1>Jose Uzcategui</fighter1>
-<fighter2>Ezequiel Maderna</fighter2>
-<rounds>10</rounds>
-<weight>Super Middleweight Division</weight>
-
-<fighter1>Jerwin Ancajas</fighter1>
-<fighter2>Alejandro Santiago</fighter2>
-<rounds>12</rounds>
-<weight>Junior Bantamweight Division</weight>
-
-<fighter1>Jessie Magdaleno</fighter1>
-<fighter2>Rico Ramos</fighter2>
-<rounds>10</rounds>
-<weight>Featherweight Division</weight>
-
-<time>September. 29, 2018</time>
-
-<loc>Indio, Calif.</loc>
-
-<fighter1>Jorge Linares</fighter1>
-<fighter2>Abner Cotto</fighter2>
+<fighter1>Conor McGregor</fighter1>
+<fighter2>Khabib Nurmagomedov</fighter2>
 <rounds>12</rounds>
 <weight>Lightweight Division</weight>
 
-<loc>Cologne, Germany</loc>
-
-<fighter1>Manuel Charr</fighter1>
-<fighter2>Fres Oquendo</fighter2>
-<rounds>12</rounds>
-<weight>Heavyweight Division</weight>
-
-<time>September. 30, 2018</time>
-
-<loc>Ontario, Calif.</loc>
-
-<fighter1>Victor Ortiz</fighter1>
-<fighter2>John Molina</fighter2>
-<rounds>12</rounds>
-<weight>Welterweight Division</weight>
-
-<fighter1>Brandon Figueroa</fighter1>
-<fighter2>Oscar Escandon</fighter2>
-<rounds>10</rounds>
-<weight>Featherweight Division</weight>
-
-<fighter1>Joe Joyce</fighter1>
-<fighter2>Iago Kiladze</fighter2>
-<rounds>8</rounds>
-<weight>Heavyweight Division</weight>
-
-<time>October. 5, 2018</time>
-<loc>Belfast, Northern Ireland</loc>
-
-<fighter1>Declan Geraghty</fighter1>
-<fighter2>Marco McCullough</fighter2>
-<rounds>10</rounds>
-<weight>Junior Lightweight Division</weight>
-
-<fighter1>Tyrone McCullagh</fighter1>
-<fighter2>Josh Kennedy</fighter2>
-<rounds>10</rounds>
-<weight>Junior Featherweight Division</weight>
-
-<time>October. 6, 2018</time>
 <loc>Chicago, USA</loc>
 
 <fighter1>Jessie Vargas</fighter1>
@@ -148,6 +78,11 @@
 <fighter2>Jose Benavidez</fighter2>
 <rounds>12</rounds>
 <weight>Welterweight Division</weight>
+
+<fighter1>Shakur Stevenson</fighter1>
+<fighter2>Duarn Vue</fighter2>
+<rounds>10</rounds>
+<weight>Featherweight Division</weight>
 
 <loc>Ekaterinburg, Russia</loc>
 
@@ -262,6 +197,11 @@
 <rounds>12</rounds>
 <weight>Junior Welterweight Division</weight>
 
+<fighter1>Ivan Baranchyk</fighter1>
+<fighter2>Anthony Yigit</fighter2>
+<rounds>12</rounds>
+<weight>Junior Welterweight Division</weight>
+
 <loc>London</loc>
 
 <fighter1>John Ryder</fighter1>
@@ -331,6 +271,18 @@
 <fighter2>Isaac Lowe</fighter2>
 <rounds>12</rounds>
 <weight>Featherweight Division</weight>
+
+<loc>Chicago</loc>
+
+<fighter1>Mairis Briedis</fighter1>
+<fighter2>Noel Mikaelian</fighter2>
+<rounds>12</rounds>
+<weight>Cruiserweight Division</weight>
+
+<fighter1>Krzysztof Glowacki</fighter1>
+<fighter2>Maksim Vlasov</fighter2>
+<rounds>12</rounds>
+<weight>Cruiserweight Division</weight>
 
 <time>November. 16, 2018</time>
 <loc>Oklahoma City, Okla.</loc>
