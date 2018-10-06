@@ -46,6 +46,11 @@
 <rounds>10</rounds>
 <weight>Heavyweight Division</weight>
 
+<fighter1>Lyon Woodstock</fighter1>
+<fighter2>Archie Sharp</fighter2>
+<rounds>10</rounds>
+<weight>Junior Lightweight Division</weight>
+
 <loc>Bangkok, Thailand</loc>
 
 <fighter1>Srisaket Rungvisai</fighter1>
