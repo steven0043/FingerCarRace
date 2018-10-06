@@ -4,7 +4,7 @@
 
 <fighter1>Khabib</fighter1>
 <fighter2>Conor McGregor</fighter2>
-<rounds>12</rounds>
+<rounds>5</rounds>
 <weight>Lightweight Division</weight>
 
 <loc>Chicago, USA</loc>
@@ -33,7 +33,7 @@
 
 <fighter1>Jack Catterall</fighter1>
 <fighter2>Ohara Davies</fighter2>
-<rounds>10</rounds>
+<rounds>12</rounds>
 <weight>Junior Welterweight Division</weight>
 
 <fighter1>Nicola Adams</fighter1>
