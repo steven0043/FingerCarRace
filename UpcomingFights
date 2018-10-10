@@ -1,81 +1,3 @@
-<time>October. 6, 2018</time>
-
-<loc>Las Vegas</loc>
-
-<fighter1>Khabib</fighter1>
-<fighter2>Conor McGregor</fighter2>
-<rounds>5</rounds>
-<weight>Lightweight Division</weight>
-
-<loc>Chicago, USA</loc>
-
-<fighter1>Jessie Vargas</fighter1>
-<fighter2>Thomas Dulorme</fighter2>
-<rounds>12</rounds>
-<weight>Welterweight Division</weight>
-
-<fighter1>Artur Beterbiev</fighter1>
-<fighter2>Callum Johnson</fighter2>
-<rounds>12</rounds>
-<weight>Light Heavyweight Division</weight>
-
-<fighter1>Danny Roman</fighter1>
-<fighter2>Gavin McDonnell</fighter2>
-<rounds>12</rounds>
-<weight>Junior Featherweight Division</weight>
-
-<fighter1>Jarrell Miller</fighter1>
-<fighter2>Tomasz Adamek</fighter2>
-<rounds>12</rounds>
-<weight>Heavyweight Division</weight>
-
-<loc>Leicester, England</loc>
-
-<fighter1>Jack Catterall</fighter1>
-<fighter2>Ohara Davies</fighter2>
-<rounds>12</rounds>
-<weight>Junior Welterweight Division</weight>
-
-<fighter1>Nicola Adams</fighter1>
-<fighter2>Isabel Millan</fighter2>
-<rounds>10</rounds>
-<weight>Junior Bantamweight Division</weight>
-
-<fighter1>Daniel Dubois</fighter1>
-<fighter2>Kevin Johnson</fighter2>
-<rounds>10</rounds>
-<weight>Heavyweight Division</weight>
-
-<fighter1>Lyon Woodstock</fighter1>
-<fighter2>Archie Sharp</fighter2>
-<rounds>10</rounds>
-<weight>Junior Lightweight Division</weight>
-
-<loc>Bangkok, Thailand</loc>
-
-<fighter1>Srisaket Rungvisai</fighter1>
-<fighter2>Iran Diaz</fighter2>
-<rounds>12</rounds>
-<weight>Junior Bantamweight Division</weight>
-
-<time>October. 7, 2018</time>
-<loc>Yokohama, Japan</loc>
-
-<fighter1>Naoya Inoue</fighter1>
-<fighter2>Juan Carlos Payano</fighter2>
-<rounds>12</rounds>
-<weight>Bantamweight Division</weight>
-
-<fighter1>Kiryl Relikh</fighter1>
-<fighter2>Eduard Troyanovsky</fighter2>
-<rounds>12</rounds>
-<weight>Welterweight Division</weight>
-
-<fighter1>Ken Shiro</fighter1>
-<fighter2>Milan Melindo</fighter2>
-<rounds>12</rounds>
-<weight>Junior Flyweight Division</weight>
-
 <time>October. 13, 2018</time>
 <loc>Omaha, Neb.</loc>
 
@@ -96,6 +18,16 @@
 <rounds>12</rounds>
 <weight>Bantamweight Division</weight>
 
+<fighter1>Ruslan Fayfer</fighter1>
+<fighter2>Andrew Tabiti</fighter2>
+<rounds>12</rounds>
+<weight>Cruiserweight Division</weight>
+
+<fighter1>Vladimir Shishkin</fighter1>
+<fighter2>Nadjib Mohammedi</fighter2>
+<rounds>12</rounds>
+<weight>Super Middleweight Division</weight>
+
 <loc>Newcastle, England</loc>
 
 <fighter1>Lewis Ritson</fighter1>
@@ -107,6 +39,16 @@
 <fighter2>Robbie Davies</fighter2>
 <rounds>12</rounds>
 <weight>Junior Welterweight Division</weight>
+
+<fighter1>Joshua Buatsi</fighter1>
+<fighter2>Tony Averlant</fighter2>
+<rounds>10</rounds>
+<weight>Light Heavyweight Division</weight>
+
+<fighter1>David Allen</fighter1>
+<fighter2>Samir Nebo</fighter2>
+<rounds>10</rounds>
+<weight>Heavyweight Division</weight>
 
 <loc>London, England</loc>
 
