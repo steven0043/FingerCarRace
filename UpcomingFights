@@ -1,61 +1,10 @@
-<time>October. 13, 2018</time>
-<loc>Omaha, Neb.</loc>
+<time>October. 18, 2018</time>
+<loc>Indio, Calif.</loc>
 
-<fighter1>Terence Crawford</fighter1>
-<fighter2>Jose Benavidez</fighter2>
-<rounds>12</rounds>
-<weight>Welterweight Division</weight>
-
-<fighter1>Shakur Stevenson</fighter1>
-<fighter2>Duarn Vue</fighter2>
+<fighter1>Jason Quigley</fighter1>
+<fighter2>Freddy Hernandez</fighter2>
 <rounds>10</rounds>
-<weight>Featherweight Division</weight>
-
-<loc>Ekaterinburg, Russia</loc>
-
-<fighter1>Zolani Tete</fighter1>
-<fighter2>Mikhael Aloyan</fighter2>
-<rounds>12</rounds>
-<weight>Bantamweight Division</weight>
-
-<fighter1>Ruslan Fayfer</fighter1>
-<fighter2>Andrew Tabiti</fighter2>
-<rounds>12</rounds>
-<weight>Cruiserweight Division</weight>
-
-<fighter1>Vladimir Shishkin</fighter1>
-<fighter2>Nadjib Mohammedi</fighter2>
-<rounds>12</rounds>
-<weight>Super Middleweight Division</weight>
-
-<loc>Newcastle, England</loc>
-
-<fighter1>Lewis Ritson</fighter1>
-<fighter2>Francesco Patera</fighter2>
-<rounds>12</rounds>
-<weight>Lightweight Division</weight>
-
-<fighter1>Glenn Foot</fighter1>
-<fighter2>Robbie Davies</fighter2>
-<rounds>12</rounds>
-<weight>Junior Welterweight Division</weight>
-
-<fighter1>Joshua Buatsi</fighter1>
-<fighter2>Tony Averlant</fighter2>
-<rounds>10</rounds>
-<weight>Light Heavyweight Division</weight>
-
-<fighter1>David Allen</fighter1>
-<fighter2>Samir Nebo</fighter2>
-<rounds>10</rounds>
-<weight>Heavyweight Division</weight>
-
-<loc>London, England</loc>
-
-<fighter1>Martin Bakole</fighter1>
-<fighter2>Michael Hunter</fighter2>
-<rounds>10</rounds>
-<weight>Heavyweight Division</weight>
+<weight>Middleweight Division</weight>
 
 <time>October. 20, 2018</time>
 <loc>Las Vegas</loc>
@@ -65,10 +14,15 @@
 <rounds>12</rounds>
 <weight>Middleweight Division</weight>
 
+<fighter1>Maxim Dadashev</fighter1>
+<fighter2>Antonio DeMarco</fighter2>
+<rounds>10</rounds>
+<weight>Junior Welterweight Division</weight>
+
 <loc>Boston</loc>
 
-<fighter1>BJ Saunders</fighter1>
-<fighter2>Demetrius Andrade</fighter2>
+<fighter1>Demetrius Andrade</fighter1>
+<fighter2>Walter Kautondokwa</fighter2>
 <rounds>12</rounds>
 <weight>Middleweight Division</weight>
 
@@ -98,6 +52,18 @@
 <fighter2>Mateusz Masternak</fighter2>
 <rounds>12</rounds>
 <weight>Cruiserweight Division</weight>
+
+<loc>Brentwood, England</loc>
+
+<fighter1>Anthony Yarde</fighter1>
+<fighter2>Walter Sequeira</fighter2>
+<rounds>10</rounds>
+<weight>Light Heavyweight Division</weight>
+
+<fighter1>Gary Corcoran</fighter1>
+<fighter2>Johnny Garton</fighter2>
+<rounds>12</rounds>
+<weight>Welterweight Division</weight>
 
 <time>October. 21, 2018</time>
 <loc>Manila, Philippines</loc>
@@ -196,6 +162,13 @@
 <rounds>12</rounds>
 <weight>Bantamweight Division</weight>
 
+<loc>New York</loc>
+
+<fighter1>Sullivan Barrera</fighter1>
+<fighter2>Seanie Monaghan</fighter2>
+<rounds>12</rounds>
+<weight>Light Heavyweight Division</weight>
+
 <time>November. 10, 2018</time>
 <loc>Manchester, England</loc>
 
@@ -239,12 +212,50 @@
 <rounds>12</rounds>
 <weight>Junior Welterweight Division</weight>
 
+<fighter1>Egidijus Kavaliauskas</fighter1>
+<fighter2>Roberto Arriaza</fighter2>
+<rounds>12</rounds>
+<weight>Welterweight Division</weight>
+
 <time>November. 17, 2018</time>
 <loc>Atlantic City, N.J.</loc>
 
 <fighter1>Claressa Shields</fighter1>
 <fighter2>Christina Hammer</fighter2>
 <rounds>10</rounds>
+<weight>Middleweight Division</weight>
+
+<time>November. 24, 2018</time>
+<loc>Atlantic City, N.J.</loc>
+
+<fighter1>Dmitry Bivol</fighter1>
+<fighter2>Jean Pascal</fighter2>
+<rounds>12</rounds>
+<weight>Light Heavyweight Division</weight>
+
+<loc>Monte Carlo</loc>
+
+<fighter1>Denis Lebedev</fighter1>
+<fighter2>Mike Wilson</fighter2>
+<rounds>12</rounds>
+<weight>Cruiserweight Division</weight>
+
+<fighter1>Zhang Zhilei</fighter1>
+<fighter2>Alexander Ustinov</fighter2>
+<rounds>12</rounds>
+<weight>Heavyweight Division</weight>
+
+<fighter1>Kal Yafai</fighter1>
+<fighter2>Israel Gonzalez</fighter2>
+<rounds>12</rounds>
+<weight>Junior Bantamweight Division</weight>
+
+<time>November. 30, 2018</time>
+<loc>Brisbane, Australia</loc>
+
+<fighter1>Jeff Horn</fighter1>
+<fighter2>Anthony Mundine</fighter2>
+<rounds>12</rounds>
 <weight>Middleweight Division</weight>
 
 <time>December. 1, 2018</time>
@@ -270,6 +281,22 @@
 <rounds>12</rounds>
 <weight>Lightweight Division</weight>
 
+<time>December. 14, 2018</time>
+<loc>Corpus Christi, Texas</loc>
+
+<fighter1>Gilberto Ramirez</fighter1>
+<fighter2>Jesse Hart</fighter2>
+<rounds>12</rounds>
+<weight>Super Middleweight Division</weight>
+
+<time>December. 15, 2018</time>
+<loc>New York</loc>
+
+<fighter1>Canelo</fighter1>
+<fighter2>Rocky Fielding</fighter2>
+<rounds>12</rounds>
+<weight>Super Middleweight Division</weight>
+
 <time>December. 22, 2018</time>
 <loc>Manchester, England</loc>
 
@@ -277,6 +304,16 @@
 <fighter2>Carl Frampton</fighter2>
 <rounds>12</rounds>
 <weight>Featherweight Division</weight>
+
+<fighter1>Jason Welborn</fighter1>
+<fighter2>Mark Heffron</fighter2>
+<rounds>12</rounds>
+<weight>Middleweight Division</weight>
+
+<fighter1>JJ Metcalf</fighter1>
+<fighter2>Liam Williams</fighter2>
+<rounds>12</rounds>
+<weight>Junior Middleweight Division</weight>
 
 <time>February. 2, 2019</time>
 <loc>Atlantic City</loc>
