@@ -1,3 +1,62 @@
+<time>October. 20, 2018</time>
+<loc>Las Vegas</loc>
+
+<fighter1>Ryota Murata</fighter1>
+<fighter2>Rob Brant</fighter2>
+<rounds>12</rounds>
+<weight>Middleweight Division</weight>
+
+<fighter1>Maxim Dadashev</fighter1>
+<fighter2>Antonio DeMarco</fighter2>
+<rounds>10</rounds>
+<weight>Junior Welterweight Division</weight>
+
+<loc>Boston</loc>
+
+<fighter1>Demetrius Andrade</fighter1>
+<fighter2>Walter Kautondokwa</fighter2>
+<rounds>12</rounds>
+<weight>Middleweight Division</weight>
+
+<fighter1>Katie Taylor</fighter1>
+<fighter2>Cindy Serrano</fighter2>
+<rounds>10</rounds>
+<weight>Lightweight Division</weight>
+
+<fighter1>Tevin Farmer</fighter1>
+<fighter2>James Tennyson</fighter2>
+<rounds>12</rounds>
+<weight>Junior Lightweight Division</weight>
+
+<fighter1>Kid Galahad</fighter1>
+<fighter2>Toka Clary</fighter2>
+<rounds>12</rounds>
+<weight>Featherweight Division</weight>
+
+<loc>Orlando, Fla.</loc>
+
+<fighter1>Emmanuel Rodriguez</fighter1>
+<fighter2>Jason Moloney</fighter2>
+<rounds>12</rounds>
+<weight>Bantamweight Division</weight>
+
+<fighter1>Yunier Dorticos</fighter1>
+<fighter2>Mateusz Masternak</fighter2>
+<rounds>12</rounds>
+<weight>Cruiserweight Division</weight>
+
+<loc>Brentwood, England</loc>
+
+<fighter1>Anthony Yarde</fighter1>
+<fighter2>Walter Sequeira</fighter2>
+<rounds>10</rounds>
+<weight>Light Heavyweight Division</weight>
+
+<fighter1>Gary Corcoran</fighter1>
+<fighter2>Johnny Garton</fighter2>
+<rounds>12</rounds>
+<weight>Welterweight Division</weight>
+
 <time>October. 13, 2018</time>
 <loc>Omaha, Neb.</loc>
 
