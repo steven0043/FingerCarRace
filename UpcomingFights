@@ -1,16 +1,4 @@
 <time>November. 3, 2018</time>
-<loc>El Paso, Texas</loc>
-
-<fighter1>Miguel Berchelt</fighter1>
-<fighter2>Miguel Roman</fighter2>
-<rounds>12</rounds>
-<weight>Junior Lightweight Division</weight>
-
-<fighter1>Miguel Marriaga</fighter1>
-<fighter2>Jose Estrella</fighter2>
-<rounds>10</rounds>
-<weight>Featherweight Division</weight>
-
 <loc>Glasgow, Scotland</loc>
 
 <fighter1>Josh Taylor</fighter1>
@@ -37,6 +25,18 @@
 <fighter2>Yoan Boyeaux</fighter2>
 <rounds>10</rounds>
 <weight>Bantamweight Division</weight>
+
+<loc>El Paso, Texas</loc>
+
+<fighter1>Miguel Berchelt</fighter1>
+<fighter2>Miguel Roman</fighter2>
+<rounds>12</rounds>
+<weight>Junior Lightweight Division</weight>
+
+<fighter1>Miguel Marriaga</fighter1>
+<fighter2>Jose Estrella</fighter2>
+<rounds>10</rounds>
+<weight>Featherweight Division</weight>
 
 <loc>New York</loc>
 
