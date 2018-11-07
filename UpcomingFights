@@ -1,49 +1,4 @@
-<time>November. 3, 2018</time>
-<loc>Glasgow, Scotland</loc>
 
-<fighter1>Josh Taylor</fighter1>
-<fighter2>Ryan Martin</fighter2>
-<rounds>12</rounds>
-<weight>Junior Welterweight Division</weight>
-
-<fighter1>Ryan Burnett</fighter1>
-<fighter2>Nonito Donaire</fighter2>
-<rounds>12</rounds>
-<weight>Bantamweight Division</weight>
-
-<fighter1>Viktor Postol</fighter1>
-<fighter2>Siar Ozgul</fighter2>
-<rounds>10</rounds>
-<weight>Junior Welterweight Division</weight>
-
-<fighter1>Zach Parker</fighter1>
-<fighter2>Darryll Williams</fighter2>
-<rounds>12</rounds>
-<weight>Super Middleweight Division</weight>
-
-<fighter1>Paul Butler</fighter1>
-<fighter2>Yoan Boyeaux</fighter2>
-<rounds>10</rounds>
-<weight>Bantamweight Division</weight>
-
-<loc>El Paso, Texas</loc>
-
-<fighter1>Miguel Berchelt</fighter1>
-<fighter2>Miguel Roman</fighter2>
-<rounds>12</rounds>
-<weight>Junior Lightweight Division</weight>
-
-<fighter1>Miguel Marriaga</fighter1>
-<fighter2>Jose Estrella</fighter2>
-<rounds>10</rounds>
-<weight>Featherweight Division</weight>
-
-<loc>New York</loc>
-
-<fighter1>Sullivan Barrera</fighter1>
-<fighter2>Seanie Monaghan</fighter2>
-<rounds>12</rounds>
-<weight>Light Heavyweight Division</weight>
 
 <time>November. 10, 2018</time>
 <loc>Manchester, England</loc>
@@ -58,15 +13,20 @@
 <rounds>12</rounds>
 <weight>Lightweight Division</weight>
 
-<fighter1>Joe Cordina</fighter1>
+<fighter1>Ricky Burns</fighter1>
 <fighter2>Scotty Cardle</fighter2>
-<rounds>12</rounds>
+<rounds>10</rounds>
 <weight>Lightweight Division</weight>
 
-<fighter1>Ryan Walsh</fighter1>
-<fighter2>Isaac Lowe</fighter2>
-<rounds>12</rounds>
-<weight>Featherweight Division</weight>
+<fighter1>Dave Allen</fighter1>
+<fighter2>Ariel Bracamonte</fighter2>
+<rounds>10</rounds>
+<weight>Heavyweight Division</weight>
+
+<fighter1>Josh Kelly</fighter1>
+<fighter2>Walter Castillo</fighter2>
+<rounds>10</rounds>
+<weight>Welterweight Division</weight>
 
 <loc>Chicago</loc>
 
@@ -167,6 +127,16 @@
 <rounds>12</rounds>
 <weight>Light Middleweight Division</weight>
 
+<fighter1>Luis Ortiz</fighter1>
+<fighter2>Travis Kauffman</fighter2>
+<rounds>12</rounds>
+<weight>Heavyweight Division</weight>
+
+<fighter1>Joe Joyce</fighter1>
+<fighter2>Joe Hanks</fighter2>
+<rounds>10</rounds>
+<weight>Heavyweight Division</weight>
+
 <loc>Quebec City</loc>
 
 <fighter1>Adonis Stevenson</fighter1>
@@ -187,6 +157,25 @@
 <rounds>12</rounds>
 <weight>Junior Featherweight Division</weight>
 
+<loc>Sheffield, England</loc>
+
+<fighter1>Kell Brook</fighter1>
+<fighter2>Michael Zerafa</fighter2>
+<rounds>12</rounds>
+<weight>Junior Middleweight Division</weight>
+
+<fighter1>Jono Carroll</fighter1>
+<fighter2>Guillaume Frenois</fighter2>
+<rounds>12</rounds>
+<weight>Junior Lightweight Division</weight>
+
+<loc>Indio, Calif.</loc>
+
+<fighter1>Roman Gonzalez</fighter1>
+<fighter2>Pedro Guevara</fighter2>
+<rounds>10</rounds>
+<weight>Junior Bantamweight Division</weight>
+
 <time>December. 14, 2018</time>
 <loc>Corpus Christi, Texas</loc>
 
@@ -203,7 +192,26 @@
 <rounds>12</rounds>
 <weight>Super Middleweight Division</weight>
 
+<fighter1>Artur Beterbiev</fighter1>
+<fighter2>Joe Smith</fighter2>
+<rounds>12</rounds>
+<weight>Light Heavyweight Division</weight>
+
+<loc>Christchurch, New Zealand</loc>
+
+<fighter1>Joseph Parker</fighter1>
+<fighter2>Alexander Flores</fighter2>
+<rounds>10</rounds>
+<weight>Heavyweight Division</weight>
+
 <time>December. 22, 2018</time>
+
+<loc>London, England</loc>
+
+<fighter1>Dillian Whyte</fighter1>
+<fighter2>Derek Chisora</fighter2>
+<rounds>12</rounds>
+<weight>Heavyweight Division</weight>
 
 <loc>Manchester, England</loc>
 
