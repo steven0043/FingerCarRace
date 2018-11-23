@@ -6,6 +6,16 @@
 <rounds>12</rounds>
 <weight>Light Heavyweight Division</weight>
 
+<fighter1>Murodjon Akhmadaliev</fighter1>
+<fighter2>Isaac Zarate</fighter2>
+<rounds>10</rounds>
+<weight>Junior Featherweight Division</weight>
+
+<fighter1>Sergey Kuzmin</fighter1>
+<fighter2>Laron Mitchell</fighter2>
+<rounds>10</rounds>
+<weight>Heavyweight Division</weight>
+
 <loc>Monte Carlo</loc>
 
 <fighter1>Denis Lebedev</fighter1>
@@ -27,6 +37,11 @@
 <fighter2>Frank Buglioni</fighter2>
 <rounds>10</rounds>
 <weight>Light Heavyweight Division</weight>
+
+<fighter1>Daniyar Yeleussinov</fighter1>
+<fighter2>Marcos Mojica</fighter2>
+<rounds>8</rounds>
+<weight>Welterweight Division</weight>
 
 <time>November. 30, 2018</time>
 <loc>Brisbane, Australia</loc>
@@ -56,6 +71,21 @@
 
 <fighter1>Joe Joyce</fighter1>
 <fighter2>Joe Hanks</fighter2>
+<rounds>10</rounds>
+<weight>Heavyweight Division</weight>
+
+<fighter1>Julio Cesar Chavez</fighter1>
+<fighter2>Alfredo Angulo</fighter2>
+<rounds>10</rounds>
+<weight>Super Middleweight Division</weight>
+
+<fighter1>Mark Barriga</fighter1>
+<fighter2>Carlos Licona</fighter2>
+<rounds>12</rounds>
+<weight>Strawweight Division</weight>
+
+<fighter1>Chris Arreola</fighter1>
+<fighter2>Maurenzo Smith</fighter2>
 <rounds>10</rounds>
 <weight>Heavyweight Division</weight>
 
@@ -91,12 +121,27 @@
 <rounds>12</rounds>
 <weight>Junior Lightweight Division</weight>
 
+<fighter1>Josh Kelly</fighter1>
+<fighter2>David Avanesyan</fighter2>
+<rounds>10</rounds>
+<weight>Welterweight Division</weight>
+
 <loc>Indio, Calif.</loc>
 
 <fighter1>Roman Gonzalez</fighter1>
 <fighter2>Pedro Guevara</fighter2>
 <rounds>10</rounds>
 <weight>Junior Bantamweight Division</weight>
+
+<fighter1>Cecilia Braekhus</fighter1>
+<fighter2>Aleksandra Lopes</fighter2>
+<rounds>10</rounds>
+<weight>Welterweight Division</weight>
+
+<fighter1>Claressa Shields</fighter1>
+<fighter2>Fenke Hermans</fighter2>
+<rounds>10</rounds>
+<weight>Middleweight Division</weight>
 
 <time>December. 14, 2018</time>
 <loc>Corpus Christi, Texas</loc>
@@ -114,10 +159,20 @@
 <rounds>12</rounds>
 <weight>Super Middleweight Division</weight>
 
-<fighter1>Artur Beterbiev</fighter1>
-<fighter2>Joe Smith</fighter2>
+<fighter1>David Lemieux</fighter1>
+<fighter2>Tureano Johnson</fighter2>
+<rounds>10</rounds>
+<weight>Middleweight Division</weight>
+
+<fighter1>Tevin Farmer</fighter1>
+<fighter2>Francisco Fonseca</fighter2>
 <rounds>12</rounds>
-<weight>Light Heavyweight Division</weight>
+<weight>Lightweight Division</weight>
+
+<fighter1>Sadam Ali</fighter1>
+<fighter2>Mauricio Herrera</fighter2>
+<rounds>10</rounds>
+<weight>Welterweight Division</weight>
 
 <loc>Christchurch, New Zealand</loc>
 
@@ -135,6 +190,16 @@
 <rounds>12</rounds>
 <weight>Heavyweight Division</weight>
 
+<fighter1>Cristofer Rosales</fighter1>
+<fighter2>Charlie Edwards</fighter2>
+<rounds>12</rounds>
+<weight>Flyweight Division</weight>
+
+<fighter1>David Price</fighter1>
+<fighter2>Tom Little</fighter2>
+<rounds>6</rounds>
+<weight>Heavyweight Division</weight>
+
 <loc>Manchester, England</loc>
 
 <fighter1>Josh Warrington</fighter1>
@@ -142,10 +207,25 @@
 <rounds>12</rounds>
 <weight>Featherweight Division</weight>
 
-<fighter1>JJ Metcalf</fighter1>
+<fighter1>Michael Conlan</fighter1>
+<fighter2>Jason Cunningham</fighter2>
+<rounds>10</rounds>
+<weight>Featherweight Division</weight>
+
+<fighter1>Mark Heffron</fighter1>
 <fighter2>Liam Williams</fighter2>
 <rounds>12</rounds>
 <weight>Junior Middleweight Division</weight>
+
+<fighter1>Martin Murray</fighter1>
+<fighter2>Hassan N'Dam</fighter2>
+<rounds>12</rounds>
+<weight>Middleweight Division</weight>
+
+<fighter1>Nathan Gorman</fighter1>
+<fighter2>Alex Leapai</fighter2>
+<rounds>10</rounds>
+<weight>Heavyweight Division</weight>
 
 <loc>New York</loc>
 
@@ -163,6 +243,11 @@
 <fighter2>Carlos Negron</fighter2>
 <rounds>10</rounds>
 <weight>Heavyweight Division</weight>
+
+<fighter1>Nordine Oubaali</fighter1>
+<fighter2>Rau'shee Warren</fighter2>
+<rounds>12</rounds>
+<weight>Bantamweight Division</weight>
 
 <time>January. 13, 2019</time>
 <loc>Los Angeles</loc>
