@@ -1,48 +1,3 @@
-<time>November. 24, 2018</time>
-<loc>Atlantic City, N.J.</loc>
-
-<fighter1>Dmitry Bivol</fighter1>
-<fighter2>Jean Pascal</fighter2>
-<rounds>12</rounds>
-<weight>Light Heavyweight Division</weight>
-
-<fighter1>Murodjon Akhmadaliev</fighter1>
-<fighter2>Isaac Zarate</fighter2>
-<rounds>10</rounds>
-<weight>Junior Featherweight Division</weight>
-
-<fighter1>Sergey Kuzmin</fighter1>
-<fighter2>Laron Mitchell</fighter2>
-<rounds>10</rounds>
-<weight>Heavyweight Division</weight>
-
-<loc>Monte Carlo</loc>
-
-<fighter1>Denis Lebedev</fighter1>
-<fighter2>Mike Wilson</fighter2>
-<rounds>12</rounds>
-<weight>Cruiserweight Division</weight>
-
-<fighter1>Michael Hunter</fighter1>
-<fighter2>Alexander Ustinov</fighter2>
-<rounds>12</rounds>
-<weight>Heavyweight Division</weight>
-
-<fighter1>Kal Yafai</fighter1>
-<fighter2>Israel Gonzalez</fighter2>
-<rounds>12</rounds>
-<weight>Junior Bantamweight Division</weight>
-
-<fighter1>Fanlong Meng</fighter1>
-<fighter2>Frank Buglioni</fighter2>
-<rounds>10</rounds>
-<weight>Light Heavyweight Division</weight>
-
-<fighter1>Daniyar Yeleussinov</fighter1>
-<fighter2>Marcos Mojica</fighter2>
-<rounds>8</rounds>
-<weight>Welterweight Division</weight>
-
 <time>November. 30, 2018</time>
 <loc>Brisbane, Australia</loc>
 
@@ -50,6 +5,23 @@
 <fighter2>Anthony Mundine</fighter2>
 <rounds>12</rounds>
 <weight>Middleweight Division</weight>
+
+<loc>Florence, Italy</loc>
+
+<fighter1>Fabio Turchi</fighter1>
+<fighter2>Tony Conquest</fighter2>
+<rounds>12</rounds>
+<weight>Cruiserweight Division</weight>
+
+<fighter1>Andrea Scarpa</fighter1>
+<fighter2>Joe Hughes</fighter2>
+<rounds>12</rounds>
+<weight>Welterweight Division</weight>
+
+<fighter1>Devis Boschiero</fighter1>
+<fighter2>Martin Ward</fighter2>
+<rounds>12</rounds>
+<weight>Junior Lightweight Division</weight>
 
 <time>December. 1, 2018</time>
 <loc>L.A.</loc>
@@ -74,10 +46,10 @@
 <rounds>10</rounds>
 <weight>Heavyweight Division</weight>
 
-<fighter1>Julio Cesar Chavez</fighter1>
-<fighter2>Alfredo Angulo</fighter2>
+<fighter1>Julian Williams</fighter1>
+<fighter2>Javier Castro</fighter2>
 <rounds>10</rounds>
-<weight>Super Middleweight Division</weight>
+<weight>Junior Middleweight Division</weight>
 
 <fighter1>Mark Barriga</fighter1>
 <fighter2>Carlos Licona</fighter2>
