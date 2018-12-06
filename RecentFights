@@ -1,3 +1,49 @@
+
+<time>December. 1, 2018</time>
+<loc>L.A.</loc>
+
+<fighter1>Deontay Wilder</fighter1>
+<fighter2>Tyson Fury</fighter2>
+<rounds>12</rounds>
+<weight>Heavyweight Division</weight>
+
+<fighter1>Jarrett Hurd</fighter1>
+<fighter2>Jason Welborn</fighter2>
+<rounds>12</rounds>
+<weight>Light Middleweight Division</weight>
+
+<fighter1>Luis Ortiz</fighter1>
+<fighter2>Travis Kauffman</fighter2>
+<rounds>12</rounds>
+<weight>Heavyweight Division</weight>
+
+<fighter1>Joe Joyce</fighter1>
+<fighter2>Joe Hanks</fighter2>
+<rounds>10</rounds>
+<weight>Heavyweight Division</weight>
+
+<fighter1>Julian Williams</fighter1>
+<fighter2>Javier Castro</fighter2>
+<rounds>10</rounds>
+<weight>Junior Middleweight Division</weight>
+
+<fighter1>Mark Barriga</fighter1>
+<fighter2>Carlos Licona</fighter2>
+<rounds>12</rounds>
+<weight>Strawweight Division</weight>
+
+<fighter1>Chris Arreola</fighter1>
+<fighter2>Maurenzo Smith</fighter2>
+<rounds>10</rounds>
+<weight>Heavyweight Division</weight>
+
+<loc>Quebec City</loc>
+
+<fighter1>Adonis Stevenson</fighter1>
+<fighter2>Oleksandr Gvozdyk</fighter2>
+<rounds>12</rounds>
+<weight>Light Heavyweight Division</weight>
+
 <time>November. 24, 2018</time>
 <loc>Atlantic City, N.J.</loc>
 
