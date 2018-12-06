@@ -1,49 +1,4 @@
 
-<time>December. 1, 2018</time>
-<loc>L.A.</loc>
-
-<fighter1>Deontay Wilder</fighter1>
-<fighter2>Tyson Fury</fighter2>
-<rounds>12</rounds>
-<weight>Heavyweight Division</weight>
-
-<fighter1>Jarrett Hurd</fighter1>
-<fighter2>Jason Welborn</fighter2>
-<rounds>12</rounds>
-<weight>Light Middleweight Division</weight>
-
-<fighter1>Luis Ortiz</fighter1>
-<fighter2>Travis Kauffman</fighter2>
-<rounds>12</rounds>
-<weight>Heavyweight Division</weight>
-
-<fighter1>Joe Joyce</fighter1>
-<fighter2>Joe Hanks</fighter2>
-<rounds>10</rounds>
-<weight>Heavyweight Division</weight>
-
-<fighter1>Julian Williams</fighter1>
-<fighter2>Javier Castro</fighter2>
-<rounds>10</rounds>
-<weight>Junior Middleweight Division</weight>
-
-<fighter1>Mark Barriga</fighter1>
-<fighter2>Carlos Licona</fighter2>
-<rounds>12</rounds>
-<weight>Strawweight Division</weight>
-
-<fighter1>Chris Arreola</fighter1>
-<fighter2>Maurenzo Smith</fighter2>
-<rounds>10</rounds>
-<weight>Heavyweight Division</weight>
-
-<loc>Quebec City</loc>
-
-<fighter1>Adonis Stevenson</fighter1>
-<fighter2>Oleksandr Gvozdyk</fighter2>
-<rounds>12</rounds>
-<weight>Light Heavyweight Division</weight>
-
 <time>December. 8, 2018</time>
 <loc>New York</loc>
 
@@ -56,6 +11,11 @@
 <fighter2>Emanuel Navarrete</fighter2>
 <rounds>12</rounds>
 <weight>Junior Featherweight Division</weight>
+
+<fighter1>Teofimo Lopez</fighter1>
+<fighter2>Mason Menard,</fighter2>
+<rounds>10</rounds>
+<weight>Lightweight Division</weight>
 
 <loc>Sheffield, England</loc>
 
@@ -74,10 +34,15 @@
 <rounds>10</rounds>
 <weight>Welterweight Division</weight>
 
+<fighter1>Kid Galahad</fighter1>
+<fighter2>Brayan Mairena</fighter2>
+<rounds>8</rounds>
+<weight>Featherweight Division</weight>
+
 <loc>Indio, Calif.</loc>
 
-<fighter1>Roman Gonzalez</fighter1>
-<fighter2>Pedro Guevara</fighter2>
+<fighter1>Juan Estrada</fighter1>
+<fighter2>Victor Mendez</fighter2>
 <rounds>10</rounds>
 <weight>Junior Bantamweight Division</weight>
 
@@ -121,6 +86,11 @@
 <fighter2>Mauricio Herrera</fighter2>
 <rounds>10</rounds>
 <weight>Welterweight Division</weight>
+
+<fighter1>Katie Taylor</fighter1>
+<fighter2>Eva Wahlstrom</fighter2>
+<rounds>10</rounds>
+<weight>Lightweight Division</weight>
 
 <loc>Christchurch, New Zealand</loc>
 
