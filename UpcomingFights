@@ -16,7 +16,7 @@
 
 <fighter1>David Lemieux</fighter1>
 <fighter2>Tureano Johnson</fighter2>
-<rounds>10</rounds>
+<rounds>12</rounds>
 <weight>Middleweight Division</weight>
 
 <fighter1>Tevin Farmer</fighter1>
@@ -24,10 +24,20 @@
 <rounds>12</rounds>
 <weight>Lightweight Division</weight>
 
+<fighter1>Ryan Garcia</fighter1>
+<fighter2>Braulio Rodriguez</fighter2>
+<rounds>10</rounds>
+<weight>Lightweight Division</weight>
+
 <fighter1>Sadam Ali</fighter1>
 <fighter2>Mauricio Herrera</fighter2>
 <rounds>10</rounds>
 <weight>Welterweight Division</weight>
+
+<fighter1>Vergil Ortiz</fighter1>
+<fighter2>Omar Tienda</fighter2>
+<rounds>10</rounds>
+<weight>Junior Welterweight Division</weight>
 
 <fighter1>Katie Taylor</fighter1>
 <fighter2>Eva Wahlstrom</fighter2>
@@ -55,6 +65,16 @@
 <rounds>12</rounds>
 <weight>Flyweight Division</weight>
 
+<fighter1>Ryan Walsh</fighter1>
+<fighter2>Reece Bellotti</fighter2>
+<rounds>12</rounds>
+<weight>Featherweight Division</weight>
+
+<fighter1>Joshua Buatsi</fighter1>
+<fighter2>Renold Quinlan</fighter2>
+<rounds>10</rounds>
+<weight>Light Heavyweight Division</weight>
+
 <fighter1>David Price</fighter1>
 <fighter2>Tom Little</fighter2>
 <rounds>6</rounds>
@@ -71,6 +91,11 @@
 <fighter2>Jason Cunningham</fighter2>
 <rounds>10</rounds>
 <weight>Featherweight Division</weight>
+
+<fighter1>BJ Saunders</fighter1>
+<fighter2>Zoltan Sera</fighter2>
+<rounds>10</rounds>
+<weight>Middleweight Division</weight>
 
 <fighter1>Mark Heffron</fighter1>
 <fighter2>Liam Williams</fighter2>
