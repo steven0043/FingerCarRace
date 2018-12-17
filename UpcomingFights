@@ -1,62 +1,9 @@
-<time>December. 14, 2018</time>
-<loc>Corpus Christi, Texas</loc>
-
-<fighter1>Gilberto Ramirez</fighter1>
-<fighter2>Jesse Hart</fighter2>
-<rounds>12</rounds>
-<weight>Super Middleweight Division</weight>
-
-<time>December. 15, 2018</time>
-<loc>New York</loc>
-
-<fighter1>Canelo</fighter1>
-<fighter2>Rocky Fielding</fighter2>
-<rounds>12</rounds>
-<weight>Super Middleweight Division</weight>
-
-<fighter1>David Lemieux</fighter1>
-<fighter2>Tureano Johnson</fighter2>
-<rounds>12</rounds>
-<weight>Middleweight Division</weight>
-
-<fighter1>Tevin Farmer</fighter1>
-<fighter2>Francisco Fonseca</fighter2>
-<rounds>12</rounds>
-<weight>Lightweight Division</weight>
-
-<fighter1>Ryan Garcia</fighter1>
-<fighter2>Braulio Rodriguez</fighter2>
-<rounds>10</rounds>
-<weight>Lightweight Division</weight>
-
-<fighter1>Sadam Ali</fighter1>
-<fighter2>Mauricio Herrera</fighter2>
-<rounds>10</rounds>
-<weight>Welterweight Division</weight>
-
-<fighter1>Vergil Ortiz</fighter1>
-<fighter2>Omar Tienda</fighter2>
-<rounds>10</rounds>
-<weight>Junior Welterweight Division</weight>
-
-<fighter1>Katie Taylor</fighter1>
-<fighter2>Eva Wahlstrom</fighter2>
-<rounds>10</rounds>
-<weight>Lightweight Division</weight>
-
-<loc>Christchurch, New Zealand</loc>
-
-<fighter1>Joseph Parker</fighter1>
-<fighter2>Alexander Flores</fighter2>
-<rounds>10</rounds>
-<weight>Heavyweight Division</weight>
-
 <time>December. 22, 2018</time>
 
 <loc>London, England</loc>
 
-<fighter1>Dillian Whyte</fighter1>
-<fighter2>Derek Chisora</fighter2>
+<fighter1>Derek Chisora</fighter1>
+<fighter2>Dillian Whyte</fighter2>
 <rounds>12</rounds>
 <weight>Heavyweight Division</weight>
 
