@@ -29,6 +29,28 @@
 <rounds>12</rounds>
 <weight>Middleweight Division</weight>
 
+<loc>New York</loc>
+
+<fighter1>Jermall Charlo</fighter1>
+<fighter2>Willie Monroe</fighter2>
+<rounds>12</rounds>
+<weight>Middleweight Division</weight>
+
+<fighter1>Jermell Charlo</fighter1>
+<fighter2>Tony Harrison</fighter2>
+<rounds>12</rounds>
+<weight>Junior Middleweight Division</weight>
+
+<fighter1>Dominic Breazeale</fighter1>
+<fighter2>Carlos Negron</fighter2>
+<rounds>10</rounds>
+<weight>Heavyweight Division</weight>
+
+<fighter1>Nordine Oubaali</fighter1>
+<fighter2>Rau'shee Warren</fighter2>
+<rounds>12</rounds>
+<weight>Bantamweight Division</weight>
+
 <time>December. 14, 2018</time>
 <loc>Corpus Christi, Texas</loc>
 
