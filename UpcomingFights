@@ -1,85 +1,22 @@
-<time>December. 22, 2018</time>
+<time>December. 31, 2018</time>
+<loc>Tokyo, Japan</loc>
 
-<loc>London, England</loc>
+<fighter1>Floyd Mayweather</fighter1>
+<fighter2>Tenshin Nasukawa</fighter2>
+<rounds>3</rounds>
+<weight>Welterweight Division</weight>
 
-<fighter1>Dereck Chisora</fighter1>
-<fighter2>Dillian Whyte</fighter2>
+<loc>Macau, China</loc>
+
+<fighter1>Donnie Nietes</fighter1>
+<fighter2>Kazuto Ioka</fighter2>
 <rounds>12</rounds>
-<weight>Heavyweight Division</weight>
+<weight>Junior Bantamweight Division</weight>
 
-<fighter1>Cristofer Rosales</fighter1>
-<fighter2>Charlie Edwards</fighter2>
+<fighter1>Hekkie Budler</fighter1>
+<fighter2>Hiroto Kyoguchi</fighter2>
 <rounds>12</rounds>
-<weight>Flyweight Division</weight>
-
-<fighter1>Ryan Walsh</fighter1>
-<fighter2>Reece Bellotti</fighter2>
-<rounds>12</rounds>
-<weight>Featherweight Division</weight>
-
-<fighter1>Joshua Buatsi</fighter1>
-<fighter2>Renold Quinlan</fighter2>
-<rounds>10</rounds>
-<weight>Light Heavyweight Division</weight>
-
-<fighter1>David Price</fighter1>
-<fighter2>Tom Little</fighter2>
-<rounds>6</rounds>
-<weight>Heavyweight Division</weight>
-
-<loc>Manchester, England</loc>
-
-<fighter1>Josh Warrington</fighter1>
-<fighter2>Carl Frampton</fighter2>
-<rounds>12</rounds>
-<weight>Featherweight Division</weight>
-
-<fighter1>Michael Conlan</fighter1>
-<fighter2>Jason Cunningham</fighter2>
-<rounds>10</rounds>
-<weight>Featherweight Division</weight>
-
-<fighter1>BJ Saunders</fighter1>
-<fighter2>Zoltan Sera</fighter2>
-<rounds>10</rounds>
-<weight>Middleweight Division</weight>
-
-<fighter1>Mark Heffron</fighter1>
-<fighter2>Liam Williams</fighter2>
-<rounds>12</rounds>
-<weight>Junior Middleweight Division</weight>
-
-<fighter1>Martin Murray</fighter1>
-<fighter2>Hassan N'Dam</fighter2>
-<rounds>12</rounds>
-<weight>Middleweight Division</weight>
-
-<fighter1>Nathan Gorman</fighter1>
-<fighter2>Alex Leapai</fighter2>
-<rounds>10</rounds>
-<weight>Heavyweight Division</weight>
-
-<loc>New York</loc>
-
-<fighter1>Jermall Charlo</fighter1>
-<fighter2>Willie Monroe</fighter2>
-<rounds>12</rounds>
-<weight>Middleweight Division</weight>
-
-<fighter1>Jermell Charlo</fighter1>
-<fighter2>Tony Harrison</fighter2>
-<rounds>12</rounds>
-<weight>Junior Middleweight Division</weight>
-
-<fighter1>Dominic Breazeale</fighter1>
-<fighter2>Carlos Negron</fighter2>
-<rounds>10</rounds>
-<weight>Heavyweight Division</weight>
-
-<fighter1>Nordine Oubaali</fighter1>
-<fighter2>Rau'shee Warren</fighter2>
-<rounds>12</rounds>
-<weight>Bantamweight Division</weight>
+<weight>Junior Flyweight Division</weight>
 
 <time>January. 13, 2019</time>
 <loc>Los Angeles</loc>
