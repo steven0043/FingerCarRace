@@ -1,3 +1,11 @@
+<time>January. 11, 2019</time>
+<loc>Shreveport, La.</loc>
+
+<fighter1>Devin Haney</fighter1>
+<fighter2>Xolisani Ndongeni</fighter2>
+<rounds>10</rounds>
+<weight>Lightweight Division</weight>
+
 <time>January. 13, 2019</time>
 <loc>Los Angeles</loc>
 
@@ -6,6 +14,56 @@
 <rounds>12</rounds>
 <weight>Super Middleweight Division</weight>
 
+<fighter1>Brandon Figueroa</fighter1>
+<fighter2>Moises Flores</fighter2>
+<rounds>12</rounds>
+<weight>Junior Featherweight Division</weight>
+
+<fighter1>Guillermo Rigondeaux</fighter1>
+<fighter2>Giovanni Delgado</fighter2>
+<rounds>10</rounds>
+<weight>Junior Featherweight Division</weight>
+
+<time>January. 18, 2019</time>
+<loc>Verona, N.Y.</loc>
+
+<fighter1>Bryant Jennings</fighter1>
+<fighter2>Oscar Rivas</fighter2>
+<rounds>12</rounds>
+<weight>Heavyweight Division</weight>
+
+<fighter1>Shakur Stevenson</fighter1>
+<fighter2>Jessie Rosales</fighter2>
+<rounds>10</rounds>
+<weight>Featherweight Division</weight>
+
+<fighter1>Jason Sosa</fighter1>
+<fighter2>Moises Delgadillo</fighter2>
+<rounds>10</rounds>
+<weight>Lightweight Division</weight>
+
+<loc>New York</loc>
+
+<fighter1>Demetrius Andrade</fighter1>
+<fighter2>Artur Akavov</fighter2>
+<rounds>12</rounds>
+<weight>Middleweight Division</weight>
+
+<fighter1>Jorge Linares</fighter1>
+<fighter2>Pablo Cesar Cano</fighter2>
+<rounds>12</rounds>
+<weight>Junior Welterweight Division</weight>
+
+<fighter1>Amanda Serrano</fighter1>
+<fighter2>Eva Voraberger</fighter2>
+<rounds>10</rounds>
+<weight>Junior Bantamweight Division</weight>
+
+<fighter1>Chris Algieri</fighter1>
+<fighter2>Danny Gonzalez</fighter2>
+<rounds>10</rounds>
+<weight>Welterweight Division</weight>
+
 <time>January. 19, 2019</time>
 <loc>Las Vegas</loc>
 
@@ -13,6 +71,21 @@
 <fighter2>Adrien Broner</fighter2>
 <rounds>12</rounds>
 <weight>Welterweight Division</weight>
+
+<fighter1>Badou Jack</fighter1>
+<fighter2>Marcus Browne</fighter2>
+<rounds>12</rounds>
+<weight>Light Heavyweight Division</weight>
+
+<fighter1>Nordine Oubaali</fighter1>
+<fighter2>Rau'shee Warren</fighter2>
+<rounds>12</rounds>
+<weight>Bantamweight Division</weight>
+
+<fighter1>Jhack Tepora</fighter1>
+<fighter2>Hugo Ruiz</fighter2>
+<rounds>12</rounds>
+<weight>Featherweight Division</weight>
 
 <time>January. 26, 2019</time>
 <loc>New York</loc>
@@ -27,13 +100,72 @@
 <rounds>10</rounds>
 <weight>Heavyweight Division</weight>
 
+<loc>Houston</loc>
+
+<fighter1>Jamie Munguia</fighter1>
+<fighter2>Takeshi Inoue</fighter2>
+<rounds>12</rounds>
+<weight>Junior Middleweight Division</weight>
+
+<fighter1>Jesus Rojas</fighter1>
+<fighter2>Xu Can</fighter2>
+<rounds>12</rounds>
+<weight>Featherweight Division</weight>
+
 <time>February. 2, 2019</time>
-<loc>Atlantic City</loc>
+<loc>Frisco, Texas</loc>
 
 <fighter1>Eleider Alvarez</fighter1>
 <fighter2>Sergey Kovalev</fighter2>
 <rounds>12</rounds>
 <weight>Light Heavyweight Division</weight>
+
+<fighter1>Teofimo Lopez</fighter1>
+<fighter2>Diego Magdaleno</fighter2>
+<rounds>10</rounds>
+<weight>Lightweight Division</weight>
+
+
+<fighter1>Oscar Valdez</fighter1>
+<fighter2>Carmine Tommasone</fighter2>
+<rounds>12</rounds>
+<weight>Featherweight Division</weight>
+
+
+<fighter1>Richard Commey</fighter1>
+<fighter2>Isa Chaniev</fighter2>
+<rounds>12</rounds>
+<weight>Lightweight Division</weight>
+
+<loc>London</loc>
+
+<fighter1>Sergio Garcia</fighter1>
+<fighter2>Ted Cheeseman</fighter2>
+<rounds>12</rounds>
+<weight>Junior Middleweight Division</weight>
+
+<fighter1>Jake Ball</fighter1>
+<fighter2>Craig Richards</fighter2>
+<rounds>10</rounds>
+<weight>Light Heavyweight Division</weight>
+
+<fighter1>Felix Cash</fighter1>
+<fighter2>Rasheed Abolaji</fighter2>
+<rounds>12</rounds>
+<weight>Middleweight Division</weight>
+
+<time>February. 9, 2019</time>
+<loc>Carson, Calif.</loc>
+
+<fighter1>Gervonta Davis</fighter1>
+<fighter2>Abner Mares</fighter2>
+<rounds>12</rounds>
+<weight>Junior Lightweight Division</weight>
+
+<fighter1>Erickson Lubin</fighter1>
+<fighter2>Ishe Smith</fighter2>
+<rounds>10</rounds>
+<weight>Junior Middleweight Division</weight>
 
 <time>February. 16, 2019</time>
 <loc>Los Angeles</loc>
@@ -49,6 +181,14 @@
 <weight>Welterweight Division</weight>
 
 <time>February. 23, 2019</time>
+
+<loc>London</loc>
+
+<fighter1>James DeGale</fighter1>
+<fighter2>Chris Eubank</fighter2>
+<rounds>12</rounds>
+<weight>Super Middleweight Division</weight>
+
 <loc>Minneapolis</loc>
 
 <fighter1>Anthony Dirrell</fighter1>
@@ -63,6 +203,11 @@
 <fighter2>Mikey Garcia</fighter2>
 <rounds>12</rounds>
 <weight>Welterweight Division</weight>
+
+<fighter1>David Benavidez</fighter1>
+<fighter2>J'Leon Love</fighter2>
+<rounds>10</rounds>
+<weight>Super Middleweight Division</weight>
 
 <time>March. 24, 2019</time>
 <loc>Oxon Hill, Md.</loc>
