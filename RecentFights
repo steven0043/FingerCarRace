@@ -1,3 +1,33 @@
+<time>January. 18, 2019</time>
+<loc>Verona, N.Y.</loc>
+
+<fighter1>Bryant Jennings</fighter1>
+<fighter2>Oscar Rivas</fighter2>
+<rounds>12</rounds>
+<weight>Heavyweight Division</weight>
+
+<fighter1>Shakur Stevenson</fighter1>
+<fighter2>Jessie Rosales</fighter2>
+<rounds>10</rounds>
+<weight>Featherweight Division</weight>
+
+<fighter1>Jason Sosa</fighter1>
+<fighter2>Moises Delgadillo</fighter2>
+<rounds>10</rounds>
+<weight>Lightweight Division</weight>
+
+<loc>New York</loc>
+
+<fighter1>Demetrius Andrade</fighter1>
+<fighter2>Artur Akavov</fighter2>
+<rounds>12</rounds>
+<weight>Middleweight Division</weight>
+
+<fighter1>Chris Algieri</fighter1>
+<fighter2>Danny Gonzalez</fighter2>
+<rounds>10</rounds>
+<weight>Welterweight Division</weight>
+
 <time>January. 13, 2019</time>
 <loc>Los Angeles</loc>
 
