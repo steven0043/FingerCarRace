@@ -177,7 +177,86 @@
 <rounds>10</rounds>
 <weight>Light Heavyweight Division</weight>
 
+<time>March. 2, 2019</time>
+<loc>New York</loc>
+
+<fighter1>Brian Castano</fighter1>
+<fighter2>Erislandy Lara</fighter2>
+<rounds>12</rounds>
+<weight>Light Middleweight Division</weight>
+
+<fighter1>Brian Castano</fighter1>
+<fighter2>Erislandy Lara</fighter2>
+<rounds>12</rounds>
+<weight>Light Middleweight Division</weight>
+
+<fighter1>Luis Ortiz</fighter1>
+<fighter2>Christian Hammer</fighter2>
+<rounds>10</rounds>
+<weight>Heavyweight Division</weight>
+
+<fighter1>Ricardo Nunez</fighter1>
+<fighter2>Edner Cherry</fighter2>
+<rounds>12</rounds>
+<weight>Junior Lightweight Division</weight>
+
+<time>March. 8, 2019</time>
+<loc>London</loc>
+
+<fighter1>Daniel Dubois</fighter1>
+<fighter2>Razvan Cojanu</fighter2>
+<rounds>10</rounds>
+<weight>Heavyweight Division</weight>
+
+<fighter1>Arely Mucino</fighter1>
+<fighter2>Nicola Adams</fighter2>
+<rounds>10</rounds>
+<weight>Flyweight Division</weight>
+
+<fighter1>Liam Williams</fighter1>
+<fighter2>Joe Mullender</fighter2>
+<rounds>12</rounds>
+<weight>Middleweight Division</weight>
+
 <time>March. 9, 2019</time>
+<loc>New York</loc>
+
+<fighter1>Shawn Porter</fighter1>
+<fighter2>Yordenis Ugas</fighter2>
+<rounds>12</rounds>
+<weight>Welterweight Division</weight>
+
+<fighter1>Edwin Rodriguez</fighter1>
+<fighter2>Andrzej Fonfara</fighter2>
+<rounds>10</rounds>
+<weight>Cruiserweight Division</weight>
+
+<loc>Verona, N.Y.</loc>
+
+<fighter1>Dmitry Bivol</fighter1>
+<fighter2>Joe Smith</fighter2>
+<rounds>12</rounds>
+<weight>Light Heavyweight Division</weight>
+
+<fighter1>Maurice Hooker</fighter1>
+<fighter2>Mikkel LesPierre</fighter2>
+<rounds>12</rounds>
+<weight>Junior Welterweight Division</weight>
+
+<time>March. 15, 2019</time>
+<loc>Philadelphia</loc>
+
+<fighter1>Tevin Farmer</fighter1>
+<fighter2>Jono Carroll</fighter2>
+<rounds>12</rounds>
+<weight>Junior Lightweight Division</weight>
+
+<fighter1>Katie Taylor</fighter1>
+<fighter2>Rose Volante</fighter2>
+<rounds>10</rounds>
+<weight>Lightweight Division</weight>
+
+<time>March. 16, 2019</time>
 <loc>Arlington, Texas</loc>
 
 <fighter1>Errol Spence</fighter1>
@@ -190,6 +269,14 @@
 <rounds>10</rounds>
 <weight>Super Middleweight Division</weight>
 
+<time>March. 23, 2019</time>
+<loc>Newcastle, England</loc>
+
+<fighter1>Lewis Ritson</fighter1>
+<fighter2>Andy Townend</fighter2>
+<rounds>12</rounds>
+<weight>Lightweight Division</weight>
+
 <time>March. 24, 2019</time>
 <loc>Oxon Hill, Md.</loc>
 
@@ -197,6 +284,37 @@
 <fighter2>Sergey Lipinets</fighter2>
 <rounds>12</rounds>
 <weight>Welterweight Division</weight>
+
+<time>March. 29, 2019</time>
+<loc>Belfast, Northern Ireland</loc>
+
+<fighter1>Luke Keeler</fighter1>
+<fighter2>Conrad Cummings</fighter2>
+<rounds>12</rounds>
+<weight>Middleweight Division</weight>
+
+<time>March. 30, 2019</time>
+<loc>Liverpool</loc>
+
+<fighter1>Liam Smith</fighter1>
+<fighter2>Sam Eggington</fighter2>
+<rounds>12</rounds>
+<weight>Junior Middleweight Division</weight>
+
+<fighter1>Anthony Fowler</fighter1>
+<fighter2>Scott Fitzgerald</fighter2>
+<rounds>10</rounds>
+<weight>Junior Middleweight Division</weight>
+
+<fighter1>Joe Hughes</fighter1>
+<fighter2>Robbie Davies</fighter2>
+<rounds>12</rounds>
+<weight>Junior Welterweight Division</weight>
+
+<fighter1>Liam Smith</fighter1>
+<fighter2>Sam Eggington</fighter2>
+<rounds>12</rounds>
+<weight>Junior Middleweight Division</weight>
 
 <time>April. 13, 2019</time>
 <loc>Minneapolis</loc>
@@ -212,4 +330,21 @@
 <fighter1>Danny Garcia</fighter1>
 <fighter2>Adrian Granados</fighter2>
 <rounds>12</rounds>
+<weight>Welterweight Division</weight
+
+<loc>New York</loc>
+
+<fighter1>Terence Crawford</fighter1>
+<fighter2>Amir Khan</fighter2>
+<rounds>12</rounds>
 <weight>Welterweight Division</weight>
+
+<time>May. 11, 2019</time>
+<loc>New York</loc>
+
+<fighter1>Jarrett Hurd</fighter1>
+<fighter2>Julian Williams</fighter2>
+<rounds>12</rounds>
+<weight>Junior Middleweight Division</weight
+
+
