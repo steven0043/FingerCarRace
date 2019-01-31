@@ -1,34 +1,4 @@
 
-<time>January. 26, 2019</time>
-<loc>New York</loc>
-
-<fighter1>Keith Thurman</fighter1>
-<fighter2>Josesito Lopez</fighter2>
-<rounds>12</rounds>
-<weight>Welterweight Division</weight>
-
-<fighter1>Adam Kownacki</fighter1>
-<fighter2>Gerald Washington</fighter2>
-<rounds>10</rounds>
-<weight>Heavyweight Division</weight>
-
-<fighter1>Tugstsogt Nyambayar</fighter1>
-<fighter2>Claudio Marrero</fighter2>
-<rounds>12</rounds>
-<weight>Featherweight Division</weight>
-
-<loc>Houston</loc>
-
-<fighter1>Jamie Munguia</fighter1>
-<fighter2>Takeshi Inoue</fighter2>
-<rounds>12</rounds>
-<weight>Junior Middleweight Division</weight>
-
-<fighter1>Jesus Rojas</fighter1>
-<fighter2>Xu Can</fighter2>
-<rounds>12</rounds>
-<weight>Featherweight Division</weight>
-
 <time>February. 2, 2019</time>
 <loc>Frisco, Texas</loc>
 
@@ -69,11 +39,16 @@
 <rounds>12</rounds>
 <weight>Middleweight Division</weight>
 
+<fighter1>Lawrence Okolie</fighter1>
+<fighter2>Shawn Miller</fighter2>
+<rounds>10</rounds>
+<weight>Cruiserweight Division</weight>
+
 <time>February. 9, 2019</time>
 <loc>Carson, Calif.</loc>
 
 <fighter1>Gervonta Davis</fighter1>
-<fighter2>Abner Mares</fighter2>
+<fighter2>Hugo Ruiz</fighter2>
 <rounds>12</rounds>
 <weight>Junior Lightweight Division</weight>
 
@@ -250,6 +225,16 @@
 <fighter2>Jono Carroll</fighter2>
 <rounds>12</rounds>
 <weight>Junior Lightweight Division</weight>
+
+<fighter1>Gabriel Rosado</fighter1>
+<fighter2>Maciej Sulecki</fighter2>
+<rounds>10</rounds>
+<weight>Middleweight Division</weight>
+
+<fighter1>Hank Lundy</fighter1>
+<fighter2>Avery Sparrow</fighter2>
+<rounds>10</rounds>
+<weight>Lightweight Division</weight>
 
 <fighter1>Katie Taylor</fighter1>
 <fighter2>Rose Volante</fighter2>
