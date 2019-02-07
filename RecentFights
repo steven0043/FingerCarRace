@@ -1,3 +1,39 @@
+
+<time>February. 2, 2019</time>
+<loc>Frisco, Texas</loc>
+
+<fighter1>Eleider Alvarez</fighter1>
+<fighter2>Sergey Kovalev</fighter2>
+<rounds>12</rounds>
+<weight>Light Heavyweight Division</weight>
+
+<fighter1>Teofimo Lopez</fighter1>
+<fighter2>Diego Magdaleno</fighter2>
+<rounds>10</rounds>
+<weight>Lightweight Division</weight>
+
+<fighter1>Oscar Valdez</fighter1>
+<fighter2>Carmine Tommasone</fighter2>
+<rounds>12</rounds>
+<weight>Featherweight Division</weight>
+
+<fighter1>Richard Commey</fighter1>
+<fighter2>Isa Chaniev</fighter2>
+<rounds>12</rounds>
+<weight>Lightweight Division</weight>
+
+<loc>London</loc>
+
+<fighter1>Sergio Garcia</fighter1>
+<fighter2>Ted Cheeseman</fighter2>
+<rounds>12</rounds>
+<weight>Junior Middleweight Division</weight>
+
+<fighter1>Jake Ball</fighter1>
+<fighter2>Craig Richards</fighter2>
+<rounds>10</rounds>
+<weight>Light Heavyweight Division</weight>
+
 <time>January. 26, 2019</time>
 <loc>New York</loc>
 
