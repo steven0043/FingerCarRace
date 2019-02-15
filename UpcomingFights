@@ -1,56 +1,3 @@
-<time>February. 9, 2019</time>
-<loc>Carson, Calif.</loc>
-
-<fighter1>Gervonta Davis</fighter1>
-<fighter2>Hugo Ruiz</fighter2>
-<rounds>12</rounds>
-<weight>Junior Lightweight Division</weight>
-
-<fighter1>Mario Barrios</fighter1>
-<fighter2>Richard Zamora</fighter2>
-<rounds>10</rounds>
-<weight>Junior Welterweight Division</weight>
-
-<fighter1>Erickson Lubin</fighter1>
-<fighter2>Ishe Smith</fighter2>
-<rounds>10</rounds>
-<weight>Junior Middleweight Division</weight>
-
-<fighter1>Javier Fortuna</fighter1>
-<fighter2>Sharif Bogere</fighter2>
-<rounds>10</rounds>
-<weight>Lightweight Division</weight>
-
-<loc>Indio, Calif.</loc>
-
-<fighter1>Alberto Machado</fighter1>
-<fighter2>Andrew Cancio</fighter2>
-<rounds>12</rounds>
-<weight>Junior Lightweight Division</weight>
-
-<fighter1>Rey Vargas</fighter1>
-<fighter2>Franklin Manzanilla</fighter2>
-<rounds>12</rounds>
-<weight>Junior Lightweight Division</weight>
-
-<fighter1>Joseph Diaz</fighter1>
-<fighter2>Charles Huerta</fighter2>
-<rounds>10</rounds>
-<weight>Junior Lightweight Division</weight>
-
-<time>February. 10, 2019</time>
-<loc>Fresno, Calif.</loc>
-
-<fighter1>Jose Ramirez</fighter1>
-<fighter2>Jose Zepeda</fighter2>
-<rounds>12</rounds>
-<weight>Junior Welterweight Division</weight>
-
-<fighter1>Raymundo Beltran</fighter1>
-<fighter2>Hiroki Okada</fighter2>
-<rounds>10</rounds>
-<weight>Junior Welterweight Division</weight>
-
 <time>February. 15, 2019</time>
 <loc>Hinckley, Minn.</loc>
 
@@ -58,6 +5,11 @@
 <fighter2>Khasan Baysangurov</fighter2>
 <rounds>12</rounds>
 <weight>Middleweight Division</weight>
+
+<fighter1>Joshua Greer</fighter1>
+<fighter2>Giovanni Escaner</fighter2>
+<rounds>10</rounds>
+<weight>Bantamweight Division</weight>
 
 <time>February. 16, 2019</time>
 <loc>Los Angeles</loc>
@@ -77,6 +29,11 @@
 <rounds>12</rounds>
 <weight>Junior Featherweight Division</weight>
 
+<fighter1>Carlos Licona</fighter1>
+<fighter2>DeeJay Kriel</fighter2>
+<rounds>12</rounds>
+<weight>Strawweight Division</weight>
+
 <time>February. 23, 2019</time>
 
 <loc>London</loc>
@@ -85,6 +42,11 @@
 <fighter2>Chris Eubank</fighter2>
 <rounds>12</rounds>
 <weight>Super Middleweight Division</weight>
+
+<fighter1>Joe Joyce</fighter1>
+<fighter2>Bermane Stiverne</fighter2>
+<rounds>12</rounds>
+<weight>Heavyweight Division</weight>
 
 <fighter1>Lee Selby</fighter1>
 <fighter2>Omar Douglas</fighter2>
@@ -111,7 +73,7 @@
 <weight>Junior Lightweight Division</weight>
 
 <fighter1>Anthony Yarde</fighter1>
-<fighter2>Mehdi Amar</fighter2>
+<fighter2>Travis Reeves</fighter2>
 <rounds>10</rounds>
 <weight>Light Heavyweight Division</weight>
 
@@ -316,4 +278,10 @@
 <rounds>12</rounds>
 <weight>Junior Middleweight Division</weight
 
+<time>June. 1, 2019</time>
+<loc>New York</loc>
 
+<fighter1>Anthony Joshua</fighter1>
+<fighter2>Jarrell Miller</fighter2>
+<rounds>12</rounds>
+<weight>Heavyweight Division</weight
