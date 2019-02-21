@@ -226,7 +226,7 @@
 <loc>Los Angeles</loc>
 
 <fighter1>Vasyl Lomachenko</fighter1>
-<fighter2>Richard Commey</fighter2>
+<fighter2>Anthony Crolla</fighter2>
 <rounds>12</rounds>
 <weight>Lightweight Division</weight>
 
@@ -244,7 +244,7 @@
 <fighter1>Danny Garcia</fighter1>
 <fighter2>Adrian Granados</fighter2>
 <rounds>12</rounds>
-<weight>Welterweight Division</weight
+<weight>Welterweight Division</weight>
 
 <loc>New York</loc>
 
@@ -259,7 +259,7 @@
 <fighter1>Saul Canelo</fighter1>
 <fighter2>Daniel Jacobs</fighter2>
 <rounds>12</rounds>
-<weight>Middleweight Division</weight
+<weight>Middleweight Division</weight>
 
 <time>May. 11, 2019</time>
 <loc>New York</loc>
@@ -267,7 +267,7 @@
 <fighter1>Jarrett Hurd</fighter1>
 <fighter2>Julian Williams</fighter2>
 <rounds>12</rounds>
-<weight>Junior Middleweight Division</weight
+<weight>Junior Middleweight Division</weight>
 
 <time>June. 1, 2019</time>
 <loc>New York</loc>
@@ -275,4 +275,4 @@
 <fighter1>Anthony Joshua</fighter1>
 <fighter2>Jarrell Miller</fighter2>
 <rounds>12</rounds>
-<weight>Heavyweight Division</weight
+<weight>Heavyweight Division</weight>
