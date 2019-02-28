@@ -1,3 +1,46 @@
+<time>February. 23, 2019</time>
+
+<loc>London</loc>
+
+<fighter1>James DeGale</fighter1>
+<fighter2>Chris Eubank</fighter2>
+<rounds>12</rounds>
+<weight>Super Middleweight Division</weight>
+
+<fighter1>Joe Joyce</fighter1>
+<fighter2>Bermane Stiverne</fighter2>
+<rounds>12</rounds>
+<weight>Heavyweight Division</weight>
+
+<fighter1>Lee Selby</fighter1>
+<fighter2>Omar Douglas</fighter2>
+<rounds>12</rounds>
+<weight>Lightweight Division</weight>
+
+<fighter1>Andre Sterling</fighter1>
+<fighter2>Ricky Summers</fighter2>
+<rounds>12</rounds>
+<weight>Light Heavyweight Division</weight>
+
+<loc>Minneapolis</loc>
+
+<fighter1>Anthony Dirrell</fighter1>
+<fighter2>Avni Yildirim</fighter2>
+<rounds>12</rounds>
+<weight>Super Middleweight Division</weight>
+
+<fighter1>Jamal James</fighter1>
+<fighter2>Janer Gonzalez</fighter2>
+<rounds>10</rounds>
+<weight>Welterweight Division</weight>
+
+<loc>Tijuana, Mexico</loc>
+
+<fighter1>Brandon Rios</fighter1>
+<fighter2>Humberto Soto</fighter2>
+<rounds>12</rounds>
+<weight>Junior Middleweight Division</weight>
+
 <time>February. 15, 2019</time>
 <loc>Hinckley, Minn.</loc>
 
