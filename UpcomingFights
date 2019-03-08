@@ -1,65 +1,25 @@
-<time>March. 2, 2019</time>
-<loc>New York</loc>
-
-<fighter1>Brian Castano</fighter1>
-<fighter2>Erislandy Lara</fighter2>
-<rounds>12</rounds>
-<weight>Light Middleweight Division</weight>
-
-<fighter1>Luis Ortiz</fighter1>
-<fighter2>Christian Hammer</fighter2>
-<rounds>10</rounds>
-<weight>Heavyweight Division</weight>
-
-<fighter1>Bryan De Gracia</fighter1>
-<fighter2>Eduardo Ramirez</fighter2>
-<rounds>12</rounds>
-<weight>Featherweight Division</weight>
-
-<loc>Peterborough, England</loc>
-
-<fighter1>Jordan Gill</fighter1>
-<fighter2>Emmanuel Dominguez</fighter2>
-<rounds>12</rounds>
-<weight>Featherweight Division</weight>
-
-<fighter1>Richard Riakporhe</fighter1>
-<fighter2>Tommy McCarthy</fighter2>
-<rounds>10</rounds>
-<weight>Cruiserweight Division</weight>
-
-<fighter1>Leigh Wood</fighter1>
-<fighter2>Abraham Osei Bonsu</fighter2>
-<rounds>12</rounds>
-<weight>Featherweight Division</weight>
-
-<fighter1>Anthony Sims</fighter1>
-<fighter2>Mateo Damian Veron</fighter2>
-<rounds>10</rounds>
-<weight>Super Middleweight Division</weight>
-
 <time>March. 8, 2019</time>
 <loc>London</loc>
-
-<fighter1>Daniel Dubois</fighter1>
-<fighter2>Razvan Cojanu</fighter2>
-<rounds>10</rounds>
-<weight>Heavyweight Division</weight>
 
 <fighter1>Anthony Yarde</fighter1>
 <fighter2>Travis Reeves</fighter2>
 <rounds>10</rounds>
 <weight>Light Heavyweight Division</weight>
 
-<fighter1>Arely Mucino</fighter1>
-<fighter2>Nicola Adams</fighter2>
+<fighter1>Daniel Dubois</fighter1>
+<fighter2>Razvan Cojanu</fighter2>
 <rounds>10</rounds>
-<weight>Flyweight Division</weight>
+<weight>Heavyweight Division</weight>
 
 <fighter1>Liam Williams</fighter1>
 <fighter2>Joe Mullender</fighter2>
 <rounds>12</rounds>
 <weight>Middleweight Division</weight>
+
+<fighter1>Johnny Garton</fighter1>
+<fighter2>Chris Jenkins</fighter2>
+<rounds>12</rounds>
+<weight>Welterweight Division</weight>
 
 <time>March. 9, 2019</time>
 <loc>New York</loc>
@@ -69,10 +29,20 @@
 <rounds>12</rounds>
 <weight>Welterweight Division</weight>
 
-<fighter1>Edwin Rodriguez</fighter1>
-<fighter2>Andrzej Fonfara</fighter2>
+<fighter1>Abel Ramos</fighter1>
+<fighter2>Francisco Santana</fighter2>
 <rounds>10</rounds>
-<weight>Cruiserweight Division</weight>
+<weight>Welterweight Division</weight>
+
+<fighter1>Efe Ajagba</fighter1>
+<fighter2>Amir Mansour</fighter2>
+<rounds>8</rounds>
+<weight>Heavyweight Division</weight>
+
+<fighter1>Robert Guerrero</fighter1>
+<fighter2>Hevinson Herrera</fighter2>
+<rounds>10</rounds>
+<weight>Welterweight Division</weight>
 
 <loc>Verona, N.Y.</loc>
 
@@ -90,6 +60,11 @@
 <fighter2>Seanie Monaghan</fighter2>
 <rounds>10</rounds>
 <weight>Light Heavyweight Division</weight>
+
+<fighter1>Sergey Kuzmin</fighter1>
+<fighter2>Joey Dawejko</fighter2>
+<rounds>10</rounds>
+<weight>Heavyweight Division</weight>
 
 <time>March. 15, 2019</time>
 <loc>Philadelphia</loc>
