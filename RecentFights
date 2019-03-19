@@ -1,3 +1,45 @@
+
+<time>March. 16, 2019</time>
+<loc>Arlington, Texas</loc>
+
+<fighter1>Errol Spence</fighter1>
+<fighter2>Mikey Garcia</fighter2>
+<rounds>12</rounds>
+<weight>Welterweight Division</weight>
+
+<fighter1>David Benavidez</fighter1>
+<fighter2>J'Leon Love</fighter2>
+<rounds>10</rounds>
+<weight>Super Middleweight Division</weight>
+
+<fighter1>Luis Nery</fighter1>
+<fighter2>McJoe Arroyo</fighter2>
+<rounds>10</rounds>
+<weight>Bantamweight Division</weight>
+
+<fighter1>Chris Arreola</fighter1>
+<fighter2>Jean Pierre Augustin</fighter2>
+<rounds>10</rounds>
+<weight>Heavyweight Division</weight>
+
+<fighter1>Charles Martin</fighter1>
+<fighter2>Gregory Corbin</fighter2>
+<rounds>10</rounds>
+<weight>Heavyweight Division</weight>
+
+<time>March. 17, 2019</time>
+<loc>New York</loc>
+
+<fighter1>Michael Conlan</fighter1>
+<fighter2>Ruben Garcia Hernandez</fighter2>
+<rounds>10</rounds>
+<weight>Featherweight Division</weight>
+
+<fighter1>Luis Collazo</fighter1>
+<fighter2>Samuel Vargas</fighter2>
+<rounds>10</rounds>
+<weight>Welterweight Division</weight>
+
 <time>March. 15, 2019</time>
 <loc>Philadelphia</loc>
 
