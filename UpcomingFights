@@ -1,45 +1,3 @@
-
-<time>March. 16, 2019</time>
-<loc>Arlington, Texas</loc>
-
-<fighter1>Errol Spence</fighter1>
-<fighter2>Mikey Garcia</fighter2>
-<rounds>12</rounds>
-<weight>Welterweight Division</weight>
-
-<fighter1>David Benavidez</fighter1>
-<fighter2>J'Leon Love</fighter2>
-<rounds>10</rounds>
-<weight>Super Middleweight Division</weight>
-
-<fighter1>Luis Nery</fighter1>
-<fighter2>McJoe Arroyo</fighter2>
-<rounds>10</rounds>
-<weight>Bantamweight Division</weight>
-
-<fighter1>Chris Arreola</fighter1>
-<fighter2>Jean Pierre Augustin</fighter2>
-<rounds>10</rounds>
-<weight>Heavyweight Division</weight>
-
-<fighter1>Charles Martin</fighter1>
-<fighter2>Gregory Corbin</fighter2>
-<rounds>10</rounds>
-<weight>Heavyweight Division</weight>
-
-<time>March. 17, 2019</time>
-<loc>New York</loc>
-
-<fighter1>Michael Conlan</fighter1>
-<fighter2>Ruben Garcia Hernandez</fighter2>
-<rounds>10</rounds>
-<weight>Featherweight Division</weight>
-
-<fighter1>Luis Collazo</fighter1>
-<fighter2>Samuel Vargas</fighter2>
-<rounds>10</rounds>
-<weight>Welterweight Division</weight>
-
 <time>March. 23, 2019</time>
 <loc>London, England</loc>
 
@@ -59,9 +17,33 @@
 <weight>Cruiserweight Division</weight>
 
 <fighter1>Lewis Ritson</fighter1>
-<fighter2>Andy Townend</fighter2>
+<fighter2>German Benitez</fighter2>
+<rounds>10</rounds>
+<weight>Junior Welterweight Division</weight>
+
+<loc>Leicester, England</loc>
+
+<fighter1>Sam Bowen</fighter1>
+<fighter2>Jordan McCorry</fighter2>
 <rounds>12</rounds>
 <weight>Lightweight Division</weight>
+
+<fighter1>Nathan Gorman</fighter1>
+<fighter2>Fabio Maldonado</fighter2>
+<rounds>12</rounds>
+<weight>Heavyweight Division</weight>
+
+<loc>Costa Mesa, Calif.</loc>
+
+<fighter1>Kubrat Pulev</fighter1>
+<fighter2>Bogdan Dinu</fighter2>
+<rounds>10</rounds>
+<weight>Heavyweight Division</weight>
+
+<fighter1>Jessie Magdaleno</fighter1>
+<fighter2>Rico Ramos</fighter2>
+<rounds>10</rounds>
+<weight>Featherweight Division</weight>
 
 <time>March. 24, 2019</time>
 <loc>Oxon Hill, Md.</loc>
@@ -70,6 +52,11 @@
 <fighter2>Sergey Lipinets</fighter2>
 <rounds>12</rounds>
 <weight>Welterweight Division</weight>
+
+<fighter1>Anthony Peterson</fighter1>
+<fighter2>Argenis Mendez</fighter2>
+<rounds>10</rounds>
+<weight>Junior Welterweight Division</weight>
 
 <time>March. 29, 2019</time>
 <loc>Belfast, Northern Ireland</loc>
@@ -97,6 +84,40 @@
 <rounds>12</rounds>
 <weight>Junior Welterweight Division</weight>
 
+<fighter1>David Price</fighter1>
+<fighter2>Kash Ali</fighter2>
+<rounds>10</rounds>
+<weight>Heavyweight Division</weight>
+
+<fighter1>Philip Bowes</fighter1>
+<fighter2>Tom Farrell</fighter2>
+<rounds>12</rounds>
+<weight>Junior Welterweight Division</weight>
+
+<loc>Philadelphia</loc>
+
+<fighter1>Oleksandr Gvozdyk</fighter1>
+<fighter2>Doudou Ngumbu</fighter2>
+<rounds>12</rounds>
+<weight>Light Heavyweight Division</weight>
+
+<fighter1>Egidijus Kavaliauskas</fighter1>
+<fighter2>Ray Robinson</fighter2>
+<rounds>10</rounds>
+<weight>Welterweight Division</weight>
+
+<loc>Indio, Calif.</loc>
+
+<fighter1>Ryan Garcia</fighter1>
+<fighter2>Jose Lopez</fighter2>
+<rounds>10</rounds>
+<weight>Lightweight Division</weight>
+
+<fighter1>Angel Acosta</fighter1>
+<fighter2>Ganigan Lopez</fighter2>
+<rounds>12</rounds>
+<weight>Junior Flyweight Division</weight>
+
 <time>April. 12, 2019</time>
 <loc>Los Angeles</loc>
 
@@ -104,6 +125,11 @@
 <fighter2>Anthony Crolla</fighter2>
 <rounds>12</rounds>
 <weight>Lightweight Division</weight>
+
+<fighter1>Gilberto Ramirez</fighter1>
+<fighter2>Tommy Karpency</fighter2>
+<rounds>10</rounds>
+<weight>Light Heavyweight Division</weight>
 
 <time>April. 13, 2019</time>
 <loc>Minneapolis</loc>
@@ -113,13 +139,26 @@
 <rounds>12</rounds>
 <weight>Super Middleweight Division</weight>
 
-<time>April. 20, 2019</time>
-<loc>New York</loc>
-
-<fighter1>Danny Garcia</fighter1>
-<fighter2>Adrian Granados</fighter2>
+<fighter1>Sergiy Derevyanchenko</fighter1>
+<fighter2>Jack Culcay</fighter2>
 <rounds>12</rounds>
-<weight>Welterweight Division</weight>
+<weight>Middleweight Division</weight>
+
+<loc>Atlantic City, N.J.</loc>
+
+<fighter1>Claressa Shields</fighter1>
+<fighter2>Christina Hammer</fighter2>
+<rounds>10</rounds>
+<weight>Middleweight Division</weight>
+
+<loc>Monterrey, Mexico</loc>
+
+<fighter1>Jaime Munguia</fighter1>
+<fighter2>Dennis Hogan</fighter2>
+<rounds>12</rounds>
+<weight>Junior Middleweight Division</weight>
+
+<time>April. 20, 2019</time>
 
 <loc>New York</loc>
 
@@ -128,13 +167,113 @@
 <rounds>12</rounds>
 <weight>Welterweight Division</weight>
 
+<fighter1>Shakur Stevenson</fighter1>
+<fighter2>Christopher Diaz</fighter2>
+<rounds>10</rounds>
+<weight>Featherweight Division</weight>
+
+<fighter1>Teofimo Lopez</fighter1>
+<fighter2>Edis Tatli</fighter2>
+<rounds>10</rounds>
+<weight>Lightweight Division</weight>
+
+<fighter1>Felix Verdejo</fighter1>
+<fighter2>Bryan Vasquez</fighter2>
+<rounds>10</rounds>
+<weight>Lightweight Division</weight>
+
+<loc>New York</loc>
+
+<fighter1>Danny Garcia</fighter1>
+<fighter2>Adrian Granados</fighter2>
+<rounds>12</rounds>
+<weight>Welterweight Division</weight>
+
+<fighter1>Andy Ruiz</fighter1>
+<fighter2>Alexander Dimitrenko</fighter2>
+<rounds>10</rounds>
+<weight>Heavyweight Division</weight>
+
+<fighter1>Brandon Figueroa</fighter1>
+<fighter2>Yonfrez Parejo</fighter2>
+<rounds>12</rounds>
+<weight>Junior Featherweight Division</weight>
+
+<loc>London</loc>
+
+<fighter1>Dave Allen</fighter1>
+<fighter2>Lucas Browne</fighter2>
+<rounds>12</rounds>
+<weight>Heavyweight Division</weight>
+
+<fighter1>Dereck Chisora</fighter1>
+<fighter2>Senad Gashi</fighter2>
+<rounds>12</rounds>
+<weight>Heavyweight Division</weight>
+
+<fighter1>Joe Cordina</fighter1>
+<fighter2>Andy Townend</fighter2>
+<rounds>12</rounds>
+<weight>Lightweight Division</weight>
+
+<fighter1>Josh Kelly</fighter1>
+<fighter2>Przemyslaw Runowski</fighter2>
+<rounds>10</rounds>
+<weight>Welterweight Division</weight>
+
+<time>April. 26, 2019</time>
+
+<loc>Inglewood, Calif.</loc>
+
+<fighter1>Srisaket Sor Rungvisai</fighter1>
+<fighter2>Juan Estrada</fighter2>
+<rounds>12</rounds>
+<weight>Junior Bantamweight Division</weight>
+
+<fighter1>Daniel Roman</fighter1>
+<fighter2>TJ Doheny</fighter2>
+<rounds>12</rounds>
+<weight>Junior Featherweight Division</weight>
+
+<fighter1>Jessie Vargas</fighter1>
+<fighter2>Humberto Soto</fighter2>
+<rounds>10</rounds>
+<weight>Junior Middleweight Division</weight>
+
+<time>April. 27, 2019</time>
+
+<loc>Lafayette, La.</loc>
+
+<fighter1>Kiryl Relikh</fighter1>
+<fighter2>Regis Prograis</fighter2>
+<rounds>12</rounds>
+<weight>Junior Welterweight Division</weight>
+
+<fighter1>Zolani Tete</fighter1>
+<fighter2>Nonito Donaire</fighter2>
+<rounds>12</rounds>
+<weight>Bantamweight Division</weight>
+
 <time>May. 4, 2019</time>
+
 <loc>Las Vegas</loc>
 
 <fighter1>Saul Canelo</fighter1>
 <fighter2>Daniel Jacobs</fighter2>
 <rounds>12</rounds>
 <weight>Middleweight Division</weight>
+
+<loc>Stockton, Calif.</loc>
+
+<fighter1>Artur Beterbiev</fighter1>
+<fighter2>Radivoje Kalajdzic</fighter2>
+<rounds>12</rounds>
+<weight>Light Heavyweight Division</weight>
+
+<fighter1>Jerwin Ancajas</fighter1>
+<fighter2>Ryuichi Funai</fighter2>
+<rounds>12</rounds>
+<weight>Junior Bantamweight Division</weight>
 
 <time>May. 11, 2019</time>
 <loc>New York</loc>
@@ -144,6 +283,19 @@
 <rounds>12</rounds>
 <weight>Junior Middleweight Division</weight>
 
+<time>May. 18, 2019</time>
+<loc>Glasgow, Scotland</loc>
+
+<fighter1>Josh Taylor</fighter1>
+<fighter2>Ivan Baranchyk</fighter2>
+<rounds>12</rounds>
+<weight>Junior Welterweight Division</weight>
+
+<fighter1>Emmanuel Rodriguez</fighter1>
+<fighter2>Naoya Inoue</fighter2>
+<rounds>12</rounds>
+<weight>Bantamweight Division</weight>
+
 <time>June. 1, 2019</time>
 <loc>New York</loc>
 
@@ -151,3 +303,17 @@
 <fighter2>Jarrell Miller</fighter2>
 <rounds>12</rounds>
 <weight>Heavyweight Division</weight>
+
+<time>June. 15, 2019</time>
+<loc>Riga, Latvia</loc>
+
+<fighter1>Mairis Briedis</fighter1>
+<fighter2>Krzysztof Glowacki</fighter2>
+<rounds>12</rounds>
+<weight>Cruiserweight Division</weight>
+
+<fighter1>Yunier Dorticos</fighter1>
+<fighter2>Andrew Tabiti</fighter2>
+<rounds>12</rounds>
+<weight>Cruiserweight Division</weight>
+
