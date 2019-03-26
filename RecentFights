@@ -1,3 +1,37 @@
+<time>March. 23, 2019</time>
+<loc>London, England</loc>
+
+<fighter1>Charlie Edwards</fighter1>
+<fighter2>Angel Moreno</fighter2>
+<rounds>12</rounds>
+<weight>Flyweight Division</weight>
+
+<loc>Leicester, England</loc>
+
+<fighter1>Sam Bowen</fighter1>
+<fighter2>Jordan McCorry</fighter2>
+<rounds>12</rounds>
+<weight>Lightweight Division</weight>
+
+<fighter1>Nathan Gorman</fighter1>
+<fighter2>Fabio Maldonado</fighter2>
+<rounds>12</rounds>
+<weight>Heavyweight Division</weight>
+
+<loc>Costa Mesa, Calif.</loc>
+
+<fighter1>Kubrat Pulev</fighter1>
+<fighter2>Bogdan Dinu</fighter2>
+<rounds>10</rounds>
+<weight>Heavyweight Division</weight>
+
+<time>March. 24, 2019</time>
+<loc>Oxon Hill, Md.</loc>
+
+<fighter1>Lamont Peterson</fighter1>
+<fighter2>Sergey Lipinets</fighter2>
+<rounds>12</rounds>
+<weight>Welterweight Division</weight>
 
 <time>March. 16, 2019</time>
 <loc>Arlington, Texas</loc>
