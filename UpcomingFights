@@ -1,63 +1,41 @@
-<time>Marh. 29, 2019</time>
-<loc>Belfast, Northrn Ireland</loc>
+<time>April. 5, 2019</time>
+<loc>Dubai, United Arab Emirates</loc>
 
-time>March. 30, 2019</time>
-<loc>Liverpool</loc>
-
-<fighter1>Liam Smith</fighter1>
-<fighter2>Sam Eggington</fighter2>
+<fighter1>Aliu Bamidele Lasisi</fighter1>
+<fighter2>Ricardo Blandon</fighter2>
 <rounds>12</rounds>
-<weight>Junior Middleweight Division</weight>
+<weight>Junior Bantamweight Division</weight>
 
-<fighter1>Anthony Fowler</fighter1>
-<fighter2>Scott Fitzgerald</fighter2>
-<rounds>10</rounds>
-<weight>Junior Middleweight Division</weight>
-
-<fighter1>David Price</fighter1>
-<fighter2>Kash Ali</fighter2>
-<rounds>10</rounds>
-<weight>Heavyweight Division</weight>
-
-<fighter1>Joe Hughes</fighter1>
-<fighter2>Robbie Davies</fighter2>
-<rounds>12</rounds>
-<weight>Junior Welterweight Division</weight>
-
-<fighter1>Philip Bowes</fighter1>
-<fighter2>Tom Farrell</fighter2>
-<rounds>12</rounds>
-<weight>Junior Welterweight Division</weight>
-
-<loc>Philadelphia</loc>
-
-<fighter1>Oleksandr Gvozdyk</fighter1>
-<fighter2>Doudou Ngumbu</fighter2>
-<rounds>12</rounds>
-<weight>Light Heavyweight Division</weight>
-
-<fighter1>Egidijus Kavaliauskas</fighter1>
-<fighter2>Ray Robinson</fighter2>
-<rounds>10</rounds>
-<weight>Welterweight Division</weight>
-
-<loc>Indio, Calif.</loc>
-
-<fighter1>Ryan Garcia</fighter1>
-<fighter2>Jose Lopez</fighter2>
-<rounds>10</rounds>
+<fighter1>Majid Al-Naqbi</fighter1>
+<fighter2>Vladimir Lytkin</fighter2>
+<rounds>4</rounds>
 <weight>Lightweight Division</weight>
 
-<fighter1>Angel Acosta</fighter1>
-<fighter2>Ganigan Lopez</fighter2>
-<rounds>12</rounds>
-<weight>Junior Flyweight Division</weight>
+<fighter1>Davey Oliver Joyce</fighter1>
+<fighter2>Stephen Tiffney</fighter2>
+<rounds>10</rounds>
+<weight>Featherweight Division</weight>
 
-<loc>Bilbao, Spain</loc>
+<loc>Las Vegas</loc>
 
-<fighter1>Kerman Lejarraga</fighter1>
-<fighter2>David Avanesyan</fighter2>
-<rounds>12</rounds>
+<fighter1>Angelo Leo</fighter1>
+<fighter2>Neil Tabano</fighter2>
+<rounds>10</rounds>
+<weight>Junior Featherweight Division</weight>
+
+<fighter1>Xavier Martinez</fighter1>
+<fighter2>John Moralde</fighter2>
+<rounds>10</rounds>
+<weight>Junior Lightweight Division</weight>
+
+<fighter1>Andres Cortes</fighter1>
+<fighter2>Jahmal Dyer</fighter2>
+<rounds>8</rounds>
+<weight>Junior Lightweight Division</weight>
+
+<fighter1>Cameron Krael</fighter1>
+<fighter2>Angel Hernandez</fighter2>
+<rounds>10</rounds>
 <weight>Welterweight Division</weight>
 
 <time>April. 12, 2019</time>
