@@ -11,6 +11,11 @@
 <rounds>10</rounds>
 <weight>Light Heavyweight Division</weight>
 
+<fighter1>Mike Alvarado</fighter1>
+<fighter2>Arnold Barboza</fighter2>
+<rounds>10</rounds>
+<weight>Welterweight Division</weight>
+
 <time>April. 13, 2019</time>
 <loc>Minneapolis</loc>
 
@@ -24,6 +29,11 @@
 <rounds>12</rounds>
 <weight>Middleweight Division</weight>
 
+<fighter1>Chris Colbert</fighter1>
+<fighter2>Mario Briones</fighter2>
+<rounds>10</rounds>
+<weight>Junior Lightweight Division</weight>
+
 <loc>Atlantic City, N.J.</loc>
 
 <fighter1>Claressa Shields</fighter1>
@@ -31,12 +41,27 @@
 <rounds>10</rounds>
 <weight>Middleweight Division</weight>
 
+<fighter1>Jermaine Franklin</fighter1>
+<fighter2>Rydell Booker</fighter2>
+<rounds>10</rounds>
+<weight>Heavyweight Division</weight>
+
+<fighter1>Elena Gradinar</fighter1>
+<fighter2>Brenda Carabajal</fighter2>
+<rounds>10</rounds>
+<weight>Featherweight Division</weight>
+
 <loc>Monterrey, Mexico</loc>
 
 <fighter1>Jaime Munguia</fighter1>
 <fighter2>Dennis Hogan</fighter2>
 <rounds>12</rounds>
 <weight>Junior Middleweight Division</weight>
+
+<fighter1>Diego De La Hoya</fighter1>
+<fighter2>Enrique Bernache</fighter2>
+<rounds>10</rounds>
+<weight>Featherweight Division</weight>
 
 <time>April. 20, 2019</time>
 
