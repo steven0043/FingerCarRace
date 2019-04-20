@@ -1,5 +1,45 @@
 
 <time>April. 20, 2019</time>
+
+<loc>New York</loc>
+
+<fighter1>Terence Crawford</fighter1>
+<fighter2>Amir Khan</fighter2>
+<rounds>12</rounds>
+<weight>Welterweight Division</weight>
+
+<fighter1>Shakur Stevenson</fighter1>
+<fighter2>Christopher Diaz</fighter2>
+<rounds>10</rounds>
+<weight>Featherweight Division</weight>
+
+<fighter1>Teofimo Lopez</fighter1>
+<fighter2>Edis Tatli</fighter2>
+<rounds>10</rounds>
+<weight>Lightweight Division</weight>
+
+<fighter1>Felix Verdejo</fighter1>
+<fighter2>Bryan Vasquez</fighter2>
+<rounds>10</rounds>
+<weight>Lightweight Division</weight>
+
+<loc>New York</loc>
+
+<fighter1>Danny Garcia</fighter1>
+<fighter2>Adrian Granados</fighter2>
+<rounds>12</rounds>
+<weight>Welterweight Division</weight>
+
+<fighter1>Andy Ruiz</fighter1>
+<fighter2>Alexander Dimitrenko</fighter2>
+<rounds>10</rounds>
+<weight>Heavyweight Division</weight>
+
+<fighter1>Brandon Figueroa</fighter1>
+<fighter2>Yonfrez Parejo</fighter2>
+<rounds>12</rounds>
+<weight>Junior Featherweight Division</weight>
+
 <loc>London</loc>
 
 <fighter1>Dave Allen</fighter1>
@@ -21,6 +61,7 @@
 <fighter2>Przemyslaw Runowski</fighter2>
 <rounds>10</rounds>
 <weight>Welterweight Division</weight>
+
 
 <time>April. 26, 2019</time>
 
