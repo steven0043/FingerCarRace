@@ -1,61 +1,20 @@
-<time>May. 4, 2019</time>
-
-<loc>Las Vegas</loc>
-
-<fighter1>Saul Canelo</fighter1>
-<fighter2>Daniel Jacobs</fighter2>
-<rounds>12</rounds>
-<weight>Middleweight Division</weight>
-
-<fighter1>John Ryder</fighter1>
-<fighter2>Bilal Akkawy</fighter2>
-<rounds>12</rounds>
-<weight>Super Middleweight Division</weight>
-
-<fighter1>Vergil Ortiz</fighter1>
-<fighter2>Mauricio Herrera</fighter2>
-<rounds>10</rounds>
-<weight>Welterweight Division</weight>
-
-<fighter1>Joseph Diaz</fighter1>
-<fighter2>Freddy Fonseca</fighter2>
-<rounds>10</rounds>
-<weight>Junior Lightweight Division</weight>
-
-<fighter1>Sadam Ali</fighter1>
-<fighter2>Anthony Young</fighter2>
-<rounds>10</rounds>
-<weight>Welterweight Division</weight>
-
-<fighter1>Lamont Roach</fighter1>
-<fighter2>Jonathan Oquendo</fighter2>
-<rounds>10</rounds>
-<weight>Junior Lightweight Division</weight>
-
-<loc>Stockton, Calif.</loc>
-
-<fighter1>Artur Beterbiev</fighter1>
-<fighter2>Radivoje Kalajdzic</fighter2>
-<rounds>12</rounds>
-<weight>Light Heavyweight Division</weight>
-
-<fighter1>Jerwin Ancajas</fighter1>
-<fighter2>Ryuichi Funai</fighter2>
-<rounds>12</rounds>
-<weight>Junior Bantamweight Division</weight>
-
 <time>May. 10, 2019</time>
 <loc>Nottingham, England</loc>
-
-<fighter1>Jordan Gill</fighter1>
-<fighter2>Enrique Tinoco</fighter2>
-<rounds>12</rounds>
-<weight>Featherweight Division</weight>
 
 <fighter1>Leigh Wood</fighter1>
 <fighter2>Ryan Doyle</fighter2>
 <rounds>12</rounds>
 <weight>Featherweight Division</weight>
+
+<fighter1>Jordan Gill</fighter1>
+<fighter2>Enrique Tinoco</fighter2>
+<rounds>10</rounds>
+<weight>Featherweight Division</weight>
+
+<fighter1>Chris Billiam Smith</fighter1>
+<fighter2>Yassine Habachi</fighter2>
+<rounds>6</rounds>
+<weight>Cruiserweight Division</weight>
 
 <time>May. 11, 2019</time>
 <loc>New York</loc>
@@ -114,6 +73,11 @@
 <rounds>12</rounds>
 <weight>Featherweight Division</weight>
 
+<fighter1>Juan Heraldez</fighter1>
+<fighter2>Argenis Mendez</fighter2>
+<rounds>10</rounds>
+<weight>Junior Welterweight Division</weight>
+
 <loc>Glasgow, Scotland</loc>
 
 <fighter1>Josh Taylor</fighter1>
@@ -133,7 +97,36 @@
 <rounds>12</rounds>
 <weight>Super Middleweight Division</weight>
 
+<fighter1>Joe Joyce</fighter1>
+<fighter2>Alexander Ustinov</fighter2>
+<rounds>10</rounds>
+<weight>Heavyweight Division</weight>
+
+<fighter1>Brad Foster</fighter1>
+<fighter2>Ashley Lane</fighter2>
+<rounds>12</rounds>
+<weight>Junior Featherweight Division</weight>
+
 <time>May. 25, 2019</time>
+
+<loc>Kissimmee, Fla.</loc>
+
+<fighter1>Masayuki Ito</fighter1>
+<fighter2>Jamel Herring</fighter2>
+<rounds>12</rounds>
+<weight>Junior Lightweight Division</weight>
+
+<fighter1>Jose Pedraza</fighter1>
+<fighter2>Antonio Lozada</fighter2>
+<rounds>10</rounds>
+<weight>Lightweight Division</weight>
+
+<loc>Biloxi, Miss.</loc>
+
+<fighter1>Austin Trout</fighter1>
+<fighter2>Terrell Gausha</fighter2>
+<rounds>10</rounds>
+<weight>Junior Middleweight Division</weight>
 
 <loc>Oxon Hill, Md.</loc>
 
@@ -170,6 +163,23 @@
 <rounds>10</rounds>
 <weight>Lightweight Division</weight>
 
+<fighter1>Chris Algieri</fighter1>
+<fighter2>Tommy Coyle</fighter2>
+<rounds>10</rounds>
+<weight>Junior Welterweight Division</weight>
+
+<loc>San Jacinto, Calif.</loc>
+
+<fighter1>Devon Alexander</fighter1>
+<fighter2>Ivan Redkach</fighter2>
+<rounds>10</rounds>
+<weight>Welterweight Division</weight>
+
+<fighter1>Hugo Centeno</fighter1>
+<fighter2>Willie Monroe</fighter2>
+<rounds>10</rounds>
+<weight>Middleweight Division</weight>
+
 <time>June. 8, 2019</time>
 <loc>New York</loc>
 
@@ -177,6 +187,23 @@
 <fighter2>Steve Rolls</fighter2>
 <rounds>12</rounds>
 <weight>Middleweight Division</weight>
+
+<fighter1>Charles Conwell</fighter1>
+<fighter2>Skender Halili</fighter2>
+<rounds>10</rounds>
+<weight>Junior Middleweight Division</weight>
+
+<loc>Reno, Nev.</loc>
+
+<fighter1>Oscar Valdez</fighter1>
+<fighter2>Erick Ituarte</fighter2>
+<rounds>12</rounds>
+<weight>Featherweight Division</weight>
+
+<fighter1>Oscar Valdez</fighter1>
+<fighter2>Erick Ituarte</fighter2>
+<rounds>12</rounds>
+<weight>Featherweight Division</weight>
 
 <time>June. 15, 2019</time>
 
@@ -186,6 +213,18 @@
 <fighter2>Tom Schwarz</fighter2>
 <rounds>12</rounds>
 <weight>Heavyweight Division</weight>
+
+<loc>Leeds, England</loc>
+
+<fighter1>Josh Warrington</fighter1>
+<fighter2>Kid Galahad</fighter2>
+<rounds>12</rounds>
+<weight>Featherweight Division</weight>
+
+<fighter1>Jason Welborn</fighter1>
+<fighter2>JJ Metcalf</fighter2>
+<rounds>12</rounds>
+<weight>Junior Middleweight Division</weight>
 
 <loc>Riga, Latvia</loc>
 
@@ -199,12 +238,42 @@
 <rounds>12</rounds>
 <weight>Cruiserweight Division</weight>
 
+<time>June. 23, 2019</time>
+
+<loc>Las Vegas</loc>
+
+<fighter1>Tony Harrison</fighter1>
+<fighter2>Jermell Charlo</fighter2>
+<rounds>12</rounds>
+<weight>Junior Middleweight Division</weight>
+
+<fighter1>Guillermo Rigondeaux</fighter1>
+<fighter2>Julio Ceja</fighter2>
+<rounds>12</rounds>
+<weight>Junior Featherweight Division</weight>
+
+<time>June. 28, 2019</time>
+
+<loc>Temecula, Calif.</loc>
+
+<fighter1>Richard Commey</fighter1>
+<fighter2>Ray Beltran</fighter2>
+<rounds>12</rounds>
+<weight>Lightweight Division</weight>
+
 <time>June. 29, 2019</time>
 
 <loc>Houston</loc>
 
 <fighter1>Jarmall Charlo</fighter1>
 <fighter2>Brandon Adams</fighter2>
+<rounds>12</rounds>
+<weight>Middleweight Division</weight>
+
+<loc>Houston</loc>
+
+<fighter1>Demetrius Andrade</fighter1>
+<fighter2>Maciej Sulecki</fighter2>
 <rounds>12</rounds>
 <weight>Middleweight Division</weight>
 
@@ -216,6 +285,15 @@
 <fighter2>Ryoya Murata</fighter2>
 <rounds>12</rounds>
 <weight>Middleweight Division</weight>
+
+<time>July. 13, 2019</time>
+
+<loc>London</loc>
+
+<fighter1>Daniel Dubois</fighter1>
+<fighter2>Nathan Gorman</fighter2>
+<rounds>12</rounds>
+<weight>Heavyweight Division</weight>
 
 <time>July. 20, 2019</time>
 
