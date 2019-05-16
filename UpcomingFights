@@ -1,34 +1,3 @@
-
-<time>May. 11, 2019</time>
-<loc>New York</loc>
-
-<fighter1>Jarrett Hurd</fighter1>
-<fighter2>Julian Williams</fighter2>
-<rounds>12</rounds>
-<weight>Junior Middleweight Division</weight>
-
-<fighter1>Mario Barrios</fighter1>
-<fighter2>Juan Velasco</fighter2>
-<rounds>10</rounds>
-<weight>Junior Welterweight Division</weight>
-
-<fighter1>Matt Korobov</fighter1>
-<fighter2>Immanuwel Aleem</fighter2>
-<rounds>10</rounds>
-<weight>Middleweight Division</weight>
-
-<loc>Tucson, Ariz.</loc>
-
-<fighter1>Miguel Berchelt</fighter1>
-<fighter2>Francisco Vargas</fighter2>
-<rounds>12</rounds>
-<weight>Junior Lightweight Division</weight>
-
-<fighter1>Emanuel Navarrete</fighter1>
-<fighter2>Isaac Dogboe</fighter2>
-<rounds>12</rounds>
-<weight>Junior Featherweight Division</weight>
-
 <time>May. 17, 2019</time>
 <loc>Belfast, Northern Ireland</loc>
 
@@ -72,6 +41,11 @@
 <fighter2>Naoya Inoue</fighter2>
 <rounds>12</rounds>
 <weight>Bantamweight Division</weight>
+
+<fighter1>Zach Parker</fighter1>
+<fighter2>Steven Crambert</fighter2>
+<rounds>8</rounds>
+<weight>Super Middleweight Division</weight>
 
 <loc>Stevenage, England</loc>
 
@@ -197,6 +171,11 @@
 <rounds>12</rounds>
 <weight>Heavyweight Division</weight>
 
+<fighter1>Sullivan Barrera</fighter1>
+<fighter2>Jesse Hart</fighter2>
+<rounds>10</rounds>
+<weight>Light Heavyweight Division</weight>
+
 <loc>Leeds, England</loc>
 
 <fighter1>Josh Warrington</fighter1>
@@ -253,6 +232,16 @@
 <rounds>12</rounds>
 <weight>Middleweight Division</weight>
 
+<fighter1>Erickson Lubin</fighter1>
+<fighter2>Zakaria Attou</fighter2>
+<rounds>12</rounds>
+<weight>Junior Middleweight Division</weight>
+
+<fighter1>Eduardo Ramirez</fighter1>
+<fighter2>Claudio Marrero</fighter2>
+<rounds>12</rounds>
+<weight>Featherweight Division</weight>
+
 <loc>Houston</loc>
 
 <fighter1>Demetrius Andrade</fighter1>
@@ -291,3 +280,20 @@
 <fighter2>David Price</fighter2>
 <rounds>10</rounds>
 <weight>Heavyweight Division</weight>
+
+<fighter1>Richard Riakporhe</fighter1>
+<fighter2>Chris Billam Smith</fighter2>
+<rounds>10</rounds>
+<weight>Cruiserweight Division</weight>
+
+<loc>Las Vegas</loc>
+
+<fighter1>Keith Thurman</fighter1>
+<fighter2>Manny Pacquiao</fighter2>
+<rounds>12</rounds>
+<weight>Welterweight Division</weight>
+
+<fighter1>Caleb Plant</fighter1>
+<fighter2>Mike Lee</fighter2>
+<rounds>12</rounds>
+<weight>Super Middleweight Division</weight>
