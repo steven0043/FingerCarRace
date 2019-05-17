@@ -1,34 +1,5 @@
-<time>May. 17, 2019</time>
-<loc>Belfast, Northern Ireland</loc>
-
-<fighter1>Ryan Burnett</fighter1>
-<fighter2>Jelbirt Gomera</fighter2>
-<rounds>12</rounds>
-<weight>Junior Featherweight Division</weight>
-
-<fighter1>Marco McCullough</fighter1>
-<fighter2>Declan Geraghty</fighter2>
-<rounds>12</rounds>
-<weight>Junior Lightweight Division</weight>
 
 <time>May. 18, 2019</time>
-
-<loc>New York</loc>
-
-<fighter1>Deontay Wilder</fighter1>
-<fighter2>Dominic Breazeale</fighter2>
-<rounds>12</rounds>
-<weight>Heavyweight Division</weight>
-
-<fighter1>Gary Russell</fighter1>
-<fighter2>Kiko Martinez</fighter2>
-<rounds>12</rounds>
-<weight>Featherweight Division</weight>
-
-<fighter1>Juan Heraldez</fighter1>
-<fighter2>Argenis Mendez</fighter2>
-<rounds>10</rounds>
-<weight>Junior Welterweight Division</weight>
 
 <loc>Glasgow, Scotland</loc>
 
@@ -46,6 +17,23 @@
 <fighter2>Steven Crambert</fighter2>
 <rounds>8</rounds>
 <weight>Super Middleweight Division</weight>
+
+<loc>New York</loc>
+
+<fighter1>Deontay Wilder</fighter1>
+<fighter2>Dominic Breazeale</fighter2>
+<rounds>12</rounds>
+<weight>Heavyweight Division</weight>
+
+<fighter1>Gary Russell</fighter1>
+<fighter2>Kiko Martinez</fighter2>
+<rounds>12</rounds>
+<weight>Featherweight Division</weight>
+
+<fighter1>Juan Heraldez</fighter1>
+<fighter2>Argenis Mendez</fighter2>
+<rounds>10</rounds>
+<weight>Junior Welterweight Division</weight>
 
 <loc>Stevenage, England</loc>
 
