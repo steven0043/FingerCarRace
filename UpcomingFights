@@ -1,58 +1,11 @@
-
-<time>May. 18, 2019</time>
-
-<loc>Glasgow, Scotland</loc>
-
-<fighter1>Josh Taylor</fighter1>
-<fighter2>Ivan Baranchyk</fighter2>
-<rounds>12</rounds>
-<weight>Junior Welterweight Division</weight>
-
-<fighter1>Emmanuel Rodriguez</fighter1>
-<fighter2>Naoya Inoue</fighter2>
-<rounds>12</rounds>
-<weight>Bantamweight Division</weight>
-
-<fighter1>Zach Parker</fighter1>
-<fighter2>Steven Crambert</fighter2>
-<rounds>8</rounds>
-<weight>Super Middleweight Division</weight>
-
-<loc>New York</loc>
-
-<fighter1>Deontay Wilder</fighter1>
-<fighter2>Dominic Breazeale</fighter2>
-<rounds>12</rounds>
-<weight>Heavyweight Division</weight>
-
-<fighter1>Gary Russell</fighter1>
-<fighter2>Kiko Martinez</fighter2>
-<rounds>12</rounds>
-<weight>Featherweight Division</weight>
-
-<fighter1>Juan Heraldez</fighter1>
-<fighter2>Argenis Mendez</fighter2>
-<rounds>10</rounds>
-<weight>Junior Welterweight Division</weight>
-
-<loc>Stevenage, England</loc>
-
-<fighter1>BJ Saunders</fighter1>
-<fighter2>Shefat Isufi</fighter2>
-<rounds>12</rounds>
-<weight>Super Middleweight Division</weight>
-
-<fighter1>Joe Joyce</fighter1>
-<fighter2>Alexander Ustinov</fighter2>
-<rounds>10</rounds>
-<weight>Heavyweight Division</weight>
-
-<fighter1>Brad Foster</fighter1>
-<fighter2>Ashley Lane</fighter2>
-<rounds>12</rounds>
-<weight>Junior Featherweight Division</weight>
-
 <time>May. 25, 2019</time>
+
+<loc>Biloxi, Miss.</loc>
+
+<fighter1>Austin Trout</fighter1>
+<fighter2>Terrell Gausha</fighter2>
+<rounds>10</rounds>
+<weight>Junior Middleweight Division</weight>
 
 <loc>Kissimmee, Fla.</loc>
 
@@ -66,18 +19,23 @@
 <rounds>10</rounds>
 <weight>Lightweight Division</weight>
 
-<loc>Biloxi, Miss.</loc>
+<loc>Oxon Hill, Md.</loc>
 
-<fighter1>Austin Trout</fighter1>
-<fighter2>Terrell Gausha</fighter2>
-<rounds>10</rounds>
-<weight>Junior Middleweight Division</weight>
+<fighter1>Hughie Fury</fighter1>
+<fighter2>Chris Norrad</fighter2>
+<rounds>12</rounds>
+<weight>Heavyweight Division</weight>
 
 <loc>Oxon Hill, Md.</loc>
 
-<fighter1>Oleksandr Usyk</fighter1>
-<fighter2>Carlos Takam</fighter2>
-<rounds>12</rounds>
+<fighter1>Devin Haney</fighter1>
+<fighter2>Antonio Moran</fighter2>
+<rounds>10</rounds>
+<weight>Lightweight Division</weight>
+
+<fighter1>Michael Hunter</fighter1>
+<fighter2>Fabio Maldonado</fighter2>
+<rounds>10</rounds>
 <weight>Heavyweight Division</weight>
 
 <fighter1>Filip Hrgovic</fighter1>
@@ -90,10 +48,19 @@
 <rounds>10</rounds>
 <weight>Junior Welterweight Division</weight>
 
-<fighter1>Devin Haney</fighter1>
-<fighter2>Antonio Moran</fighter2>
-<rounds>10</rounds>
-<weight>Lightweight Division</weight>
+<time>May. 26, 2019</time>
+
+<loc>Fuzhou, China</loc>
+
+<fighter1>Xu Can</fighter1>
+<fighter2>Shun Kubo</fighter2>
+<rounds>12</rounds>
+<weight>Featherweight Division</weight>
+
+<fighter1>Carlos Canizales</fighter1>
+<fighter2>Sho Kimura</fighter2>
+<rounds>12</rounds>
+<weight>Junior Flyweight Division</weight>
 
 <time>June. 1, 2019</time>
 <loc>New York</loc>
@@ -102,6 +69,11 @@
 <fighter2>Andy Ruiz</fighter2>
 <rounds>12</rounds>
 <weight>Heavyweight Division</weight>
+
+<fighter1>Callum Smith</fighter1>
+<fighter2>Hassan N'Dam</fighter2>
+<rounds>12</rounds>
+<weight>Super Middleweight Division</weight>
 
 <fighter1>Katie Taylor</fighter1>
 <fighter2>Delfine Persoon</fighter2>
@@ -112,6 +84,11 @@
 <fighter2>Tommy Coyle</fighter2>
 <rounds>10</rounds>
 <weight>Junior Welterweight Division</weight>
+
+<fighter1>Josh Kelly</fighter1>
+<fighter2>Ray Robinson</fighter2>
+<rounds>12</rounds>
+<weight>Welterweight Division</weight>
 
 <loc>San Jacinto, Calif.</loc>
 
@@ -285,3 +262,22 @@
 <fighter2>Mike Lee</fighter2>
 <rounds>12</rounds>
 <weight>Super Middleweight Division</weight>
+
+<fighter1>Yordenis Ugas</fighter1>
+<fighter2>Omar Figueroa</fighter2>
+<rounds>12</rounds>
+<weight>Welterweight Division</weight>
+
+<fighter1>Sergey Lipinets</fighter1>
+<fighter2>John Molina</fighter2>
+<rounds>12</rounds>
+<weight>Welterweight Division</weight>
+
+<time>July. 27, 2019</time>
+
+<loc>Baltimore</loc>
+
+<fighter1>Gervonta Davis</fighter1>
+<fighter2>Ricardo Nunez</fighter2>
+<rounds>12</rounds>
+<weight>Junior Lightweight Division</weight>
