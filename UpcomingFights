@@ -63,11 +63,6 @@
 <rounds>12</rounds>
 <weight>Featherweight Division</weight>
 
-<fighter1>Oscar Valdez</fighter1>
-<fighter2>Erick Ituarte</fighter2>
-<rounds>12</rounds>
-<weight>Featherweight Division</weight>
-
 <time>June. 15, 2019</time>
 
 <loc>Las Vegas</loc>
@@ -133,7 +128,7 @@
 
 <loc>Houston</loc>
 
-<fighter1>Jarmall Charlo</fighter1>
+<fighter1>Jermall Charlo</fighter1>
 <fighter2>Brandon Adams</fighter2>
 <rounds>12</rounds>
 <weight>Middleweight Division</weight>
