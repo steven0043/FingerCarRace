@@ -1,3 +1,48 @@
+<time>June. 1, 2019</time>
+<loc>New York</loc>
+
+<fighter1>Anthony Joshua</fighter1>
+<fighter2>Andy Ruiz</fighter2>
+<rounds>12</rounds>
+<weight>Heavyweight Division</weight>
+
+<fighter1>Callum Smith</fighter1>
+<fighter2>Hassan N'Dam</fighter2>
+<rounds>12</rounds>
+<weight>Super Middleweight Division</weight>
+
+<fighter1>Katie Taylor</fighter1>
+<fighter2>Delfine Persoon</fighter2>
+<rounds>10</rounds>
+<weight>Lightweight Division</weight>
+
+<fighter1>Chris Algieri</fighter1>
+<fighter2>Tommy Coyle</fighter2>
+<rounds>12</rounds>
+<weight>Junior Welterweight Division</weight>
+
+<fighter1>Josh Kelly</fighter1>
+<fighter2>Ray Robinson</fighter2>
+<rounds>10</rounds>
+<weight>Welterweight Division</weight>
+
+<fighter1>Joshua Buatsi</fighter1>
+<fighter2>Marco Periban</fighter2>
+<rounds>10</rounds>
+<weight>Light Heavyweight Division</weight>
+
+<loc>San Jacinto, Calif.</loc>
+
+<fighter1>Devon Alexander</fighter1>
+<fighter2>Ivan Redkach</fighter2>
+<rounds>10</rounds>
+<weight>Welterweight Division</weight>
+
+<fighter1>Hugo Centeno</fighter1>
+<fighter2>Willie Monroe</fighter2>
+<rounds>10</rounds>
+<weight>Middleweight Division</weight>
+
 <time>May. 25, 2019</time>
 
 <loc>Biloxi, Miss.</loc>
