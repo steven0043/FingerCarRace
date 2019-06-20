@@ -1,3 +1,51 @@
+<time>June. 15, 2019</time>
+
+<loc>Las Vegas</loc>
+
+<fighter1>Tyson Fury</fighter1>
+<fighter2>Tom Schwarz</fighter2>
+<rounds>12</rounds>
+<weight>Heavyweight Division</weight>
+
+<fighter1>Sullivan Barrera</fighter1>
+<fighter2>Jesse Hart</fighter2>
+<rounds>10</rounds>
+<weight>Light Heavyweight Division</weight>
+
+<fighter1>Mikaela Mayer</fighter1>
+<fighter2>Lizbeth Crespo</fighter2>
+<rounds>10</rounds>
+<weight>Junior Lightweight Division</weight>
+
+<loc>Leeds, England</loc>
+
+<fighter1>Josh Warrington</fighter1>
+<fighter2>Kid Galahad</fighter2>
+<rounds>12</rounds>
+<weight>Featherweight Division</weight>
+
+<fighter1>Jason Welborn</fighter1>
+<fighter2>JJ Metcalf</fighter2>
+<rounds>12</rounds>
+<weight>Junior Middleweight Division</weight>
+
+<fighter1>Zelfa Barrett</fighter1>
+<fighter2>Lyon Woodstock</fighter2>
+<rounds>12</rounds>
+<weight>Junior Lightweight Division</weight>
+
+<loc>Riga, Latvia</loc>
+
+<fighter1>Mairis Briedis</fighter1>
+<fighter2>Krzysztof Glowacki</fighter2>
+<rounds>12</rounds>
+<weight>Cruiserweight Division</weight>
+
+<fighter1>Yunier Dorticos</fighter1>
+<fighter2>Andrew Tabiti</fighter2>
+<rounds>12</rounds>
+<weight>Cruiserweight Division</weight>
+
 <time>June. 1, 2019</time>
 <loc>New York</loc>
 
