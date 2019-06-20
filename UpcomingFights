@@ -1,50 +1,47 @@
-<time>June. 15, 2019</time>
+<time>June. 21, 2019</time>
 
-<loc>Las Vegas</loc>
+<loc>London</loc>
 
-<fighter1>Tyson Fury</fighter1>
-<fighter2>Tom Schwarz</fighter2>
-<rounds>12</rounds>
-<weight>Heavyweight Division</weight>
-
-<fighter1>Sullivan Barrera</fighter1>
-<fighter2>Jesse Hart</fighter2>
+<fighter1>Conor Benn</fighter1>
+<fighter2>Jussi Koivula</fighter2>
 <rounds>10</rounds>
-<weight>Light Heavyweight Division</weight>
+<weight>Welterweight Division</weight>
 
-<fighter1>Mikaela Mayer</fighter1>
-<fighter2>Lizbeth Crespo</fighter2>
-<rounds>10</rounds>
-<weight>Junior Lightweight Division</weight>
-
-<loc>Leeds, England</loc>
-
-<fighter1>Josh Warrington</fighter1>
-<fighter2>Kid Galahad</fighter2>
-<rounds>12</rounds>
-<weight>Featherweight Division</weight>
-
-<fighter1>Jason Welborn</fighter1>
-<fighter2>JJ Metcalf</fighter2>
+<fighter1>Ted Cheeseman</fighter1>
+<fighter2>Kieron Conway</fighter2>
 <rounds>12</rounds>
 <weight>Junior Middleweight Division</weight>
 
-<fighter1>Zelfa Barrett</fighter1>
-<fighter2>Lyon Woodstock</fighter2>
+<fighter1>Craig Richards</fighter1>
+<fighter2>Andre Sterling</fighter2>
+<rounds>12</rounds>
+<weight>Light Heavyweight Division</weight>
+
+<fighter1>Duane Sinclair</fighter1>
+<fighter2>Anthony Fox</fighter2>
+<rounds>10</rounds>
+<weight>Light Heavyweight Division</weight>
+
+<loc>Indio, Calif.</loc>
+
+<fighter1>Andrew Cancio</fighter1>
+<fighter2>Alberto Machado</fighter2>
 <rounds>12</rounds>
 <weight>Junior Lightweight Division</weight>
 
-<loc>Riga, Latvia</loc>
-
-<fighter1>Mairis Briedis</fighter1>
-<fighter2>Krzysztof Glowacki</fighter2>
+<fighter1>Angel Acosta</fighter1>
+<fighter2>Elwin Soto</fighter2>
 <rounds>12</rounds>
-<weight>Cruiserweight Division</weight>
+<weight>Junior Flyweight Division</weight>
 
-<fighter1>Yunier Dorticos</fighter1>
-<fighter2>Andrew Tabiti</fighter2>
+<time>June. 22, 2019</time>
+
+<loc>Glasgow, Scotland</loc>
+
+<fighter1>Lee McGregor</fighter1>
+<fighter2>Scott Allan</fighter2>
 <rounds>12</rounds>
-<weight>Cruiserweight Division</weight>
+<weight>Bantamweight Division</weight>
 
 <time>June. 23, 2019</time>
 
@@ -59,6 +56,11 @@
 <fighter2>Julio Ceja</fighter2>
 <rounds>12</rounds>
 <weight>Junior Featherweight Division</weight>
+
+<fighter1>Chris Colbert</fighter1>
+<fighter2>Alberto Mercado</fighter2>
+<rounds>10</rounds>
+<weight>Lightweight Division</weight>
 
 <time>June. 28, 2019</time>
 
