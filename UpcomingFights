@@ -7,6 +7,55 @@
 <rounds>12</rounds>
 <weight>Lightweight Division</weight>
 
+<fighter1>Carlos Adames</fighter1>
+<fighter2>Patrick Day</fighter2>
+<rounds>10</rounds>
+<weight>Junior Middleweight Division</weight>
+
+<loc>London</loc>
+
+<fighter1>Ryan Walsh</fighter1>
+<fighter2>Lewis Paulin</fighter2>
+<rounds>12</rounds>
+<weight>Featherweight Division</weight>
+
+<fighter1>Ohara Davies</fighter1>
+<fighter2>Miguel Vazquez</fighter2>
+<rounds>10</rounds>
+<weight>Junior Welterweight Division</weight>
+
+<fighter1>Ohara Davies</fighter1>
+<fighter2>Miguel Vazquez</fighter2>
+<rounds>10</rounds>
+<weight>Junior Welterweight Division</weight>
+
+<fighter1>Daniel Egbunike</fighter1>
+<fighter2>Martin McDonagh</fighter2>
+<rounds>10</rounds>
+<weight>Junior Welterweight Division</weight>
+
+<fighter1>Anthony Yigit</fighter1>
+<fighter2>Siar Ozgul</fighter2>
+<rounds>8</rounds>
+<weight>Junior Welterweight Division</weight>
+
+<loc>Milan, Italy</loc>
+
+<fighter1>Francesco Patera</fighter1>
+<fighter2>Paul Hyland</fighter2>
+<rounds>12</rounds>
+<weight>Lightweight Division</weight>
+
+<fighter1>Daniele Scardina</fighter1>
+<fighter2>Allesandro Goddi</fighter2>
+<rounds>12</rounds>
+<weight>Super Middleweight Division</weight>
+
+<fighter1>Dario Morello</fighter1>
+<fighter2>Steve Jamoye</fighter2>
+<rounds>10</rounds>
+<weight>Welterweight Division</weight>
+
 <time>June. 29, 2019</time>
 
 <loc>Houston</loc>
@@ -26,12 +75,41 @@
 <rounds>12</rounds>
 <weight>Featherweight Division</weight>
 
-<loc>Houston</loc>
+<fighter1>Miguel Flores</fighter1>
+<fighter2>Luis May</fighter2>
+<rounds>10</rounds>
+<weight>Junior Lightweight Division</weight>
+
+<loc>Providence, R.I.</loc>
 
 <fighter1>Demetrius Andrade</fighter1>
 <fighter2>Maciej Sulecki</fighter2>
 <rounds>12</rounds>
 <weight>Middleweight Division</weight>
+
+<fighter1>Joseph Parker</fighter1>
+<fighter2>Alex Leapai</fighter2>
+<rounds>12</rounds>
+<weight>Heavyweight Division</weight>
+
+<fighter1>Khalid Yafai</fighter1>
+<fighter2>Norbelto Jimenez</fighter2>
+<rounds>12</rounds>
+<weight>Junior Bantamweight Division</weight>
+
+<time>July. 6, 2019</time>
+
+<loc>Manchester</loc>
+
+<fighter1>Lawrence Okolie</fighter1>
+<fighter2>Jack Massey</fighter2>
+<rounds>12</rounds>
+<weight>Cruiserweight Division</weight>
+
+<fighter1>Anthony Fowler</fighter1>
+<fighter2>Brian Rose</fighter2>
+<rounds>12</rounds>
+<weight>Junior Middleweight Division</weight>
 
 <time>July. 12, 2019</time>
 
