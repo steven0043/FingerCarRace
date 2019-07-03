@@ -1,59 +1,21 @@
+<time>July. 11, 2019</time>
 
+<loc>Rome</loc>
 
-<time>June. 29, 2019</time>
-
-<loc>Houston</loc>
-
-<fighter1>Jermall Charlo</fighter1>
-<fighter2>Brandon Adams</fighter2>
-<rounds>12</rounds>
-<weight>Middleweight Division</weight>
-
-<fighter1>Erickson Lubin</fighter1>
-<fighter2>Zakaria Attou</fighter2>
-<rounds>12</rounds>
-<weight>Junior Middleweight Division</weight>
-
-<fighter1>Eduardo Ramirez</fighter1>
-<fighter2>Claudio Marrero</fighter2>
-<rounds>12</rounds>
-<weight>Featherweight Division</weight>
-
-<fighter1>Miguel Flores</fighter1>
-<fighter2>Luis May</fighter2>
-<rounds>10</rounds>
-<weight>Junior Lightweight Division</weight>
-
-<loc>Providence, R.I.</loc>
-
-<fighter1>Demetrius Andrade</fighter1>
-<fighter2>Maciej Sulecki</fighter2>
-<rounds>12</rounds>
-<weight>Middleweight Division</weight>
-
-<fighter1>Joseph Parker</fighter1>
-<fighter2>Alex Leapai</fighter2>
-<rounds>12</rounds>
-<weight>Heavyweight Division</weight>
-
-<fighter1>Khalid Yafai</fighter1>
-<fighter2>Norbelto Jimenez</fighter2>
-<rounds>12</rounds>
-<weight>Junior Bantamweight Division</weight>
-
-<time>July. 6, 2019</time>
-
-<loc>Manchester</loc>
-
-<fighter1>Lawrence Okolie</fighter1>
-<fighter2>Jack Massey</fighter2>
+<fighter1>Fabio Turchi</fighter1>
+<fighter2>Tommy McCarthy</fighter2>
 <rounds>12</rounds>
 <weight>Cruiserweight Division</weight>
 
-<fighter1>Anthony Fowler</fighter1>
-<fighter2>Brian Rose</fighter2>
+<fighter1>Emanuele Blandamura</fighter1>
+<fighter2>Marcus Morrison</fighter2>
 <rounds>12</rounds>
-<weight>Junior Middleweight Division</weight>
+<weight>Middleweight Division</weight>
+
+<fighter1>Serhiy Demchenko</fighter1>
+<fighter2>Hakim Zoulikha</fighter2>
+<rounds>12</rounds>
+<weight>Light Heavyweight Division</weight>
 
 <time>July. 12, 2019</time>
 
@@ -64,6 +26,28 @@
 <rounds>12</rounds>
 <weight>Middleweight Division</weight>
 
+<fighter1>Ken Shiro</fighter1>
+<fighter2>Jonathan Taconing</fighter2>
+<rounds>12</rounds>
+<weight>Junior Flyweight Division</weight>
+
+<loc>Jeddah, Saudi Arabia</loc>
+
+<fighter1>Amir Khan</fighter1>
+<fighter2>Billy Dib</fighter2>
+<rounds>12</rounds>
+<weight>Welterweight Division</weight>
+
+<fighter1>Hughie Fury</fighter1>
+<fighter2>Samuel Peter</fighter2>
+<rounds>12</rounds>
+<weight>Heavyweight Division</weight>
+
+<fighter1>Prince Patel</fighter1>
+<fighter2>Michell Banquez</fighter2>
+<rounds>12</rounds>
+<weight>Bantamweight Division</weight>
+
 <time>July. 13, 2019</time>
 
 <loc>London</loc>
@@ -73,6 +57,73 @@
 <rounds>12</rounds>
 <weight>Heavyweight Division</weight>
 
+<fighter1>Joe Joyce</fighter1>
+<fighter2>Bryant Jennings</fighter2>
+<rounds>12</rounds>
+<weight>Heavyweight Division</weight>
+
+<fighter1>Liam Williams</fighter1>
+<fighter2>Karim Achour</fighter2>
+<rounds>12</rounds>
+<weight>Middleweight Division</weight>
+
+<fighter1>Archie Sharp</fighter1>
+<fighter2>Jordan McCorry</fighter2>
+<rounds>10</rounds>
+<weight>Junior Lightweight Division</weight>
+
+<fighter1>Sunny Edwards</fighter1>
+<fighter2>Hiram Gallardo</fighter2>
+<rounds>10</rounds>
+<weight>Junior Bantamweight Division</weight>
+
+<loc>Newark, N.J.</loc>
+
+<fighter1>Shakur Stevenson</fighter1>
+<fighter2>Franklin Manzanilla</fighter2>
+<rounds>10</rounds>
+<weight>Featherweight Division</weight>
+
+<fighter1>Joshua Greer</fighter1>
+<fighter2>Nikolai Potapov</fighter2>
+<rounds>12</rounds>
+<weight>Bantamweight Division</weight>
+
+<loc>Carson, Calif.</loc>
+
+<fighter1>Rey Vargas</fighter1>
+<fighter2>Tomoki Kameda</fighter2>
+<rounds>12</rounds>
+<weight>Junior Featherweight Division</weight>
+
+<fighter1>Diego De La Hoya</fighter1>
+<fighter2>Ronny Rios</fighter2>
+<rounds>12</rounds>
+<weight>Junior Featherweight Division</weight>
+
+<time>July. 18, 2019</time>
+
+<loc>Indio, Calif.</loc>
+
+<fighter1>Jason Quigley</fighter1>
+<fighter2>Tureano Johnson</fighter2>
+<rounds>10</rounds>
+<weight>Middleweight Division</weight>
+
+<time>July. 19, 2019</time>
+
+<loc>Oxon Hill, Md.</loc>
+
+<fighter1>Teofimo Lopez</fighter1>
+<fighter2>Masayoshi Nakatani</fighter2>
+<rounds>12</rounds>
+<weight>Lightweight Division</weight>
+
+<fighter1>Maxim Dadashev</fighter1>
+<fighter2>Subriel Matias</fighter2>
+<rounds>12</rounds>
+<weight>Junior Welterweight Division</weight>
+
 <time>July. 20, 2019</time>
 
 <loc>London</loc>
@@ -80,6 +131,11 @@
 <fighter1>Dillian Whyte</fighter1>
 <fighter2>Oscar Rivas</fighter2>
 <rounds>12</rounds>
+<weight>Heavyweight Division</weight>
+
+<fighter1>Dereck Chisora</fighter1>
+<fighter2>Artur Szpilka</fighter2>
+<rounds>10</rounds>
 <weight>Heavyweight Division</weight>
 
 <fighter1>Dave Allen</fighter1>
@@ -109,10 +165,20 @@
 <rounds>12</rounds>
 <weight>Welterweight Division</weight>
 
+<fighter1>Luis Nery</fighter1>
+<fighter2>Juan Payano</fighter2>
+<rounds>12</rounds>
+<weight>Bantamweight Division</weight>
+
 <fighter1>Sergey Lipinets</fighter1>
 <fighter2>John Molina</fighter2>
 <rounds>12</rounds>
 <weight>Welterweight Division</weight>
+
+<fighter1>Efe Ajagba</fighter1>
+<fighter2>Ali Demirezen</fighter2>
+<rounds>10</rounds>
+<weight>Heavyweight Division</weight>
 
 <time>July. 27, 2019</time>
 
@@ -122,3 +188,51 @@
 <fighter2>Ricardo Nunez</fighter2>
 <rounds>12</rounds>
 <weight>Junior Lightweight Division</weight>
+
+<fighter1>Yuriorkis Gamboa</fighter1>
+<fighter2>Rocky Martinez</fighter2>
+<rounds>10</rounds>
+<weight>Lightweight Division</weight>
+
+<loc>Arlington, Texas</loc>
+
+<fighter1>Maurice Hooker</fighter1>
+<fighter2>Jose Ramirez</fighter2>
+<rounds>12</rounds>
+<weight>Junior Welterweight Division</weight>
+
+<fighter1>Tevin Farmer</fighter1>
+<fighter2>Guillaume Frenois</fighter2>
+<rounds>12</rounds>
+<weight>Junior Lightweight Division</weight>
+
+<fighter1>Murat Gassiev</fighter1>
+<fighter2>Joey Dawejko</fighter2>
+<rounds>10</rounds>
+<weight>Heavyweight Division</weight>
+
+<time>Aug. 10, 2019</time>
+
+<loc>Philadelphia</loc>
+
+<fighter1>Carl Frampton</fighter1>
+<fighter2>Emmanuel Dominguez</fighter2>
+<rounds>10</rounds>
+<weight>Featherweight Division</weight>
+
+<time>Aug. 31, 2019</time>
+
+<loc>Minneapolis</loc>
+
+<fighter1>Erislandy Lara</fighter1>
+<fighter2>Ramon Alvarez</fighter2>
+<rounds>12</rounds>
+<weight>Junior Middleweight Division</weight>
+
+<fighter1>Caleb Truax</fighter1>
+<fighter2>Peter Quilin</fighter2>
+<rounds>12</rounds>
+<weight>Super Middleweight Division</weight>
+
+
+
