@@ -1,106 +1,3 @@
-<time>July. 11, 2019</time>
-
-<loc>Rome</loc>
-
-<fighter1>Fabio Turchi</fighter1>
-<fighter2>Tommy McCarthy</fighter2>
-<rounds>12</rounds>
-<weight>Cruiserweight Division</weight>
-
-<fighter1>Emanuele Blandamura</fighter1>
-<fighter2>Marcus Morrison</fighter2>
-<rounds>12</rounds>
-<weight>Middleweight Division</weight>
-
-<fighter1>Serhiy Demchenko</fighter1>
-<fighter2>Hakim Zoulikha</fighter2>
-<rounds>12</rounds>
-<weight>Light Heavyweight Division</weight>
-
-<time>July. 12, 2019</time>
-
-<loc>Osaka, Japan</loc>
-
-<fighter1>Rob Brant</fighter1>
-<fighter2>Ryota Murata</fighter2>
-<rounds>12</rounds>
-<weight>Middleweight Division</weight>
-
-<fighter1>Ken Shiro</fighter1>
-<fighter2>Jonathan Taconing</fighter2>
-<rounds>12</rounds>
-<weight>Junior Flyweight Division</weight>
-
-<loc>Jeddah, Saudi Arabia</loc>
-
-<fighter1>Amir Khan</fighter1>
-<fighter2>Billy Dib</fighter2>
-<rounds>12</rounds>
-<weight>Welterweight Division</weight>
-
-<fighter1>Hughie Fury</fighter1>
-<fighter2>Samuel Peter</fighter2>
-<rounds>12</rounds>
-<weight>Heavyweight Division</weight>
-
-<fighter1>Prince Patel</fighter1>
-<fighter2>Michell Banquez</fighter2>
-<rounds>12</rounds>
-<weight>Bantamweight Division</weight>
-
-<time>July. 13, 2019</time>
-
-<loc>London</loc>
-
-<fighter1>Daniel Dubois</fighter1>
-<fighter2>Nathan Gorman</fighter2>
-<rounds>12</rounds>
-<weight>Heavyweight Division</weight>
-
-<fighter1>Joe Joyce</fighter1>
-<fighter2>Bryant Jennings</fighter2>
-<rounds>12</rounds>
-<weight>Heavyweight Division</weight>
-
-<fighter1>Liam Williams</fighter1>
-<fighter2>Karim Achour</fighter2>
-<rounds>12</rounds>
-<weight>Middleweight Division</weight>
-
-<fighter1>Archie Sharp</fighter1>
-<fighter2>Jordan McCorry</fighter2>
-<rounds>10</rounds>
-<weight>Junior Lightweight Division</weight>
-
-<fighter1>Sunny Edwards</fighter1>
-<fighter2>Hiram Gallardo</fighter2>
-<rounds>10</rounds>
-<weight>Junior Bantamweight Division</weight>
-
-<loc>Newark, N.J.</loc>
-
-<fighter1>Shakur Stevenson</fighter1>
-<fighter2>Alberto Guevara</fighter2>
-<rounds>10</rounds>
-<weight>Featherweight Division</weight>
-
-<fighter1>Joshua Greer</fighter1>
-<fighter2>Nikolai Potapov</fighter2>
-<rounds>12</rounds>
-<weight>Bantamweight Division</weight>
-
-<loc>Carson, Calif.</loc>
-
-<fighter1>Rey Vargas</fighter1>
-<fighter2>Tomoki Kameda</fighter2>
-<rounds>12</rounds>
-<weight>Junior Featherweight Division</weight>
-
-<fighter1>Diego De La Hoya</fighter1>
-<fighter2>Ronny Rios</fighter2>
-<rounds>12</rounds>
-<weight>Junior Featherweight Division</weight>
-
 <time>July. 18, 2019</time>
 
 <loc>Indio, Calif.</loc>
@@ -125,28 +22,6 @@
 <weight>Junior Welterweight Division</weight>
 
 <time>July. 20, 2019</time>
-
-<loc>London</loc>
-
-<fighter1>Dillian Whyte</fighter1>
-<fighter2>Oscar Rivas</fighter2>
-<rounds>12</rounds>
-<weight>Heavyweight Division</weight>
-
-<fighter1>Dereck Chisora</fighter1>
-<fighter2>Artur Szpilka</fighter2>
-<rounds>10</rounds>
-<weight>Heavyweight Division</weight>
-
-<fighter1>Dave Allen</fighter1>
-<fighter2>David Price</fighter2>
-<rounds>10</rounds>
-<weight>Heavyweight Division</weight>
-
-<fighter1>Richard Riakporhe</fighter1>
-<fighter2>Chris Billam Smith</fighter2>
-<rounds>10</rounds>
-<weight>Cruiserweight Division</weight>
 
 <loc>Las Vegas</loc>
 
@@ -179,6 +54,28 @@
 <fighter2>Ali Demirezen</fighter2>
 <rounds>10</rounds>
 <weight>Heavyweight Division</weight>
+
+<loc>London</loc>
+
+<fighter1>Dillian Whyte</fighter1>
+<fighter2>Oscar Rivas</fighter2>
+<rounds>12</rounds>
+<weight>Heavyweight Division</weight>
+
+<fighter1>Dereck Chisora</fighter1>
+<fighter2>Artur Szpilka</fighter2>
+<rounds>10</rounds>
+<weight>Heavyweight Division</weight>
+
+<fighter1>Dave Allen</fighter1>
+<fighter2>David Price</fighter2>
+<rounds>10</rounds>
+<weight>Heavyweight Division</weight>
+
+<fighter1>Richard Riakporhe</fighter1>
+<fighter2>Chris Billam Smith</fighter2>
+<rounds>10</rounds>
+<weight>Cruiserweight Division</weight>
 
 <time>July. 27, 2019</time>
 
