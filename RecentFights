@@ -1,3 +1,55 @@
+<time>Aug. 17, 2019</time>
+
+<loc>Anaheim, California</loc>
+
+<fighter1>Daniel Cormier</fighter1>
+<fighter2>Stipe Miocic</fighter2>
+<rounds>5</rounds>
+<weight>Heavyweight Division</weight>
+
+<fighter1>Anthony Pettis</fighter1>
+<fighter2>Nate Diaz</fighter2>
+<rounds>3</rounds>
+<weight>Welterweight Division</weight>
+
+<fighter1>Yoel Romero</fighter1>
+<fighter2>Paulo Costa</fighter2>
+<rounds>3</rounds>
+<weight>Middleweight Division</weight>
+
+<fighter1>Sodiq Yusuff</fighter1>
+<fighter2>Gabriel Benítez</fighter2>
+<rounds>3</rounds>
+<weight>Featherweight Division</weight>
+
+<fighter1>Derek Brunson</fighter1>
+<fighter2>Ian Heinisch</fighter2>
+<rounds>3</rounds>
+<weight>Middleweight Division</weight>
+
+<loc>Los Angeles</loc>
+
+<fighter1>Emanuel Navarrete</fighter1>
+<fighter2>Francisco De Vaca</fighter2>
+<rounds>12</rounds>
+<weight>Junior Featherweight Division</weight>
+
+<fighter1>Jessie Magdaleno</fighter1>
+<fighter2>Rafael Rivera</fighter2>
+<rounds>10</rounds>
+<weight>Featherweight Division</weight>
+
+<fighter1>Arnold Barboza</fighter1>
+<fighter2>Ricky Sismundo</fighter2>
+<rounds>10</rounds>
+<weight>Junior Welterweight Division</weight>
+
+<fighter1>Chris Van Heerden</fighter1>
+<fighter2>Aslanbek Kozaev</fighter2>
+<rounds>10</rounds>
+<weight>Welterweight Division</weight>
+
+
 <time>Aug. 2, 2019</time>
 
 <loc>Liverpool, England</loc>
