@@ -1,54 +1,3 @@
-<time>Aug. 17, 2019</time>
-
-<loc>Anaheim, California</loc>
-
-<fighter1>Daniel Cormier</fighter1>
-<fighter2>Stipe Miocic</fighter2>
-<rounds>5</rounds>
-<weight>Heavyweight Division</weight>
-
-<fighter1>Anthony Pettis</fighter1>
-<fighter2>Nate Diaz</fighter2>
-<rounds>3</rounds>
-<weight>Welterweight Division</weight>
-
-<fighter1>Yoel Romero</fighter1>
-<fighter2>Paulo Costa</fighter2>
-<rounds>3</rounds>
-<weight>Middleweight Division</weight>
-
-<fighter1>Sodiq Yusuff</fighter1>
-<fighter2>Gabriel Benítez</fighter2>
-<rounds>3</rounds>
-<weight>Featherweight Division</weight>
-
-<fighter1>Derek Brunson</fighter1>
-<fighter2>Ian Heinisch</fighter2>
-<rounds>3</rounds>
-<weight>Middleweight Division</weight>
-
-<loc>Los Angeles</loc>
-
-<fighter1>Emanuel Navarrete</fighter1>
-<fighter2>Francisco De Vaca</fighter2>
-<rounds>12</rounds>
-<weight>Junior Featherweight Division</weight>
-
-<fighter1>Jessie Magdaleno</fighter1>
-<fighter2>Rafael Rivera</fighter2>
-<rounds>10</rounds>
-<weight>Featherweight Division</weight>
-
-<fighter1>Arnold Barboza</fighter1>
-<fighter2>Ricky Sismundo</fighter2>
-<rounds>10</rounds>
-<weight>Junior Welterweight Division</weight>
-
-<fighter1>Chris Van Heerden</fighter1>
-<fighter2>Aslanbek Kozaev</fighter2>
-<rounds>10</rounds>
-<weight>Welterweight Division</weight>
-
 <time>Aug. 24, 2019</time>
 
 <loc>Chelyabinsk, Russia</loc>
@@ -62,6 +11,11 @@
 <fighter2>Aleksei Papin</fighter2>
 <rounds>12</rounds>
 <weight>Cruiserweight Division</weight>
+
+<fighter1>Evgeny Romanov</fighter1>
+<fighter2>Dario Balmaceda</fighter2>
+<rounds>10</rounds>
+<weight>Heavyweight Division</weight>
 
 <loc>Hermosillo, Mexico</loc>
 
@@ -98,6 +52,16 @@
 <fighter2>Javier Chacon</fighter2>
 <rounds>12</rounds>
 <weight>Junior Featherweight Division</weight>
+
+<fighter1>Stephen Fulton</fighter1>
+<fighter2>Isaac Avelar</fighter2>
+<rounds>12</rounds>
+<weight>Junior Featherweight Division</weight>
+
+<fighter1>Darwin Price</fighter1>
+<fighter2>Aaron Herrera</fighter2>
+<rounds>10</rounds>
+<weight>Junior Welterweight Division</weight>
 
 <time>Aug. 31, 2019</time>
 
@@ -237,6 +201,15 @@
 <rounds>12</rounds>
 <weight>Welterweight Division</weight>
 
+<time>Oct. 5, 2019</time>
+
+<loc>New York</loc>
+
+<fighter1>Gennady Golovkin</fighter1>
+<fighter2>Sergiy Derevyanchenko</fighter2>
+<rounds>12</rounds>
+<weight>Middleweight Division</weight>
+
 <time>Oct. 13, 2019</time>
 
 <loc>Leeds, England</loc>
@@ -273,6 +246,11 @@
 <fighter2>Robbie Davies</fighter2>
 <rounds>12</rounds>
 <weight>Junior Welterweight Division</weight>
+
+<fighter1>Ted Cheeseman</fighter1>
+<fighter2>Scott Fitzgerald</fighter2>
+<rounds>12</rounds>
+<weight>Junior Middleweight Division</weight>
 
 <time>Nov. 7, 2019</time>
 
