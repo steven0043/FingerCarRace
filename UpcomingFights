@@ -1,68 +1,3 @@
-<time>Aug. 24, 2019</time>
-
-<loc>Chelyabinsk, Russia</loc>
-
-<fighter1>Sergey Kovalev</fighter1>
-<fighter2>Anthony Yarde</fighter2>
-<rounds>12</rounds>
-<weight>Light Heavyweight Division</weight>
-
-<fighter1>Ilunga Makabu</fighter1>
-<fighter2>Aleksei Papin</fighter2>
-<rounds>12</rounds>
-<weight>Cruiserweight Division</weight>
-
-<fighter1>Evgeny Romanov</fighter1>
-<fighter2>Dario Balmaceda</fighter2>
-<rounds>10</rounds>
-<weight>Heavyweight Division</weight>
-
-<loc>Hermosillo, Mexico</loc>
-
-<fighter1>Juan Estrada</fighter1>
-<fighter2>Dewayne Beamon</fighter2>
-<rounds>12</rounds>
-<weight>Junior Bantamweight Division</weight>
-
-<fighter1>Filip Hrgovic</fighter1>
-<fighter2>Mario Heredia</fighter2>
-<rounds>120</rounds>
-<weight>Featherweight Division</weight>
-
-<fighter1>Liam Smith</fighter1>
-<fighter2>Mario Lozano</fighter2>
-<rounds>10</rounds>
-<weight>Featherweight Division</weight>
-
-<fighter1>Jono Carroll</fighter1>
-<fighter2>Eleazar Valenzuela</fighter2>
-<rounds>10</rounds>
-<weight>Junior Lightweight Division</weight>
-
-<loc>Nagoya, Japan</loc>
-
-<fighter1>Kosei Tanaka</fighter1>
-<fighter2>Jonathan Gonzalez</fighter2>
-<rounds>12</rounds>
-<weight>Flyweight Division</weight>
-
-<loc>Edinburg, Texas</loc>
-
-<fighter1>Brandon Figueroa</fighter1>
-<fighter2>Javier Chacon</fighter2>
-<rounds>12</rounds>
-<weight>Junior Featherweight Division</weight>
-
-<fighter1>Stephen Fulton</fighter1>
-<fighter2>Isaac Avelar</fighter2>
-<rounds>12</rounds>
-<weight>Junior Featherweight Division</weight>
-
-<fighter1>Darwin Price</fighter1>
-<fighter2>Aaron Herrera</fighter2>
-<rounds>10</rounds>
-<weight>Junior Welterweight Division</weight>
-
 <time>Aug. 31, 2019</time>
 
 <loc>London</loc>
@@ -92,6 +27,16 @@
 <rounds>12</rounds>
 <weight>Lightweight Division</weight>
 
+<fighter1>Savannah Marshall</fighter1>
+<fighter2>Daniele Basteri</fighter2>
+<rounds>8</rounds>
+<weight>Super Middleweight Division</weight>
+
+<fighter1>James Tennyson</fighter1>
+<fighter2>Atif Shafiq</fighter2>
+<rounds>10</rounds>
+<weight>Lightweight Division</weight>
+
 <loc>Minneapolis</loc>
 
 <fighter1>Erislandy Lara</fighter1>
@@ -99,10 +44,10 @@
 <rounds>12</rounds>
 <weight>Junior Middleweight Division</weight>
 
-<fighter1>Caleb Truax</fighter1>
-<fighter2>Peter Quilin</fighter2>
-<rounds>12</rounds>
-<weight>Super Middleweight Division</weight>
+<fighter1>Frank Sanchez</fighter1>
+<fighter2>Victor Bisbal</fighter2>
+<rounds>10</rounds>
+<weight>Heavyweight Division</weight>
 
 <loc>Bendigo, Australia</loc>
 
@@ -144,6 +89,21 @@
 <rounds>12</rounds>
 <weight>Heavyweight Division</weight>
 
+<fighter1>Emanuel Navarrete</fighter1>
+<fighter2>Juan Miguel Elorde</fighter2>
+<rounds>12</rounds>
+<weight>Junior Featherweight Division</weight>
+
+<fighter1>Jose Pedraza</fighter1>
+<fighter2>Jose Zepeda</fighter2>
+<rounds>10</rounds>
+<weight>Junior Welterweight Division</weight>
+
+<fighter1>Carlos Cuadras</fighter1>
+<fighter2>Jose Cardenas</fighter2>
+<rounds>10</rounds>
+<weight>Junior Bantamweight Division</weight>
+
 <loc>Carson, Calif.</loc>
 
 <fighter1>Jaime Munguia</fighter1>
@@ -156,10 +116,10 @@
 <rounds>10</rounds>
 <weight>Lightweight Division</weight>
 
-<fighter1>Pablo Cesar Cano</fighter1>
-<fighter2>Michael Perez</fighter2>
-<rounds>12</rounds>
-<weight>Junior Welterweight Division</weight>
+<fighter1>Franchon Crews Dezurn</fighter1>
+<fighter2>Alejandra Jimenez</fighter2>
+<rounds>10</rounds>
+<weight>Super Middleweight Division</weight>
 
 <time>Sep. 27, 2019</time>
 
