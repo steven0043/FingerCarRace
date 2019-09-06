@@ -1,60 +1,31 @@
-<time>Aug. 31, 2019</time>
+<time>Sep. 7, 2019</time>
 
-<loc>London</loc>
+<loc>Abu Dhabi</loc>
 
-<fighter1>Vasyl Lomachenko</fighter1>
-<fighter2>Luke Campbell</fighter2>
-<rounds>12</rounds>
+<fighter1>Khabib</fighter1>
+<fighter2>Dustin Poirier</fighter2>
+<rounds>5</rounds>
 <weight>Lightweight Division</weight>
 
-<fighter1>Hughie Fury</fighter1>
-<fighter2>Alexander Povetkin</fighter2>
-<rounds>12</rounds>
+<fighter1>Edson Barboza</fighter1>
+<fighter2>Paul Felder</fighter2>
+<rounds>3</rounds>
+<weight>Lightweight Division</weight>
+
+<fighter1>Islam Makhachev</fighter1>
+<fighter2>Davi Ramos</fighter2>
+<rounds>3</rounds>
+<weight>Lightweight Division</weight>
+
+<fighter1>Curtis Blaydes</fighter1>
+<fighter2>Shamil Abdurakhimov</fighter2>
+<rounds>3</rounds>
 <weight>Heavyweight Division</weight>
 
-<fighter1>Charlie Edwards</fighter1>
-<fighter2>Julio Martinez</fighter2>
-<rounds>12</rounds>
-<weight>Flyweight Division</weight>
-
-<fighter1>Joshua Buatsi</fighter1>
-<fighter2>Ryan Ford</fighter2>
-<rounds>10</rounds>
-<weight>Light Heavyweight Division</weight>
-
-<fighter1>Joe Cordina</fighter1>
-<fighter2>Gavin Gwynne</fighter2>
-<rounds>12</rounds>
+<fighter1>Mairbek Taisumov</fighter1>
+<fighter2>Diego Ferreira</fighter2>
+<rounds>3</rounds>
 <weight>Lightweight Division</weight>
-
-<fighter1>Savannah Marshall</fighter1>
-<fighter2>Daniele Bastieri</fighter2>
-<rounds>8</rounds>
-<weight>Super Middleweight Division</weight>
-
-<fighter1>James Tennyson</fighter1>
-<fighter2>Atif Shafiq</fighter2>
-<rounds>10</rounds>
-<weight>Lightweight Division</weight>
-
-<loc>Minneapolis</loc>
-
-<fighter1>Erislandy Lara</fighter1>
-<fighter2>Ramon Alvarez</fighter2>
-<rounds>12</rounds>
-<weight>Junior Middleweight Division</weight>
-
-<fighter1>Frank Sanchez</fighter1>
-<fighter2>Victor Bisbal</fighter2>
-<rounds>10</rounds>
-<weight>Heavyweight Division</weight>
-
-<loc>Bendigo, Australia</loc>
-
-<fighter1>Jeff Horn</fighter1>
-<fighter2>Michael Zerafa</fighter2>
-<rounds>12</rounds>
-<weight>Middleweight Division</weight>
 
 <time>Sep. 13, 2019</time>
 
@@ -121,6 +92,44 @@
 <rounds>10</rounds>
 <weight>Super Middleweight Division</weight>
 
+<time>Sep. 19, 2019</time>
+
+<loc>Florence, Italy</loc>
+
+<fighter1>Orlando Fiordigiglio</fighter1>
+<fighter2>Sam Eggington</fighter2>
+<rounds>10</rounds>
+<weight>Junior Middleweight Division</weight>
+
+<fighter1>Devis Bosheiro</fighter1>
+<fighter2>Ivan Tomas</fighter2>
+<rounds>10</rounds>
+<weight>Junior Lightweight Division</weight>
+
+<time>Sep. 21, 2019</time>
+
+<loc>Bakersfield, Calif.</loc>
+
+<fighter1>Peter Quillin</fighter1>
+<fighter2>Alfredo Angulo</fighter2>
+<rounds>12</rounds>
+<weight>Super Middleweight Division</weight>
+
+<fighter1>Chris Colbert</fighter1>
+<fighter2>Miguel Beltran</fighter2>
+<rounds>10</rounds>
+<weight>Lightweight Division</weight>
+
+<fighter1>Thomas Dulorme</fighter1>
+<fighter2>Terrel Williams</fighter2>
+<rounds>10</rounds>
+<weight>Welterweight Division</weight>
+
+<fighter1>Jose Uzcategui</fighter1>
+<fighter2>Denis Douglin</fighter2>
+<rounds>10</rounds>
+<weight>Super Middleweight Division</weight>
+
 <time>Sep. 27, 2019</time>
 
 <loc>London</loc>
@@ -129,6 +138,16 @@
 <fighter2>Ebenezer Tetteh</fighter2>
 <rounds>12</rounds>
 <weight>Heavyweight Division</weight>
+
+<fighter1>Nicola Adams</fighter1>
+<fighter2>Maria Salinas</fighter2>
+<rounds>10</rounds>
+<weight>Flyweight Division</weight>
+
+<fighter1>Archie Sharp</fighter1>
+<fighter2>Declan Geraghty</fighter2>
+<rounds>10</rounds>
+<weight>Junior Lightweight Division</weight>
 
 <time>Sep. 28, 2019</time>
 
@@ -154,12 +173,26 @@
 <rounds>10</rounds>
 <weight>Welterweight Division</weight>
 
+<fighter1>Robert Guerrero</fighter1>
+<fighter2>Jerry Thomas</fighter2>
+<rounds>10</rounds>
+<weight>Welterweight Division</weight>
+
 <loc>Bilbao, Spain</loc>
 
 <fighter1>David Avanesyan</fighter1>
 <fighter2>Kerman Lejarraga</fighter2>
 <rounds>12</rounds>
 <weight>Welterweight Division</weight>
+
+<time>Oct. 1, 2019</time>
+
+<loc>Osaka, Japan</loc>
+
+<fighter1>Hiroto Kyoguchi</fighter1>
+<fighter2>Tetsuya Hisada</fighter2>
+<rounds>12</rounds>
+<weight>Junior Flyweight Division</weight>
 
 <time>Oct. 5, 2019</time>
 
@@ -169,6 +202,22 @@
 <fighter2>Sergiy Derevyanchenko</fighter2>
 <rounds>12</rounds>
 <weight>Middleweight Division</weight>
+
+<loc>Flint, Mich.</loc>
+
+<fighter1>Claressa Shields</fighter1>
+<fighter2>Ivana Habazin</fighter2>
+<rounds>10</rounds>
+<weight>Junior Middleweight Division</weight>
+
+<time>Oct. 12, 2019</time>
+
+<loc>Chicago</loc>
+
+<fighter1>Oleksandr Usyk</fighter1>
+<fighter2>Tyrone Spong</fighter2>
+<rounds>12</rounds>
+<weight>Heavyweight Division</weight>
 
 <time>Oct. 13, 2019</time>
 
@@ -198,6 +247,11 @@
 <rounds>12</rounds>
 <weight>Light Heavyweight Division</weight>
 
+<fighter1>Luis Collazo</fighter1>
+<fighter2>Kudratillo Abdukakhorov</fighter2>
+<rounds>10</rounds>
+<weight>Welterweight Division</weight>
+
 <time>Oct. 19, 2019</time>
 
 <loc>Newcastle, England</loc>
@@ -212,6 +266,39 @@
 <rounds>12</rounds>
 <weight>Junior Middleweight Division</weight>
 
+<time>Oct. 26, 2019</time>
+
+<loc>London, England</loc>
+
+<fighter1>Regis Prograis</fighter1>
+<fighter2>Josh Taylor</fighter2>
+<rounds>12</rounds>
+<weight>Junior Welterweight Division</weight>
+
+<fighter1>Joseph Parker</fighter1>
+<fighter2>Dereck Chisora</fighter2>
+<rounds>12</rounds>
+<weight>Heavyweight Division</weight>
+
+<fighter1>Ricky Burns</fighter1>
+<fighter2>Lee Selby</fighter2>
+<rounds>12</rounds>
+<weight>Lightweight Division</weight>
+
+<fighter1>Yves Ngabu</fighter1>
+<fighter2>Lawrence Okolie</fighter2>
+<rounds>12</rounds>
+<weight>Cruiserweight Division</weight>
+
+<time>Nov. 2, 2019</time>
+
+<loc>Carson, Calif.</loc>
+
+<fighter1>Miguel Berchelt</fighter1>
+<fighter2>Jason Sosa</fighter2>
+<rounds>12</rounds>
+<weight>Junior Lightweight Division</weight>
+
 <time>Nov. 7, 2019</time>
 
 <loc>Saitama, Japan</loc>
@@ -220,6 +307,27 @@
 <fighter2>Nonito Donaire</fighter2>
 <rounds>12</rounds>
 <weight>Bantamweight Division</weight>
+
+<fighter1>Nordine Oubaali</fighter1>
+<fighter2>Takuma Inoue</fighter2>
+<rounds>12</rounds>
+<weight>Bantamweight Division</weight>
+
+<time>Nov. 9, 2019</time>
+
+<loc>Los Angeles</loc>
+
+<fighter1>K.S.I.</fighter1>
+<fighter2>Logan Paul</fighter2>
+<rounds>6</rounds>
+<weight>Cruiserweight Division</weight>
+
+<loc>USA</loc>
+
+<fighter1>Jamel Herring</fighter1>
+<fighter2>Lamont Roach</fighter2>
+<rounds>12</rounds>
+<weight>Junior Lightweight Division</weight>
 
 <time>Dec. 7, 2019</time>
 
