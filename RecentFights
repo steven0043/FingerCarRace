@@ -1,3 +1,47 @@
+<time>Aug. 31, 2019</time>
+
+<loc>London</loc>
+
+<fighter1>Vasyl Lomachenko</fighter1>
+<fighter2>Luke Campbell</fighter2>
+<rounds>12</rounds>
+<weight>Lightweight Division</weight>
+
+<fighter1>Hughie Fury</fighter1>
+<fighter2>Alexander Povetkin</fighter2>
+<rounds>12</rounds>
+<weight>Heavyweight Division</weight>
+
+<fighter1>Joshua Buatsi</fighter1>
+<fighter2>Ryan Ford</fighter2>
+<rounds>10</rounds>
+<weight>Light Heavyweight Division</weight>
+
+<fighter1>Joe Cordina</fighter1>
+<fighter2>Gavin Gwynne</fighter2>
+<rounds>12</rounds>
+<weight>Lightweight Division</weight>
+
+<loc>Minneapolis</loc>
+
+<fighter1>Erislandy Lara</fighter1>
+<fighter2>Ramon Alvarez</fighter2>
+<rounds>12</rounds>
+<weight>Junior Middleweight Division</weight>
+
+<fighter1>Frank Sanchez</fighter1>
+<fighter2>Victor Bisbal</fighter2>
+<rounds>10</rounds>
+<weight>Heavyweight Division</weight>
+
+<loc>Bendigo, Australia</loc>
+
+<fighter1>Jeff Horn</fighter1>
+<fighter2>Michael Zerafa</fighter2>
+<rounds>12</rounds>
+<weight>Middleweight Division</weight>
+
+
 <time>Aug. 24, 2019</time>
 
 <loc>Chelyabinsk, Russia</loc>
