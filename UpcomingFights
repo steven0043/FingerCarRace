@@ -1,26 +1,4 @@
-<time>Sep. 13, 2019</time>
 
-<loc>New York</loc>
-
-<fighter1>Devin Haney</fighter1>
-<fighter2>Zaur Abdullaev</fighter2>
-<rounds>12</rounds>
-<weight>Lightweight Division</weight>
-
-<fighter1>Heather Hardy</fighter1>
-<fighter2>Amanda Serrano</fighter2>
-<rounds>10</rounds>
-<weight>Featherweight Division</weight>
-
-<fighter1>Michael Hunter</fighter1>
-<fighter2>Sergey Kuzmin</fighter2>
-<rounds>10</rounds>
-<weight>Heavyweight Division</weight>
-
-<fighter1>Daniyar Yeleussinov</fighter1>
-<fighter2>Reshard Hicks</fighter2>
-<rounds>8</rounds>
-<weight>Welterweight Division</weight>
 
 <time>Sep. 14, 2019</time>
 
@@ -62,6 +40,28 @@
 <fighter2>Alejandra Jimenez</fighter2>
 <rounds>10</rounds>
 <weight>Super Middleweight Division</weight>
+
+<loc>London</loc>
+
+<fighter1>Sunny Edwards</fighter1>
+<fighter2>Hugo Rosendo</fighter2>
+<rounds>12</rounds>
+<weight>Flyweight Division</weight>
+
+<fighter1>Brad Foster</fighter1>
+<fighter2>Lucian Reid</fighter2>
+<rounds>12</rounds>
+<weight>Junior Featherweight Division</weight>
+
+<fighter1>Zak Chelli</fighter1>
+<fighter2>Kody Davies</fighter2>
+<rounds>10</rounds>
+<weight>Light Heavyweight Division</weight>
+
+<fighter1>Dec Spelman</fighter1>
+<fighter2>Shakan Pitters</fighter2>
+<rounds>10</rounds>
+<weight>Light Heavyweight Division</weight>
 
 <time>Sep. 19, 2019</time>
 
