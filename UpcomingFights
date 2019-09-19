@@ -1,68 +1,3 @@
-
-
-<time>Sep. 14, 2019</time>
-
-<loc>Las Vegas</loc>
-
-<fighter1>Tyson Fury</fighter1>
-<fighter2>Otto Wallin</fighter2>
-<rounds>12</rounds>
-<weight>Heavyweight Division</weight>
-
-<fighter1>Emanuel Navarrete</fighter1>
-<fighter2>Juan Miguel Elorde</fighter2>
-<rounds>12</rounds>
-<weight>Junior Featherweight Division</weight>
-
-<fighter1>Jose Pedraza</fighter1>
-<fighter2>Jose Zepeda</fighter2>
-<rounds>10</rounds>
-<weight>Junior Welterweight Division</weight>
-
-<fighter1>Carlos Cuadras</fighter1>
-<fighter2>Jose Cardenas</fighter2>
-<rounds>10</rounds>
-<weight>Junior Bantamweight Division</weight>
-
-<loc>Carson, Calif.</loc>
-
-<fighter1>Jaime Munguia</fighter1>
-<fighter2>Patrick Allotey</fighter2>
-<rounds>12</rounds>
-<weight>Junior Middleweight Division</weight>
-
-<fighter1>Ryan Garcia</fighter1>
-<fighter2>Avery Sparrow</fighter2>
-<rounds>10</rounds>
-<weight>Lightweight Division</weight>
-
-<fighter1>Franchon Crews Dezurn</fighter1>
-<fighter2>Alejandra Jimenez</fighter2>
-<rounds>10</rounds>
-<weight>Super Middleweight Division</weight>
-
-<loc>London</loc>
-
-<fighter1>Sunny Edwards</fighter1>
-<fighter2>Hugo Rosendo</fighter2>
-<rounds>12</rounds>
-<weight>Flyweight Division</weight>
-
-<fighter1>Brad Foster</fighter1>
-<fighter2>Lucian Reid</fighter2>
-<rounds>12</rounds>
-<weight>Junior Featherweight Division</weight>
-
-<fighter1>Zak Chelli</fighter1>
-<fighter2>Kody Davies</fighter2>
-<rounds>10</rounds>
-<weight>Light Heavyweight Division</weight>
-
-<fighter1>Dec Spelman</fighter1>
-<fighter2>Shakan Pitters</fighter2>
-<rounds>10</rounds>
-<weight>Light Heavyweight Division</weight>
-
 <time>Sep. 19, 2019</time>
 
 <loc>Florence, Italy</loc>
@@ -76,6 +11,11 @@
 <fighter2>Ivan Tomas</fighter2>
 <rounds>10</rounds>
 <weight>Junior Lightweight Division</weight>
+
+<fighter1>Dario Morello</fighter1>
+<fighter2>Luther Clay</fighter2>
+<rounds>10</rounds>
+<weight>Welterweight Division</weight>
 
 <time>Sep. 21, 2019</time>
 
@@ -96,10 +36,17 @@
 <rounds>10</rounds>
 <weight>Welterweight Division</weight>
 
-<fighter1>Jose Uzcategui</fighter1>
-<fighter2>Denis Douglin</fighter2>
+<fighter1>Gary Antonio Russell</fighter1>
+<fighter2>David Carmona</fighter2>
 <rounds>10</rounds>
-<weight>Super Middleweight Division</weight>
+<weight>Bantamweight Division</weight>
+
+<loc>Mexicali, Mexico</loc>
+
+<fighter1>Joseph Diaz</fighter1>
+<fighter2>Jesus Cuadro</fighter2>
+<rounds>10</rounds>
+<weight>Junior Lightweight Division</weight>
 
 <time>Sep. 27, 2019</time>
 
@@ -262,6 +209,30 @@
 <weight>Cruiserweight Division</weight>
 
 <time>Nov. 2, 2019</time>
+
+<loc>Las Vegas</loc>
+
+<fighter1>Saul Canelo</fighter1>
+<fighter2>Sergey Kovalev</fighter2>
+<rounds>12</rounds>
+<weight>Light Heavyweight Division</weight>
+
+<loc>Manchester, England</loc>
+
+<fighter1>Christina Linardatou</fighter1>
+<fighter2>Katie Taylor</fighter2>
+<rounds>10</rounds>
+<weight>Junior Welterweight Division</weight>
+
+<fighter1>Joshua Buatsi</fighter1>
+<fighter2>Blake Caparello</fighter2>
+<rounds>12</rounds>
+<weight>Light Heavyweight Division</weight>
+
+<fighter1>Felix Cash</fighter1>
+<fighter2>Jack Cullen</fighter2>
+<rounds>12</rounds>
+<weight>Middleweight Division</weight>
 
 <loc>Carson, Calif.</loc>
 
