@@ -1,55 +1,26 @@
+<time>Oct. 4, 2019</time>
 
-<time>Sep. 28, 2019</time>
+<loc>London</loc>
 
-<loc>Los Angeles</loc>
-
-<fighter1>Errol Spence</fighter1>
-<fighter2>Shawn Porter</fighter2>
+<fighter1>Leigh Wood</fighter1>
+<fighter2>David Joyce</fighter2>
 <rounds>12</rounds>
-<weight>Welterweight Division</weight>
+<weight>Featherweight Division</weight>
 
-<fighter1>Anthony Dirrell</fighter1>
-<fighter2>David Benavidez</fighter2>
-<rounds>12</rounds>
-<weight>Super Middleweight Division</weight>
-
-<fighter1>Mario Barrios</fighter1>
-<fighter2>Batyr Akhmedov</fighter2>
-<rounds>12</rounds>
-<weight>Junior Welterweight Division</weight>
-
-<fighter1>Josesito Lopez</fighter1>
-<fighter2>John Molina</fighter2>
+<fighter1>Jazza Dickens</fighter1>
+<fighter2>Carlos Ramos</fighter2>
 <rounds>10</rounds>
-<weight>Welterweight Division</weight>
+<weight>Featherweight Division</weight>
 
-<fighter1>Robert Guerrero</fighter1>
-<fighter2>Jerry Thomas</fighter2>
+<fighter1>Hairon Socarras</fighter1>
+<fighter2>Ryan Walsh</fighter2>
 <rounds>10</rounds>
-<weight>Welterweight Division</weight>
+<weight>Featherweight Division</weight>
 
-<loc>Bilbao, Spain</loc>
-
-<fighter1>David Avanesyan</fighter1>
-<fighter2>Kerman Lejarraga</fighter2>
-<rounds>12</rounds>
-<weight>Welterweight Division</weight>
-
-<loc>Nantes, France</loc>
-
-<fighter1>Tony Yoka</fighter1>
-<fighter2>Michael Wallisch</fighter2>
+<fighter1>Tyrone McCullagh</fighter1>
+<fighter2>Carlos Araujo</fighter2>
 <rounds>10</rounds>
-<weight>Heavyweight Division</weight>
-
-<time>Oct. 1, 2019</time>
-
-<loc>Osaka, Japan</loc>
-
-<fighter1>Hiroto Kyoguchi</fighter1>
-<fighter2>Tetsuya Hisada</fighter2>
-<rounds>12</rounds>
-<weight>Junior Flyweight Division</weight>
+<weight>Featherweight Division</weight>
 
 <time>Oct. 5, 2019</time>
 
@@ -60,12 +31,56 @@
 <rounds>12</rounds>
 <weight>Middleweight Division</weight>
 
+<fighter1>Israil Madrimov</fighter1>
+<fighter2>Alejandro Barrera</fighter2>
+<rounds>10</rounds>
+<weight>Junior Middleweight Division</weight>
+
+<fighter1>Ivan Baranchyk</fighter1>
+<fighter2>Gabriel Bracero</fighter2>
+<rounds>10</rounds>
+<weight>Junior Welterweight Division</weight>
+
+<fighter1>Ali Akhmedov</fighter1>
+<fighter2>Andrew Hernandez</fighter2>
+<rounds>12</rounds>
+<weight>Super Middleweight Division</weight>
+
 <loc>Flint, Mich.</loc>
 
 <fighter1>Claressa Shields</fighter1>
 <fighter2>Ivana Habazin</fighter2>
 <rounds>10</rounds>
 <weight>Junior Middleweight Division</weight>
+
+<fighter1>Jaron Ennis</fighter1>
+<fighter2>Demian Fernandez</fighter2>
+<rounds>10</rounds>
+<weight>Welterweight Division</weight>
+
+<time>Oct. 11, 2019</time>
+
+<loc>Belfast, Northern Ireland</loc>
+
+<fighter1>Jay Harris</fighter1>
+<fighter2>Paddy Barnes</fighter2>
+<rounds>12</rounds>
+<weight>Flyweight Division</weight>
+
+<fighter1>Sean McComb</fighter1>
+<fighter2>Emiliano Rodriguez</fighter2>
+<rounds>10</rounds>
+<weight>Junior Welterweight Division</weight>
+
+<fighter1>Marco McCullough</fighter1>
+<fighter2>Viorel Simion</fighter2>
+<rounds>10</rounds>
+<weight>Junior Lightweight Division</weight>
+
+<fighter1>Terry Flanagan</fighter1>
+<fighter2>Michael Ansah</fighter2>
+<rounds>8</rounds>
+<weight>Junior Welterweight Division</weight>
 
 <time>Oct. 12, 2019</time>
 
@@ -75,6 +90,21 @@
 <fighter2>Tyrone Spong</fighter2>
 <rounds>12</rounds>
 <weight>Heavyweight Division</weight>
+
+<fighter1>Dmitry Bivol</fighter1>
+<fighter2>Lenin Castillo</fighter2>
+<rounds>12</rounds>
+<weight>Light Heavyweight Division</weight>
+
+<fighter1>Anthony Sims</fighter1>
+<fighter2>Morgan Fitch</fighter2>
+<rounds>10</rounds>
+<weight>Super Middleweight Division</weight>
+
+<fighter1>Jessica McCaskill</fighter1>
+<fighter2>Erica Farias</fighter2>
+<rounds>10</rounds>
+<weight>Junior Welterweight Division</weight>
 
 <time>Oct. 13, 2019</time>
 
@@ -147,6 +177,40 @@
 <rounds>12</rounds>
 <weight>Cruiserweight Division</weight>
 
+<loc>Reno, Nev.</loc>
+
+<fighter1>Shakur Stevenson</fighter1>
+<fighter2>Joet Gonzalez</fighter2>
+<rounds>12</rounds>
+<weight>Featherweight Division</weight>
+
+<fighter1>Josh Greer</fighter1>
+<fighter2>Antonio Nieves</fighter2>
+<rounds>10</rounds>
+<weight>Bantamweight Division</weight>
+
+<fighter1>Mikaela Mayer</fighter1>
+<fighter2>Alejandra Zamora</fighter2>
+<rounds>10</rounds>
+<weight>Junior Lightweight Division</weight>
+
+<loc>Reading, Pa.</loc>
+
+<fighter1>Erickson Lubin</fighter1>
+<fighter2>Terrell Gausha</fighter2>
+<rounds>12</rounds>
+<weight>Junior Middleweight Division</weight>
+
+<fighter1>Robert Easter</fighter1>
+<fighter2>Adrian Granados</fighter2>
+<rounds>10</rounds>
+<weight>Junior Welterweight Division</weight>
+
+<fighter1>Rau'shee Warren</fighter1>
+<fighter2>Emmanuel Rodriguez</fighter2>
+<rounds>12</rounds>
+<weight>Bantamweight Division</weight>
+
 <time>Nov. 2, 2019</time>
 
 <loc>Las Vegas</loc>
@@ -155,6 +219,16 @@
 <fighter2>Sergey Kovalev</fighter2>
 <rounds>12</rounds>
 <weight>Light Heavyweight Division</weight>
+
+<fighter1>Ryan Garcia</fighter1>
+<fighter2>Romero Duno</fighter2>
+<rounds>12</rounds>
+<weight>Lightweight Division</weight>
+
+<fighter1>Evan Holyfield</fighter1>
+<fighter2>Nick Winstead</fighter2>
+<rounds>4</rounds>
+<weight>Junior Middleweight Division</weight>
 
 <loc>Manchester, England</loc>
 
@@ -179,6 +253,11 @@
 <fighter2>Jason Sosa</fighter2>
 <rounds>12</rounds>
 <weight>Junior Lightweight Division</weight>
+
+<fighter1>Jerwin Ancajas</fighter1>
+<fighter2>Jonathan Rodriguez</fighter2>
+<rounds>12</rounds>
+<weight>Junior Bantamweight Division</weight>
 
 <time>Nov. 7, 2019</time>
 
@@ -218,6 +297,20 @@
 <fighter2>Kash Farooq</fighter2>
 <rounds>12</rounds>
 <weight>Bantamweight Division</weight>
+
+<time>Nov. 23, 2019</time>
+
+<loc>Las Vegas</loc>
+
+<fighter1>Deontay Wilder</fighter1>
+<fighter2>Luis Ortiz</fighter2>
+<rounds>12</rounds>
+<weight>Heavyweight Division</weight>
+
+<fighter1>Leo Santa Cruz</fighter1>
+<fighter2>Miguel Flores</fighter2>
+<rounds>12</rounds>
+<weight>Junior Lightweight Division</weight>
 
 <time>Dec. 7, 2019</time>
 
