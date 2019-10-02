@@ -1,3 +1,48 @@
+
+<time>Sep. 28, 2019</time>
+
+<loc>Los Angeles</loc>
+
+<fighter1>Errol Spence</fighter1>
+<fighter2>Shawn Porter</fighter2>
+<rounds>12</rounds>
+<weight>Welterweight Division</weight>
+
+<fighter1>Anthony Dirrell</fighter1>
+<fighter2>David Benavidez</fighter2>
+<rounds>12</rounds>
+<weight>Super Middleweight Division</weight>
+
+<fighter1>Mario Barrios</fighter1>
+<fighter2>Batyr Akhmedov</fighter2>
+<rounds>12</rounds>
+<weight>Junior Welterweight Division</weight>
+
+<fighter1>Josesito Lopez</fighter1>
+<fighter2>John Molina</fighter2>
+<rounds>10</rounds>
+<weight>Welterweight Division</weight>
+
+<fighter1>Robert Guerrero</fighter1>
+<fighter2>Jerry Thomas</fighter2>
+<rounds>10</rounds>
+<weight>Welterweight Division</weight>
+
+<loc>Bilbao, Spain</loc>
+
+<fighter1>David Avanesyan</fighter1>
+<fighter2>Kerman Lejarraga</fighter2>
+<rounds>12</rounds>
+<weight>Welterweight Division</weight>
+
+<loc>Nantes, France</loc>
+
+<fighter1>Tony Yoka</fighter1>
+<fighter2>Michael Wallisch</fighter2>
+<rounds>10</rounds>
+<weight>Heavyweight Division</weight>
+
+
 <time>Sep. 19, 2019</time>
 
 <loc>Florence, Italy</loc>
