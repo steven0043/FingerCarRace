@@ -46,6 +46,28 @@
 <rounds>12</rounds>
 <weight>Super Middleweight Division</weight>
 
+<loc>Melbourne, Australia</loc>
+
+<fighter1>Robert Whittaker</fighter1>
+<fighter2>Israel Adesanya</fighter2>
+<rounds>5</rounds>
+<weight>Middleweight Division</weight>
+
+<fighter1>Al Iaquinta</fighter1>
+<fighter2>Dan Hooker</fighter2>
+<rounds>3</rounds>
+<weight>Lightweight Division</weight>
+
+<fighter1>Tai Tuivasa</fighter1>
+<fighter2>Sergey Spivak</fighter2>
+<rounds>3</rounds>
+<weight>Heavyweight Division</weight>
+
+<fighter1>Luke Jumeau</fighter1>
+<fighter2>Dhiego Lima</fighter2>
+<rounds>3</rounds>
+<weight>Welterweight Division</weight>
+
 <loc>Flint, Mich.</loc>
 
 <fighter1>Claressa Shields</fighter1>
