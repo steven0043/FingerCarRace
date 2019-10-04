@@ -1,9 +1,67 @@
-<time>Saturday, April. 20, 2002</time>
-<loc>MGM Grand, Las Vegas</loc>
-<fighter1>Floyd Mayweather</fighter1>
-<fighter2>Jose-Luis Castillo</fighter2>
+<time>Saturday, September. 10, 1993</time>
+<loc>Alamodome, San Antonio, Texas, USA</loc>
+<fighter1>Pernell Whitaker</fighter1>
+<fighter2>Julio-Cesar Chavez</fighter2>
 <rounds>12</rounds>
 <weight>Light Welterweight division</weight>
+
+
+<time>Saturday, March. 13, 1999</time>
+<loc>New York City, New York</loc>
+<fighter1>Evander Holyfield</fighter1>
+<fighter2>Lennox Lewis</fighter2>
+<rounds>12</rounds>
+<weight>Heavyweight division</weight>
+
+<time>Saturday, April. 15, 1985</time>
+<loc>New York City, New York</loc>
+<fighter1>Marvin Hagler</fighter1>
+<fighter2>Thomas Hearns</fighter2>
+<rounds>12</rounds>
+<weight>Middleweight division</weight>
+
+<time>Saturday, April. 15, 1985</time>
+<loc>Las Vegas</loc>
+<fighter1>Marvin Hagler</fighter1>
+<fighter2>Thomas Hearns</fighter2>
+<rounds>12</rounds>
+<weight>Middleweight division</weight>
+
+
+<time>Saturday, March. 8, 1971</time>
+<loc>New York City, New York</loc>
+<fighter1>Muhammad Ali</fighter1>
+<fighter2>Joe Frazier</fighter2>
+<rounds>12</rounds>
+<weight>Heavyweight division</weight>
+
+<time>Saturday, May. 5, 2007</time>
+<loc>Las Vegas</loc>
+<fighter1>Oscar De La Hoya</fighter1>
+<fighter2>Floyd Mayweather</fighter2>
+<rounds>12</rounds>
+<weight>Light Middleweight division</weight>
+
+<time>Saturday, September. 21, 1985</time>
+<loc>Las Vegas</loc>
+<fighter1>Larry Holmes</fighter1>
+<fighter2>Michael Spinks</fighter2>
+<rounds>12</rounds>
+<weight>Heavyweight division</weight>
+
+<time>Saturday, September. 21, 1985</time>
+<loc>Las Vegas</loc>
+<fighter1>Larry Holmes</fighter1>
+<fighter2>Michael Spinks</fighter2>
+<rounds>12</rounds>
+<weight>Heavyweight division</weight>
+
+<time>Saturday, March. 17, 2007</time>
+<loc>Las Vegas</loc>
+<fighter1>Juan-Manuel Marquez</fighter1>
+<fighter2>Marco Antonio Barrera</fighter2>
+<rounds>12</rounds>
+<weight>Super Featherweight division</weight>
 
 <time>Saturday, May. 18, 2002</time>
 <loc>Uncasville Connecticut (USA)</loc>
