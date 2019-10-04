@@ -5,7 +5,6 @@
 <rounds>12</rounds>
 <weight>Light Welterweight division</weight>
 
-
 <time>Saturday, March. 13, 1999</time>
 <loc>New York City, New York</loc>
 <fighter1>Evander Holyfield</fighter1>
@@ -20,14 +19,6 @@
 <rounds>12</rounds>
 <weight>Middleweight division</weight>
 
-<time>Saturday, April. 15, 1985</time>
-<loc>Las Vegas</loc>
-<fighter1>Marvin Hagler</fighter1>
-<fighter2>Thomas Hearns</fighter2>
-<rounds>12</rounds>
-<weight>Middleweight division</weight>
-
-
 <time>Saturday, March. 8, 1971</time>
 <loc>New York City, New York</loc>
 <fighter1>Muhammad Ali</fighter1>
@@ -41,13 +32,6 @@
 <fighter2>Floyd Mayweather</fighter2>
 <rounds>12</rounds>
 <weight>Light Middleweight division</weight>
-
-<time>Saturday, September. 21, 1985</time>
-<loc>Las Vegas</loc>
-<fighter1>Larry Holmes</fighter1>
-<fighter2>Michael Spinks</fighter2>
-<rounds>12</rounds>
-<weight>Heavyweight division</weight>
 
 <time>Saturday, September. 21, 1985</time>
 <loc>Las Vegas</loc>
