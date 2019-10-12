@@ -1,3 +1,45 @@
+
+<time>Oct. 11, 2019</time>
+
+<loc>Belfast, Northern Ireland</loc>
+
+<fighter1>Jay Harris</fighter1>
+<fighter2>Paddy Barnes</fighter2>
+<rounds>12</rounds>
+<weight>Flyweight Division</weight>
+
+<fighter1>Sean McComb</fighter1>
+<fighter2>Emiliano Rodriguez</fighter2>
+<rounds>10</rounds>
+<weight>Junior Welterweight Division</weight>
+
+<fighter1>Marco McCullough</fighter1>
+<fighter2>Viorel Simion</fighter2>
+<rounds>10</rounds>
+<weight>Junior Lightweight Division</weight>
+
+<fighter1>Terry Flanagan</fighter1>
+<fighter2>Michael Ansah</fighter2>
+<rounds>8</rounds>
+<weight>Junior Welterweight Division</weight>
+
+<loc>Trento, Italy</loc>
+
+<fighter1>Fabio Turchi</fighter1>
+<fighter2>Tommy McCarthy</fighter2>
+<rounds>12</rounds>
+<weight>Cruiserweight Division</weight>
+
+<fighter1>Matteo Signali</fighter1>
+<fighter2>Gevorg Khatchikian</fighter2>
+<rounds>12</rounds>
+<weight>Middleweight Division</weight>
+
+<fighter1>Francesco Grandelli</fighter1>
+<fighter2>Reece Bellotti</fighter2>
+<rounds>10</rounds>
+<weight>Featherweight Division</weight>
+
 <time>Oct. 5, 2019</time>
 
 <loc>New York</loc>
