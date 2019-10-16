@@ -1,4 +1,60 @@
 
+
+<time>Oct. 12, 2019</time>
+
+<loc>Chicago</loc>
+
+<fighter1>Oleksandr Usyk</fighter1>
+<fighter2>Chazz Witherspoon</fighter2>
+<rounds>12</rounds>
+<weight>Heavyweight Division</weight>
+
+<fighter1>Dmitry Bivol</fighter1>
+<fighter2>Lenin Castillo</fighter2>
+<rounds>12</rounds>
+<weight>Light Heavyweight Division</weight>
+
+<fighter1>Anthony Sims</fighter1>
+<fighter2>Morgan Fitch</fighter2>
+<rounds>10</rounds>
+<weight>Super Middleweight Division</weight>
+
+<fighter1>Jessica McCaskill</fighter1>
+<fighter2>Erica Farias</fighter2>
+<rounds>10</rounds>
+<weight>Junior Welterweight Division</weight>
+
+<fighter1>Charles Conwell</fighter1>
+<fighter2>Patrick Day</fighter2>
+<rounds>10</rounds>
+<weight>Junior Middleweight Division</weight>
+
+<fighter1>TJ Doheny</fighter1>
+<fighter2>Jesus Martinez</fighter2>
+<rounds>8</rounds>
+<weight>Featherweight Division</weight>
+
+
+<time>Oct. 13, 2019</time>
+
+<loc>Leeds, England</loc>
+
+<fighter1>Josh Warrington</fighter1>
+<fighter2>Sofiane Takoucht</fighter2>
+<rounds>12</rounds>
+<weight>Featherweight Division</weight>
+
+<fighter1>Zelfa Barrett</fighter1>
+<fighter2>Jordan McCorry</fighter2>
+<rounds>12</rounds>
+<weight>Junior Lightweight Division</weight>
+
+<fighter1>Lyndon Arthur</fighter1>
+<fighter2>Emmanuel Anim</fighter2>
+<rounds>12</rounds>
+<weight>Light Heavyweight Division</weight>
+
+
 <time>Oct. 11, 2019</time>
 
 <loc>Belfast, Northern Ireland</loc>
