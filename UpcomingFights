@@ -17,15 +17,20 @@
 <rounds>12</rounds>
 <weight>Lightweight Division</weight>
 
+<fighter1>Conor Benn</fighter1>
+<fighter2>Steve Jamoye</fighter2>
+<rounds>10</rounds>
+<weight>Welterweight Division</weight>
+
 <fighter1>Abass Baraou</fighter1>
 <fighter2>John O'Donnell</fighter2>
 <rounds>10</rounds>
 <weight>Junior Middleweight Division</weight>
 
-<fighter1>James Tennyson</fighter1>
-<fighter2>Craig Evans</fighter2>
-<rounds>10</rounds>
-<weight>Lightweight Division</weight>
+<fighter1>Denis Radovan</fighter1>
+<fighter2>Luke Blackledge</fighter2>
+<rounds>8</rounds>
+<weight>Middleweight Division</weight>
 
 <loc>Reno, Nev.</loc>
 
