@@ -1,71 +1,3 @@
-<time>Oct. 26, 2019</time>
-
-<loc>London, England</loc>
-
-<fighter1>Regis Prograis</fighter1>
-<fighter2>Josh Taylor</fighter2>
-<rounds>12</rounds>
-<weight>Junior Welterweight Division</weight>
-
-<fighter1>Dereck Chisora</fighter1>
-<fighter2>David Price</fighter2>
-<rounds>12</rounds>
-<weight>Heavyweight Division</weight>
-
-<fighter1>Ricky Burns</fighter1>
-<fighter2>Lee Selby</fighter2>
-<rounds>12</rounds>
-<weight>Lightweight Division</weight>
-
-<fighter1>Conor Benn</fighter1>
-<fighter2>Steve Jamoye</fighter2>
-<rounds>10</rounds>
-<weight>Welterweight Division</weight>
-
-<fighter1>Abass Baraou</fighter1>
-<fighter2>John O'Donnell</fighter2>
-<rounds>10</rounds>
-<weight>Junior Middleweight Division</weight>
-
-<fighter1>Denis Radovan</fighter1>
-<fighter2>Luke Blackledge</fighter2>
-<rounds>8</rounds>
-<weight>Middleweight Division</weight>
-
-<loc>Reno, Nev.</loc>
-
-<fighter1>Shakur Stevenson</fighter1>
-<fighter2>Joet Gonzalez</fighter2>
-<rounds>12</rounds>
-<weight>Featherweight Division</weight>
-
-<fighter1>Josh Greer</fighter1>
-<fighter2>Antonio Nieves</fighter2>
-<rounds>10</rounds>
-<weight>Bantamweight Division</weight>
-
-<fighter1>Mikaela Mayer</fighter1>
-<fighter2>Alejandra Zamora</fighter2>
-<rounds>10</rounds>
-<weight>Junior Lightweight Division</weight>
-
-<loc>Reading, Pa.</loc>
-
-<fighter1>Erickson Lubin</fighter1>
-<fighter2>Terrell Gausha</fighter2>
-<rounds>12</rounds>
-<weight>Junior Middleweight Division</weight>
-
-<fighter1>Robert Easter</fighter1>
-<fighter2>Adrian Granados</fighter2>
-<rounds>10</rounds>
-<weight>Junior Welterweight Division</weight>
-
-<fighter1>Rau'shee Warren</fighter1>
-<fighter2>Emmanuel Rodriguez</fighter2>
-<rounds>12</rounds>
-<weight>Bantamweight Division</weight>
-
 <time>Nov. 2, 2019</time>
 
 <loc>Las Vegas</loc>
@@ -90,6 +22,11 @@
 <rounds>10</rounds>
 <weight>Flyweight Division</weight>
 
+<fighter1>Blair Cobbs</fighter1>
+<fighter2>Carlos Ortiz</fighter2>
+<rounds>10</rounds>
+<weight>Welterweight Division</weight>
+
 <fighter1>Evan Holyfield</fighter1>
 <fighter2>Nick Winstead</fighter2>
 <rounds>4</rounds>
@@ -97,20 +34,30 @@
 
 <loc>Manchester, England</loc>
 
+<fighter1>Anthony Crolla</fighter1>
+<fighter2>Frank Urquiaga</fighter2>
+<rounds>10</rounds>
+<weight>Lightweight Division</weight>
+
 <fighter1>Christina Linardatou</fighter1>
 <fighter2>Katie Taylor</fighter2>
 <rounds>10</rounds>
 <weight>Junior Welterweight Division</weight>
 
-<fighter1>Joshua Buatsi</fighter1>
-<fighter2>Blake Caparello</fighter2>
-<rounds>12</rounds>
-<weight>Light Heavyweight Division</weight>
-
 <fighter1>Felix Cash</fighter1>
 <fighter2>Jack Cullen</fighter2>
 <rounds>12</rounds>
 <weight>Middleweight Division</weight>
+
+<fighter1>Martin Bakole</fighter1>
+<fighter2>Rodney Hernandez</fighter2>
+<rounds>10</rounds>
+<weight>Heavyweight Division</weight>
+
+<fighter1>Qais Ashfaq</fighter1>
+<fighter2>Joe Ham</fighter2>
+<rounds>10</rounds>
+<weight>Junior Featherweight Division</weight>
 
 <loc>Carson, Calif.</loc>
 
@@ -123,6 +70,18 @@
 <fighter2>Jonathan Rodriguez</fighter2>
 <rounds>12</rounds>
 <weight>Junior Bantamweight Division</weight>
+
+<loc>Oxon Hill, Md.</loc>
+
+<fighter1>Brian Castano</fighter1>
+<fighter2>Wale Omotoso</fighter2>
+<rounds>10</rounds>
+<weight>Junior Middleweight Division</weight>
+
+<fighter1>Javier Fortuna</fighter1>
+<fighter2>Jesus Cuellar</fighter2>
+<rounds>10</rounds>
+<weight>Junior Lightweight Division</weight>
 
 <time>Nov. 7, 2019</time>
 
