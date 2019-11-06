@@ -1,3 +1,73 @@
+<time>Nov. 2, 2019</time>
+
+<loc>Las Vegas</loc>
+
+<fighter1>Saul Canelo</fighter1>
+<fighter2>Sergey Kovalev</fighter2>
+<rounds>12</rounds>
+<weight>Light Heavyweight Division</weight>
+
+<fighter1>Seniesa Estrada</fighter1>
+<fighter2>Marlen Esparza</fighter2>
+<rounds>10</rounds>
+<weight>Flyweight Division</weight>
+
+<fighter1>Blair Cobbs</fighter1>
+<fighter2>Carlos Ortiz</fighter2>
+<rounds>10</rounds>
+<weight>Welterweight Division</weight>
+
+<loc>Manchester, England</loc>
+
+<fighter1>Anthony Crolla</fighter1>
+<fighter2>Frank Urquiaga</fighter2>
+<rounds>10</rounds>
+<weight>Lightweight Division</weight>
+
+<fighter1>Christina Linardatou</fighter1>
+<fighter2>Katie Taylor</fighter2>
+<rounds>10</rounds>
+<weight>Junior Welterweight Division</weight>
+
+<fighter1>Felix Cash</fighter1>
+<fighter2>Jack Cullen</fighter2>
+<rounds>12</rounds>
+<weight>Middleweight Division</weight>
+
+<fighter1>Martin Bakole</fighter1>
+<fighter2>Rodney Hernandez</fighter2>
+<rounds>10</rounds>
+<weight>Heavyweight Division</weight>
+
+<fighter1>Qais Ashfaq</fighter1>
+<fighter2>Joe Ham</fighter2>
+<rounds>10</rounds>
+<weight>Junior Featherweight Division</weight>
+
+<loc>Carson, Calif.</loc>
+
+<fighter1>Miguel Berchelt</fighter1>
+<fighter2>Jason Sosa</fighter2>
+<rounds>12</rounds>
+<weight>Junior Lightweight Division</weight>
+
+<fighter1>Jerwin Ancajas</fighter1>
+<fighter2>Jonathan Rodriguez</fighter2>
+<rounds>12</rounds>
+<weight>Junior Bantamweight Division</weight>
+
+<loc>Oxon Hill, Md.</loc>
+
+<fighter1>Brian Castano</fighter1>
+<fighter2>Wale Omotoso</fighter2>
+<rounds>10</rounds>
+<weight>Junior Middleweight Division</weight>
+
+<fighter1>Javier Fortuna</fighter1>
+<fighter2>Jesus Cuellar</fighter2>
+<rounds>10</rounds>
+<weight>Junior Lightweight Division</weight>
+
 <time>Oct. 26, 2019</time>
 
 <loc>London, England</loc>
