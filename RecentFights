@@ -1,3 +1,44 @@
+<time>Nov. 9, 2019</time>
+
+<loc>Los Angeles</loc>
+
+<fighter1>KSI</fighter1>
+<fighter2>Logan Paul</fighter2>
+<rounds>6</rounds>
+<weight>Cruiserweight Division</weight>
+
+<fighter1>BJ Saunders</fighter1>
+<fighter2>Marcelo Coceres</fighter2>
+<rounds>12</rounds>
+<weight>Super Middleweight Division</weight>
+
+<fighter1>Devin Haney</fighter1>
+<fighter2>Alfredo Santiago</fighter2>
+<rounds>12</rounds>
+<weight>Lightweight Division</weight>
+
+<fighter1>Ronny Rios</fighter1>
+<fighter2>Hugo Berrio</fighter2>
+<rounds>12</rounds>
+<weight>Junior Featherweight Division</weight>
+
+<fighter1>Nikita Ababiy</fighter1>
+<fighter2>Jonathan Batista</fighter2>
+<rounds>6</rounds>
+<weight>Middleweight Division</weight>
+
+<loc>USA</loc>
+
+<fighter1>Jamel Herring</fighter1>
+<fighter2>Lamont Roach</fighter2>
+<rounds>12</rounds>
+<weight>Junior Lightweight Division</weight>
+
+<fighter1>Kubrat Pulev</fighter1>
+<fighter2>Rydell Booker</fighter2>
+<rounds>10</rounds>
+<weight>Heavyweight Division</weight>
+
 <time>Nov. 7, 2019</time>
 
 <loc>Saitama, Japan</loc>
