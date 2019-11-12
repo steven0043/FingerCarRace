@@ -1,43 +1,33 @@
-<time>Nov. 9, 2019</time>
+<time>Nov. 15, 2019</time>
 
-<loc>Los Angeles</loc>
+<loc>Liverpool, England</loc>
 
-<fighter1>KSI</fighter1>
-<fighter2>Logan Paul</fighter2>
-<rounds>6</rounds>
-<weight>Cruiserweight Division</weight>
-
-<fighter1>BJ Saunders</fighter1>
-<fighter2>Marcelo Coceres</fighter2>
-<rounds>12</rounds>
+<fighter1>Rocky Fielding</fighter1>
+<fighter2>Abdallah Paziwapazi</fighter2>
+<rounds>10</rounds>
 <weight>Super Middleweight Division</weight>
 
-<fighter1>Devin Haney</fighter1>
-<fighter2>Alfredo Santiago</fighter2>
+<fighter1>Martin Murray</fighter1>
+<fighter2>Sladan Janjanin</fighter2>
+<rounds>8</rounds>
+<weight>Super Middleweight Division</weight>
+
+<fighter1>Terry Flanagan</fighter1>
+<fighter2>Jayro Duran</fighter2>
+<rounds>8</rounds>
+<weight>Junior Welterweight Division</weight>
+
+<loc>Melbourne, Australia</loc>
+
+<fighter1>Andrew Moloney</fighter1>
+<fighter2>Elton Dharry</fighter2>
 <rounds>12</rounds>
-<weight>Lightweight Division</weight>
+<weight>Junior Bantamweight Division</weight>
 
-<fighter1>Ronny Rios</fighter1>
-<fighter2>Hugo Berrio</fighter2>
-<rounds>12</rounds>
-<weight>Junior Featherweight Division</weight>
-
-<fighter1>Nikita Ababiy</fighter1>
-<fighter2>Jonathan Batista</fighter2>
-<rounds>6</rounds>
-<weight>Middleweight Division</weight>
-
-<loc>USA</loc>
-
-<fighter1>Jamel Herring</fighter1>
-<fighter2>Lamont Roach</fighter2>
-<rounds>12</rounds>
-<weight>Junior Lightweight Division</weight>
-
-<fighter1>Kubrat Pulev</fighter1>
-<fighter2>Rydell Booker</fighter2>
+<fighter1>Jason Moloney</fighter1>
+<fighter2>Dixon Flores</fighter2>
 <rounds>10</rounds>
-<weight>Heavyweight Division</weight>
+<weight>Bantamweight Division</weight>
 
 <time>Nov. 16, 2019</time>
 
@@ -62,6 +52,16 @@
 <rounds>12</rounds>
 <weight>Junior Lightweight Division</weight>
 
+<fighter1>Brandon Figueroa</fighter1>
+<fighter2>Julio Ceja</fighter2>
+<rounds>12</rounds>
+<weight>Junior Featherweight Division</weight>
+
+<fighter1>Luis Nery</fighter1>
+<fighter2>Emmanuel Rodriguez</fighter2>
+<rounds>12</rounds>
+<weight>Bantamweight Division</weight>
+
 <loc>Liverpool, England</loc>
 
 <fighter1>Callum Smith</fighter1>
@@ -79,6 +79,11 @@
 <rounds>10</rounds>
 <weight>Junior Welterweight Division</weight>
 
+<fighter1>Anthony Fowler</fighter1>
+<fighter2>Harry Scarff</fighter2>
+<rounds>10</rounds>
+<weight>Junior Middleweight Division</weight>
+
 <loc>Indio, Calif.</loc>
 
 <fighter1>Andrew Cancio</fighter1>
@@ -86,7 +91,7 @@
 <rounds>12</rounds>
 <weight>Junior Lightweight Division</weight>
 
-<fighter1>Xu Can</fighter1>
+<fighter1>Can Xu</fighter1>
 <fighter2>Manny Robles</fighter2>
 <rounds>12</rounds>
 <weight>Featherweight Division</weight>
@@ -118,6 +123,26 @@
 <fighter2>Alexander Besputin</fighter2>
 <rounds>12</rounds>
 <weight>Welterweight Division</weight>
+
+<fighter1>Cecilia Braekhus</fighter1>
+<fighter2>Victoria Bustos</fighter2>
+<rounds>10</rounds>
+<weight>Welterweight Division</weight>
+
+<fighter1>Zhang Zhilei</fighter1>
+<fighter2>Sergey Kuzmin</fighter2>
+<rounds>10</rounds>
+<weight>Heavyweight Division</weight>
+
+<fighter1>Hughie Fury</fighter1>
+<fighter2>Pavel Sour</fighter2>
+<rounds>10</rounds>
+<weight>Heavyweight Division</weight>
+
+<fighter1>Joe Cordina</fighter1>
+<fighter2>Enrico Tinoco</fighter2>
+<rounds>10</rounds>
+<weight>Junior Lightweight Division</weight>
 
 <time>Dec. 7, 2019</time>
 
@@ -186,6 +211,60 @@
 <rounds>10</rounds>
 <weight>Featherweight Division</weight>
 
+<time>Dec. 20, 2019</time>
+
+<loc>Phoenix</loc>
+
+<fighter1>Daniel Jacobs</fighter1>
+<fighter2>Julio Chavez</fighter2>
+<rounds>12</rounds>
+<weight>Super Middleweight Division</weight>
+
+<fighter1>Julio Martinez</fighter1>
+<fighter2>Cristofer Rosales</fighter2>
+<rounds>12</rounds>
+<weight>Flyweight Division</weight>
+
+<fighter1>Maurice Hooker</fighter1>
+<fighter2>Pedro Campa</fighter2>
+<rounds>10</rounds>
+<weight>Welterweight Division</weight>
+
+<time>Dec. 21, 2019</time>
+
+<loc>London</loc>
+
+<fighter1>Daniel Dubois</fighter1>
+<fighter2>Kyotaro Fujimoto</fighter2>
+<rounds>12</rounds>
+<weight>Heavyweight Division</weight>
+
+<loc>Ontario, Calif.</loc>
+
+<fighter1>Tony Harrison</fighter1>
+<fighter2>Jermell Charlo</fighter2>
+<rounds>12</rounds>
+<weight>Junior Middleweight Division</weight>
+
+<time>Dec. 23, 2019</time>
+
+<loc>Yokohama, Japan</loc>
+
+<fighter1>Ryota Murata</fighter1>
+<fighter2>Steven Butler</fighter2>
+<rounds>12</rounds>
+<weight>Middleweight Division</weight>
+
+<fighter1>Ken Shiro</fighter1>
+<fighter2>Felix Alvarado</fighter2>
+<rounds>12</rounds>
+<weight>Flyweight Division</weight>
+
+<fighter1>Moruti Mthalane</fighter1>
+<fighter2>Akira Yaegashi</fighter2>
+<rounds>12</rounds>
+<weight>Flyweight Division</weight>
+
 <time>Dec. 28, 2019</time>
 
 <loc>Atlanta</loc>
@@ -199,3 +278,22 @@
 <fighter2>Badou Jack</fighter2>
 <rounds>12</rounds>
 <weight>Light Heavyweight Division</weight>
+
+<time>Jan. 18, 2020</time>
+
+<loc>Verona, N.Y.</loc>
+
+<fighter1>Eleider Alvarez</fighter1>
+<fighter2>Michael Seals</fighter2>
+<rounds>10</rounds>
+<weight>Light Heavyweight Division</weight>
+
+<time>Feb. 1, 2020</time>
+
+<loc>Haikou, China</loc>
+
+<fighter1>Jose Ramirez</fighter1>
+<fighter2>Viktor Postol</fighter2>
+<rounds>12</rounds>
+<weight>Junior Welterweight Division</weight>
+
