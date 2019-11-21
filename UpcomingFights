@@ -1,42 +1,26 @@
-<time>Nov. 15, 2019</time>
+<time>Nov. 22, 2019</time>
 
-<loc>Liverpool, England</loc>
+<loc>London</loc>
 
-<fighter1>Rocky Fielding</fighter1>
-<fighter2>Abdallah Paziwapazi</fighter2>
+<fighter1>Kieran Gething</fighter1>
+<fighter2>Lewis Benson</fighter2>
 <rounds>10</rounds>
-<weight>Super Middleweight Division</weight>
-
-<fighter1>Martin Murray</fighter1>
-<fighter2>Sladan Janjanin</fighter2>
-<rounds>8</rounds>
-<weight>Super Middleweight Division</weight>
-
-<fighter1>Terry Flanagan</fighter1>
-<fighter2>Jayro Duran</fighter2>
-<rounds>8</rounds>
 <weight>Junior Welterweight Division</weight>
 
-<loc>Melbourne, Australia</loc>
-
-<fighter1>Andrew Moloney</fighter1>
-<fighter2>Elton Dharry</fighter2>
-<rounds>12</rounds>
-<weight>Junior Bantamweight Division</weight>
-
-<fighter1>Jason Moloney</fighter1>
-<fighter2>Dixon Flores</fighter2>
+<fighter1>Mohamed Mimoune</fighter1>
+<fighter2>Darren Surtees</fighter2>
 <rounds>10</rounds>
-<weight>Bantamweight Division</weight>
+<weight>Junior Welterweight Division</weight>
 
-<time>Nov. 16, 2019</time>
+<fighter1>Mikey Sakyi</fighter1>
+<fighter2>Tyrone McKenna</fighter2>
+<rounds>10</rounds>
+<weight>Junior Welterweight Division</weight>
 
-<loc>Glasgow, UK</loc>
-
-<fighter1>Lee McGregor</fighter1>
-<fighter2>Kash Farooq</fighter2>
-<rounds>12</rounds>
-<weight>Bantamweight Division</weight>
+<fighter1>Logan Yoon</fighter1>
+<fighter2>Ohara Davies</fighter2>
+<rounds>10</rounds>
+<weight>Junior Welterweight Division</weight>
 
 <time>Nov. 23, 2019</time>
 
@@ -62,6 +46,11 @@
 <rounds>12</rounds>
 <weight>Bantamweight Division</weight>
 
+<fighter1>Leduan Barthelemy</fighter1>
+<fighter2>Eduardo Ramirez</fighter2>
+<rounds>10</rounds>
+<weight>Junior Lightweight Division</weight>
+
 <loc>Liverpool, England</loc>
 
 <fighter1>Callum Smith</fighter1>
@@ -84,6 +73,11 @@
 <rounds>10</rounds>
 <weight>Junior Middleweight Division</weight>
 
+<fighter1>James Tennyson</fighter1>
+<fighter2>Craig Evans</fighter2>
+<rounds>10</rounds>
+<weight>Lightweight Division</weight>
+
 <loc>Indio, Calif.</loc>
 
 <fighter1>Andrew Cancio</fighter1>
@@ -101,13 +95,6 @@
 <rounds>10</rounds>
 <weight>Junior Lightweight Division</weight>
 
-<loc>Birmingham, England</loc>
-
-<fighter1>Nigel Benn</fighter1>
-<fighter2>Sakio Bika</fighter2>
-<rounds>10</rounds>
-<weight>Light Heavyweight Division</weight>
-
 <time>Nov. 30, 2019</time>
 
 <loc>Las Vegas</loc>
@@ -116,6 +103,16 @@
 <fighter2>Andres Gutierrez</fighter2>
 <rounds>10</rounds>
 <weight>Junior Lightweight Division</weight>
+
+<fighter1>Carl Frampton</fighter1>
+<fighter2>Tyler McCreary</fighter2>
+<rounds>10</rounds>
+<weight>Junior Lightweight Division</weight>
+
+<fighter1>Carlos Adames</fighter1>
+<fighter2>Patrick Teixeira</fighter2>
+<rounds>12</rounds>
+<weight>Junior Middleweight Division</weight>
 
 <loc>Monte Carlo, Monaco</loc>
 
@@ -162,11 +159,6 @@
 <fighter2>Eric Molina</fighter2>
 <rounds>12</rounds>
 <weight>Heavyweight Division</weight>
-
-<fighter1>Scott Quigg</fighter1>
-<fighter2>Jono Carroll</fighter2>
-<rounds>12</rounds>
-<weight>Junior Lightweight Division</weight>
 
 <loc>New York</loc>
 
