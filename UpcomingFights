@@ -2,8 +2,13 @@
 
 <loc>London</loc>
 
+<fighter1>Logan Yoon</fighter1>
+<fighter2>Ohara Davies</fighter2>
+<rounds>10</rounds>
+<weight>Junior Welterweight Division</weight>
+
 <fighter1>Kieran Gething</fighter1>
-<fighter2>Lewis Benson</fighter2>
+<fighter2>Jeff Ofori</fighter2>
 <rounds>10</rounds>
 <weight>Junior Welterweight Division</weight>
 
@@ -14,11 +19,6 @@
 
 <fighter1>Mikey Sakyi</fighter1>
 <fighter2>Tyrone McKenna</fighter2>
-<rounds>10</rounds>
-<weight>Junior Welterweight Division</weight>
-
-<fighter1>Logan Yoon</fighter1>
-<fighter2>Ohara Davies</fighter2>
 <rounds>10</rounds>
 <weight>Junior Welterweight Division</weight>
 
