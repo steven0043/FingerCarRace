@@ -1,22 +1,6 @@
 
 <time>Nov. 30, 2019</time>
 
-<loc>Las Vegas</loc>
-
-<fighter1>Oscar Valdez</fighter1>
-<fighter2>Andres Gutierrez</fighter2>
-<rounds>10</rounds>
-<weight>Junior Lightweight Division</weight>
-
-<fighter1>Carl Frampton</fighter1>
-<fighter2>Tyler McCreary</fighter2>
-<rounds>10</rounds>
-<weight>Junior Lightweight Division</weight>
-
-<fighter1>Carlos Adames</fighter1>
-<fighter2>Patrick Teixeira</fighter2>
-<rounds>12</rounds>
-<weight>Junior Middleweight Division</weight>
 
 <loc>Monte Carlo, Monaco</loc>
 
@@ -75,6 +59,23 @@
 <fighter1>Hamzah Sheeraz</fighter1>
 <fighter2>Ryan Kelly</fighter2>
 <rounds>10</rounds>
+<weight>Junior Middleweight Division</weight>
+
+<loc>Las Vegas</loc>
+
+<fighter1>Oscar Valdez</fighter1>
+<fighter2>Andres Gutierrez</fighter2>
+<rounds>10</rounds>
+<weight>Junior Lightweight Division</weight>
+
+<fighter1>Carl Frampton</fighter1>
+<fighter2>Tyler McCreary</fighter2>
+<rounds>10</rounds>
+<weight>Junior Lightweight Division</weight>
+
+<fighter1>Carlos Adames</fighter1>
+<fighter2>Patrick Teixeira</fighter2>
+<rounds>12</rounds>
 <weight>Junior Middleweight Division</weight>
 
 <time>Dec. 7, 2019</time>
@@ -224,4 +225,3 @@
 <fighter2>Viktor Postol</fighter2>
 <rounds>12</rounds>
 <weight>Junior Welterweight Division</weight>
-
