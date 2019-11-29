@@ -1,3 +1,74 @@
+
+
+<time>Nov. 23, 2019</time>
+
+<loc>Las Vegas</loc>
+
+<fighter1>Deontay Wilder</fighter1>
+<fighter2>Luis Ortíz</fighter2>
+<rounds>12</rounds>
+<weight>Heavyweight Division</weight>
+
+<fighter1>Leo Santa Cruz</fighter1>
+<fighter2>Miguel Flores</fighter2>
+<rounds>12</rounds>
+<weight>Junior Lightweight Division</weight>
+
+<fighter1>Brandon Figueroa</fighter1>
+<fighter2>Julio Ceja</fighter2>
+<rounds>12</rounds>
+<weight>Junior Featherweight Division</weight>
+
+<fighter1>Luis Nery</fighter1>
+<fighter2>Emmanuel Rodriguez</fighter2>
+<rounds>12</rounds>
+<weight>Bantamweight Division</weight>
+
+<fighter1>Leduan Barthelemy</fighter1>
+<fighter2>Eduardo Ramirez</fighter2>
+<rounds>10</rounds>
+<weight>Junior Lightweight Division</weight>
+
+<loc>Liverpool, England</loc>
+
+<fighter1>Callum Smith</fighter1>
+<fighter2>John Ryder</fighter2>
+<rounds>12</rounds>
+<weight>Super Middleweight Division</weight>
+
+<fighter1>Craig Glover</fighter1>
+<fighter2>Chris Billam Smith</fighter2>
+<rounds>10</rounds>
+<weight>Cruiserweight Division</weight>
+
+<fighter1>Tom Farrell</fighter1>
+<fighter2>Sean Dodd</fighter2>
+<rounds>10</rounds>
+<weight>Junior Welterweight Division</weight>
+
+<fighter1>Anthony Fowler</fighter1>
+<fighter2>Harry Scarff</fighter2>
+<rounds>10</rounds>
+<weight>Junior Middleweight Division</weight>
+
+<fighter1>James Tennyson</fighter1>
+<fighter2>Craig Evans</fighter2>
+<rounds>10</rounds>
+<weight>Lightweight Division</weight>
+
+<loc>Indio, Calif.</loc>
+
+<fighter1>Andrew Cancio</fighter1>
+<fighter2>Rene Alvarado</fighter2>
+<rounds>12</rounds>
+<weight>Junior Lightweight Division</weight>
+
+<fighter1>Can Xu</fighter1>
+<fighter2>Manny Robles</fighter2>
+<rounds>12</rounds>
+<weight>Featherweight Division</weight>
+
+
 <time>Nov. 22, 2019</time>
 
 <loc>London</loc>
