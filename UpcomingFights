@@ -1,83 +1,3 @@
-
-<time>Nov. 30, 2019</time>
-
-
-<loc>Monte Carlo, Monaco</loc>
-
-<fighter1>Radzhab Butaev</fighter1>
-<fighter2>Alexander Besputin</fighter2>
-<rounds>12</rounds>
-<weight>Welterweight Division</weight>
-
-<fighter1>Cecilia Braekhus</fighter1>
-<fighter2>Victoria Bustos</fighter2>
-<rounds>10</rounds>
-<weight>Welterweight Division</weight>
-
-<fighter1>Zhang Zhilei</fighter1>
-<fighter2>Andriy Rudenko</fighter2>
-<rounds>10</rounds>
-<weight>Heavyweight Division</weight>
-
-<fighter1>Hughie Fury</fighter1>
-<fighter2>Pavel Sour</fighter2>
-<rounds>10</rounds>
-<weight>Heavyweight Division</weight>
-
-<fighter1>Joe Cordina</fighter1>
-<fighter2>Enrico Tinoco</fighter2>
-<rounds>10</rounds>
-<weight>Junior Lightweight Division</weight>
-
-<loc>Birmingham, England</loc>
-
-<fighter1>Lerrone Richards</fighter1>
-<fighter2>Lennox Clarke</fighter2>
-<rounds>12</rounds>
-<weight>Super Middleweight Division</weight>
-
-<fighter1>Zolani Tete</fighter1>
-<fighter2>Johnriel Casimero</fighter2>
-<rounds>12</rounds>
-<weight>Bantamweight Division</weight>
-
-<fighter1>Chris Jenkins</fighter1>
-<fighter2>Liam Taylor</fighter2>
-<rounds>12</rounds>
-<weight>Welterweight Division</weight>
-
-<fighter1>Sam Bowen</fighter1>
-<fighter2>Anthony Cacace</fighter2>
-<rounds>12</rounds>
-<weight>Junior Lightweight Division</weight>
-
-<fighter1>Sam Maxwell</fighter1>
-<fighter2>Connor Parker</fighter2>
-<rounds>10</rounds>
-<weight>Junior Welterweight Division</weight>
-
-<fighter1>Hamzah Sheeraz</fighter1>
-<fighter2>Ryan Kelly</fighter2>
-<rounds>10</rounds>
-<weight>Junior Middleweight Division</weight>
-
-<loc>Las Vegas</loc>
-
-<fighter1>Oscar Valdez</fighter1>
-<fighter2>Adam Lopez</fighter2>
-<rounds>10</rounds>
-<weight>Junior Lightweight Division</weight>
-
-<fighter1>Carl Frampton</fighter1>
-<fighter2>Tyler McCreary</fighter2>
-<rounds>10</rounds>
-<weight>Junior Lightweight Division</weight>
-
-<fighter1>Carlos Adames</fighter1>
-<fighter2>Patrick Teixeira</fighter2>
-<rounds>12</rounds>
-<weight>Junior Middleweight Division</weight>
-
 <time>Dec. 7, 2019</time>
 
 <loc>Diriyah, Saudi Arabia</loc>
@@ -92,9 +12,19 @@
 <rounds>12</rounds>
 <weight>Heavyweight Division</weight>
 
+<fighter1>Dillian Whyte</fighter1>
+<fighter2>Mariusz Wach</fighter2>
+<rounds>12</rounds>
+<weight>Heavyweight Division</weight>
+
 <fighter1>Filip Hrgovic</fighter1>
 <fighter2>Eric Molina</fighter2>
 <rounds>12</rounds>
+<weight>Heavyweight Division</weight>
+
+<fighter1>Tom Little</fighter1>
+<fighter2>Mahammadrasul Majidov</fighter2>
+<rounds>8</rounds>
 <weight>Heavyweight Division</weight>
 
 <loc>New York</loc>
@@ -113,6 +43,25 @@
 <fighter2>Ryosuke Iwasa</fighter2>
 <rounds>12</rounds>
 <weight>Junior Featherweight Division</weight>
+
+<loc>Puebla, Mexico</loc>
+
+<fighter1>Emanuel Navarrete</fighter1>
+<fighter2>Francisco Horta</fighter2>
+<rounds>12</rounds>
+<weight>Junior Featherweight Division</weight>
+
+<fighter1>Jerwin Ancajas</fighter1>
+<fighter2>Miguel Gonzalez</fighter2>
+<rounds>12</rounds>
+<weight>Junior Bantamweight Division</weight>
+
+<loc>Montreal</loc>
+
+<fighter1>Montreal</fighter1>
+<fighter2>Max Bursack</fighter2>
+<rounds>12</rounds>
+<weight>Super Middleweight Division</weight>
 
 <time>Dec. 14, 2019</time>
 
