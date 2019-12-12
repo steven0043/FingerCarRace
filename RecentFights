@@ -1,4 +1,47 @@
+<time>Dec. 7, 2019</time>
 
+<loc>Diriyah, Saudi Arabia</loc>
+
+<fighter1>Andy Ruiz</fighter1>
+<fighter2>Anthony Joshua</fighter2>
+<rounds>12</rounds>
+<weight>Heavyweight Division</weight>
+
+<fighter1>Alexander Povetkin</fighter1>
+<fighter2>Michael Hunter</fighter2>
+<rounds>12</rounds>
+<weight>Heavyweight Division</weight>
+
+<fighter1>Dillian Whyte</fighter1>
+<fighter2>Mariusz Wach</fighter2>
+<rounds>12</rounds>
+<weight>Heavyweight Division</weight>
+
+<loc>New York</loc>
+
+<fighter1>Jermall Charlo</fighter1>
+<fighter2>Dennis Hogan</fighter2>
+<rounds>12</rounds>
+<weight>Middleweight Division</weight>
+
+<loc>Puebla, Mexico</loc>
+
+<fighter1>Emanuel Navarrete</fighter1>
+<fighter2>Francisco Horta</fighter2>
+<rounds>12</rounds>
+<weight>Junior Featherweight Division</weight>
+
+<fighter1>Jerwin Ancajas</fighter1>
+<fighter2>Miguel Gonzalez</fighter2>
+<rounds>12</rounds>
+<weight>Junior Bantamweight Division</weight>
+
+<loc>Montreal</loc>
+
+<fighter1>David Lemieux</fighter1>
+<fighter2>Max Bursak</fighter2>
+<rounds>12</rounds>
+<weight>Super Middleweight Division</weight>
 
 <time>Nov. 30, 2019</time>
 
