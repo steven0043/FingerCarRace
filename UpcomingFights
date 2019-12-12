@@ -1,76 +1,37 @@
-<time>Dec. 7, 2019</time>
+<time>Dec. 12, 2019</time>
 
-<loc>Diriyah, Saudi Arabia</loc>
+<loc>Barcelona, Spain</loc>
 
-<fighter1>Andy Ruiz</fighter1>
-<fighter2>Anthony Joshua</fighter2>
+<fighter1>Sandor Martin</fighter1>
+<fighter2>Joe Hughes</fighter2>
 <rounds>12</rounds>
-<weight>Heavyweight Division</weight>
+<weight>Junior Welterweight Division</weight>
 
-<fighter1>Alexander Povetkin</fighter1>
-<fighter2>Michael Hunter</fighter2>
+<fighter1>David Avanesyan</fighter1>
+<fighter2>Jose Del Rio</fighter2>
 <rounds>12</rounds>
-<weight>Heavyweight Division</weight>
+<weight>Welterweight Division</weight>
 
-<fighter1>Dillian Whyte</fighter1>
-<fighter2>Mariusz Wach</fighter2>
+<fighter1>Jonathan Alonso</fighter1>
+<fighter2>Samuel Gonzalez</fighter2>
 <rounds>12</rounds>
-<weight>Heavyweight Division</weight>
+<weight>Junior Welterweight Division</weight>
 
-<fighter1>Filip Hrgovic</fighter1>
-<fighter2>Eric Molina</fighter2>
+<time>Dec. 13, 2019</time>
+
+<loc>Indio, Calif.</loc>
+
+<fighter1>Vergil Ortiz</fighter1>
+<fighter2>Brad Solomon</fighter2>
 <rounds>12</rounds>
-<weight>Heavyweight Division</weight>
+<weight>Welterweight Division</weight>
 
-<fighter1>Tom Little</fighter1>
-<fighter2>Mahammadrasul Majidov</fighter2>
-<rounds>8</rounds>
-<weight>Heavyweight Division</weight>
-
-<loc>New York</loc>
-
-<fighter1>Jermall Charlo</fighter1>
-<fighter2>Dennis Hogan</fighter2>
-<rounds>12</rounds>
-<weight>Middleweight Division</weight>
-
-<fighter1>Chris Eubank</fighter1>
-<fighter2>Matt Korobov</fighter2>
-<rounds>12</rounds>
-<weight>Middleweight Division</weight>
-
-<fighter1>Marlon Tapales</fighter1>
-<fighter2>Ryosuke Iwasa</fighter2>
-<rounds>12</rounds>
-<weight>Junior Featherweight Division</weight>
-
-<loc>Puebla, Mexico</loc>
-
-<fighter1>Emanuel Navarrete</fighter1>
-<fighter2>Francisco Horta</fighter2>
-<rounds>12</rounds>
-<weight>Junior Featherweight Division</weight>
-
-<fighter1>Jerwin Ancajas</fighter1>
-<fighter2>Miguel Gonzalez</fighter2>
-<rounds>12</rounds>
-<weight>Junior Bantamweight Division</weight>
-
-<loc>Montreal</loc>
-
-<fighter1>David Lemieux</fighter1>
-<fighter2>Max Bursak</fighter2>
-<rounds>12</rounds>
-<weight>Super Middleweight Division</weight>
+<fighter1>Alberto Machado</fighter1>
+<fighter2>Luis Porozo</fighter2>
+<rounds>10</rounds>
+<weight>Lightweight Division</weight>
 
 <time>Dec. 14, 2019</time>
-
-<loc>Riga, Latvia</loc>
-
-<fighter1>Mairis Briedis</fighter1>
-<fighter2>Yunier Dorticos</fighter2>
-<rounds>12</rounds>
-<weight>Cruiserweight Division</weight>
 
 <loc>New York</loc>
 
@@ -89,6 +50,78 @@
 <rounds>10</rounds>
 <weight>Featherweight Division</weight>
 
+<fighter1>Josue Vargas</fighter1>
+<fighter2>Noel Murphy</fighter2>
+<rounds>10</rounds>
+<weight>Junior Welterweight Division</weight>
+
+<loc>Brentwood, England</loc>
+
+<fighter1>Bob Ajisafe</fighter1>
+<fighter2>Hosea Burton</fighter2>
+<rounds>10</rounds>
+<weight>Light Heavyweight Division</weight>
+
+<fighter1>Andre Sterling</fighter1>
+<fighter2>Liam Conroy</fighter2>
+<rounds>10</rounds>
+<weight>Light Heavyweight Division</weight>
+
+<fighter1>Steven Ward</fighter1>
+<fighter2>Ricards Bolotniks</fighter2>
+<rounds>10</rounds>
+<weight>Light Heavyweight Division</weight>
+
+<fighter1>Tommy Philbin</fighter1>
+<fighter2>Serge Michel</fighter2>
+<rounds>10</rounds>
+<weight>Light Heavyweight Division</weight>
+
+<loc>Las Vegas</loc>
+
+<fighter1>Kamaru Usman</fighter1>
+<fighter2>Colby Covington</fighter2>
+<rounds>5</rounds>
+<weight>Welterweight Division</weight>
+
+<fighter1>Max Holloway</fighter1>
+<fighter2>Alexander Volkanovski</fighter2>
+<rounds>5</rounds>
+<weight>Featherweight Division</weight>
+
+<fighter1>Amanda Nunes</fighter1>
+<fighter2>Germaine De Randamie</fighter2>
+<rounds>5</rounds>
+<weight>Bantamweight Division</weight>
+
+<time>Dec. 18, 2019</time>
+
+<loc>Brisbane, Australia</loc>
+
+<fighter1>Michael Zerafa</fighter1>
+<fighter2>Jeff Horn</fighter2>
+<rounds>12</rounds>
+<weight>Middleweight Division</weight>
+
+<time>Dec. 19, 2019</time>
+
+<loc>London</loc>
+
+<fighter1>Richard Riakporhe</fighter1>
+<fighter2>Jack Massey</fighter2>
+<rounds>12</rounds>
+<weight>Cruiserweight Division</weight>
+
+<fighter1>Fabio Wardley</fighter1>
+<fighter2>Simon Vallily</fighter2>
+<rounds>10</rounds>
+<weight>Heavyweight Division</weight>
+
+<fighter1>Luther Clay</fighter1>
+<fighter2>Freddy Kiwitt</fighter2>
+<rounds>10</rounds>
+<weight>Welterweight Division</weight>
+
 <time>Dec. 20, 2019</time>
 
 <loc>Phoenix</loc>
@@ -103,8 +136,13 @@
 <rounds>12</rounds>
 <weight>Flyweight Division</weight>
 
-<fighter1>Maurice Hooker</fighter1>
-<fighter2>Pedro Campa</fighter2>
+<fighter1>Gabriel Rosado</fighter1>
+<fighter2>Juan De Angel</fighter2>
+<rounds>10</rounds>
+<weight>Super Middleweight Division</weight>
+
+<fighter1>Josh Kelly</fighter1>
+<fighter2>Winston Campos</fighter2>
 <rounds>10</rounds>
 <weight>Welterweight Division</weight>
 
@@ -117,12 +155,32 @@
 <rounds>12</rounds>
 <weight>Heavyweight Division</weight>
 
+<fighter1>Sunny Edwards</fighter1>
+<fighter2>Marcel Braithwaite</fighter2>
+<rounds>12</rounds>
+<weight>Junior Bantamweight Division</weight>
+
+<fighter1>Liam Williams</fighter1>
+<fighter2>Alantez Fox</fighter2>
+<rounds>12</rounds>
+<weight>Junior Middleweight Division</weight>
+
 <loc>Ontario, Calif.</loc>
 
 <fighter1>Tony Harrison</fighter1>
 <fighter2>Jermell Charlo</fighter2>
 <rounds>12</rounds>
 <weight>Junior Middleweight Division</weight>
+
+<fighter1>Guillermo Rigondeaux</fighter1>
+<fighter2>Liborio Solis</fighter2>
+<rounds>12</rounds>
+<weight>Bantamweight Division</weight>
+
+<fighter1>Efe Ajagba</fighter1>
+<fighter2>Iago Kiladze</fighter2>
+<rounds>10</rounds>
+<weight>Heavyweight Division</weight>
 
 <time>Dec. 23, 2019</time>
 
@@ -157,7 +215,47 @@
 <rounds>12</rounds>
 <weight>Light Heavyweight Division</weight>
 
+<fighter1>Jose Uzcategui</fighter1>
+<fighter2>Lionell Thompson</fighter2>
+<rounds>10</rounds>
+<weight>Super Middleweight Division</weight>
+
+<time>Jan. 11, 2020</time>
+
+<loc>Atlantic City, N.J.</loc>
+
+<fighter1>Jesse Hart</fighter1>
+<fighter2>Joe Smith</fighter2>
+<rounds>10</rounds>
+<weight>Light Heavyweight Division</weight>
+
+<loc>San Antonio</loc>
+
+<fighter1>Jaime Munguia</fighter1>
+<fighter2>Gary O'Sullivan</fighter2>
+<rounds>12</rounds>
+<weight>Middleweight Division</weight>
+
+<loc>Hannover, Germany</loc>
+
+<fighter1>Joe Joyce</fighter1>
+<fighter2>Marco Huck</fighter2>
+<rounds>12</rounds>
+<weight>Heavyweight Division</weight>
+
 <time>Jan. 18, 2020</time>
+
+<loc>Philadelphia</loc>
+
+<fighter1>Julian Williams</fighter1>
+<fighter2>Jeison Rosario</fighter2>
+<rounds>12</rounds>
+<weight>Junior Middleweight Division</weight>
+
+<fighter1>Chris Colbert</fighter1>
+<fighter2>Jezreel Corales</fighter2>
+<rounds>12</rounds>
+<weight>Junior Lightweight Division</weight>
 
 <loc>Verona, N.Y.</loc>
 
@@ -165,6 +263,15 @@
 <fighter2>Michael Seals</fighter2>
 <rounds>10</rounds>
 <weight>Light Heavyweight Division</weight>
+
+<time>Jan. 25, 2020</time>
+
+<loc>New York</loc>
+
+<fighter1>Danny Garcia</fighter1>
+<fighter2>Ivan Redkach</fighter2>
+<rounds>12</rounds>
+<weight>Welterweight Division</weight>
 
 <time>Feb. 1, 2020</time>
 
