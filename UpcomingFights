@@ -1,7 +1,3 @@
-
-
-
-
 <time>Dec. 21, 2019</time>
 
 <loc>Ontario, Calif.</loc>
@@ -11,15 +7,25 @@
 <rounds>12</rounds>
 <weight>Junior Middleweight Division</weight>
 
-<fighter1>Guillermo Rigondeaux</fighter1>
-<fighter2>Liborio Solis</fighter2>
-<rounds>12</rounds>
-<weight>Bantamweight Division</weight>
-
 <fighter1>Efe Ajagba</fighter1>
 <fighter2>Iago Kiladze</fighter2>
 <rounds>10</rounds>
 <weight>Heavyweight Division</weight>
+
+<fighter1>Jhack Tepora</fighter1>
+<fighter2>Oscar Escandon</fighter2>
+<rounds>10</rounds>
+<weight>Junior Lightweight Division</weight>
+
+<fighter1>Andre Dirrell</fighter1>
+<fighter2>Juan Cabrera</fighter2>
+<rounds>10</rounds>
+<weight>Super Middleweight Division</weight>
+
+<fighter1>Hugo Centeno</fighter1>
+<fighter2>Juan Montiel</fighter2>
+<rounds>10</rounds>
+<weight>Middleweight Division</weight>
 
 <loc>London</loc>
 
@@ -38,6 +44,15 @@
 <rounds>12</rounds>
 <weight>Junior Middleweight Division</weight>
 
+<fighter1>Tommy Fury</fighter1>
+<fighter2>Przemslaw Binieda</fighter2>
+<rounds>6</rounds>
+<weight>Light Heavyweight Division</weight>
+
+<fighter1>Archie Sharp</fighter1>
+<fighter2>Artjoms Ramlavs</fighter2>
+<rounds>10</rounds>
+<weight>Junior Lightweight Division</weight>
 
 
 <time>Dec. 23, 2019</time>
