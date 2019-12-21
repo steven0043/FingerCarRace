@@ -4,6 +4,23 @@
 
 <time>Dec. 21, 2019</time>
 
+<loc>Ontario, Calif.</loc>
+
+<fighter1>Tony Harrison</fighter1>
+<fighter2>Jermell Charlo</fighter2>
+<rounds>12</rounds>
+<weight>Junior Middleweight Division</weight>
+
+<fighter1>Guillermo Rigondeaux</fighter1>
+<fighter2>Liborio Solis</fighter2>
+<rounds>12</rounds>
+<weight>Bantamweight Division</weight>
+
+<fighter1>Efe Ajagba</fighter1>
+<fighter2>Iago Kiladze</fighter2>
+<rounds>10</rounds>
+<weight>Heavyweight Division</weight>
+
 <loc>London</loc>
 
 <fighter1>Daniel Dubois</fighter1>
@@ -21,22 +38,7 @@
 <rounds>12</rounds>
 <weight>Junior Middleweight Division</weight>
 
-<loc>Ontario, Calif.</loc>
 
-<fighter1>Tony Harrison</fighter1>
-<fighter2>Jermell Charlo</fighter2>
-<rounds>12</rounds>
-<weight>Junior Middleweight Division</weight>
-
-<fighter1>Guillermo Rigondeaux</fighter1>
-<fighter2>Liborio Solis</fighter2>
-<rounds>12</rounds>
-<weight>Bantamweight Division</weight>
-
-<fighter1>Efe Ajagba</fighter1>
-<fighter2>Iago Kiladze</fighter2>
-<rounds>10</rounds>
-<weight>Heavyweight Division</weight>
 
 <time>Dec. 23, 2019</time>
 
