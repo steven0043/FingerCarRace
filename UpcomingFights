@@ -1,78 +1,4 @@
-<time>Dec. 21, 2019</time>
 
-<loc>Ontario, Calif.</loc>
-
-<fighter1>Tony Harrison</fighter1>
-<fighter2>Jermell Charlo</fighter2>
-<rounds>12</rounds>
-<weight>Junior Middleweight Division</weight>
-
-<fighter1>Efe Ajagba</fighter1>
-<fighter2>Iago Kiladze</fighter2>
-<rounds>10</rounds>
-<weight>Heavyweight Division</weight>
-
-<fighter1>Jhack Tepora</fighter1>
-<fighter2>Oscar Escandon</fighter2>
-<rounds>10</rounds>
-<weight>Junior Lightweight Division</weight>
-
-<fighter1>Andre Dirrell</fighter1>
-<fighter2>Juan Cabrera</fighter2>
-<rounds>10</rounds>
-<weight>Super Middleweight Division</weight>
-
-<fighter1>Hugo Centeno</fighter1>
-<fighter2>Juan Montiel</fighter2>
-<rounds>10</rounds>
-<weight>Middleweight Division</weight>
-
-<loc>London</loc>
-
-<fighter1>Daniel Dubois</fighter1>
-<fighter2>Kyotaro Fujimoto</fighter2>
-<rounds>12</rounds>
-<weight>Heavyweight Division</weight>
-
-<fighter1>Sunny Edwards</fighter1>
-<fighter2>Marcel Braithwaite</fighter2>
-<rounds>12</rounds>
-<weight>Junior Bantamweight Division</weight>
-
-<fighter1>Liam Williams</fighter1>
-<fighter2>Alantez Fox</fighter2>
-<rounds>12</rounds>
-<weight>Junior Middleweight Division</weight>
-
-<fighter1>Tommy Fury</fighter1>
-<fighter2>Przemslaw Binieda</fighter2>
-<rounds>6</rounds>
-<weight>Light Heavyweight Division</weight>
-
-<fighter1>Archie Sharp</fighter1>
-<fighter2>Artjoms Ramlavs</fighter2>
-<rounds>10</rounds>
-<weight>Junior Lightweight Division</weight>
-
-
-<time>Dec. 23, 2019</time>
-
-<loc>Yokohama, Japan</loc>
-
-<fighter1>Ryota Murata</fighter1>
-<fighter2>Steven Butler</fighter2>
-<rounds>12</rounds>
-<weight>Middleweight Division</weight>
-
-<fighter1>Ken Shiro</fighter1>
-<fighter2>Felix Alvarado</fighter2>
-<rounds>12</rounds>
-<weight>Flyweight Division</weight>
-
-<fighter1>Moruti Mthalane</fighter1>
-<fighter2>Akira Yaegashi</fighter2>
-<rounds>12</rounds>
-<weight>Flyweight Division</weight>
 
 <time>Dec. 28, 2019</time>
 
@@ -92,6 +18,11 @@
 <fighter2>Lionell Thompson</fighter2>
 <rounds>10</rounds>
 <weight>Super Middleweight Division</weight>
+
+<fighter1>Angelo Leo</fighter1>
+<fighter2>Cesar Juarez</fighter2>
+<rounds>12</rounds>
+<weight>Junior Featherweight Division</weight>
 
 <time>Jan. 11, 2020</time>
 
