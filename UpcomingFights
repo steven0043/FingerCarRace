@@ -1,28 +1,21 @@
+<time>Jan. 10, 2020</time>
 
+<loc>Atlantic City, N.J.</loc>
 
-<time>Dec. 28, 2019</time>
+<fighter1>Claressa Shields</fighter1>
+<fighter2>Ivana Habazin</fighter2>
+<rounds>10</rounds>
+<weight>Junior Middleweight Division</weight>
 
-<loc>Atlanta</loc>
+<fighter1>Jaron Ennis</fighter1>
+<fighter2>Bakhtiyar Eyubov</fighter2>
+<rounds>10</rounds>
+<weight>Welterweight Division</weight>
 
-<fighter1>Gervonta Davis</fighter1>
-<fighter2>Yuriorkis Gamboa</fighter2>
-<rounds>12</rounds>
-<weight>Lightweight Division</weight>
-
-<fighter1>Jean Pascal</fighter1>
-<fighter2>Badou Jack</fighter2>
-<rounds>12</rounds>
-<weight>Light Heavyweight Division</weight>
-
-<fighter1>Jose Uzcategui</fighter1>
-<fighter2>Lionell Thompson</fighter2>
+<fighter1>Alicia Espinosa</fighter1>
+<fighter2>Elin Cederroos</fighter2>
 <rounds>10</rounds>
 <weight>Super Middleweight Division</weight>
-
-<fighter1>Angelo Leo</fighter1>
-<fighter2>Cesar Juarez</fighter2>
-<rounds>12</rounds>
-<weight>Junior Featherweight Division</weight>
 
 <time>Jan. 11, 2020</time>
 
@@ -33,6 +26,11 @@
 <rounds>10</rounds>
 <weight>Light Heavyweight Division</weight>
 
+<fighter1>Steve Nelson</fighter1>
+<fighter2>Cem Kilic</fighter2>
+<rounds>10</rounds>
+<weight>Super Middleweight Division</weight>
+
 <loc>San Antonio</loc>
 
 <fighter1>Jaime Munguia</fighter1>
@@ -40,12 +38,15 @@
 <rounds>12</rounds>
 <weight>Middleweight Division</weight>
 
-<loc>Hannover, Germany</loc>
+<fighter1>Franchon Crews Dezurn</fighter1>
+<fighter2>Alejandra Jimenez</fighter2>
+<rounds>10</rounds>
+<weight>Super Middleweight Division</weight>
 
-<fighter1>Joe Joyce</fighter1>
-<fighter2>Marco Huck</fighter2>
-<rounds>12</rounds>
-<weight>Heavyweight Division</weight>
+<fighter1>Hector Tanajara</fighter1>
+<fighter2>Juan Burgos</fighter2>
+<rounds>10</rounds>
+<weight>Lightweight Division</weight>
 
 <time>Jan. 18, 2020</time>
 
@@ -60,6 +61,16 @@
 <fighter2>Jezreel Corales</fighter2>
 <rounds>12</rounds>
 <weight>Junior Lightweight Division</weight>
+
+<fighter1>Thomas LaManna</fighter1>
+<fighter2>Jorge Cota</fighter2>
+<rounds>10</rounds>
+<weight>Junior Middleweight Division</weight>
+
+<fighter1>Joey Spencer</fighter1>
+<fighter2>Erik Spring</fighter2>
+<rounds>6</rounds>
+<weight>Middleweight Division</weight>
 
 <loc>Verona, N.Y.</loc>
 
@@ -77,6 +88,40 @@
 <rounds>12</rounds>
 <weight>Welterweight Division</weight>
 
+<fighter1>Jarrett Hurd</fighter1>
+<fighter2>Francisco Santana</fighter2>
+<rounds>10</rounds>
+<weight>Junior Middleweight Division</weight>
+
+<fighter1>Stephen Fulton</fighter1>
+<fighter2>Arnold Khegai</fighter2>
+<rounds>12</rounds>
+<weight>Junior Featherweight Division</weight>
+
+<time>Jan. 30, 2020</time>
+
+<loc>Miami</loc>
+
+<fighter1>Demetrius Andrade</fighter1>
+<fighter2>Luke Keeler</fighter2>
+<rounds>12</rounds>
+<weight>Middleweight Division</weight>
+
+<fighter1>Jake Paul</fighter1>
+<fighter2>AnEsonGib</fighter2>
+<rounds>6</rounds>
+<weight>Cruiserweight Division</weight>
+
+<fighter1>Tevin Farmer</fighter1>
+<fighter2>Joseph Diaz</fighter2>
+<rounds>12</rounds>
+<weight>Junior Lightweight Division</weight>
+
+<fighter1>Daniel Roman</fighter1>
+<fighter2>Murodjon Akhmadaliev</fighter2>
+<rounds>12</rounds>
+<weight>Junior Featherweight Division</weight>
+
 <time>Feb. 1, 2020</time>
 
 <loc>Haikou, China</loc>
@@ -85,3 +130,27 @@
 <fighter2>Viktor Postol</fighter2>
 <rounds>12</rounds>
 <weight>Junior Welterweight Division</weight>
+
+<fighter1>Masayuki Ito</fighter1>
+<fighter2>Yongqiang Yang</fighter2>
+<rounds>10</rounds>
+<weight>Junior Lightweight Division</weight>
+
+<time>Feb. 8, 2020</time>
+
+<loc>Sheffield, England</loc>
+
+<fighter1>Kell Brook</fighter1>
+<fighter2>Mark DeLuca</fighter2>
+<rounds>12</rounds>
+<weight>Junior Middleweight Division</weight>
+
+<fighter1>Kid Galahad</fighter1>
+<fighter2>Claudio Marrero</fighter2>
+<rounds>12</rounds>
+<weight>Featherweight Division</weight>
+
+<fighter1>Eva Wahlstrom</fighter1>
+<fighter2>Terri Harper</fighter2>
+<rounds>10</rounds>
+<weight>Junior Lightweight Division</weight>
