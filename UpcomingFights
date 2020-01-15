@@ -1,54 +1,31 @@
-<time>Jan. 10, 2020</time>
+<time>Jan. 18, 2020</time>
 
-<loc>Atlantic City, N.J.</loc>
+<loc>Las Vegas</loc>
 
-<fighter1>Claressa Shields</fighter1>
-<fighter2>Ivana Habazin</fighter2>
-<rounds>10</rounds>
-<weight>Junior Middleweight Division</weight>
-
-<fighter1>Jaron Ennis</fighter1>
-<fighter2>Bakhtiyar Eyubov</fighter2>
-<rounds>10</rounds>
+<fighter1>Conor McGregor</fighter1>
+<fighter2>Donald Cerrone</fighter2>
+<rounds>3</rounds>
 <weight>Welterweight Division</weight>
 
-<fighter1>Alicia Espinosa</fighter1>
-<fighter2>Elin Cederroos</fighter2>
-<rounds>10</rounds>
-<weight>Super Middleweight Division</weight>
+<fighter1>Holly Holm</fighter1>
+<fighter2>Raquel Pennington</fighter2>
+<rounds>3</rounds>
+<weight>Bantamweight Division</weight>
 
-<time>Jan. 11, 2020</time>
+<fighter1>Aleksei Oleinik</fighter1>
+<fighter2>Maurice Greene</fighter2>
+<rounds>3</rounds>
+<weight>Heavyweight Division</weight>
 
-<loc>Atlantic City, N.J.</loc>
+<fighter1>Claudia Gadelha</fighter1>
+<fighter2>Alexa Grasso</fighter2>
+<rounds>3</rounds>
+<weight>Strawweight Division</weight>
 
-<fighter1>Jesse Hart</fighter1>
-<fighter2>Joe Smith</fighter2>
-<rounds>10</rounds>
-<weight>Light Heavyweight Division</weight>
-
-<fighter1>Steve Nelson</fighter1>
-<fighter2>Cem Kilic</fighter2>
-<rounds>10</rounds>
-<weight>Super Middleweight Division</weight>
-
-<loc>San Antonio</loc>
-
-<fighter1>Jaime Munguia</fighter1>
-<fighter2>Gary O'Sullivan</fighter2>
-<rounds>12</rounds>
-<weight>Middleweight Division</weight>
-
-<fighter1>Franchon Crews Dezurn</fighter1>
-<fighter2>Alejandra Jimenez</fighter2>
-<rounds>10</rounds>
-<weight>Super Middleweight Division</weight>
-
-<fighter1>Hector Tanajara</fighter1>
-<fighter2>Juan Burgos</fighter2>
-<rounds>10</rounds>
+<fighter1>Anthony Pettis</fighter1>
+<fighter2>Carlos Ferreira</fighter2>
+<rounds>3</rounds>
 <weight>Lightweight Division</weight>
-
-<time>Jan. 18, 2020</time>
 
 <loc>Philadelphia</loc>
 
@@ -79,6 +56,11 @@
 <rounds>10</rounds>
 <weight>Light Heavyweight Division</weight>
 
+<fighter1>Felix Verdejo</fighter1>
+<fighter2>Manuel Rey Rojas</fighter2>
+<rounds>10</rounds>
+<weight>Lightweight Division</weight>
+
 <time>Jan. 25, 2020</time>
 
 <loc>New York</loc>
@@ -108,7 +90,7 @@
 <weight>Middleweight Division</weight>
 
 <fighter1>Jake Paul</fighter1>
-<fighter2>AnEsonGib</fighter2>
+<fighter2>AnEson Gib</fighter2>
 <rounds>6</rounds>
 <weight>Cruiserweight Division</weight>
 
@@ -136,6 +118,32 @@
 <rounds>10</rounds>
 <weight>Junior Lightweight Division</weight>
 
+<loc>Biloxi, Miss.</loc>
+
+<fighter1>Yordenis Ugas</fighter1>
+<fighter2>Mike Dallas</fighter2>
+<rounds>12</rounds>
+<weight>Welterweight Division</weight>
+
+<fighter1>Michel Rivera</fighter1>
+<fighter2>Fidel Maldonado</fighter2>
+<rounds>10</rounds>
+<weight>Lightweight Division</weight>
+
+<time>Feb. 7, 2020</time>
+
+<loc>Panama City, Panama</loc>
+
+<fighter1>Luis Concepcion</fighter1>
+<fighter2>Rober Barrera</fighter2>
+<rounds>12</rounds>
+<weight>Flyweight Division</weight>
+
+<fighter1>Daniel Matellon</fighter1>
+<fighter2>Erik Garcia</fighter2>
+<rounds>12</rounds>
+<weight>Junior Flyweight Division</weight>
+
 <time>Feb. 8, 2020</time>
 
 <loc>Sheffield, England</loc>
@@ -154,3 +162,94 @@
 <fighter2>Terri Harper</fighter2>
 <rounds>10</rounds>
 <weight>Junior Lightweight Division</weight>
+
+<loc>Allentown, Pa.</loc>
+
+<fighter1>Gary Russell</fighter1>
+<fighter2>Tugstsogt Nyambayar</fighter2>
+<rounds>12</rounds>
+<weight>Featherweight Division</weight>
+
+<fighter1>Guillermo Rigondeaux</fighter1>
+<fighter2>Liborio Solis</fighter2>
+<rounds>12</rounds>
+<weight>Bantamweight Division</weight>
+
+<fighter1>Jaime Arboleda</fighter1>
+<fighter2>Jayson Velez</fighter2>
+<rounds>12</rounds>
+<weight>Junior Lightweight Division</weight>
+
+<time>Feb. 14, 2020</time>
+
+<loc>Anaheim, Calif.</loc>
+
+<fighter1>Ryan Garcia</fighter1>
+<fighter2>Francisco Fonseca</fighter2>
+<rounds>12</rounds>
+<weight>Lightweight Division</weight>
+
+<fighter1>Jorge Linares</fighter1>
+<fighter2>Carlos Morales</fighter2>
+<rounds>12</rounds>
+<weight>Lightweight Division</weight>
+
+<time>Feb. 15, 2020</time>
+
+<loc>Nashville</loc>
+
+<fighter1>Caleb Plant</fighter1>
+<fighter2>Vincent Feigenbutz</fighter2>
+<rounds>12</rounds>
+<weight>Super Middleweight Division</weight>
+
+<time>Feb. 22, 2020</time>
+
+<loc>Las Vegas</loc>
+
+<fighter1>Tyson Fury</fighter1>
+<fighter2>Deontay Wilder</fighter2>
+<rounds>12</rounds>
+<weight>Heavyweight Division</weight>
+
+<fighter1>Amir Imam</fighter1>
+<fighter2>Javier Molina</fighter2>
+<rounds>10</rounds>
+<weight>Welterweight Division</weight>
+
+<time>Feb. 28, 2020</time>
+
+<loc>Milan, Italy</loc>
+
+<fighter1>Daniele Scardina</fighter1>
+<fighter2>Andrew Francillette</fighter2>
+<rounds>10</rounds>
+<weight>Super Middleweight Division</weight>
+
+<fighter1>Maxim Prodan</fighter1>
+<fighter2>Michele Esposito</fighter2>
+<rounds>10</rounds>
+<weight>Welterweight Division</weight>
+
+<time>Feb. 29, 2020</time>
+
+<loc>Frisco, Texas</loc>
+
+<fighter1>Mikey Garcia</fighter1>
+<fighter2>Jessie Vargas</fighter2>
+<rounds>12</rounds>
+<weight>Welterweight Division</weight>
+
+<fighter1>Julio Martinez</fighter1>
+<fighter2>Jay Harris</fighter2>
+<rounds>12</rounds>
+<weight>Flyweight Division</weight>
+
+<time>Mar. 7, 2020</time>
+
+<loc>Manchester, England</loc>
+
+<fighter1>Callum Johnson</fighter1>
+<fighter2>Igor Mikhalkin</fighter2>
+<rounds>12</rounds>
+<weight>Light Heavyweight Division</weight>
