@@ -1,3 +1,48 @@
+<time>Jan. 10, 2020</time>
+
+<loc>Atlantic City, N.J.</loc>
+
+<fighter1>Claressa Shields</fighter1>
+<fighter2>Ivana Habazin</fighter2>
+<rounds>10</rounds>
+<weight>Junior Middleweight Division</weight>
+
+<fighter1>Jaron Ennis</fighter1>
+<fighter2>Bakhtiyar Eyubov</fighter2>
+<rounds>10</rounds>
+<weight>Welterweight Division</weight>
+
+<time>Jan. 11, 2020</time>
+
+<loc>Atlantic City, N.J.</loc>
+
+<fighter1>Jesse Hart</fighter1>
+<fighter2>Joe Smith</fighter2>
+<rounds>10</rounds>
+<weight>Light Heavyweight Division</weight>
+
+<fighter1>Steve Nelson</fighter1>
+<fighter2>Cem Kilic</fighter2>
+<rounds>10</rounds>
+<weight>Super Middleweight Division</weight>
+
+<loc>San Antonio</loc>
+
+<fighter1>Jaime Munguia</fighter1>
+<fighter2>Gary O'Sullivan</fighter2>
+<rounds>12</rounds>
+<weight>Middleweight Division</weight>
+
+<fighter1>Franchon Crews Dezurn</fighter1>
+<fighter2>Alejandra Jimenez</fighter2>
+<rounds>10</rounds>
+<weight>Super Middleweight Division</weight>
+
+<fighter1>Hector Tanajara</fighter1>
+<fighter2>Juan Burgos</fighter2>
+<rounds>10</rounds>
+<weight>Lightweight Division</weight>
+
 <time>Dec. 28, 2019</time>
 
 <loc>Atlanta</loc>
