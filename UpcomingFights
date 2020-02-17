@@ -1,56 +1,3 @@
-<time>Feb. 14, 2020</time>
-
-<loc>Anaheim, Calif.</loc>
-
-<fighter1>Ryan Garcia</fighter1>
-<fighter2>Francisco Fonseca</fighter2>
-<rounds>12</rounds>
-<weight>Lightweight Division</weight>
-
-<fighter1>Jorge Linares</fighter1>
-<fighter2>Carlos Morales</fighter2>
-<rounds>12</rounds>
-<weight>Lightweight Division</weight>
-
-<fighter1>Alexis Rocha</fighter1>
-<fighter2>Brad Solomon</fighter2>
-<rounds>10</rounds>
-<weight>Welterweight Division</weight>
-
-<fighter1>Blair Cobbs</fighter1>
-<fighter2>Samuel Kotey</fighter2>
-<rounds>10</rounds>
-<weight>Welterweight Division</weight>
-
-<fighter1>Bektemir Melikuiziev</fighter1>
-<fighter2>Marco Periban</fighter2>
-<rounds>10</rounds>
-<weight>Super Middleweight Division</weight>
-
-<time>Feb. 15, 2020</time>
-
-<loc>Nashville</loc>
-
-<fighter1>Caleb Plant</fighter1>
-<fighter2>Vincent Feigenbutz</fighter2>
-<rounds>12</rounds>
-<weight>Super Middleweight Division</weight>
-
-<fighter1>Bryant Perrella</fighter1>
-<fighter2>Abel Ramos</fighter2>
-<rounds>10</rounds>
-<weight>Welterweight Division</weight>
-
-<fighter1>Austin Dulay</fighter1>
-<fighter2>Diego Magdaleno</fighter2>
-<rounds>10</rounds>
-<weight>Lightweight Division</weight>
-
-<fighter1>Rau'shee Warren</fighter1>
-<fighter2>Gilberto Mendoza</fighter2>
-<rounds>10</rounds>
-<weight>Bantamweight Division</weight>
-
 <time>Feb. 22, 2020</time>
 
 <loc>Las Vegas</loc>
@@ -70,10 +17,27 @@
 <rounds>12</rounds>
 <weight>Junior Featherweight Division</weight>
 
+<fighter1>Sebastian Fundora</fighter1>
+<fighter2>Daniel Lewis</fighter2>
+<rounds>10</rounds>
+<weight>Junior Middleweight Division</weight>
+
 <fighter1>Amir Imam</fighter1>
 <fighter2>Javier Molina</fighter2>
 <rounds>10</rounds>
 <weight>Welterweight Division</weight>
+
+<loc>London</loc>
+
+<fighter1>Brad Foster</fighter1>
+<fighter2>Lucien Reid</fighter2>
+<rounds>12</rounds>
+<weight>Junior Featherweight Division</weight>
+
+<fighter1>Kody Davies</fighter1>
+<fighter2>Umar Sadiq</fighter2>
+<rounds>8</rounds>
+<weight>Super Middleweight Division</weight>
 
 <time>Feb. 28, 2020</time>
 
