@@ -1,3 +1,43 @@
+<time>Feb. 22, 2020</time>
+
+<loc>Las Vegas</loc>
+
+<fighter1>Tyson Fury</fighter1>
+<fighter2>Deontay Wilder</fighter2>
+<rounds>12</rounds>
+<weight>Heavyweight Division</weight>
+
+<fighter1>Charles Martin</fighter1>
+<fighter2>Gerald Washington</fighter2>
+<rounds>12</rounds>
+<weight>Heavyweight Division</weight>
+
+<fighter1>Emanuel Navarrete</fighter1>
+<fighter2>Jeo Santisima</fighter2>
+<rounds>12</rounds>
+<weight>Junior Featherweight Division</weight>
+
+<fighter1>Sebastian Fundora</fighter1>
+<fighter2>Daniel Lewis</fighter2>
+<rounds>10</rounds>
+<weight>Junior Middleweight Division</weight>
+
+<fighter1>Amir Imam</fighter1>
+<fighter2>Javier Molina</fighter2>
+<rounds>10</rounds>
+<weight>Welterweight Division</weight>
+
+<loc>London</loc>
+
+<fighter1>Brad Foster</fighter1>
+<fighter2>Lucien Reid</fighter2>
+<rounds>12</rounds>
+<weight>Junior Featherweight Division</weight>
+
+<fighter1>Kody Davies</fighter1>
+<fighter2>Umar Sadiq</fighter2>
+<rounds>8</rounds>
+<weight>Super Middleweight Division</weight>
 
 <time>Feb. 21, 2020</time>
 
