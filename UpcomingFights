@@ -1,59 +1,21 @@
-
-
-<time>Feb. 22, 2020</time>
+<time>Feb. 28, 2020</time>
 
 <loc>Las Vegas</loc>
 
-<fighter1>Tyson Fury</fighter1>
-<fighter2>Deontay Wilder</fighter2>
-<rounds>12</rounds>
-<weight>Heavyweight Division</weight>
-
-<fighter1>Charles Martin</fighter1>
-<fighter2>Gerald Washington</fighter2>
-<rounds>12</rounds>
-<weight>Heavyweight Division</weight>
-
-<fighter1>Emanuel Navarrete</fighter1>
-<fighter2>Jeo Santisima</fighter2>
-<rounds>12</rounds>
-<weight>Junior Featherweight Division</weight>
-
-<fighter1>Sebastian Fundora</fighter1>
-<fighter2>Daniel Lewis</fighter2>
+<fighter1>Keith Hunter</fighter1>
+<fighter2>Sanjarbek Rakhmanov</fighter2>
 <rounds>10</rounds>
-<weight>Junior Middleweight Division</weight>
+<weight>Junior Welterweight Division</weight>
 
-<fighter1>Amir Imam</fighter1>
-<fighter2>Javier Molina</fighter2>
+<fighter1>Richardson Hitchins</fighter1>
+<fighter2>Nick DeLomba</fighter2>
 <rounds>10</rounds>
 <weight>Welterweight Division</weight>
 
-<loc>London</loc>
-
-<fighter1>Brad Foster</fighter1>
-<fighter2>Lucien Reid</fighter2>
-<rounds>12</rounds>
-<weight>Junior Featherweight Division</weight>
-
-<fighter1>Kody Davies</fighter1>
-<fighter2>Umar Sadiq</fighter2>
-<rounds>8</rounds>
-<weight>Super Middleweight Division</weight>
-
-<time>Feb. 28, 2020</time>
-
-<loc>Milan, Italy</loc>
-
-<fighter1>Daniele Scardina</fighter1>
-<fighter2>Andrew Francillette</fighter2>
-<rounds>10</rounds>
-<weight>Super Middleweight Division</weight>
-
-<fighter1>Maxim Prodan</fighter1>
-<fighter2>Michele Esposito</fighter2>
-<rounds>10</rounds>
-<weight>Welterweight Division</weight>
+<fighter1>Viddal Riley</fighter1>
+<fighter2>Muhammad Abdullah</fighter2>
+<rounds>4</rounds>
+<weight>Cruiserweight Division</weight>
 
 <time>Feb. 29, 2020</time>
 
@@ -79,16 +41,172 @@
 <rounds>10</rounds>
 <weight>Heavyweight Division</weight>
 
-<fighter1>Murat Gassiev</fighter1>
-<fighter2>Jerry Forrest</fighter2>
+<fighter1>Israil Madrimov</fighter1>
+<fighter2>Charlie Navarro</fighter2>
 <rounds>10</rounds>
-<weight>Heavyweight Division</weight>
+<weight>Junior Middleweight Division</weight>
+
+<fighter1>Jesse Rodriguez</fighter1>
+<fighter2>Marco Sustaita</fighter2>
+<rounds>10</rounds>
+<weight>Flyweight Division</weight>
 
 <time>Mar. 7, 2020</time>
 
 <loc>Manchester, England</loc>
 
-<fighter1>Callum Johnson</fighter1>
-<fighter2>Igor Mikhalkin</fighter2>
+<fighter1>Scott Quigg</fighter1>
+<fighter2>Jono Carroll</fighter2>
+<rounds>12</rounds>
+<weight>Junior Lightweight Division</weight>
+
+<fighter1>Zach Parker</fighter1>
+<fighter2>Rohan Murdock</fighter2>
+<rounds>12</rounds>
+<weight>Super Middleweight Division</weight>
+
+<fighter1>Hughie Fury</fighter1>
+<fighter2>Pavel Sour</fighter2>
+<rounds>10</rounds>
+<weight>Heavyweight Division</weight>
+
+<fighter1>Anthony Fowler</fighter1>
+<fighter2>Jack Flatley</fighter2>
+<rounds>10</rounds>
+<weight>Junior Middleweight Division</weight>
+
+<loc>New York</loc>
+
+<fighter1>Adam Kownacki</fighter1>
+<fighter2>Robert Helenius</fighter2>
+<rounds>12</rounds>
+<weight>Heavyweight Division</weight>
+
+<fighter1>Efe Ajagba</fighter1>
+<fighter2>Razvan Cojanu</fighter2>
+<rounds>10</rounds>
+<weight>Heavyweight Division</weight>
+
+<fighter1>Frank Sanchez</fighter1>
+<fighter2>Joey Dawejko</fighter2>
+<rounds>10</rounds>
+<weight>Heavyweight Division</weight>
+
+<time>Mar. 14, 2020</time>
+
+<loc>New York</loc>
+
+<fighter1>Shakur Stevenson</fighter1>
+<fighter2>Miguel Marriaga</fighter2>
+<rounds>12</rounds>
+<weight>Featherweight Division</weight>
+
+<fighter1>Jessie Magdaleno</fighter1>
+<fighter2>Sakaria Lukas</fighter2>
+<rounds>10</rounds>
+<weight>Featherweight Division</weight>
+
+<time>Mar. 17, 2020</time>
+
+<loc>New York</loc>
+
+<fighter1>Michael Conlan</fighter1>
+<fighter2>Belmar Preciado</fighter2>
+<rounds>10</rounds>
+<weight>Featherweight Division</weight>
+
+<fighter1>Mikaela Mayer</fighter1>
+<fighter2>Melissa Hernandez</fighter2>
+<rounds>10</rounds>
+<weight>Junior Lightweight Division</weight>
+
+<time>Mar. 21, 2020</time>
+
+<loc>Riga, Latvia</loc>
+
+<fighter1>Yunier Dorticos</fighter1>
+<fighter2>Mairis Briedis</fighter2>
+<rounds>12</rounds>
+<weight>Cruiserweight Division</weight>
+
+<time>Mar. 28, 2020</time>
+
+<loc>London</loc>
+
+<fighter1>David Avanesyan</fighter1>
+<fighter2>Josh Kelly</fighter2>
+<rounds>12</rounds>
+<weight>Welterweight Division</weight>
+
+<loc>Quebec City</loc>
+
+<fighter1>Artur Beterbiev</fighter1>
+<fighter2>Meng Fanlong</fighter2>
 <rounds>12</rounds>
 <weight>Light Heavyweight Division</weight>
+
+<time>April 4, 2020</time>
+
+<loc>Newcastle, England</loc>
+
+<fighter1>Lewis Ritson</fighter1>
+<fighter2>Miguel Vazquez</fighter2>
+<rounds>12</rounds>
+<weight>Junior Welterweight Division</weight>
+
+<time>April 11, 2020</time>
+
+<loc>London</loc>
+
+<fighter1>Joe Joyce</fighter1>
+<fighter2>Daniel Dubois</fighter2>
+<rounds>12</rounds>
+<weight>Heavyweight Division</weight>
+
+<time>April 17, 2020</time>
+
+<loc>Oxon Hill, Md</loc>
+
+<fighter1>Regis Prograis</fighter1>
+<fighter2>Maurice Hooker</fighter2>
+<rounds>12</rounds>
+<weight>Welterweight Division</weight>
+
+<fighter1>Luke Campbell</fighter1>
+<fighter2>Javier Fortuna</fighter2>
+<rounds>12</rounds>
+<weight>Lightweight Division</weight>
+
+<time>April 22, 2020</time>
+
+<loc>Australia</loc>
+
+<fighter1>Jeff Horn</fighter1>
+<fighter2>Tim Tszyu</fighter2>
+<rounds>10</rounds>
+<weight>Junior Middleweight Division</weight>
+
+<time>April 25, 2020</time>
+
+<loc>Las Vegas</loc>
+
+<fighter1>Naoya Inoue</fighter1>
+<fighter2>John Casimero</fighter2>
+<rounds>12</rounds>
+<weight>Bantamweight Division</weight>
+
+<fighter1>Jason Moloney</fighter1>
+<fighter2>Joshua Greer</fighter2>
+<rounds>10</rounds>
+<weight>Bantamweight Division</weight>
+
+<time>May 9, 2020</time>
+
+<loc>Fresno, Calif.</loc>
+
+<fighter1>Jose Ramirez</fighter1>
+<fighter2>Viktor Postol</fighter2>
+<rounds>12</rounds>
+<weight>Junior Welterweight Division</weight>
+
+
