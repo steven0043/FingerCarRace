@@ -1,32 +1,5 @@
 <time>Mar. 7, 2020</time>
 
-<loc>Manchester, England</loc>
-
-<fighter1>Scott Quigg</fighter1>
-<fighter2>Jono Carroll</fighter2>
-<rounds>12</rounds>
-<weight>Junior Lightweight Division</weight>
-
-<fighter1>Zach Parker</fighter1>
-<fighter2>Rohan Murdock</fighter2>
-<rounds>12</rounds>
-<weight>Super Middleweight Division</weight>
-
-<fighter1>Hughie Fury</fighter1>
-<fighter2>Pavel Sour</fighter2>
-<rounds>10</rounds>
-<weight>Heavyweight Division</weight>
-
-<fighter1>Anthony Fowler</fighter1>
-<fighter2>Theophilus Tetteh</fighter2>
-<rounds>10</rounds>
-<weight>Junior Middleweight Division</weight>
-
-<fighter1>Robbie Davies</fighter1>
-<fighter2>Damian Yapur</fighter2>
-<rounds>8</rounds>
-<weight>Junior Welterweight Division</weight>
-
 <loc>New York</loc>
 
 <fighter1>Adam Kownacki</fighter1>
@@ -75,6 +48,18 @@
 <fighter2>Max Griffin</fighter2>
 <rounds>3</rounds>
 <weight>Welterweight Division</weight>
+
+<loc>Manchester, England</loc>
+
+<fighter1>Scott Quigg</fighter1>
+<fighter2>Jono Carroll</fighter2>
+<rounds>12</rounds>
+<weight>Junior Lightweight Division</weight>
+
+<fighter1>Zach Parker</fighter1>
+<fighter2>Rohan Murdock</fighter2>
+<rounds>12</rounds>
+<weight>Super Middleweight Division</weight>
 
 <time>Mar. 14, 2020</time>
 
