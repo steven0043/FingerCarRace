@@ -1,3 +1,65 @@
+<time>Mar. 7, 2020</time>
+
+<loc>New York</loc>
+
+<fighter1>Adam Kownacki</fighter1>
+<fighter2>Robert Helenius</fighter2>
+<rounds>12</rounds>
+<weight>Heavyweight Division</weight>
+
+<fighter1>Efe Ajagba</fighter1>
+<fighter2>Razvan Cojanu</fighter2>
+<rounds>10</rounds>
+<weight>Heavyweight Division</weight>
+
+<fighter1>Frank Sanchez</fighter1>
+<fighter2>Joey Dawejko</fighter2>
+<rounds>10</rounds>
+<weight>Heavyweight Division</weight>
+
+<fighter1>Robert Alfonso</fighter1>
+<fighter2>Carlos Negron</fighter2>
+<rounds>10</rounds>
+<weight>Heavyweight Division</weight>
+
+<loc>Las Vegas</loc>
+
+<fighter1>Israel Adesanya</fighter1>
+<fighter2>Yoel Romero</fighter2>
+<rounds>5</rounds>
+<weight>Middleweight Division</weight>
+
+<fighter1>Weili Zhang</fighter1>
+<fighter2>Joanna Jedrzejczyk</fighter2>
+<rounds>5</rounds>
+<weight>Strawweight Division</weight>
+
+<fighter1>Beneil Dariush</fighter1>
+<fighter2>Drakkar Klose</fighter2>
+<rounds>3</rounds>
+<weight>Lightweight Division</weight>
+
+<fighter1>Neil Magny</fighter1>
+<fighter2>Li Jingliang</fighter2>
+<rounds>3</rounds>
+<weight>Welterweight Division</weight>
+
+<fighter1>Alex Oliveira</fighter1>
+<fighter2>Max Griffin</fighter2>
+<rounds>3</rounds>
+<weight>Welterweight Division</weight>
+
+<loc>Manchester, England</loc>
+
+<fighter1>Scott Quigg</fighter1>
+<fighter2>Jono Carroll</fighter2>
+<rounds>12</rounds>
+<weight>Junior Lightweight Division</weight>
+
+<fighter1>Zach Parker</fighter1>
+<fighter2>Rohan Murdock</fighter2>
+<rounds>12</rounds>
+<weight>Super Middleweight Division</weight>
 
 <time>Feb. 29, 2020</time>
 
