@@ -1,32 +1,5 @@
 <time>Mar. 14, 2020</time>
 
-<loc>Brazil</loc>
-
-<fighter1>Kevin Lee</fighter1>
-<fighter2>Charles Oliveira</fighter2>
-<rounds>5</rounds>
-<weight>MMA</weight>
-
-<fighter1>Demian Maia</fighter1>
-<fighter2>Gilbert Burns</fighter2>
-<rounds>3</rounds>
-<weight>MMA</weight>
-
-<fighter1>Renato Moicano</fighter1>
-<fighter2>Damir Hadzovic</fighter2>
-<rounds>3</rounds>
-<weight>MMA</weight>
-
-<fighter1>Johnny Walker</fighter1>
-<fighter2>Nikita Krylov</fighter2>
-<rounds>3</rounds>
-<weight>MMA</weight>
-
-<fighter1>Francisco Trinaldo</fighter1>
-<fighter2>John Makdessi</fighter2>
-<rounds>3</rounds>
-<weight>MMA</weight>
-
 <loc>New York</loc>
 
 <fighter1>Shakur Stevenson</fighter1>
