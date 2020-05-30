@@ -1,52 +1,59 @@
-<time>⏲ Today ⏲</time>
+<time>May 30, 2020</time>
 
-<loc>🏠 Your House 🏠</loc>
+<loc>Las Vegas</loc>
 
-<fighter1>You</fighter1>
-<fighter2>Coronavirus</fighter2>
-<rounds>12</rounds>
-<weight>🏆 Quarantine World Championship 🏆</weight>
+<fighter1>Tyron Woodley</fighter1>
+<fighter2>Gilbert Burns</fighter2>
+<rounds>5</rounds>
+<weight>Welterweight</weight>
 
-<time>May 16, 2020</time>
-
-<loc>Jacksonville Arena</loc>
-
-<fighter1>Alistair Overeem</fighter1>
-<fighter2>Walt Harris</fighter2>
+<fighter1>Blagoy Ivanov</fighter1>
+<fighter2>Augusto Sakai</fighter2>
 <rounds>5</rounds>
 <weight>Heavyweight</weight>
 
-<fighter1>Claudia Gadelha</fighter1>
-<fighter2>Angela Hill</fighter2>
+<fighter1>Billy Quarantillo</fighter1>
+<fighter2>Spike Carlyle</fighter2>
+<rounds>5</rounds>
+<weight>Catchweight</weight>
+
+<fighter1>Roosevelt Roberts</fighter1>
+<fighter2>Brok Weaver</fighter2>
+<rounds>5</rounds>
+<weight>Lightweight</weight>
+
+<fighter1>Mackenzie Dern</fighter1>
+<fighter2>Hannah Cifers</fighter2>
 <rounds>5</rounds>
 <weight>Strawweight</weight>
 
-<fighter1>Dan Ige</fighter1>
-<fighter2>Edson Barboza</fighter2>
-<rounds>3</rounds>
-<weight>Featherweight</weight>
+<fighter1>Katlyn Chookagian</fighter1>
+<fighter2>Antonina Shevchenko</fighter2>
+<rounds>5</rounds>
+<weight>Flyweight</weight>
 
-<fighter1>Eryk Anders</fighter1>
-<fighter2>Krzysztof Jotko</fighter2>
-<rounds>3</rounds>
-<weight>Middleweight</weight>
-
-<fighter1>Song Yadong</fighter1>
-<fighter2>Marlon Vera</fighter2>
-<rounds>3</rounds>
-<weight>Featherweight</weight>
-
-<fighter1>Matt Brown</fighter1>
-<fighter2>Miguel Baeza</fighter2>
-<rounds>3</rounds>
+<fighter1>Daniel Rodriguez</fighter1>
+<fighter2>Gabe Green</fighter2>
+<rounds>5</rounds>
 <weight>Welterweight</weight>
 
-<fighter1>Anthony Hernandez</fighter1>
-<fighter2>Kevin Holland</fighter2>
-<rounds>3</rounds>
-<weight>Middleweight</weight>
+<fighter1>Jamahal Hill</fighter1>
+<fighter2>Klidson Farias de Abreu</fighter2>
+<rounds>5</rounds>
+<weight>Light Heavyweight</weight>
 
-<fighter1>Giga Chikadze</fighter1>
-<fighter2>Irwin Rivera</fighter2>
-<rounds>3</rounds>
+<fighter1>Tim Elliott</fighter1>
+<fighter2>Brandon Royval</fighter2>
+<rounds>5</rounds>
+<weight>Flyweight</weight>
+
+<fighter1>Louis Smolka</fighter1>
+<fighter2>Casey Kenney</fighter2>
+<rounds>5</rounds>
+<weight>Bantamweight</weight>
+
+<fighter1>Chris Gutierrez</fighter1>
+<fighter2>Vince Morales</fighter2>
+<rounds>5</rounds>
 <weight>Featherweight</weight>
+
