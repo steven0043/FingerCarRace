@@ -46,3 +46,31 @@
 <fighter2>Maki Pitolo</fighter2>
 <rounds>5</rounds>
 <weight>Middleweight</weight>
+
+<time>June 9, 2020</time>
+
+<loc>Las Vegas</loc>
+
+<fighter1>Shakur Stevenson</fighter1>
+<fighter2>Felix Caraballo</fighter2>
+<rounds>10</rounds>
+<weight>Junior Lightweight</weight>
+
+<fighter1>Mikaela Mayer</fighter1>
+<fighter2>Helen Joseph</fighter2>
+<rounds>10</rounds>
+<weight>Junior Lightweight</weight>
+
+<time>June 11, 2020</time>
+
+<loc>Las Vegas</loc>
+
+<fighter1>Jessie Magdaleno</fighter1>
+<fighter2>Yenifel Vicente</fighter2>
+<rounds>10</rounds>
+<weight>Junior Lightweight</weight>
+
+<fighter1>Adam Lopez</fighter1>
+<fighter2>Luis Coria</fighter2>
+<rounds>10</rounds>
+<weight>Featherweight</weight>
