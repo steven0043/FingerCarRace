@@ -1,76 +1,41 @@
-<time>June 6, 2020</time>
+<time>June 13, 2020</time>
 
 <loc>Las Vegas</loc>
 
-<fighter1>Amanda Nunes</fighter1>
-<fighter2>Felicia Spencer</fighter2>
-<rounds>5</rounds>
-<weight>Featherweight</weight>
-
-<fighter1>Raphael Assuncao</fighter1>
-<fighter2>Cody Garbrandt</fighter2>
-<rounds>5</rounds>
+<fighter1>Joshua Greer</fighter1>
+<fighter2>Mike Plania</fighter2>
+<rounds>10</rounds>
 <weight>Bantamweight</weight>
 
-<fighter1>Aljamain Sterling</fighter1>
-<fighter2>Cory Sandhagen</fighter2>
-<rounds>5</rounds>
-<weight>Bantamweight</weight>
-
-<fighter1>Neil Magny</fighter1>
-<fighter2>Anthony Rocco Martin</fighter2>
-<rounds>5</rounds>
+<fighter1>Giovani Santillan</fighter1>
+<fighter2>Antonio DeMarco</fighter2>
+<rounds>10</rounds>
 <weight>Welterweight</weight>
 
-<fighter1>Eddie Wineland</fighter1>
-<fighter2>Sean O'Malley</fighter2>
-<rounds>5</rounds>
-<weight>Bantamweight</weight>
-
-<fighter1>Alex Caceres</fighter1>
-<fighter2>Chase Hooper</fighter2>
-<rounds>5</rounds>
-<weight>Featherweight</weight>
-
-<fighter1>Ian Heinisch</fighter1>
-<fighter2>Gerald Meerschaert</fighter2>
-<rounds>5</rounds>
-<weight>Middleweight</weight>
-
-<fighter1>Cody Stamann</fighter1>
-<fighter2>Brian Kelleher</fighter2>
-<rounds>5</rounds>
-<weight>Featherweight</weight>
-
-<fighter1>Charles Byrd</fighter1>
-<fighter2>Maki Pitolo</fighter2>
-<rounds>5</rounds>
-<weight>Middleweight</weight>
-
-<time>June 9, 2020</time>
+<time>June 18, 2020</time>
 
 <loc>Las Vegas</loc>
 
-<fighter1>Shakur Stevenson</fighter1>
-<fighter2>Felix Caraballo</fighter2>
+<fighter1>Jose Pedraza</fighter1>
+<fighter2>Mikkel LesPierre</fighter2>
 <rounds>10</rounds>
-<weight>Junior Lightweight</weight>
+<weight>Junior Welterweight</weight>
 
-<fighter1>Mikaela Mayer</fighter1>
-<fighter2>Helen Joseph</fighter2>
+<fighter1>Gabriel Flores</fighter1>
+<fighter2>Josec Ruiz</fighter2>
 <rounds>10</rounds>
-<weight>Junior Lightweight</weight>
+<weight>Featherweight</weight>
 
-<time>June 11, 2020</time>
+<time>June 20, 2020</time>
 
-<loc>Las Vegas</loc>
+<loc>Mexico City</loc>
 
-<fighter1>Jessie Magdaleno</fighter1>
-<fighter2>Yenifel Vicente</fighter2>
+<fighter1>Emanuel Navarrete</fighter1>
+<fighter2>Uriel Lopez</fighter2>
 <rounds>10</rounds>
-<weight>Junior Lightweight</weight>
+<weight>Junior Featherweight</weight>
 
-<fighter1>Adam Lopez</fighter1>
-<fighter2>Luis Coria</fighter2>
+<fighter1>Carlos Ornelas</fighter1>
+<fighter2>Edwin Palomares</fighter2>
 <rounds>10</rounds>
 <weight>Featherweight</weight>
