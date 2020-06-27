@@ -1,18 +1,55 @@
-<time>June 13, 2020</time>
+<time>June 27, 2020</time>
+
+<loc>Mexico City</loc>
+
+<fighter1>Miguel Berchelt</fighter1>
+<fighter2>Eleazar Valenzuela</fighter2>
+<rounds>10</rounds>
+<weight>Junior Lightweight</weight>
+
+<fighter1>Omar Aguilar</fighter1>
+<fighter2>Dante Jardon</fighter2>
+<rounds>10</rounds>
+<weight>Junior Welterweight</weight>
 
 <loc>Las Vegas</loc>
 
-<fighter1>Joshua Greer</fighter1>
-<fighter2>Mike Plania</fighter2>
-<rounds>10</rounds>
-<weight>Bantamweight</weight>
+<fighter1>Dustin Poirier</fighter1>
+<fighter2>Dan Hooker</fighter2>
+<rounds>5</rounds>
+<weight>Lightweight</weight>
 
-<fighter1>Giovani Santillan</fighter1>
-<fighter2>Antonio DeMarco</fighter2>
-<rounds>10</rounds>
+<fighter1>Mike Perry</fighter1>
+<fighter2>Mickey Gall</fighter2>
+<rounds>5</rounds>
 <weight>Welterweight</weight>
 
-<time>June 18, 2020</time>
+<fighter1>Gian Villante</fighter1>
+<fighter2>Maurice Greene</fighter2>
+<rounds>5</rounds>
+<weight>Heavyweight</weight>
+
+<fighter1>Brendan Allen</fighter1>
+<fighter2>Kyle Daukaus</fighter2>
+<rounds>5</rounds>
+<weight>Middleweight</weight>
+
+
+<time>June 30, 2020</time>
+
+<loc>Las Vegas</loc>
+
+<fighter1>Alex Saucedo</fighter1>
+<fighter2>Sonny Fredrickson</fighter2>
+<rounds>10</rounds>
+<weight>Junior Welterweight</weight>
+
+<fighter1>Salvador Briceno</fighter1>
+<fighter2>Josue Vargas</fighter2>
+<rounds>10</rounds>
+<weight>Junior Welterweight</weight>
+
+<time>July 2, 2020</time>
 
 <loc>Las Vegas</loc>
 
@@ -21,21 +58,13 @@
 <rounds>10</rounds>
 <weight>Junior Welterweight</weight>
 
-<fighter1>Gabriel Flores</fighter1>
-<fighter2>Josec Ruiz</fighter2>
+<fighter1>Jose Enrique Vivas</fighter1>
+<fighter2>Carlos Jackson</fighter2>
 <rounds>10</rounds>
 <weight>Featherweight</weight>
 
-<time>June 20, 2020</time>
-
-<loc>Mexico City</loc>
-
-<fighter1>Emanuel Navarrete</fighter1>
-<fighter2>Uriel Lopez</fighter2>
-<rounds>10</rounds>
-<weight>Junior Featherweight</weight>
-
-<fighter1>Carlos Ornelas</fighter1>
-<fighter2>Edwin Palomares</fighter2>
-<rounds>10</rounds>
+<fighter1>Robeisy Ramirez</fighter1>
+<fighter2>Adan Gonzales</fighter2>
+<rounds>6</rounds>
 <weight>Featherweight</weight>
+
