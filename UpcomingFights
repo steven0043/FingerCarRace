@@ -1,70 +1,283 @@
-<time>June 27, 2020</time>
+<time>July 10, 2020</time>
 
-<loc>Mexico City</loc>
+<loc>London</loc>
 
-<fighter1>Miguel Berchelt</fighter1>
-<fighter2>Eleazar Valenzuela</fighter2>
+<fighter1>Brad Foster</fighter1>
+<fighter2>James Beech</fighter2>
+<rounds>12</rounds>
+<weight>Junior Featherweight</weight>
+
+<fighter1>Hamzah Sheeraz</fighter1>
+<fighter2>Paul Kean</fighter2>
 <rounds>10</rounds>
-<weight>Junior Lightweight</weight>
+<weight>Junior Middleweight</weight>
 
-<fighter1>Omar Aguilar</fighter1>
-<fighter2>Dante Jardon</fighter2>
+<fighter1>Hamzah Sheeraz</fighter1>
+<fighter2>Paul Kean</fighter2>
 <rounds>10</rounds>
-<weight>Junior Welterweight</weight>
+<weight>Junior Middleweight</weight>
 
-<loc>Las Vegas</loc>
+<fighter1>David Adeleye</fighter1>
+<fighter2>Matt Gordon</fighter2>
+<rounds>6</rounds>
+<weight>Heavyweight</weight>
 
-<fighter1>Dustin Poirier</fighter1>
-<fighter2>Dan Hooker</fighter2>
-<rounds>5</rounds>
+<fighter1>Mark Chamberlain</fighter1>
+<fighter2>Stu Greener</fighter2>
+<rounds>6</rounds>
 <weight>Lightweight</weight>
 
-<fighter1>Mike Perry</fighter1>
-<fighter2>Mickey Gall</fighter2>
+<time>July 11, 2020</time>
+
+<loc>Fight Island</loc>
+
+<fighter1>Kamaru Usman</fighter1>
+<fighter2>Jorge Masvidal</fighter2>
 <rounds>5</rounds>
 <weight>Welterweight</weight>
 
-<fighter1>Gian Villante</fighter1>
-<fighter2>Maurice Greene</fighter2>
+<fighter1>Alexander Volkanovski</fighter1>
+<fighter2>Max Holloway</fighter2>
 <rounds>5</rounds>
+<weight>Featherweight</weight>
+
+<fighter1>Petr Yan</fighter1>
+<fighter2>José Aldo</fighter2>
+<rounds>5</rounds>
+<weight>Bantamweight</weight>
+
+<fighter1>Jéssica Andrade</fighter1>
+<fighter2>Rose Namajunas</fighter2>
+<rounds>3</rounds>
+<weight>Strawweight</weight>
+
+<fighter1>Amanda Ribas</fighter1>
+<fighter2>Paige VanZant</fighter2>
+<rounds>3</rounds>
+<weight>Flyweight</weight>
+
+<fighter1>Volkan</fighter1>
+<fighter2>Jiri Prochazka</fighter2>
+<rounds>3</rounds>
+<weight>Light Heavyweight</weight>
+
+<fighter1>Elizeu Dos Santos</fighter1>
+<fighter2>Muslim Salikhov</fighter2>
+<rounds>3</rounds>
+<weight>Welterweight</weight>
+
+<fighter1>Makwan Amirkhani</fighter1>
+<fighter2>Danny Henry</fighter2>
+<rounds>3</rounds>
+<weight>Featherweight</weight>
+
+<fighter1>Leonardo Santos</fighter1>
+<fighter2>Roman Bogatov</fighter2>
+<rounds>3</rounds>
+<weight>Lightweight</weight>
+
+<fighter1>Marcin Tybura</fighter1>
+<fighter2>Maxim Grishin</fighter2>
+<rounds>3</rounds>
 <weight>Heavyweight</weight>
 
-<fighter1>Brendan Allen</fighter1>
-<fighter2>Kyle Daukaus</fighter2>
-<rounds>5</rounds>
+<fighter1>Raulian Paiva</fighter1>
+<fighter2>ZhalgasZhumagulov</fighter2>
+<rounds>3</rounds>
+<weight>Flyyweight</weight>
+
+<fighter1>Karol Rosa</fighter1>
+<fighter2>Vanessa Melo</fighter2>
+<rounds>3</rounds>
+<weight>Bantamweight</weight>
+
+<fighter1>Martin Day</fighter1>
+<fighter2>Davey Grant</fighter2>
+<rounds>3</rounds>
+<weight>Bantamweight</weight>
+
+<time>July 14, 2020</time>
+
+<loc>Las Vegas</loc>
+
+<fighter1>Jamel Herring</fighter1>
+<fighter2>Jonathan Oquendo</fighter2>
+<rounds>12</rounds>
+<weight>Junior Lightweight</weight>
+
+<fighter1>Mikaela Mayer</fighter1>
+<fighter2>Helen Joseph</fighter2>
+<rounds>10</rounds>
+<weight>Junior Lightweight</weight>
+
+<fighter1>Clay Collard</fighter1>
+<fighter2>LT Nelson</fighter2>
+<rounds>6</rounds>
 <weight>Middleweight</weight>
 
-
-<time>June 30, 2020</time>
-
-<loc>Las Vegas</loc>
-
-<fighter1>Alex Saucedo</fighter1>
-<fighter2>Sonny Fredrickson</fighter2>
-<rounds>10</rounds>
-<weight>Junior Welterweight</weight>
-
-<fighter1>Salvador Briceno</fighter1>
-<fighter2>Josue Vargas</fighter2>
-<rounds>10</rounds>
-<weight>Junior Welterweight</weight>
-
-<time>July 2, 2020</time>
+<time>July 16, 2020</time>
 
 <loc>Las Vegas</loc>
 
-<fighter1>Jose Pedraza</fighter1>
-<fighter2>Mikkel LesPierre</fighter2>
+<fighter1>Miguel Marriaga</fighter1>
+<fighter2>Mark John Yap</fighter2>
 <rounds>10</rounds>
+<weight>Featherweight</weight>
+
+<fighter1>Felix Verdejo</fighter1>
+<fighter2>Will Madera</fighter2>
+<rounds>10</rounds>
+<weight>Lightweight</weight>
+
+<time>July 21, 2020</time>
+
+<loc>Las Vegas</loc>
+
+<fighter1>Oscar Valdez</fighter1>
+<fighter2>Jayson Velez</fighter2>
+<rounds>10</rounds>
+<weight>Junior Lightweight</weight>
+
+<time>July 24, 2020</time>
+
+<loc>Indio, California</loc>
+
+<fighter1>Vergil Ortiz</fighter1>
+<fighter2>Samuel Vargas</fighter2>
+<rounds>10</rounds>
+<weight>Welterweight</weight>
+
+<fighter1>Hector Tanajara</fighter1>
+<fighter2>Mercito Gesta</fighter2>
+<rounds>10</rounds>
+<weight>Lightweight</weight>
+
+<time>August 1, 2020</time>
+
+<loc>Brentwood, Essex, England</loc>
+
+<fighter1>Sam Eggington</fighter1>
+<fighter2>Ted Cheeseman</fighter2>
+<rounds>12</rounds>
+<weight>Junior Middleweight</weight>
+
+<fighter1>James Tennyson</fighter1>
+<fighter2>Gavin Gwynne</fighter2>
+<rounds>12</rounds>
+<weight>Lightweight</weight>
+
+<fighter1>Jordan Gill</fighter1>
+<fighter2>Reece Bellotti</fighter2>
+<rounds>12</rounds>
+<weight>Featherweight</weight>
+
+<fighter1>Fabio Wardley</fighter1>
+<fighter2>Simon Vallily</fighter2>
+<rounds>12</rounds>
+<weight>Heavyweight</weight>
+
+<fighter1>Dalton Smith</fighter1>
+<fighter2>Nathan Bennett</fighter2>
+<rounds>12</rounds>
 <weight>Junior Welterweight</weight>
 
-<fighter1>Jose Enrique Vivas</fighter1>
-<fighter2>Carlos Jackson</fighter2>
+<time>August 7, 2020</time>
+
+<loc>Brentwood, Essex, England</loc>
+
+<fighter1>Terri Harper</fighter1>
+<fighter2>Natasha Jonas</fighter2>
 <rounds>10</rounds>
+<weight>Lightweight</weight>
+
+<fighter1>Chris Billam Smith</fighter1>
+<fighter2>Nathan Thorley</fighter2>
+<rounds>12</rounds>
+<weight>Cruiserweight</weight>
+
+<fighter1>Anthony Fowler</fighter1>
+<fighter2>Adam Harper</fighter2>
+<rounds>12</rounds>
+<weight>Junior Middleweight</weight>
+
+<fighter1>Aqib Fiaz</fighter1>
+<fighter2>Kane Baker</fighter2>
+<rounds>12</rounds>
+<weight>Lightweight</weight>
+
+<time>August 14, 2020</time>
+
+<loc>Brentwood, Essex, England</loc>
+
+<fighter1>Felix Cash</fighter1>
+<fighter2>Jason Welborn</fighter2>
+<rounds>12</rounds>
+<weight>Middleweight</weight>
+
+<fighter1>Zelfa Barrett</fighter1>
+<fighter2>Eric Donovan</fighter2>
+<rounds>10</rounds>
+<weight>Junior Lightweight</weight>
+
+<fighter1>Kieron Conway</fighter1>
+<fighter2>Navid Mansouri</fighter2>
+<rounds>12</rounds>
+<weight>Junior Welterweight</weight>
+
+<fighter1>Shannon Courtenay</fighter1>
+<fighter2>Rachel Ball</fighter2>
+<rounds>10</rounds>
+<weight>Junior Featherweight</weight>
+
+<time>August 15, 2020</time>
+
+<loc>Tulsa, Oklahoma</loc>
+
+<fighter1>Julio Martinez</fighter1>
+<fighter2>McWilliams Arroyo</fighter2>
+<rounds>12</rounds>
 <weight>Featherweight</weight>
 
-<fighter1>Robeisy Ramirez</fighter1>
-<fighter2>Adan Gonzales</fighter2>
-<rounds>6</rounds>
-<weight>Featherweight</weight>
+<fighter1>Cecilia Brækhus</fighter1>
+<fighter2>Jessica McCaskill</fighter2>
+<rounds>10</rounds>
+<weight>Welterweight</weight>
+
+<fighter1>Shakhram Giyasov</fighter1>
+<fighter2>Francisco Rojo</fighter2>
+<rounds>12</rounds>
+<weight>Junior Welterweight</weight>
+
+<time>August 22, 2020</time>
+
+<loc>Brentwood, Essex, England</loc>
+
+<fighter1>Dillian Whyte</fighter1>
+<fighter2>Alexander Povetkin</fighter2>
+<rounds>12</rounds>
+<weight>Heavyweight</weight>
+
+<fighter1>Katie Taylor</fighter1>
+<fighter2>Delfine Persoon</fighter2>
+<rounds>10</rounds>
+<weight>Lightweight</weight>
+
+<fighter1>Martin Bakole</fighter1>
+<fighter2>Sergey Kuzmin</fighter2>
+<rounds>12</rounds>
+<weight>Heavyweight</weight>
+
+<fighter1>Luther Clay</fighter1>
+<fighter2>Chris Kongo</fighter2>
+<rounds>10</rounds>
+<weight>Welterweight</weight>
+
+<time>August 28, 2020</time>
+
+<loc>Indio, California</loc>
+
+<fighter1>Jorge Linares</fighter1>
+<fighter2>Javier Fortuna</fighter2>
+<rounds>12</rounds>
+<weight>Lightweight</weight>
 
