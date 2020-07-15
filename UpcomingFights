@@ -1,92 +1,31 @@
-
-
-<time>July 11, 2020</time>
+<time>July 15, 2020</time>
 
 <loc>Fight Island</loc>
 
-<fighter1>Kamaru Usman</fighter1>
-<fighter2>Jorge Masvidal</fighter2>
-<rounds>5</rounds>
-<weight>Welterweight</weight>
-
-<fighter1>Alexander Volkanovski</fighter1>
-<fighter2>Max Holloway</fighter2>
+<fighter1>Calvin Kattar</fighter1>
+<fighter2>Dan Ige</fighter2>
 <rounds>5</rounds>
 <weight>Featherweight</weight>
 
-<fighter1>Petr Yan</fighter1>
-<fighter2>José Aldo</fighter2>
-<rounds>5</rounds>
-<weight>Bantamweight</weight>
-
-<fighter1>Jéssica Andrade</fighter1>
-<fighter2>Rose Namajunas</fighter2>
-<rounds>3</rounds>
-<weight>Strawweight</weight>
-
-<fighter1>Amanda Ribas</fighter1>
-<fighter2>Paige VanZant</fighter2>
+<fighter1>Tim Elliott</fighter1>
+<fighter2>Ryan Benoit</fighter2>
 <rounds>3</rounds>
 <weight>Flyweight</weight>
 
-<fighter1>Volkan</fighter1>
-<fighter2>Jiri Prochazka</fighter2>
-<rounds>3</rounds>
-<weight>Light Heavyweight</weight>
-
-<fighter1>Elizeu Dos Santos</fighter1>
-<fighter2>Muslim Salikhov</fighter2>
-<rounds>3</rounds>
-<weight>Welterweight</weight>
-
-<fighter1>Makwan Amirkhani</fighter1>
-<fighter2>Danny Henry</fighter2>
+<fighter1>Jimmie Rivera</fighter1>
+<fighter2>Cody Stamann</fighter2>
 <rounds>3</rounds>
 <weight>Featherweight</weight>
 
-<fighter1>Leonardo Santos</fighter1>
-<fighter2>Roman Bogatov</fighter2>
+<fighter1>Molly McCann</fighter1>
+<fighter2>Taila Santos</fighter2>
 <rounds>3</rounds>
-<weight>Lightweight</weight>
+<weight>Flyweight</weight>
 
-<fighter1>Marcin Tybura</fighter1>
-<fighter2>Maxim Grishin</fighter2>
+<fighter1>Abdul Alhassan</fighter1>
+<fighter2>Mounir Lazzez</fighter2>
 <rounds>3</rounds>
-<weight>Heavyweight</weight>
-
-<fighter1>Raulian Paiva</fighter1>
-<fighter2>Zhalgas Zhumagulov</fighter2>
-<rounds>3</rounds>
-<weight>Flyyweight</weight>
-
-<fighter1>Karol Rosa</fighter1>
-<fighter2>Vanessa Melo</fighter2>
-<rounds>3</rounds>
-<weight>Bantamweight</weight>
-
-<fighter1>Martin Day</fighter1>
-<fighter2>Davey Grant</fighter2>
-<rounds>3</rounds>
-<weight>Bantamweight</weight>
-
-<time>July 14, 2020</time>
-
-<loc>Las Vegas</loc>
-
-<fighter1>Jamel Herring</fighter1>
-<fighter2>Jonathan Oquendo</fighter2>
-<rounds>12</rounds>
-<weight>Junior Lightweight</weight>
-
-<fighter1>Mikaela Mayer</fighter1>
-<fighter2>Helen Joseph</fighter2>
-<rounds>10</rounds>
-<weight>Junior Lightweight</weight>
-
-<fighter1>Clay Collard</fighter1>
-<fighter2>LT Nelson</fighter2>
-<rounds>6</rounds>
-<weight>Middleweight</weight>
+<weight>Welterweight</weight>
 
 <time>July 16, 2020</time>
 
@@ -101,6 +40,35 @@
 <fighter2>Will Madera</fighter2>
 <rounds>10</rounds>
 <weight>Lightweight</weight>
+
+<time>July 18, 2020</time>
+
+<loc>Fight Island</loc>
+
+<fighter1>Deiveson Figueiredo</fighter1>
+<fighter2>Joseph Benavidez</fighter2>
+<rounds>5</rounds>
+<weight>Flyweight</weight>
+
+<fighter1>Jack Hermansson</fighter1>
+<fighter2>Kelvin Gastelum</fighter2>
+<rounds>3</rounds>
+<weight>Middleweight</weight>
+
+<fighter1>Marc Diakiese</fighter1>
+<fighter2>Rafael Fiziev</fighter2>
+<rounds>3</rounds>
+<weight>Lightweight</weight>
+
+<fighter1>Ariane Lipski</fighter1>
+<fighter2>Luana Carolina</fighter2>
+<rounds>3</rounds>
+<weight>Flyweight</weight>
+
+<fighter1>Alexandre Pantoja</fighter1>
+<fighter2>Askar Askarov</fighter2>
+<rounds>3</rounds>
+<weight>Flyweight</weight>
 
 <time>July 21, 2020</time>
 
