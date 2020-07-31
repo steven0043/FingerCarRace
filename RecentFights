@@ -1,3 +1,58 @@
+
+<time>July 24, 2020</time>
+
+<loc>Indio, California</loc>
+
+<fighter1>Vergil Ortiz</fighter1>
+<fighter2>Samuel Vargas</fighter2>
+<rounds>10</rounds>
+<weight>Welterweight</weight>
+
+<fighter1>Hector Tanajara</fighter1>
+<fighter2>Mercito Gesta</fighter2>
+<rounds>10</rounds>
+<weight>Lightweight</weight>
+
+  
+<time>July 25, 2020</time>
+
+<loc>Fight Island</loc>
+
+<fighter1>Robert Whittaker</fighter1>
+<fighter2>Darren Till</fighter2>
+<rounds>5</rounds>
+<weight>Middleweight</weight>
+
+<fighter1>Maurício Rua</fighter1>
+<fighter2>Antônio Nogueira</fighter2>
+<rounds>3</rounds>
+<weight>Light Heavyweight</weight>
+
+<fighter1>Fabricio Werdum</fighter1>
+<fighter2>Alexander Gustafsson</fighter2>
+<rounds>3</rounds>
+<weight>Heavyweight</weight>
+
+<fighter1>Carla Esparza</fighter1>
+<fighter2>Marina Rodriguez</fighter2>
+<rounds>3</rounds>
+<weight>Strawweight</weight>
+
+<fighter1>Paul Craig</fighter1>
+<fighter2>Gadzhimurad Antigulov</fighter2>
+<rounds>3</rounds>
+<weight>Light Heavyweight</weight>
+
+<fighter1>Alex Oliveira</fighter1>
+<fighter2>Peter Sobotta</fighter2>
+<rounds>3</rounds>
+<weight>Welterweight</weight>
+
+<fighter1>Khamzat Chimaev</fighter1>
+<fighter2>Rhys McKee</fighter2>
+<rounds>3</rounds>
+<weight>Welterweight</weight>
+
 <time>July 15, 2020</time>
 
 <loc>Fight Island</loc>
