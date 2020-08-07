@@ -1,38 +1,3 @@
-<time>August 1, 2020</time>
-
-<loc>Bang Phun, Thailand</loc>
-
-<fighter1>Sor Rungvisai</fighter1>
-<fighter2>Amnat Ruenroeng</fighter2>
-<rounds>10</rounds>
-<weight>Junior Featherweight</weight>
-
-<loc>Brentwood, Essex, England</loc>
-
-<fighter1>Sam Eggington</fighter1>
-<fighter2>Ted Cheeseman</fighter2>
-<rounds>12</rounds>
-<weight>Junior Middleweight</weight>
-
-<fighter1>James Tennyson</fighter1>
-<fighter2>Gavin Gwynne</fighter2>
-<rounds>12</rounds>
-<weight>Lightweight</weight>
-
-<fighter1>Jordan Gill</fighter1>
-<fighter2>Reece Bellotti</fighter2>
-<rounds>10</rounds>
-<weight>Featherweight</weight>
-
-<fighter1>Fabio Wardley</fighter1>
-<fighter2>Simon Vallily</fighter2>
-<rounds>10</rounds>
-<weight>Heavyweight</weight>
-
-<fighter1>Dalton Smith</fighter1>
-<fighter2>Nathan Bennett</fighter2>
-<rounds>8</rounds>
-<weight>Junior Welterweight</weight>
 
 <time>August 7, 2020</time>
 
@@ -50,13 +15,18 @@
 
 <fighter1>Anthony Fowler</fighter1>
 <fighter2>Adam Harper</fighter2>
-<rounds>12</rounds>
+<rounds>10</rounds>
 <weight>Junior Middleweight</weight>
 
 <fighter1>Aqib Fiaz</fighter1>
 <fighter2>Kane Baker</fighter2>
-<rounds>12</rounds>
+<rounds>8</rounds>
 <weight>Lightweight</weight>
+
+<fighter1>Hopey Price</fighter1>
+<fighter2>Jonny Phillips</fighter2>
+<rounds>4</rounds>
+<weight>Featherweight</weight>
 
 <time>August 14, 2020</time>
 
