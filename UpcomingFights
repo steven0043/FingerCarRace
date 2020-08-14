@@ -1,33 +1,3 @@
-
-<time>August 7, 2020</time>
-
-<loc>Brentwood, Essex, England</loc>
-
-<fighter1>Terri Harper</fighter1>
-<fighter2>Natasha Jonas</fighter2>
-<rounds>10</rounds>
-<weight>Lightweight</weight>
-
-<fighter1>Chris Billam Smith</fighter1>
-<fighter2>Nathan Thorley</fighter2>
-<rounds>12</rounds>
-<weight>Cruiserweight</weight>
-
-<fighter1>Anthony Fowler</fighter1>
-<fighter2>Adam Harper</fighter2>
-<rounds>10</rounds>
-<weight>Junior Middleweight</weight>
-
-<fighter1>Aqib Fiaz</fighter1>
-<fighter2>Kane Baker</fighter2>
-<rounds>8</rounds>
-<weight>Lightweight</weight>
-
-<fighter1>Hopey Price</fighter1>
-<fighter2>Jonny Phillips</fighter2>
-<rounds>4</rounds>
-<weight>Featherweight</weight>
-
 <time>August 14, 2020</time>
 
 <loc>Brentwood, Essex, England</loc>
@@ -44,31 +14,112 @@
 
 <fighter1>Kieron Conway</fighter1>
 <fighter2>Navid Mansouri</fighter2>
-<rounds>12</rounds>
+<rounds>10</rounds>
 <weight>Junior Welterweight</weight>
+
+<fighter1>John Docherty</fighter1>
+<fighter2>Anthony Fox</fighter2>
+<rounds>8</rounds>
+<weight>Super Middleweight</weight>
 
 <fighter1>Shannon Courtenay</fighter1>
 <fighter2>Rachel Ball</fighter2>
-<rounds>10</rounds>
+<rounds>8</rounds>
 <weight>Junior Featherweight</weight>
 
 <time>August 15, 2020</time>
 
-<loc>Tulsa, Oklahoma</loc>
+<loc>Uncasville, Connecticut</loc>
 
-<fighter1>Julio Martinez</fighter1>
-<fighter2>McWilliams Arroyo</fighter2>
+<fighter1>David Benavidez</fighter1>
+<fighter2>Roamer Angulo</fighter2>
 <rounds>12</rounds>
+<weight>Super Middleweight</weight>
+
+<fighter1>Rolando Romero</fighter1>
+<fighter2>Jackson Marinez</fighter2>
+<rounds>12</rounds>
+<weight>Lightweight</weight>
+
+<fighter1>Michel Rivera</fighter1>
+<fighter2>Marcos Villasana</fighter2>
+<rounds>12</rounds>
+<weight>Lightweight</weight>
+
+<fighter1>Otto Wallin</fighter1>
+<fighter2>Travis Kauffman</fighter2>
+<rounds>10</rounds>
+<weight>Heavyweight</weight>
+
+<fighter1>Carlos Negron</fighter1>
+<fighter2>Jonathan Rice</fighter2>
+<rounds>8</rounds>
+<weight>Heavyweight</weight>
+
+<loc>London</loc>
+
+<fighter1>Carl Frampton</fighter1>
+<fighter2>Darren Traynor</fighter2>
+<rounds>10</rounds>
+<weight>Junior Lightweight</weight>
+
+<fighter1>Michael Conlan</fighter1>
+<fighter2>Sofiane Takoucht</fighter2>
+<rounds>10</rounds>
 <weight>Featherweight</weight>
+
+<fighter1>Archie Sharp</fighter1>
+<fighter2>Jeff Ofori</fighter2>
+<rounds>10</rounds>
+<weight>Junior Lightweight</weight>
+
+<fighter1>Troy Williamson</fighter1>
+<fighter2>Harry Scarff</fighter2>
+<rounds>10</rounds>
+<weight>Junior Middleweight</weight>
+
+<loc>Las Vegas</loc>
+
+<fighter1>Stipe Miocic</fighter1>
+<fighter2>Daniel Cormier</fighter2>
+<rounds>5</rounds>
+<weight>Heavyweight</weight>
+
+<fighter1>Sean O'Malley</fighter1>
+<fighter2>Marlon Vera</fighter2>
+<rounds>5</rounds>
+<weight>Bantamweight</weight>
+
+<fighter1>Junior Dos Santos</fighter1>
+<fighter2>Jairzinho Rozenstruik</fighter2>
+<rounds>3</rounds>
+<weight>Heavyweight</weight>
+
+<fighter1>Herbert Burns</fighter1>
+<fighter2>Daniel Pineda</fighter2>
+<rounds>3</rounds>
+<weight>Featherweight</weight>
+
+<fighter1>John Dodson</fighter1>
+<fighter2>Merab Dvalishvili</fighter2>
+<rounds>3</rounds>
+<weight>Bantamweight</weight>
+
+<loc>Tulsa, Oklahoma</loc>
 
 <fighter1>Cecilia Brækhus</fighter1>
 <fighter2>Jessica McCaskill</fighter2>
 <rounds>10</rounds>
 <weight>Welterweight</weight>
 
-<fighter1>Shakhram Giyasov</fighter1>
-<fighter2>Francisco Rojo</fighter2>
+<fighter1>Israil Madrimov</fighter1>
+<fighter2>Eric Walker</fighter2>
 <rounds>12</rounds>
+<weight>Junior Middleweight</weight>
+
+<fighter1>Shakhram Giyasov</fighter1>
+<fighter2>Wiston Campos</fighter2>
+<rounds>10</rounds>
 <weight>Junior Welterweight</weight>
 
 <time>August 22, 2020</time>
