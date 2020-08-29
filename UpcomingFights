@@ -39,6 +39,21 @@
 <rounds>10</rounds>
 <weight>Junior Welterweight</weight>
 
+<fighter1>Anthony Smith</fighter1>
+<fighter2>Aleksandar Rakić</fighter2>
+<rounds>3</rounds>
+<weight>Light Heavyweight</weight>
+
+<fighter1>Robbie Lawler</fighter1>
+<fighter2>Neil Magny</fighter2>
+<rounds>3</rounds>
+<weight>Welterweight</weight>
+
+<fighter1>Ji Yeon Kim</fighter1>
+<fighter2>Alexa Grasso</fighter2>
+<rounds>3</rounds>
+<weight>Flyweight</weight>
+
 <loc>Los Angeles</loc>
 
 <fighter1>Erislandy Lara</fighter1>
