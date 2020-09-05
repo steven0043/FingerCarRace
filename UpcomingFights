@@ -24,6 +24,23 @@
 <rounds>12</rounds>
 <weight>Junior Middleweight</weight>
 
+<loc>Las Vegas</loc>
+
+<fighter1>Alistair Overeem</fighter1>
+<fighter2>Augusto Sakai</fighter2>
+<rounds>5</rounds>
+<weight>Heavyweight</weight>
+
+<fighter1>Ovince Saint Preux</fighter1>
+<fighter2>Alonzo Menifield</fighter2>
+<rounds>3</rounds>
+<weight>Light Heavyweight</weight>
+
+<fighter1>Michel Pereira</fighter1>
+<fighter2>Zelim Imadaev</fighter2>
+<rounds>3</rounds>
+<weight>Welterweight</weight>
+
 <time>September 12, 2020</time>
 
 <loc>London</loc>
