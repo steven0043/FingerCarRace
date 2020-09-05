@@ -1,72 +1,61 @@
-<time>August 29, 2020</time>
+<time>September 5, 2020</time>
 
-<loc>London, England</loc>
+<loc>Las Vegas</loc>
 
-<fighter1>Daniel Dubois</fighter1>
-<fighter2>Ricardo Snijders</fighter2>
+<fighter1>Jamel Herring</fighter1>
+<fighter2>Jonathan Oquendo</fighter2>
 <rounds>12</rounds>
-<weight>Heavyweight</weight>
+<weight>Junior Lightweight</weight>
 
-<fighter1>Sam Maxwell</fighter1>
-<fighter2>Joe Hughes</fighter2>
+<fighter1>Steven Nelson</fighter1>
+<fighter2>DeAndre Ware</fighter2>
 <rounds>10</rounds>
-<weight>Junior Welterweight</weight>
+<weight>Super Middleweight</weight>
 
-<fighter1>Sunny Edwards</fighter1>
-<fighter2>Thomas Essomba</fighter2>
+<loc>Los Angeles</loc>
+
+<fighter1>Yordenis Ugas</fighter1>
+<fighter2>Abel Ramos</fighter2>
+<rounds>12</rounds>
+<weight>Welterweight</weight>
+
+<fighter1>Rances Barthelemy</fighter1>
+<fighter2>Alberto Puello</fighter2>
+<rounds>12</rounds>
+<weight>Junior Middleweight</weight>
+
+<time>September 12, 2020</time>
+
+<loc>London</loc>
+
+<fighter1>Anthony Yarde</fighter1>
+<fighter2>Dec Spelman</fighter2>
 <rounds>10</rounds>
-<weight>Junior Bantamweight</weight>
-
-<fighter1>Willy Hutchinson</fighter1>
-<fighter2>Luke Blackledge</fighter2>
-<rounds>6</rounds>
 <weight>Light Heavyweight</weight>
 
-<fighter1>David Adeleye</fighter1>
-<fighter2>Phill Williams</fighter2>
-<rounds>4</rounds>
+<fighter1>Mark Heffron</fighter1>
+<fighter2>Denzel Bentley</fighter2>
+<rounds>10</rounds>
+<weight>Middleweight</weight>
+
+<fighter1>Cedrick Peynaud</fighter1>
+<fighter2>Ekow Essuman</fighter2>
+<rounds>10</rounds>
+<weight>Welterweight</weight>
+
+<fighter1>Nathan Gorman</fighter1>
+<fighter2>Richard Lartey</fighter2>
+<rounds>10</rounds>
 <weight>Heavyweight</weight>
 
 <loc>Las Vegas</loc>
 
-<fighter1>Jose Ramirez</fighter1>
-<fighter2>Viktor Postol</fighter2>
-<rounds>12</rounds>
-<weight>Junior Welterweight</weight>
-
-<fighter1>Arnold Barboza</fighter1>
-<fighter2>Tony Luis</fighter2>
+<fighter1>Egidijus Kavaliauskas</fighter1>
+<fighter2>Mikael Zewski</fighter2>
 <rounds>10</rounds>
-<weight>Junior Welterweight</weight>
-
-<fighter1>Anthony Smith</fighter1>
-<fighter2>Aleksandar Rakić</fighter2>
-<rounds>3</rounds>
-<weight>Light Heavyweight</weight>
-
-<fighter1>Robbie Lawler</fighter1>
-<fighter2>Neil Magny</fighter2>
-<rounds>3</rounds>
 <weight>Welterweight</weight>
 
-<fighter1>Ji Yeon Kim</fighter1>
-<fighter2>Alexa Grasso</fighter2>
-<rounds>3</rounds>
-<weight>Flyweight</weight>
-
-<loc>Los Angeles</loc>
-
-<fighter1>Erislandy Lara</fighter1>
-<fighter2>Greg Vendetti</fighter2>
-<rounds>12</rounds>
-<weight>Junior Middleweight</weight>
-
-<fighter1>Alfredo Angulo</fighter1>
-<fighter2>Vladimir Hernandez</fighter2>
+<fighter1>Miguel Marriaga</fighter1>
+<fighter2>Joet Gonzalez</fighter2>
 <rounds>10</rounds>
-<weight>Super Middleweight</weight>
-
-<fighter1>Thomas LaManna</fighter1>
-<fighter2>Brian Mendoza</fighter2>
-<rounds>10</rounds>
-<weight>Junior Middleweight</weight>
+<weight>Featherweight</weight>
