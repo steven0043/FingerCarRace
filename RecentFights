@@ -1,3 +1,41 @@
+
+
+<time>September 12, 2020</time>
+
+<loc>London</loc>
+
+<fighter1>Anthony Yarde</fighter1>
+<fighter2>Dec Spelman</fighter2>
+<rounds>10</rounds>
+<weight>Light Heavyweight</weight>
+
+<fighter1>Mark Heffron</fighter1>
+<fighter2>Denzel Bentley</fighter2>
+<rounds>10</rounds>
+<weight>Middleweight</weight>
+
+<fighter1>Cedrick Peynaud</fighter1>
+<fighter2>Ekow Essuman</fighter2>
+<rounds>10</rounds>
+<weight>Welterweight</weight>
+
+<fighter1>Nathan Gorman</fighter1>
+<fighter2>Richard Lartey</fighter2>
+<rounds>10</rounds>
+<weight>Heavyweight</weight>
+
+<loc>Las Vegas</loc>
+
+<fighter1>Egidijus Kavaliauskas</fighter1>
+<fighter2>Mikael Zewski</fighter2>
+<rounds>10</rounds>
+<weight>Welterweight</weight>
+
+<fighter1>Miguel Marriaga</fighter1>
+<fighter2>Joet Gonzalez</fighter2>
+<rounds>10</rounds>
+<weight>Featherweight</weight>
+
 <time>September 5, 2020</time>
 
 <loc>Las Vegas</loc>
