@@ -1,37 +1,76 @@
-
-
-<time>September 12, 2020</time>
-
-<loc>London</loc>
-
-<fighter1>Anthony Yarde</fighter1>
-<fighter2>Dec Spelman</fighter2>
-<rounds>10</rounds>
-<weight>Light Heavyweight</weight>
-
-<fighter1>Mark Heffron</fighter1>
-<fighter2>Denzel Bentley</fighter2>
-<rounds>10</rounds>
-<weight>Middleweight</weight>
-
-<fighter1>Cedrick Peynaud</fighter1>
-<fighter2>Ekow Essuman</fighter2>
-<rounds>10</rounds>
-<weight>Welterweight</weight>
-
-<fighter1>Nathan Gorman</fighter1>
-<fighter2>Richard Lartey</fighter2>
-<rounds>10</rounds>
-<weight>Heavyweight</weight>
+<time>September 19, 2020</time>
 
 <loc>Las Vegas</loc>
 
-<fighter1>Egidijus Kavaliauskas</fighter1>
-<fighter2>Mikael Zewski</fighter2>
+<fighter1>Jose Pedraza</fighter1>
+<fighter2>Javier Molina</fighter2>
+<rounds>10</rounds>
+<weight>Junior Welterweight</weight>
+
+<fighter1>Efe Ajagba</fighter1>
+<fighter2>Jonnie Rice</fighter2>
+<rounds>10</rounds>
+<weight>Heavyweight</weight>
+
+<fighter1>Robeisy Ramirez</fighter1>
+<fighter2>Felix Caraballo</fighter2>
+<rounds>8</rounds>
+<weight>Featherweight</weight>
+
+<loc>Las Vegas</loc>
+
+<fighter1>Colby Covington</fighter1>
+<fighter2>Tyron Woodley</fighter2>
+<rounds>5</rounds>
+<weight>Welterweight</weight>
+
+<fighter1>Donald Cerrone</fighter1>
+<fighter2>Niko Price</fighter2>
+<rounds>3</rounds>
+<weight>Welterweight</weight>
+
+<fighter1>Khamzat Chimaev</fighter1>
+<fighter2>Gerald Meerschaert</fighter2>
+<rounds>3</rounds>
+<weight>Middleweight</weight>
+
+<fighter1>Johnny Walker</fighter1>
+<fighter2>Ryan Spann</fighter2>
+<rounds>3</rounds>
+<weight>Light Heavyweight</weight>
+
+<fighter1>Mackenzie Dern</fighter1>
+<fighter2>Randa Markos</fighter2>
+<rounds>3</rounds>
+<weight>Strawweight</weight>
+
+<loc>Uncasville, Connecticut</loc>
+
+<fighter1>Erickson Lubin</fighter1>
+<fighter2>Terrell Gausha</fighter2>
+<rounds>12</rounds>
+<weight>Junior Middleweight</weight>
+
+<fighter1>Tugstsogt Nyambayar</fighter1>
+<fighter2>Eduardo Ramirez</fighter2>
+<rounds>10</rounds>
+<weight>Featherweight</weight>
+
+<fighter1>Jaron Ennis</fighter1>
+<fighter2>Juan Abreu</fighter2>
 <rounds>10</rounds>
 <weight>Welterweight</weight>
 
-<fighter1>Miguel Marriaga</fighter1>
-<fighter2>Joet Gonzalez</fighter2>
+<time>September 23, 2020</time>
+
+<loc>Los Angeles</loc>
+
+<fighter1>Nestor Bravo</fighter1>
+<fighter2>Jose Gallegos</fighter2>
+<rounds>10</rounds>
+<weight>Lightweight</weight>
+
+<fighter1>Ranfis Encarnacion</fighter1>
+<fighter2>Victor Pasillas</fighter2>
 <rounds>10</rounds>
 <weight>Featherweight</weight>
