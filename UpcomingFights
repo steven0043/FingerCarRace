@@ -1,76 +1,147 @@
-<time>September 19, 2020</time>
-
-<loc>Las Vegas</loc>
-
-<fighter1>Jose Pedraza</fighter1>
-<fighter2>Javier Molina</fighter2>
-<rounds>10</rounds>
-<weight>Junior Welterweight</weight>
-
-<fighter1>Efe Ajagba</fighter1>
-<fighter2>Jonnie Rice</fighter2>
-<rounds>10</rounds>
-<weight>Heavyweight</weight>
-
-<fighter1>Robeisy Ramirez</fighter1>
-<fighter2>Felix Caraballo</fighter2>
-<rounds>8</rounds>
-<weight>Featherweight</weight>
-
-<loc>Las Vegas</loc>
-
-<fighter1>Colby Covington</fighter1>
-<fighter2>Tyron Woodley</fighter2>
-<rounds>5</rounds>
-<weight>Welterweight</weight>
-
-<fighter1>Donald Cerrone</fighter1>
-<fighter2>Niko Price</fighter2>
-<rounds>3</rounds>
-<weight>Welterweight</weight>
-
-<fighter1>Khamzat Chimaev</fighter1>
-<fighter2>Gerald Meerschaert</fighter2>
-<rounds>3</rounds>
-<weight>Middleweight</weight>
-
-<fighter1>Johnny Walker</fighter1>
-<fighter2>Ryan Spann</fighter2>
-<rounds>3</rounds>
-<weight>Light Heavyweight</weight>
-
-<fighter1>Mackenzie Dern</fighter1>
-<fighter2>Randa Markos</fighter2>
-<rounds>3</rounds>
-<weight>Strawweight</weight>
+<time>September 26, 2020</time>
 
 <loc>Uncasville, Connecticut</loc>
 
-<fighter1>Erickson Lubin</fighter1>
-<fighter2>Terrell Gausha</fighter2>
+<fighter1>Jermall Charlo</fighter1>
+<fighter2>Sergiy Derevyanchenko</fighter2>
+<rounds>12</rounds>
+<weight>Middleweight</weight>
+
+<fighter1>Jermall Charlo</fighter1>
+<fighter2>Jeison Rosario</fighter2>
 <rounds>12</rounds>
 <weight>Junior Middleweight</weight>
 
-<fighter1>Tugstsogt Nyambayar</fighter1>
-<fighter2>Eduardo Ramirez</fighter2>
+<fighter1>Brandon Figueroa</fighter1>
+<fighter2>Damien Vasquez</fighter2>
+<rounds>12</rounds>
+<weight>Junior Featherweight</weight>
+
+<fighter1>John Riel Casimero</fighter1>
+<fighter2>Duke Micah</fighter2>
+<rounds>12</rounds>
+<weight>Bantamweight</weight>
+
+<fighter1>Mario Barrios</fighter1>
+<fighter2>Ryan Karl</fighter2>
+<rounds>12</rounds>
+<weight>Junior Welterweight</weight>
+
+<fighter1>Mario Barrios</fighter1>
+<fighter2>Ryan Karl</fighter2>
+<rounds>12</rounds>
+<weight>Junior Welterweight</weight>
+
+<fighter1>Luis Nery</fighter1>
+<fighter2>Aaron Alameda</fighter2>
+<rounds>12</rounds>
+<weight>Junior Featherweight</weight>
+
+<fighter1>Daniel Roman</fighter1>
+<fighter2>Juan Carlos Payano</fighter2>
+<rounds>12</rounds>
+<weight>Junior Featherweight</weight>
+
+<loc>Munich, Germany</loc>
+
+<fighter1>Yuniel Dorticos</fighter1>
+<fighter2>Mairis Briedis</fighter2>
+<rounds>12</rounds>
+<weight>Cruiserweight</weight>
+
+<loc>London</loc>
+
+<fighter1>Josh Taylor</fighter1>
+<fighter2>Apinun Khongsong</fighter2>
+<rounds>12</rounds>
+<weight>Junior Welterweight</weight>
+
+<fighter1>Charlie Edwards</fighter1>
+<fighter2>Kyle Williams</fighter2>
 <rounds>10</rounds>
+<weight>Bantamweight</weight>
+
+<fighter1>David Oliver Joyce</fighter1>
+<fighter2>Ionut Baluta</fighter2>
+<rounds>10</rounds>
+<weight>Junior Featherweight</weight>
+
+<loc>Yas Island</loc>
+
+<fighter1>Israel Adesanya</fighter1>
+<fighter2>Paulo Costa</fighter2>
+<rounds>5</rounds>
+<weight>Middleweight</weight>
+
+<fighter1>Dominick Reyes</fighter1>
+<fighter2>Jan Błachowicz</fighter2>
+<rounds>5</rounds>
+<weight>Light Heavyweight</weight>
+
+<fighter1>Kai Kara France</fighter1>
+<fighter2>Brandon Royval</fighter2>
+<rounds>3</rounds>
+<weight>Flyweight</weight>
+
+<fighter1>Ketlen Vieira</fighter1>
+<fighter2>Sijara Eubanks</fighter2>
+<rounds>3</rounds>
+<weight>Bantamweight</weight>
+
+<fighter1>Hakeem Dawodu</fighter1>
+<fighter2>Zubaira Tukhugov</fighter2>
+<rounds>3</rounds>
 <weight>Featherweight</weight>
 
-<fighter1>Jaron Ennis</fighter1>
-<fighter2>Juan Abreu</fighter2>
-<rounds>10</rounds>
-<weight>Welterweight</weight>
+<time>October 17, 2020</time>
 
-<time>September 23, 2020</time>
+<loc>Las Vegas</loc>
 
-<loc>Los Angeles</loc>
-
-<fighter1>Nestor Bravo</fighter1>
-<fighter2>Jose Gallegos</fighter2>
-<rounds>10</rounds>
+<fighter1>Vasiliy Lomachenko</fighter1>
+<fighter2>Teofimo Lopez</fighter2>
+<rounds>12</rounds>
 <weight>Lightweight</weight>
 
-<fighter1>Ranfis Encarnacion</fighter1>
-<fighter2>Victor Pasillas</fighter2>
-<rounds>10</rounds>
-<weight>Featherweight</weight>
+<time>October 24, 2020</time>
+
+<loc>Uncasville, Connecticut</loc>
+
+<fighter1>Gervonta Davis</fighter1>
+<fighter2>Leo Santa Cruz</fighter2>
+<rounds>12</rounds>
+<weight>Lightweight</weight>
+
+<time>October 31, 2020</time>
+
+<loc>Las Vegas</loc>
+
+<fighter1>Naoya Inoue</fighter1>
+<fighter2>Jason Moloney</fighter2>
+<rounds>12</rounds>
+<weight>Bantamweight</weight>
+
+<time>November 21, 2020</time>
+
+<loc>Uncasville, Connecticut</loc>
+
+<fighter1>Errol Spence</fighter1>
+<fighter2>Danny Garcia</fighter2>
+<rounds>12</rounds>
+<weight>Welterweight</weight>
+
+<loc>London</loc>
+
+<fighter1>Alexander Povetkin</fighter1>
+<fighter2>Dillian Whyte</fighter2>
+<rounds>12</rounds>
+<weight>Heavyweight</weight>
+
+<time>November 28, 2020</time>
+
+<loc>Carson, California</loc>
+
+<fighter1>Mike Tyson</fighter1>
+<fighter2>Roy Jones</fighter2>
+<rounds>8</rounds>
+<weight>Heavyweight</weight>
+
