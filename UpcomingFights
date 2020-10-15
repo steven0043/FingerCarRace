@@ -1,46 +1,8 @@
-<time>October 9, 2020</time>
-
-<loc>Las Vegas</loc>
-
-<fighter1>Emanuel Navarrete</fighter1>
-<fighter2>Ruben Villa</fighter2>
-<rounds>12</rounds>
-<weight>Featherweight</weight>
-
-<fighter1>Gonzalo Coria</fighter1>
-<fighter2>Janibek Alimkhanuly</fighter2>
-<rounds>10</rounds>
-<weight>Middleweight</weight>
-
-<time>October 10, 2020</time>
-
-<loc>London</loc>
-
-<fighter1>Liam Williams</fighter1>
-<fighter2>Andrew Robinson</fighter2>
-<rounds>12</rounds>
-<weight>Middleweight</weight>
-
-<fighter1>Anthony Cacace</fighter1>
-<fighter2>Leon Woodstock</fighter2>
-<rounds>12</rounds>
-<weight>Welterweight</weight>
-
-<fighter1>JJ Metcalf</fighter1>
-<fighter2>Jack Flatley</fighter2>
-<rounds>12</rounds>
-<weight>Junior Middleweight</weight>
-
-<fighter1>Nathan Gorman</fighter1>
-<fighter2>Richard Lartey</fighter2>
-<rounds>10</rounds>
-<weight>Heavyweight</weight>
-
 <time>October 17, 2020</time>
 
 <loc>Las Vegas</loc>
 
-<fighter1>Vasiliy Lomachenko</fighter1>
+<fighter1>Vasyl Lomachenko</fighter1>
 <fighter2>Teofimo Lopez</fighter2>
 <rounds>12</rounds>
 <weight>Lightweight</weight>
@@ -55,22 +17,12 @@
 <rounds>10</rounds>
 <weight>Junior Welterweight</weight>
 
-<fighter1>Clay Collard</fighter1>
-<fighter2>Quincy LaVallais</fighter2>
-<rounds>8</rounds>
-<weight>Middleweight</weight>
-
 <loc>Newcastle, England</loc>
 
 <fighter1>Lewis Ritson</fighter1>
 <fighter2>Miguel Vazquez</fighter2>
 <rounds>10</rounds>
 <weight>Junior Welterweight</weight>
-
-<fighter1>Savannah Marshall</fighter1>
-<fighter2>Hannah Rankin</fighter2>
-<rounds>10</rounds>
-<weight>Middleweight</weight>
 
 <time>October 24, 2020</time>
 
