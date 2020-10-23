@@ -1,55 +1,90 @@
-<time>October 17, 2020</time>
+<time>October 23, 2020</time>
 
-<loc>Las Vegas</loc>
+<loc>Mexico City</loc>
 
-<fighter1>Vasyl Lomachenko</fighter1>
-<fighter2>Teofimo Lopez</fighter2>
+<fighter1>Roman Gonzalez</fighter1>
+<fighter2>Israel Gonzalez</fighter2>
 <rounds>12</rounds>
-<weight>Lightweight</weight>
+<weight>Junior Bantamweight</weight>
 
-<fighter1>Arnold Barboza</fighter1>
-<fighter2>Alex Saucedo</fighter2>
-<rounds>10</rounds>
-<weight>Junior Welterweight</weight>
-
-<fighter1>Josue Vargas</fighter1>
-<fighter2>Kendo Castaneda</fighter2>
-<rounds>10</rounds>
-<weight>Junior Welterweight</weight>
-
-<loc>Newcastle, England</loc>
-
-<fighter1>Lewis Ritson</fighter1>
-<fighter2>Miguel Vazquez</fighter2>
+<fighter1>Juan Estrada</fighter1>
+<fighter2>Carlos Cuadras</fighter2>
 <rounds>12</rounds>
-<weight>Junior Welterweight</weight>
+<weight>Junior Bantamweight</weight>
 
-<fighter1>Thomas Ward</fighter1>
-<fighter2>Thomas Essomba</fighter2>
-<rounds>10</rounds>
-<weight>Junior Featherweight</weight>
+<fighter1>Julio Cesar Martinez</fighter1>
+<fighter2>Moises Calleros</fighter2>
+<rounds>12</rounds>
+<weight>Flyweight</weight>
 
-<fighter1>Qais Ashfaq</fighter1>
-<fighter2>Marc Leach</fighter2>
-<rounds>10</rounds>
-<weight>Junior Featherweight</weight>
+<loc>Milan, Italy</loc>
 
-<fighter1>Joe Laws</fighter1>
-<fighter2>Rylan Charlton</fighter2>
-<rounds>6</rounds>
-<weight>Junior Welterweight</weight>
-
-<fighter1>Ellie Scotney</fighter1>
-<fighter2>Bec Connolly</fighter2>
-<rounds>4</rounds>
-<weight>Featherweight</weight>
-
-<fighter1>Meshech Speare</fighter1>
-<fighter2>Kane Baker</fighter2>
-<rounds>4</rounds>
-<weight>Lightweight</weight>
+<fighter1>Fabio Turchi</fighter1>
+<fighter2>Nikolajs Grisunins</fighter2>
+<rounds>12</rounds>
+<weight>Cruisereight</weight>
 
 <time>October 24, 2020</time>
+
+<loc>Yas Island</loc>
+
+<fighter1>Khabib</fighter1>
+<fighter2>Justin Gaethje</fighter2>
+<rounds>5</rounds>
+<weight>Lightweight</weight>
+
+<fighter1>Robert Whittaker</fighter1>
+<fighter2>Jared Cannonier</fighter2>
+<rounds>3</rounds>
+<weight>Middleweight</weight>
+
+<fighter1>Alexander Volkov</fighter1>
+<fighter2>Walt Harris</fighter2>
+<rounds>3</rounds>
+<weight>Heavyweight</weight>
+
+<fighter1>Jacob Malkoun</fighter1>
+<fighter2>Phil Hawes</fighter2>
+<rounds>3</rounds>
+<weight>Middleweight</weight>
+
+<fighter1>Lauren Murphy</fighter1>
+<fighter2>Liliya Shakirova</fighter2>
+<rounds>3</rounds>
+<weight>Flyweight</weight>
+
+<fighter1>Magomed Ankalaev</fighter1>
+<fighter2>Ion Cuțelaba</fighter2>
+<rounds>3</rounds>
+<weight>Light Heavyweight</weight>
+
+<loc>Uncasville, Connecticut</loc>
+
+<fighter1>Sergey Lipinets</fighter1>
+<fighter2>Custio Clayton</fighter2>
+<rounds>12</rounds>
+<weight>Welterweight</weight>
+
+<fighter1>Xavier Martinez</fighter1>
+<fighter2>Claudio Marrero</fighter2>
+<rounds>12</rounds>
+<weight>Junior Lightweight</weight>
+
+<fighter1>Malik Hawkins</fighter1>
+<fighter2>Subriel Matias</fighter2>
+<rounds>10</rounds>
+<weight>Junior Welterweight</weight>
+
+<time>October 30, 2020</time>
+
+<loc>Indio, Calif.</loc>
+
+<fighter1>Jaime Munguia</fighter1>
+<fighter2>Tureano Johnson</fighter2>
+<rounds>12</rounds>
+<weight>Middleweight</weight>
+
+<time>October 31, 2020</time>
 
 <loc>Uncasville, Connecticut</loc>
 
@@ -58,7 +93,17 @@
 <rounds>12</rounds>
 <weight>Lightweight</weight>
 
-<time>October 31, 2020</time>
+<loc>Las Vegas</loc>
+
+<fighter1>Naoya Inoue</fighter1>
+<fighter2>Jason Moloney</fighter2>
+<rounds>12</rounds>
+<weight>Bantamweight</weight>
+
+<fighter1>Ewa Brodnicka</fighter1>
+<fighter2>Mikaela Mayer</fighter2>
+<rounds>10</rounds>
+<weight>Junior Lightweight</weight>
 
 <loc>London</loc>
 
@@ -76,13 +121,6 @@
 
 <time>November 21, 2020</time>
 
-<loc>Uncasville, Connecticut</loc>
-
-<fighter1>Errol Spence</fighter1>
-<fighter2>Danny Garcia</fighter2>
-<rounds>12</rounds>
-<weight>Welterweight</weight>
-
 <loc>London</loc>
 
 <fighter1>Alexander Povetkin</fighter1>
@@ -98,4 +136,23 @@
 <fighter2>Roy Jones</fighter2>
 <rounds>8</rounds>
 <weight>Heavyweight</weight>
+
+<time>December 5, 2020</time>
+
+<loc>Dallas, Texas</loc>
+
+<fighter1>Errol Spence</fighter1>
+<fighter2>Danny Garcia</fighter2>
+<rounds>12</rounds>
+<weight>Welterweight</weight>
+
+<time>December 12, 2020</time>
+
+<loc>London</loc>
+
+<fighter1>Anthony Joshua</fighter1>
+<fighter2>Kubrat Pulev</fighter2>
+<rounds>12</rounds>
+<weight>Heavyweight</weight>
+
 
