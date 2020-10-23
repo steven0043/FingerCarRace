@@ -1,3 +1,55 @@
+<time>October 17, 2020</time>
+
+<loc>Las Vegas</loc>
+
+<fighter1>Vasyl Lomachenko</fighter1>
+<fighter2>Teofimo Lopez</fighter2>
+<rounds>12</rounds>
+<weight>Lightweight</weight>
+
+<fighter1>Arnold Barboza</fighter1>
+<fighter2>Alex Saucedo</fighter2>
+<rounds>10</rounds>
+<weight>Junior Welterweight</weight>
+
+<fighter1>Josue Vargas</fighter1>
+<fighter2>Kendo Castaneda</fighter2>
+<rounds>10</rounds>
+<weight>Junior Welterweight</weight>
+
+<loc>Newcastle, England</loc>
+
+<fighter1>Lewis Ritson</fighter1>
+<fighter2>Miguel Vazquez</fighter2>
+<rounds>12</rounds>
+<weight>Junior Welterweight</weight>
+
+<fighter1>Thomas Ward</fighter1>
+<fighter2>Thomas Essomba</fighter2>
+<rounds>10</rounds>
+<weight>Junior Featherweight</weight>
+
+<fighter1>Qais Ashfaq</fighter1>
+<fighter2>Marc Leach</fighter2>
+<rounds>10</rounds>
+<weight>Junior Featherweight</weight>
+
+<fighter1>Joe Laws</fighter1>
+<fighter2>Rylan Charlton</fighter2>
+<rounds>6</rounds>
+<weight>Junior Welterweight</weight>
+
+<fighter1>Ellie Scotney</fighter1>
+<fighter2>Bec Connolly</fighter2>
+<rounds>4</rounds>
+<weight>Featherweight</weight>
+
+<fighter1>Meshech Speare</fighter1>
+<fighter2>Kane Baker</fighter2>
+<rounds>4</rounds>
+<weight>Lightweight</weight>
+
+
 <time>October 9, 2020</time>
 
 <loc>Las Vegas</loc>
