@@ -1,55 +1,3 @@
-
-<time>October 24, 2020</time>
-
-<loc>Yas Island</loc>
-
-<fighter1>Khabib</fighter1>
-<fighter2>Justin Gaethje</fighter2>
-<rounds>5</rounds>
-<weight>Lightweight</weight>
-
-<fighter1>Robert Whittaker</fighter1>
-<fighter2>Jared Cannonier</fighter2>
-<rounds>3</rounds>
-<weight>Middleweight</weight>
-
-<fighter1>Alexander Volkov</fighter1>
-<fighter2>Walt Harris</fighter2>
-<rounds>3</rounds>
-<weight>Heavyweight</weight>
-
-<fighter1>Jacob Malkoun</fighter1>
-<fighter2>Phil Hawes</fighter2>
-<rounds>3</rounds>
-<weight>Middleweight</weight>
-
-<fighter1>Lauren Murphy</fighter1>
-<fighter2>Liliya Shakirova</fighter2>
-<rounds>3</rounds>
-<weight>Flyweight</weight>
-
-<fighter1>Magomed Ankalaev</fighter1>
-<fighter2>Ion Cuțelaba</fighter2>
-<rounds>3</rounds>
-<weight>Light Heavyweight</weight>
-
-<loc>Uncasville, Connecticut</loc>
-
-<fighter1>Sergey Lipinets</fighter1>
-<fighter2>Custio Clayton</fighter2>
-<rounds>12</rounds>
-<weight>Welterweight</weight>
-
-<fighter1>Xavier Martinez</fighter1>
-<fighter2>Claudio Marrero</fighter2>
-<rounds>12</rounds>
-<weight>Junior Lightweight</weight>
-
-<fighter1>Malik Hawkins</fighter1>
-<fighter2>Subriel Matias</fighter2>
-<rounds>10</rounds>
-<weight>Junior Welterweight</weight>
-
 <time>October 30, 2020</time>
 
 <loc>Indio, Calif.</loc>
@@ -59,13 +7,70 @@
 <rounds>12</rounds>
 <weight>Middleweight</weight>
 
+<fighter1>Rashidi Ellis</fighter1>
+<fighter2>Alexis Rocha</fighter2>
+<rounds>12</rounds>
+<weight>Welterweight</weight>
+
+<fighter1>Elwin Soto</fighter1>
+<fighter2>Carlos Buitrago</fighter2>
+<rounds>12</rounds>
+<weight>Junior Flyweight</weight>
+
 <time>October 31, 2020</time>
+
+<loc>London</loc>
+
+<fighter1>Oleksandr Usyk</fighter1>
+<fighter2>Dereck Chisora</fighter2>
+<rounds>12</rounds>
+<weight>Heavyweight</weight>
+
+<fighter1>Lee Selby</fighter1>
+<fighter2>George Kambosos</fighter2>
+<rounds>12</rounds>
+<weight>Lightweight</weight>
+
+<fighter1>Tommy McCarthy</fighter1>
+<fighter2>Bilal Laggoune</fighter2>
+<rounds>12</rounds>
+<weight>Cruiserweight</weight>
+
+<fighter1>Savannah Marshall</fighter1>
+<fighter2>Hannah Rankin</fighter2>
+<rounds>10</rounds>
+<weight>Middleweight</weight>
+
+<fighter1>Ukashir Farooq</fighter1>
+<fighter2>Martin Tecuapetla</fighter2>
+<rounds>10</rounds>
+<weight>Bantamweight</weight>
+
+<fighter1>Amy Timlin</fighter1>
+<fighter2>Carly Skelly</fighter2>
+<rounds>10</rounds>
+<weight>Junior Featherweight</weight>
 
 <loc>Uncasville, Connecticut</loc>
 
 <fighter1>Gervonta Davis</fighter1>
 <fighter2>Leo Santa Cruz</fighter2>
 <rounds>12</rounds>
+<weight>Lightweight</weight>
+
+<fighter1>Mario Barrios</fighter1>
+<fighter2>Ryan Karl</fighter2>
+<rounds>12</rounds>
+<weight>Junior Welterweight</weight>
+
+<fighter1>Regis Prograis</fighter1>
+<fighter2>Juan Heraldez</fighter2>
+<rounds>10</rounds>
+<weight>Junior Welterweight</weight>
+
+<fighter1>Diego Magdaleno</fighter1>
+<fighter2>Isaac Cruz</fighter2>
+<rounds>10</rounds>
 <weight>Lightweight</weight>
 
 <loc>Las Vegas</loc>
@@ -80,19 +85,31 @@
 <rounds>10</rounds>
 <weight>Junior Lightweight</weight>
 
-<loc>London</loc>
+<time>November 7, 2020</time>
 
-<fighter1>Oleksandr Usyk</fighter1>
-<fighter2>Dereck Chisora</fighter2>
+<loc>Hollywood, Florida</loc>
+
+<fighter1>Devin Haney</fighter1>
+<fighter2>Yuriorkis Gamboa</fighter2>
 <rounds>12</rounds>
+<weight>Lightweight</weight>
+
+<fighter1>Zhilei Zhang</fighter1>
+<fighter2>Devin Vargas</fighter2>
+<rounds>10</rounds>
 <weight>Heavyweight</weight>
 
-<loc>Las Vegas</loc>
+<fighter1>Filip Hrgovic</fighter1>
+<fighter2>Rydell Booker</fighter2>
+<rounds>10</rounds>
+<weight>Heavyweight</weight>
 
-<fighter1>Naoya Inoue</fighter1>
-<fighter2>Jason Moloney</fighter2>
-<rounds>12</rounds>
-<weight>Bantamweight</weight>
+<loc>Los Angeles</loc>
+
+<fighter1>Luis Ortiz</fighter1>
+<fighter2>Alexander Flores</fighter2>
+<rounds>10</rounds>
+<weight>Heavyweight</weight>
 
 <time>November 21, 2020</time>
 
