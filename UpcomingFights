@@ -2,37 +2,6 @@
 
 <time>October 31, 2020</time>
 
-<loc>London</loc>
-
-<fighter1>Oleksandr Usyk</fighter1>
-<fighter2>Dereck Chisora</fighter2>
-<rounds>12</rounds>
-<weight>Heavyweight</weight>
-
-<fighter1>Lee Selby</fighter1>
-<fighter2>George Kambosos</fighter2>
-<rounds>12</rounds>
-<weight>Lightweight</weight>
-
-<fighter1>Tommy McCarthy</fighter1>
-<fighter2>Bilal Laggoune</fighter2>
-<rounds>12</rounds>
-<weight>Cruiserweight</weight>
-
-<fighter1>Savannah Marshall</fighter1>
-<fighter2>Hannah Rankin</fighter2>
-<rounds>10</rounds>
-<weight>Middleweight</weight>
-
-<fighter1>Ukashir Farooq</fighter1>
-<fighter2>Martin Tecuapetla</fighter2>
-<rounds>10</rounds>
-<weight>Bantamweight</weight>
-
-<fighter1>Amy Timlin</fighter1>
-<fighter2>Carly Skelly</fighter2>
-<rounds>10</rounds>
-<weight>Junior Featherweight</weight>
 
 <loc>Uncasville, Connecticut</loc>
 
@@ -67,6 +36,39 @@
 <fighter2>Mikaela Mayer</fighter2>
 <rounds>10</rounds>
 <weight>Junior Lightweight</weight>
+
+<loc>London</loc>
+
+<fighter1>Oleksandr Usyk</fighter1>
+<fighter2>Dereck Chisora</fighter2>
+<rounds>12</rounds>
+<weight>Heavyweight</weight>
+
+<fighter1>Lee Selby</fighter1>
+<fighter2>George Kambosos</fighter2>
+<rounds>12</rounds>
+<weight>Lightweight</weight>
+
+<fighter1>Tommy McCarthy</fighter1>
+<fighter2>Bilal Laggoune</fighter2>
+<rounds>12</rounds>
+<weight>Cruiserweight</weight>
+
+<fighter1>Savannah Marshall</fighter1>
+<fighter2>Hannah Rankin</fighter2>
+<rounds>10</rounds>
+<weight>Middleweight</weight>
+
+<fighter1>Ukashir Farooq</fighter1>
+<fighter2>Martin Tecuapetla</fighter2>
+<rounds>10</rounds>
+<weight>Bantamweight</weight>
+
+<fighter1>Amy Timlin</fighter1>
+<fighter2>Carly Skelly</fighter2>
+<rounds>10</rounds>
+<weight>Junior Featherweight</weight>
+
 
 <time>November 7, 2020</time>
 
