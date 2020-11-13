@@ -1,28 +1,11 @@
-<time>November 7, 2020</time>
+<time>November 13, 2020</time>
 
-<loc>Hollywood, Florida</loc>
+<loc>London</loc>
 
-<fighter1>Devin Haney</fighter1>
-<fighter2>Yuriorkis Gamboa</fighter2>
+<fighter1>Denzel Bentley</fighter1>
+<fighter2>Mark Heffron</fighter2>
 <rounds>12</rounds>
-<weight>Lightweight</weight>
-
-<fighter1>Zhilei Zhang</fighter1>
-<fighter2>Devin Vargas</fighter2>
-<rounds>10</rounds>
-<weight>Heavyweight</weight>
-
-<fighter1>Filip Hrgovic</fighter1>
-<fighter2>Rydell Booker</fighter2>
-<rounds>10</rounds>
-<weight>Heavyweight</weight>
-
-<loc>Los Angeles</loc>
-
-<fighter1>Luis Ortiz</fighter1>
-<fighter2>Alexander Flores</fighter2>
-<rounds>10</rounds>
-<weight>Heavyweight</weight>
+<weight>Middleweight</weight>
 
 <time>November 14, 2020</time>
 
@@ -33,7 +16,69 @@
 <rounds>12</rounds>
 <weight>Welterweight</weight>
 
+<fighter1>Joshua Franco</fighter1>
+<fighter2>Andrew Moloney</fighter2>
+<rounds>12</rounds>
+<weight>Junior Bantamweight</weight>
+
+<fighter1>Joshua Greer</fighter1>
+<fighter2>Edwin Rodriguez</fighter2>
+<rounds>8</rounds>
+<weight>Bantamweight</weight>
+
+<loc>London</loc>
+
+<fighter1>Katie Taylor</fighter1>
+<fighter2>Miriam Gutierrez</fighter2>
+<rounds>10</rounds>
+<weight>Lightweight</weight>
+
+<fighter1>Terri Harper</fighter1>
+<fighter2>Katharina Thanderz</fighter2>
+<rounds>10</rounds>
+<weight>Junior Lightweight</weight>
+
+<fighter1>Jorgelina Guanini</fighter1>
+<fighter2>Rachel Ball</fighter2>
+<rounds>10</rounds>
+<weight>Bantamweight</weight>
+
+<fighter1>John Docherty</fighter1>
+<fighter2>Jack Cullen</fighter2>
+<rounds>10</rounds>
+<weight>Super Middleweight</weight>
+
+<time>November 21, 2020</time>
+
+<loc>London</loc>
+
+<fighter1>Conor Benn</fighter1>
+<fighter2>Sebastian Formella</fighter2>
+<rounds>10</rounds>
+<weight>Welterweight</weight>
+
+<fighter1>Chris Billam Smith</fighter1>
+<fighter2>Deion Jumah</fighter2>
+<rounds>12</rounds>
+<weight>Cruiserweight</weight>
+
+<time>November 27, 2020</time>
+
+<loc>Hollywood, Florida</loc>
+
+<fighter1>Daniel Jacobs</fighter1>
+<fighter2>Gabriel Rosado</fighter2>
+<rounds>12</rounds>
+<weight>Super Middleweight</weight>
+
 <time>November 28, 2020</time>
+
+<loc>London</loc>
+
+<fighter1>Joe Joyce</fighter1>
+<fighter2>Daniel Dubois</fighter2>
+<rounds>12</rounds>
+<weight>Heavyweight</weight>
 
 <loc>Carson, California</loc>
 
@@ -41,6 +86,24 @@
 <fighter2>Roy Jones</fighter2>
 <rounds>8</rounds>
 <weight>Heavyweight</weight>
+
+<time>December 2, 2020</time>
+
+<loc>Wakefield, England</loc>
+
+<fighter1>Jazza Dickens</fighter1>
+<fighter2>Ryan Walsh</fighter2>
+<rounds>10</rounds>
+<weight>Featherweight</weight>
+
+<time>December 4, 2020</time>
+
+<loc>London</loc>
+
+<fighter1>BJ Saunders</fighter1>
+<fighter2>Martin Murray</fighter2>
+<rounds>12</rounds>
+<weight>Super Middleweight</weight>
 
 <time>December 5, 2020</time>
 
@@ -50,14 +113,6 @@
 <fighter2>Danny Garcia</fighter2>
 <rounds>12</rounds>
 <weight>Welterweight</weight>
-
-<loc>Los Angeles</loc>
-
-<fighter1>Ryan Garcia</fighter1>
-<fighter2>Luke Campbell</fighter2>
-<rounds>12</rounds>
-<weight>Lightweight</weight>
-
 
 <time>December 12, 2020</time>
 
@@ -86,6 +141,15 @@
 <fighter2>Junior Fa</fighter2>
 <rounds>12</rounds>
 <weight>Heavyweight</weight>
+
+<time>December 19, 2020</time>
+
+<loc>Los Angeles</loc>
+
+<fighter1>Ryan Garcia</fighter1>
+<fighter2>Luke Campbell</fighter2>
+<rounds>12</rounds>
+<weight>Lightweight</weight>
 
 <time>January 31, 2021</time>
 
