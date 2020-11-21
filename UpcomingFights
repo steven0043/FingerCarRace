@@ -28,6 +28,18 @@
 <rounds>6</rounds>
 <weight>Super Middleweight</weight>
 
+<loc>Los Angeles</loc>
+
+<fighter1>Javier Fortuna</fighter1>
+<fighter2>Antonio Torres</fighter2>
+<rounds>10</rounds>
+<weight>Lightweight</weight>
+
+<fighter1>Austin Dulay</fighter1>
+<fighter2>Jose Gallegos</fighter2>
+<rounds>10</rounds>
+<weight>Lightweight</weight>
+
 <time>November 27, 2020</time>
 
 <loc>Hollywood, Florida</loc>
