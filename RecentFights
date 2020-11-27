@@ -1,5 +1,46 @@
 
 
+<time>November 21, 2020</time>
+
+<loc>London</loc>
+
+<fighter1>Conor Benn</fighter1>
+<fighter2>Sebastian Formella</fighter2>
+<rounds>10</rounds>
+<weight>Welterweight</weight>
+
+<fighter1>Fabio Wardley</fighter1>
+<fighter2>Richard Lartey</fighter2>
+<rounds>10</rounds>
+<weight>Heavyweight</weight>
+
+<fighter1>Liam Davies</fighter1>
+<fighter2>Sean Cairns</fighter2>
+<rounds>10</rounds>
+<weight>Bantamweight</weight>
+
+<fighter1>Alen Babic</fighter1>
+<fighter2>Tom Little</fighter2>
+<rounds>8</rounds>
+<weight>Heavyweight</weight>
+
+<fighter1>Ben Ridings</fighter1>
+<fighter2>Jez Smith</fighter2>
+<rounds>6</rounds>
+<weight>Super Middleweight</weight>
+
+<loc>Los Angeles</loc>
+
+<fighter1>Javier Fortuna</fighter1>
+<fighter2>Antonio Torres</fighter2>
+<rounds>10</rounds>
+<weight>Lightweight</weight>
+
+<fighter1>Austin Dulay</fighter1>
+<fighter2>Jose Gallegos</fighter2>
+<rounds>10</rounds>
+<weight>Lightweight</weight>
+
 <time>November 14, 2020</time>
 
 <loc>Las Vegas</loc>
