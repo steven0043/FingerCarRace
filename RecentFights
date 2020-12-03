@@ -1,3 +1,51 @@
+
+<time>November 28, 2020</time>
+
+<loc>Carson, California</loc>
+
+<fighter1>Mike Tyson</fighter1>
+<fighter2>Roy Jones</fighter2>
+<rounds>8</rounds>
+<weight>Heavyweight</weight>
+
+<fighter1>Jake Paul</fighter1>
+<fighter2>Nate Robinson</fighter2>
+<rounds>6</rounds>
+<weight>Light Heavyweight</weight>
+
+<fighter1>Badou Jack</fighter1>
+<fighter2>Blake McKernan</fighter2>
+<rounds>8</rounds>
+<weight>Light Heavyweight</weight>
+
+<loc>London</loc>
+
+<fighter1>Daniel Dubois</fighter1>
+<fighter2>Joe Joyce</fighter2>
+<rounds>12</rounds>
+<weight>Heavyweight</weight>
+
+<fighter1>Hamzah Sheeraz</fighter1>
+<fighter2>Guido Pitto</fighter2>
+<rounds>10</rounds>
+<weight>Junior Middleweight</weight>
+
+<fighter1>Jack Catterall</fighter1>
+<fighter2>Abderrazak Houya</fighter2>
+<rounds>10</rounds>
+<weight>Junior Welterweight</weight>
+
+<fighter1>Jack Massey</fighter1>
+<fighter2>Mohammad Farid</fighter2>
+<rounds>8</rounds>
+<weight>Cruiserweight</weight>
+
+<fighter1>David Adeleye</fighter1>
+<fighter2>Danny Whittaker</fighter2>
+<rounds>6</rounds>
+<weight>Heavyweight</weight>
+
+
 <time>November 27, 2020</time>
 
 <loc>Hollywood, Florida</loc>
