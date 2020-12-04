@@ -51,6 +51,23 @@
 <rounds>10</rounds>
 <weight>Welterweight</weight>
 
+<loc>London</loc>
+
+<fighter1>Anthony Yarde</fighter1>
+<fighter2>Lyndon Arthur</fighter2>
+<rounds>12</rounds>
+<weight>Light Heavyweight</weight>
+
+<fighter1>Michael Ramabeletsa</fighter1>
+<fighter2>Chris Bourke</fighter2>
+<rounds>10</rounds>
+<weight>Super Bantamweight</weight>
+
+<fighter1>Dennis McCann</fighter1>
+<fighter2>Pedro Matos</fighter2>
+<rounds>8</rounds>
+<weight>Super Bantamweight</weight>
+
 <time>December 12, 2020</time>
 
 <loc>London</loc>
