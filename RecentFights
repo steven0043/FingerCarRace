@@ -1,3 +1,44 @@
+<time>December 5, 2020</time>
+
+<loc>Dallas, Texas</loc>
+
+<fighter1>Errol Spence</fighter1>
+<fighter2>Danny Garcia</fighter2>
+<rounds>12</rounds>
+<weight>Welterweight</weight>
+
+<fighter1>Sebastian Fundora</fighter1>
+<fighter2>Habib Ahmed</fighter2>
+<rounds>12</rounds>
+<weight>Junior Middleweight</weight>
+
+<fighter1>Eduardo Ramirez</fighter1>
+<fighter2>Miguel Flores</fighter2>
+<rounds>12</rounds>
+<weight>Bantamweight</weight>
+
+<fighter1>Josesito Lopez</fighter1>
+<fighter2>Francisco Santana</fighter2>
+<rounds>10</rounds>
+<weight>Welterweight</weight>
+
+<loc>London</loc>
+
+<fighter1>Anthony Yarde</fighter1>
+<fighter2>Lyndon Arthur</fighter2>
+<rounds>12</rounds>
+<weight>Light Heavyweight</weight>
+
+<fighter1>Michael Ramabeletsa</fighter1>
+<fighter2>Chris Bourke</fighter2>
+<rounds>10</rounds>
+<weight>Super Bantamweight</weight>
+
+<fighter1>Dennis McCann</fighter1>
+<fighter2>Pedro Matos</fighter2>
+<rounds>8</rounds>
+<weight>Super Bantamweight</weight>
+
 <time>December 4, 2020</time>
 
 <loc>London</loc>
