@@ -1,44 +1,3 @@
-<time>December 5, 2020</time>
-
-<loc>Dallas, Texas</loc>
-
-<fighter1>Errol Spence</fighter1>
-<fighter2>Danny Garcia</fighter2>
-<rounds>12</rounds>
-<weight>Welterweight</weight>
-
-<fighter1>Sebastian Fundora</fighter1>
-<fighter2>Habib Ahmed</fighter2>
-<rounds>12</rounds>
-<weight>Junior Middleweight</weight>
-
-<fighter1>Eduardo Ramirez</fighter1>
-<fighter2>Miguel Flores</fighter2>
-<rounds>12</rounds>
-<weight>Bantamweight</weight>
-
-<fighter1>Josesito Lopez</fighter1>
-<fighter2>Francisco Santana</fighter2>
-<rounds>10</rounds>
-<weight>Welterweight</weight>
-
-<loc>London</loc>
-
-<fighter1>Anthony Yarde</fighter1>
-<fighter2>Lyndon Arthur</fighter2>
-<rounds>12</rounds>
-<weight>Light Heavyweight</weight>
-
-<fighter1>Michael Ramabeletsa</fighter1>
-<fighter2>Chris Bourke</fighter2>
-<rounds>10</rounds>
-<weight>Super Bantamweight</weight>
-
-<fighter1>Dennis McCann</fighter1>
-<fighter2>Pedro Matos</fighter2>
-<rounds>8</rounds>
-<weight>Super Bantamweight</weight>
-
 <time>December 12, 2020</time>
 
 <loc>London</loc>
@@ -49,16 +8,46 @@
 <weight>Heavyweight</weight>
 
 <fighter1>Lawrence Okolie</fighter1>
-<fighter2>Krzysztof Glowacki</fighter2>
+<fighter2>Nikodem Jezewski</fighter2>
 <rounds>12</rounds>
 <weight>Cruiserweight</weight>
 
+<fighter1>Hughie Fury</fighter1>
+<fighter2>Mariusz Wach</fighter2>
+<rounds>10</rounds>
+<weight>Heavyweight</weight>
+
+<fighter1>Martin Bakole</fighter1>
+<fighter2>Sergey Kuzmin</fighter2>
+<rounds>10</rounds>
+<weight>Heavyweight</weight>
+
+<fighter1>Kieron Conway</fighter1>
+<fighter2>Macaulay McGowen</fighter2>
+<rounds>10</rounds>
+<weight>Junior Middleweight</weight>
+
+<fighter1>Florian Marku</fighter1>
+<fighter2>Jamie Stewart</fighter2>
+<rounds>8</rounds>
+<weight>Welterweight</weight>
+
+<fighter1>Qais Ashfaq</fighter1>
+<fighter2>Ashley Lane</fighter2>
+<rounds>10</rounds>
+<weight>Junior Featherweight</weight>
+
 <loc>Uncasville, Connecticut</loc>
 
-<fighter1>Nordine Oubaali</fighter1>
-<fighter2>Nonito Donaire</fighter2>
+<fighter1>Chris Colbert</fighter1>
+<fighter2>Jaime Arboleda</fighter2>
 <rounds>12</rounds>
-<weight>Bantamweight</weight>
+<weight>Junior Lightweight</weight>
+
+<fighter1>Ronald Ellis</fighter1>
+<fighter2>Matvey Korobov</fighter2>
+<rounds>10</rounds>
+<weight>Middleweight</weight>
 
 <loc>Uncasville, Connecticut</loc>
 
@@ -66,6 +55,29 @@
 <fighter2>Junior Fa</fighter2>
 <rounds>12</rounds>
 <weight>Heavyweight</weight>
+
+<time>December 18, 2020</time>
+
+<loc>Hollywood, Florida</loc>
+
+<fighter1>Gennadiy Golovkin</fighter1>
+<fighter2>Kamil Szeremeta</fighter2>
+<rounds>12</rounds>
+<weight>Middleweight</weight>
+
+<fighter1>John Ryder</fighter1>
+<fighter2>Mike Guy</fighter2>
+<rounds>10</rounds>
+<weight>Super Middleweight</weight>
+
+<time>December 19, 2020</time>
+
+<loc>San Antonio</loc>
+
+<fighter1>Canelo</fighter1>
+<fighter2>Callum Smith</fighter2>
+<rounds>12</rounds>
+<weight>Super Middleweight</weight>
 
 <time>January 2, 2021</time>
 
