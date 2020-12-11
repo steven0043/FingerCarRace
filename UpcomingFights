@@ -63,12 +63,17 @@
 <rounds>10</rounds>
 <weight>Middleweight</weight>
 
-<loc>Uncasville, Connecticut</loc>
+<loc>Las Vegas</loc>
 
-<fighter1>Joseph Parker</fighter1>
-<fighter2>Junior Fa</fighter2>
+<fighter1>Shakur Stevenson</fighter1>
+<fighter2>Toka Clary</fighter2>
 <rounds>12</rounds>
-<weight>Heavyweight</weight>
+<weight>Junior Lightweight</weight>
+
+<fighter1>Felix Verdejo</fighter1>
+<fighter2>Masayoshi Nakatani</fighter2>
+<rounds>10</rounds>
+<weight>Lightweight</weight>
 
 <time>December 18, 2020</time>
 
