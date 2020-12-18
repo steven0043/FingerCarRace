@@ -1,68 +1,4 @@
 
-
-<time>December 12, 2020</time>
-
-<loc>London</loc>
-
-<fighter1>Anthony Joshua</fighter1>
-<fighter2>Kubrat Pulev</fighter2>
-<rounds>12</rounds>
-<weight>Heavyweight</weight>
-
-<fighter1>Lawrence Okolie</fighter1>
-<fighter2>Nikodem Jezewski</fighter2>
-<rounds>12</rounds>
-<weight>Cruiserweight</weight>
-
-<fighter1>Hughie Fury</fighter1>
-<fighter2>Mariusz Wach</fighter2>
-<rounds>10</rounds>
-<weight>Heavyweight</weight>
-
-<fighter1>Martin Bakole</fighter1>
-<fighter2>Sergey Kuzmin</fighter2>
-<rounds>10</rounds>
-<weight>Heavyweight</weight>
-
-<fighter1>Kieron Conway</fighter1>
-<fighter2>Macaulay McGowen</fighter2>
-<rounds>10</rounds>
-<weight>Junior Middleweight</weight>
-
-<fighter1>Florian Marku</fighter1>
-<fighter2>Jamie Stewart</fighter2>
-<rounds>8</rounds>
-<weight>Welterweight</weight>
-
-<fighter1>Qais Ashfaq</fighter1>
-<fighter2>Ashley Lane</fighter2>
-<rounds>10</rounds>
-<weight>Junior Featherweight</weight>
-
-<loc>Uncasville, Connecticut</loc>
-
-<fighter1>Chris Colbert</fighter1>
-<fighter2>Jaime Arboleda</fighter2>
-<rounds>12</rounds>
-<weight>Junior Lightweight</weight>
-
-<fighter1>Ronald Ellis</fighter1>
-<fighter2>Matvey Korobov</fighter2>
-<rounds>10</rounds>
-<weight>Middleweight</weight>
-
-<loc>Las Vegas</loc>
-
-<fighter1>Shakur Stevenson</fighter1>
-<fighter2>Toka Clary</fighter2>
-<rounds>12</rounds>
-<weight>Junior Lightweight</weight>
-
-<fighter1>Felix Verdejo</fighter1>
-<fighter2>Masayoshi Nakatani</fighter2>
-<rounds>10</rounds>
-<weight>Lightweight</weight>
-
 <time>December 18, 2020</time>
 
 <loc>Hollywood, Florida</loc>
@@ -72,10 +8,25 @@
 <rounds>12</rounds>
 <weight>Middleweight</weight>
 
+<fighter1>Ali Akhmedov</fighter1>
+<fighter2>Carlos Gongora</fighter2>
+<rounds>12</rounds>
+<weight>Middleweight</weight>
+
 <fighter1>John Ryder</fighter1>
 <fighter2>Mike Guy</fighter2>
 <rounds>10</rounds>
 <weight>Super Middleweight</weight>
+
+<fighter1>Hyun Mi Choi</fighter1>
+<fighter2>Calista Silgado</fighter2>
+<rounds>10</rounds>
+<weight>Junior Lightweight</weight>
+
+<fighter1>Reshat Mati</fighter1>
+<fighter2>Dennis Okoth</fighter2>
+<rounds>8</rounds>
+<weight>Weltereight</weight>
 
 <time>December 19, 2020</time>
 
@@ -85,6 +36,21 @@
 <fighter2>Callum Smith</fighter2>
 <rounds>12</rounds>
 <weight>Super Middleweight</weight>
+
+<fighter1>Christian Duran</fighter1>
+<fighter2>Angel Hernandez</fighter2>
+<rounds>8</rounds>
+<weight>Welterweight</weight>
+
+<fighter1>Austin Williams</fighter1>
+<fighter2>Isiah Jones</fighter2>
+<rounds>8</rounds>
+<weight>Middleweight</weight>
+
+<fighter1>Raymond Ford</fighter1>
+<fighter2>Juan Lopez</fighter2>
+<rounds>6</rounds>
+<weight>Featherweight</weight>
 
 <time>January 2, 2021</time>
 
