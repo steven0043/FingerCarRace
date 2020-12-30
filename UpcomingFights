@@ -1,5 +1,16 @@
+<time>December 31, 2020</time>
 
+<loc>Tokyo Japan 🎌</loc>
 
+<fighter1>Kazuto Ioka</fighter1>
+<fighter2>Kosei Tanaka</fighter2>
+<rounds>12</rounds>
+<weight>Bantamweight</weight>
+
+<fighter1>Yuki Kobayashi</fighter1>
+<fighter2>Daigo Higa</fighter2>
+<rounds>12</rounds>
+<weight>Bantamweight</weight>
 
 <time>January 2, 2021</time>
 
@@ -9,6 +20,21 @@
 <fighter2>Luke Campbell</fighter2>
 <rounds>12</rounds>
 <weight>Lightweight</weight>
+
+<fighter1>Rene Alvarado</fighter1>
+<fighter2>Roger Gutierrez</fighter2>
+<rounds>12</rounds>
+<weight>Lightweight</weight>
+
+<fighter1>Felix Alvarado</fighter1>
+<fighter2>DeeJay Kriel</fighter2>
+<rounds>12</rounds>
+<weight>Junior Flyweight</weight>
+
+<fighter1>Franchon Crews Dezurn</fighter1>
+<fighter2>Ashleigh Curry</fighter2>
+<rounds>8</rounds>
+<weight>Super Middleweight</weight>
 
 <time>January 31, 2021</time>
 
