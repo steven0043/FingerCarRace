@@ -1,29 +1,56 @@
 
-<time>January 2, 2021</time>
+<time>January 16, 2021</time>
 
-<loc>Dallas, Texas</loc>
+<loc>Abu Dhabi</loc>
 
-<fighter1>Ryan Garcia</fighter1>
-<fighter2>Luke Campbell</fighter2>
+<fighter1>Max Holloway</fighter1>
+<fighter2>Calvin Kattar</fighter2>
+<rounds>5</rounds>
+<weight>Featherweight</weight>
+
+<fighter1>Carlos Condit</fighter1>
+<fighter2>Matt Brown</fighter2>
+<rounds>3</rounds>
+<weight>Welterweight</weight>
+
+<fighter1>Santiago Ponzinibbio</fighter1>
+<fighter2>Li Jingliang</fighter2>
+<rounds>3</rounds>
+<weight>Welterweight</weight>
+
+<fighter1>Joaquin Buckley</fighter1>
+<fighter2>Alessio Di Chirico</fighter2>
+<rounds>3</rounds>
+<weight>Middleweight</weight>
+
+<time>January 30, 2021</time>
+
+<loc>Los Angeles</loc>
+
+<fighter1>Caleb Plant</fighter1>
+<fighter2>Caleb Truax</fighter2>
 <rounds>12</rounds>
-<weight>Lightweight</weight>
-
-<fighter1>Rene Alvarado</fighter1>
-<fighter2>Roger Gutierrez</fighter2>
-<rounds>12</rounds>
-<weight>Lightweight</weight>
-
-<fighter1>Felix Alvarado</fighter1>
-<fighter2>DeeJay Kriel</fighter2>
-<rounds>12</rounds>
-<weight>Junior Flyweight</weight>
-
-<fighter1>Franchon Crews Dezurn</fighter1>
-<fighter2>Ashleigh Curry</fighter2>
-<rounds>8</rounds>
 <weight>Super Middleweight</weight>
 
-<time>January 31, 2021</time>
+<time>February 20, 2021</time>
+
+<loc>Las Vegas</loc>
+
+<fighter1>Miguel Berchelt</fighter1>
+<fighter2>Oscar Valdez</fighter2>
+<rounds>12</rounds>
+<weight>Junior Lightweight</weight>
+
+<time>March 13, 2021</time>
+
+<loc>Texas</loc>
+
+<fighter1>Juan Estrada</fighter1>
+<fighter2>Roman Gonzalez</fighter2>
+<rounds>12</rounds>
+<weight>Super Flyweight</weight>
+
+<time>March 20, 2021</time>
 
 <loc>London</loc>
 
