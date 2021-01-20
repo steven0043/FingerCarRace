@@ -1,27 +1,31 @@
 
-<time>January 16, 2021</time>
+<time>January 20, 2021</time>
 
-<loc>Abu Dhabi</loc>
+<loc>Uncasville, Conn.</loc>
 
-<fighter1>Max Holloway</fighter1>
-<fighter2>Calvin Kattar</fighter2>
-<rounds>5</rounds>
-<weight>Featherweight</weight>
+<fighter1>Yeis Solano</fighter1>
+<fighter2>Mykquan Williams</fighter2>
+<rounds>10</rounds>
+<weight>Junior Welterweight</weight>
 
-<fighter1>Carlos Condit</fighter1>
-<fighter2>Matt Brown</fighter2>
-<rounds>3</rounds>
-<weight>Welterweight</weight>
+<time>January 23, 2021</time>
 
-<fighter1>Santiago Ponzinibbio</fighter1>
-<fighter2>Li Jingliang</fighter2>
-<rounds>3</rounds>
-<weight>Welterweight</weight>
+<loc>Uncasville, Conn.</loc>
 
-<fighter1>Joaquin Buckley</fighter1>
-<fighter2>Alessio Di Chirico</fighter2>
-<rounds>3</rounds>
-<weight>Middleweight</weight>
+<fighter1>Angelo Leo</fighter1>
+<fighter2>Stephen Fulton</fighter2>
+<rounds>12</rounds>
+<weight>Junior Featherweight</weight>
+
+<fighter1>Vic Pasillas</fighter1>
+<fighter2>Raeese Aleem</fighter2>
+<rounds>12</rounds>
+<weight>Junior Featherweight</weight>
+
+<fighter1>Rolando Romero</fighter1>
+<fighter2>Justin Pauldo</fighter2>
+<rounds>12</rounds>
+<weight>Lightweight</weight>
 
 <time>January 30, 2021</time>
 
