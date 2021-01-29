@@ -1,3 +1,50 @@
+<time>January 23, 2021</time>
+
+<loc>Uncasville, Conn.</loc>
+
+<fighter1>Angelo Leo</fighter1>
+<fighter2>Stephen Fulton</fighter2>
+<rounds>12</rounds>
+<weight>Junior Featherweight</weight>
+
+<fighter1>Vic Pasillas</fighter1>
+<fighter2>Raeese Aleem</fighter2>
+<rounds>12</rounds>
+<weight>Junior Featherweight</weight>
+
+<fighter1>Rolando Romero</fighter1>
+<fighter2>Justin Pauldo</fighter2>
+<rounds>12</rounds>
+<weight>Lightweight</weight>
+
+<loc>Abu Dhabi</loc>
+
+<fighter1>Dustin Poirier</fighter1>
+<fighter2>Conor McGregor</fighter2>
+<rounds>5</rounds>
+<weight>Lightweight</weight>
+
+<fighter1>Dan Hooker</fighter1>
+<fighter2>Michael Chandler</fighter2>
+<rounds>5</rounds>
+<weight>Lightweight</weight>
+
+<fighter1>Jessica Eye</fighter1>
+<fighter2>Joanne Calderwood</fighter2>
+<rounds>3</rounds>
+<weight>Flyweight</weight>
+
+<fighter1>Andrew Sanchez</fighter1>
+<fighter2>Makhmud Muradov</fighter2>
+<rounds>3</rounds>
+<weight>Middleweight</weight>
+
+<fighter1>Marina Rodriguez</fighter1>
+<fighter2>Amanda Ribas</fighter2>
+<rounds>3</rounds>
+<weight>Strawweight</weight>
+
+
 <time>January 16, 2021</time>
 
 <loc>Abu Dhabi</loc>
