@@ -1,31 +1,83 @@
-<time>January 29, 2021</time>
+<time>February 13, 2021</time>
 
-<loc>Florida</loc>
+<loc>London</loc>
 
-<fighter1>Bermane Stiverne</fighter1>
-<fighter2>Trevor Bryan</fighter2>
+<fighter1>Josh Warrington</fighter1>
+<fighter2>Mauricio Lara</fighter2>
+<rounds>10</rounds>
+<weight>Featherweight</weight>
+
+<fighter1>Leigh Wood</fighter1>
+<fighter2>Reece Mould</fighter2>
 <rounds>12</rounds>
-<weight>Heavyweight</weight>
+<weight>Featherweight</weight>
 
+<fighter1>Zelfa Barrett</fighter1>
+<fighter2>Kiko Martinez</fighter2>
+<rounds>10</rounds>
+<weight>Junior Lightweight</weight>
 
-<time>January 30, 2021</time>
+<fighter1>Dalton Smith</fighter1>
+<fighter2>Ishmael Ellis</fighter2>
+<rounds>8</rounds>
+<weight>Junior Welterweight</weight>
 
-<loc>Los Angeles</loc>
+<fighter1>Zelfa Barrett</fighter1>
+<fighter2>Kiko Martinez</fighter2>
+<rounds>10</rounds>
+<weight>Junior Lightweight</weight>
 
-<fighter1>Caleb Plant</fighter1>
-<fighter2>Caleb Truax</fighter2>
+<loc>Las Vegas</loc>
+
+<fighter1>Joe Smith</fighter1>
+<fighter2>Maxim Vlasov</fighter2>
 <rounds>12</rounds>
-<weight>Super Middleweight</weight>
+<weight>Light Heavyweight</weight>
 
-<fighter1>Rances Barthelemy</fighter1>
-<fighter2>All Rivera</fighter2>
+<fighter1>Richard Commey</fighter1>
+<fighter2>Jackson Marinez</fighter2>
+<rounds>12</rounds>
+<weight>Lightweight</weight>
+
+<fighter1>Adam Lopez</fighter1>
+<fighter2>Jason Sanchez</fighter2>
+<rounds>10</rounds>
+<weight>Featherweight</weight>
+
+<loc>Indio, California</loc>
+
+<fighter1>Joseph Diaz</fighter1>
+<fighter2>Shavkatdzhon Rakhimov</fighter2>
+<rounds>12</rounds>
+<weight>Junior Lightweight</weight>
+
+<fighter1>Patrick Teixeira</fighter1>
+<fighter2>Brian Castano</fighter2>
+<rounds>12</rounds>
+<weight>Junior Middleweight</weight>
+
+<time>February 17, 2021</time>
+
+<loc>Uncasville, Conn.</loc>
+
+<fighter1>Janelson Bocachica</fighter1>
+<fighter2>Mark Reyes</fighter2>
 <rounds>10</rounds>
 <weight>Welterweight</weight>
 
-<fighter1>Michael Coffie</fighter1>
-<fighter2>Scott Alexander</fighter2>
+<fighter1>Vladimir Shishkin</fighter1>
+<fighter2>Sena Agbeko</fighter2>
 <rounds>10</rounds>
-<weight>Heavyweight</weight>
+<weight>Super Middleweight</weight>
+
+<time>February 19, 2021</time>
+
+<loc>Wakefield, England</loc>
+
+<fighter1>Sean McComb</fighter1>
+<fighter2>Gavin Gwynne</fighter2>
+<rounds>12</rounds>
+<weight>Lightweight</weight>
 
 <time>February 20, 2021</time>
 
@@ -36,6 +88,101 @@
 <rounds>12</rounds>
 <weight>Junior Lightweight</weight>
 
+<fighter1>Otto Wallin</fighter1>
+<fighter2>Dominic Breazeale</fighter2>
+<rounds>12</rounds>
+<weight>Heavyweight</weight>
+
+<loc>London</loc>
+
+<fighter1>David Avanesyan</fighter1>
+<fighter2>Josh Kelly</fighter2>
+<rounds>12</rounds>
+<weight>Welterweight</weight>
+
+<fighter1>Robbie Davies</fighter1>
+<fighter2>Gabriel Valenzuela</fighter2>
+<rounds>12</rounds>
+<weight>Junior Welterweight</weight>
+
+<fighter1>Amy Timlin</fighter1>
+<fighter2>Carly Skelly</fighter2>
+<rounds>10</rounds>
+<weight>Junior Featherweight</weight>
+
+<fighter1>Florian Marku</fighter1>
+<fighter2>Rylan Charlton</fighter2>
+<rounds>10</rounds>
+<weight>Welterweight</weight>
+
+<loc>Uncasville, Conn.</loc>
+
+<fighter1>Adrien Broner</fighter1>
+<fighter2>Jovanie Santiago</fighter2>
+<rounds>10</rounds>
+<weight>Junior Welterweight</weight>
+
+<fighter1>Gabriel Flores</fighter1>
+<fighter2>Jayson Velez</fighter2>
+<rounds>10</rounds>
+<weight>Junior Lightweight</weight>
+
+<time>February 27, 2021</time>
+
+<loc>Miami, Florida</loc>
+
+<fighter1>Canelo Alvarez</fighter1>
+<fighter2>Avni Yildrim</fighter2>
+<rounds>12</rounds>
+<weight>Super Middleweight</weight>
+
+<fighter1>Julio Cesar Martinez</fighter1>
+<fighter2>McWilliams Arroyo</fighter2>
+<rounds>12</rounds>
+<weight>Flyweight</weight>
+
+<fighter1>Zhilei Zhang</fighter1>
+<fighter2>Jerry Forrest</fighter2>
+<rounds>10</rounds>
+<weight>Heavyweight</weight>
+
+<loc>London</loc>
+
+<fighter1>Jamel Herring</fighter1>
+<fighter2>Carl Frampton</fighter2>
+<rounds>12</rounds>
+<weight>Junior Lightweight</weight>
+
+<fighter1>Anthony Cacace</fighter1>
+<fighter2>Leon Woodstock</fighter2>
+<rounds>12</rounds>
+<weight>Junior Lightweight</weight>
+
+<loc>Auckland, New Zealand</loc>
+
+<fighter1>Joseph Parker</fighter1>
+<fighter2>Junior Fa</fighter2>
+<rounds>12</rounds>
+<weight>Heavyweight</weight>
+
+<time>March 5, 2021</time>
+
+<loc>Texas</loc>
+
+<fighter1>Claressa Shields</fighter1>
+<fighter2>Marie-Eve Dicaire</fighter2>
+<rounds>10</rounds>
+<weight>Junior Middleweight</weight>
+
+<time>March 6, 2021</time>
+
+<loc>London</loc>
+
+<fighter1>Alexander Povetkin</fighter1>
+<fighter2>Dillian Whyte</fighter2>
+<rounds>12</rounds>
+<weight>Heavyweight</weight>
+
 <time>March 13, 2021</time>
 
 <loc>Texas</loc>
@@ -45,13 +192,38 @@
 <rounds>12</rounds>
 <weight>Super Flyweight</weight>
 
+<fighter1>Jessica McCaskill</fighter1>
+<fighter2>Cecilia Braekhus</fighter2>
+<rounds>10</rounds>
+<weight>Welterweight</weight>
+
 <time>March 20, 2021</time>
 
 <loc>London</loc>
 
-<fighter1>Alexander Povetkin</fighter1>
-<fighter2>Dillian Whyte</fighter2>
+<fighter1>Lawrence Okolie</fighter1>
+<fighter2>Krzysztof Glowacki</fighter2>
 <rounds>12</rounds>
-<weight>Heavyweight</weight>
+<weight>Cruiserweight</weight>
 
+<loc>Texas</loc>
+
+<fighter1>Vergil Ortiz</fighter1>
+<fighter2>Maurice Hooker</fighter2>
+<rounds>12</rounds>
+<weight>Welterweight</weight>
+
+<time>April 10, 2021</time>
+
+<loc>London</loc>
+
+<fighter1>Conor Benn</fighter1>
+<fighter2>Samuel Vargas</fighter2>
+<rounds>10</rounds>
+<weight>Welterweight</weight>
+
+<fighter1>Rachel Ball</fighter1>
+<fighter2>Shannon Courtenay</fighter2>
+<rounds>10</rounds>
+<weight>Bantamweight</weight>
 
