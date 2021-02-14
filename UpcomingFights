@@ -24,6 +24,31 @@
 
 <loc>Las Vegas</loc>
 
+<fighter1>Kamaru Usman</fighter1>
+<fighter2>GilbertBurns</fighter2>
+<rounds>5</rounds>
+<weight>Welterweight</weight>
+
+<fighter1>Maycee Barber</fighter1>
+<fighter2>Alexa Grasso</fighter2>
+<rounds>5</rounds>
+<weight>Flyweight</weight>
+
+<fighter1>Kelvin Gastelum</fighter1>
+<fighter2>Ian Heinisch</fighter2>
+<rounds>3</rounds>
+<weight>Middleweight</weight>
+
+<fighter1>Ricky Simon</fighter1>
+<fighter2>Brian Kelleher</fighter2>
+<rounds>3</rounds>
+<weight>Featherweight</weight>
+
+<fighter1>Maki Pitolo</fighter1>
+<fighter2>Julian Marquez</fighter2>
+<rounds>3</rounds>
+<weight>Middleweight</weight>
+
 <fighter1>Joe Smith</fighter1>
 <fighter2>Maxim Vlasov</fighter2>
 <rounds>12</rounds>
