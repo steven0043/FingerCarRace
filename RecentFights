@@ -1,3 +1,65 @@
+<time>February 13, 2021</time>
+
+<loc>London</loc>
+
+<fighter1>Josh Warrington</fighter1>
+<fighter2>Mauricio Lara</fighter2>
+<rounds>12</rounds>
+<weight>Featherweight</weight>
+
+<fighter1>Leigh Wood</fighter1>
+<fighter2>Reece Mould</fighter2>
+<rounds>12</rounds>
+<weight>Featherweight</weight>
+
+<fighter1>Zelfa Barrett</fighter1>
+<fighter2>Kiko Martinez</fighter2>
+<rounds>12</rounds>
+<weight>Junior Lightweight</weight>
+
+<fighter1>Dalton Smith</fighter1>
+<fighter2>Ishmael Ellis</fighter2>
+<rounds>8</rounds>
+<weight>Junior Welterweight</weight>
+
+<loc>Las Vegas</loc>
+
+<fighter1>Richard Commey</fighter1>
+<fighter2>Jackson Marinez</fighter2>
+<rounds>12</rounds>
+<weight>Lightweight</weight>
+
+<fighter1>Adam Lopez</fighter1>
+<fighter2>Jason Sanchez</fighter2>
+<rounds>10</rounds>
+<weight>Featherweight</weight>
+
+<loc>Indio, California</loc>
+
+<fighter1>Joseph Diaz</fighter1>
+<fighter2>Shavkatdzhon Rakhimov</fighter2>
+<rounds>12</rounds>
+<weight>Junior Lightweight</weight>
+
+<fighter1>Patrick Teixeira</fighter1>
+<fighter2>Brian Castano</fighter2>
+<rounds>12</rounds>
+<weight>Junior Middleweight</weight>
+
+<time>February 17, 2021</time>
+
+<loc>Uncasville, Conn.</loc>
+
+<fighter1>Janelson Bocachica</fighter1>
+<fighter2>Mark Reyes</fighter2>
+<rounds>10</rounds>
+<weight>Welterweight</weight>
+
+<fighter1>Vladimir Shishkin</fighter1>
+<fighter2>Sena Agbeko</fighter2>
+<rounds>10</rounds>
+<weight>Super Middleweight</weight>
+
 <time>January 29, 2021</time>
 
 <loc>Florida</loc>
