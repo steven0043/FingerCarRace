@@ -1,13 +1,29 @@
-<time>February 19, 2021</time>
 
-<loc>Wakefield, England</loc>
-
-<fighter1>Sean McComb</fighter1>
-<fighter2>Gavin Gwynne</fighter2>
-<rounds>12</rounds>
-<weight>Lightweight</weight>
 
 <time>February 20, 2021</time>
+
+<loc>London</loc>
+
+<fighter1>David Avanesyan</fighter1>
+<fighter2>Josh Kelly</fighter2>
+<rounds>12</rounds>
+<weight>Welterweight</weight>
+
+<fighter1>Florian Marku</fighter1>
+<fighter2>Rylan Charlton</fighter2>
+<rounds>10</rounds>
+<weight>Welterweight</weight>
+
+<fighter1>Robbie Davies</fighter1>
+<fighter2>Gabriel Valenzuela</fighter2>
+<rounds>12</rounds>
+<weight>Junior Welterweight</weight>
+
+<fighter1>Jordan Gill</fighter1>
+<fighter2>Cesar Juarez</fighter2>
+<rounds>10</rounds>
+<weight>Featherweight</weight>
+
 
 <loc>Las Vegas</loc>
 
@@ -21,32 +37,6 @@
 <rounds>10</rounds>
 <weight>Junior Lightweight</weight>
 
-<loc>London</loc>
-
-<fighter1>David Avanesyan</fighter1>
-<fighter2>Josh Kelly</fighter2>
-<rounds>12</rounds>
-<weight>Welterweight</weight>
-
-<fighter1>Robbie Davies</fighter1>
-<fighter2>Gabriel Valenzuela</fighter2>
-<rounds>12</rounds>
-<weight>Junior Welterweight</weight>
-
-<fighter1>Amy Timlin</fighter1>
-<fighter2>Carly Skelly</fighter2>
-<rounds>10</rounds>
-<weight>Junior Featherweight</weight>
-
-<fighter1>Florian Marku</fighter1>
-<fighter2>Rylan Charlton</fighter2>
-<rounds>10</rounds>
-<weight>Welterweight</weight>
-
-<fighter1>Jordan Gill</fighter1>
-<fighter2>Cesar Juarez</fighter2>
-<rounds>10</rounds>
-<weight>Featherweight</weight>
 
 <loc>Uncasville, Conn.</loc>
 
