@@ -8,10 +8,16 @@
 <weight>Super Middleweight</weight>
 
 <time>February 27, 2021</time>
+<loc>Auckland, New Zealand</loc>
+
+<fighter1>Joseph Parker</fighter1>
+<fighter2>Junior Fa</fighter2>
+<rounds>12</rounds>
+<weight>Heavyweight</weight>
 
 <loc>Miami, Florida</loc>
 
-<fighter1>Canelo Alvarez</fighter1>
+<fighter1>Canelo</fighter1>
 <fighter2>Avni Yildrim</fighter2>
 <rounds>12</rounds>
 <weight>Super Middleweight</weight>
@@ -44,12 +50,7 @@
 <rounds>10</rounds>
 <weight>Junior Bantamweight</weight>
 
-<loc>Auckland, New Zealand</loc>
 
-<fighter1>Joseph Parker</fighter1>
-<fighter2>Junior Fa</fighter2>
-<rounds>12</rounds>
-<weight>Heavyweight</weight>
 
 <loc>Los Angeles</loc>
 
