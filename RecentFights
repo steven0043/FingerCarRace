@@ -1,3 +1,66 @@
+
+
+<time>February 20, 2021</time>
+
+<loc>Las Vegas</loc>
+
+<fighter1>Miguel Berchelt</fighter1>
+<fighter2>Oscar Valdez</fighter2>
+<rounds>12</rounds>
+<weight>Junior Lightweight</weight>
+
+<fighter1>Gabriel Flores</fighter1>
+<fighter2>Jayson Velez</fighter2>
+<rounds>10</rounds>
+<weight>Junior Lightweight</weight>
+
+
+<loc>Uncasville, Conn.</loc>
+
+<fighter1>Adrien Broner</fighter1>
+<fighter2>Jovanie Santiago</fighter2>
+<rounds>12</rounds>
+<weight>Junior Welterweight</weight>
+
+<fighter1>Otto Wallin</fighter1>
+<fighter2>Dominic Breazeale</fighter2>
+<rounds>12</rounds>
+<weight>Heavyweight</weight>
+
+<fighter1>Robert Easter</fighter1>
+<fighter2>Ryan Martin</fighter2>
+<rounds>12</rounds>
+<weight>Junior Welterweight</weight>
+
+<fighter1>Zachary Ochoa</fighter1>
+<fighter2>Juan Jose Velasco</fighter2>
+<rounds>10</rounds>
+<weight>Junior Welterweight</weight>
+
+
+<loc>London</loc>
+
+<fighter1>David Avanesyan</fighter1>
+<fighter2>Josh Kelly</fighter2>
+<rounds>12</rounds>
+<weight>Welterweight</weight>
+
+<fighter1>Florian Marku</fighter1>
+<fighter2>Rylan Charlton</fighter2>
+<rounds>10</rounds>
+<weight>Welterweight</weight>
+
+<fighter1>Robbie Davies</fighter1>
+<fighter2>Gabriel Valenzuela</fighter2>
+<rounds>12</rounds>
+<weight>Junior Welterweight</weight>
+
+<fighter1>Jordan Gill</fighter1>
+<fighter2>Cesar Juarez</fighter2>
+<rounds>10</rounds>
+<weight>Featherweight</weight>
+
+
 <time>February 13, 2021</time>
 
 <loc>London</loc>
