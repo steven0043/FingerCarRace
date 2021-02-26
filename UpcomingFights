@@ -1,65 +1,11 @@
+<time>February 26, 2021</time>
 
+<loc>Milan, Italy</loc>
 
-<time>February 20, 2021</time>
-
-<loc>Las Vegas</loc>
-
-<fighter1>Miguel Berchelt</fighter1>
-<fighter2>Oscar Valdez</fighter2>
+<fighter1>Daniele Scardina</fighter1>
+<fighter2>Cesar Nunez</fighter2>
 <rounds>12</rounds>
-<weight>Junior Lightweight</weight>
-
-<fighter1>Gabriel Flores</fighter1>
-<fighter2>Jayson Velez</fighter2>
-<rounds>10</rounds>
-<weight>Junior Lightweight</weight>
-
-
-<loc>Uncasville, Conn.</loc>
-
-<fighter1>Adrien Broner</fighter1>
-<fighter2>Jovanie Santiago</fighter2>
-<rounds>12</rounds>
-<weight>Junior Welterweight</weight>
-
-<fighter1>Otto Wallin</fighter1>
-<fighter2>Dominic Breazeale</fighter2>
-<rounds>12</rounds>
-<weight>Heavyweight</weight>
-
-<fighter1>Robert Easter</fighter1>
-<fighter2>Ryan Martin</fighter2>
-<rounds>12</rounds>
-<weight>Junior Welterweight</weight>
-
-<fighter1>Zachary Ochoa</fighter1>
-<fighter2>Juan Jose Velasco</fighter2>
-<rounds>10</rounds>
-<weight>Junior Welterweight</weight>
-
-
-<loc>London</loc>
-
-<fighter1>David Avanesyan</fighter1>
-<fighter2>Josh Kelly</fighter2>
-<rounds>12</rounds>
-<weight>Welterweight</weight>
-
-<fighter1>Florian Marku</fighter1>
-<fighter2>Rylan Charlton</fighter2>
-<rounds>10</rounds>
-<weight>Welterweight</weight>
-
-<fighter1>Robbie Davies</fighter1>
-<fighter2>Gabriel Valenzuela</fighter2>
-<rounds>12</rounds>
-<weight>Junior Welterweight</weight>
-
-<fighter1>Jordan Gill</fighter1>
-<fighter2>Cesar Juarez</fighter2>
-<rounds>10</rounds>
-<weight>Featherweight</weight>
-
+<weight>Super Middleweight</weight>
 
 <time>February 27, 2021</time>
 
@@ -70,8 +16,8 @@
 <rounds>12</rounds>
 <weight>Super Middleweight</weight>
 
-<fighter1>Julio Cesar Martinez</fighter1>
-<fighter2>McWilliams Arroyo</fighter2>
+<fighter1>McWilliams Arroyo</fighter1>
+<fighter2>Abraham Rodriguez</fighter2>
 <rounds>12</rounds>
 <weight>Flyweight</weight>
 
@@ -80,17 +26,23 @@
 <rounds>10</rounds>
 <weight>Heavyweight</weight>
 
+<fighter1>Diego Pacheco</fighter1>
+<fighter2>Rodolfo Gomez</fighter2>
+<rounds>8</rounds>
+<weight>Super Middleweight</weight>
+
 <loc>London</loc>
 
-<fighter1>Jamel Herring</fighter1>
-<fighter2>Carl Frampton</fighter2>
-<rounds>12</rounds>
-<weight>Junior Lightweight</weight>
 
 <fighter1>Anthony Cacace</fighter1>
 <fighter2>Leon Woodstock</fighter2>
 <rounds>12</rounds>
 <weight>Junior Lightweight</weight>
+
+<fighter1>Quaise Khademi</fighter1>
+<fighter2>Ijaz Ahmed</fighter2>
+<rounds>10</rounds>
+<weight>Junior Bantamweight</weight>
 
 <loc>Auckland, New Zealand</loc>
 
@@ -98,6 +50,13 @@
 <fighter2>Junior Fa</fighter2>
 <rounds>12</rounds>
 <weight>Heavyweight</weight>
+
+<loc>Los Angeles</loc>
+
+<fighter1>Anthony Dirrell</fighter1>
+<fighter2>Kyrone Davis</fighter2>
+<rounds>12</rounds>
+<weight>Super Middleweight</weight>
 
 <time>March 5, 2021</time>
 
@@ -107,15 +66,6 @@
 <fighter2>Marie-Eve Dicaire</fighter2>
 <rounds>10</rounds>
 <weight>Junior Middleweight</weight>
-
-<time>March 6, 2021</time>
-
-<loc>London</loc>
-
-<fighter1>Alexander Povetkin</fighter1>
-<fighter2>Dillian Whyte</fighter2>
-<rounds>12</rounds>
-<weight>Heavyweight</weight>
 
 <time>March 13, 2021</time>
 
@@ -146,6 +96,15 @@
 <fighter2>Maurice Hooker</fighter2>
 <rounds>12</rounds>
 <weight>Welterweight</weight>
+
+<time>March 17, 2021</time>
+
+<loc>Gibraltar</loc>
+
+<fighter1>Alexander Povetkin</fighter1>
+<fighter2>Dillian Whyte</fighter2>
+<rounds>12</rounds>
+<weight>Heavyweight</weight>
 
 <time>April 10, 2021</time>
 
