@@ -1,19 +1,6 @@
-<time>February 26, 2021</time>
 
-<loc>Milan, Italy</loc>
-
-<fighter1>Daniele Scardina</fighter1>
-<fighter2>Cesar Nunez</fighter2>
-<rounds>12</rounds>
-<weight>Super Middleweight</weight>
 
 <time>February 27, 2021</time>
-<loc>Auckland, New Zealand</loc>
-
-<fighter1>Joseph Parker</fighter1>
-<fighter2>Junior Fa</fighter2>
-<rounds>12</rounds>
-<weight>Heavyweight</weight>
 
 <loc>Miami, Florida</loc>
 
@@ -36,6 +23,13 @@
 <fighter2>Rodolfo Gomez</fighter2>
 <rounds>8</rounds>
 <weight>Super Middleweight</weight>
+
+<loc>Auckland, New Zealand</loc>
+
+<fighter1>Joseph Parker</fighter1>
+<fighter2>Junior Fa</fighter2>
+<rounds>12</rounds>
+<weight>Heavyweight</weight>
 
 <loc>London</loc>
 
