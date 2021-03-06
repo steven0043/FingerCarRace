@@ -1,66 +1,32 @@
+<time>March 6, 2021</time>
+
+<loc>Las Vegas</loc>
+
+<fighter1>Jan Błachowicz</fighter1>
+<fighter2>Israel Adesanya</fighter2>
+<rounds>5</rounds>
+<weight>Light Heavyweight</weight>
+
+<fighter1>Amanda Nunes</fighter1>
+<fighter2>Megan Anderson</fighter2>
+<rounds>5</rounds>
+<weight>Featherweight</weight>
 
 
-<time>February 27, 2021</time>
+<fighter1>Petr Yan</fighter1>
+<fighter2>Aljamaim Stirling</fighter2>
+<rounds>5</rounds>
+<weight>Bantamweight</weight>
 
-<loc>Miami, Florida</loc>
+<fighter1>Islam Makhachev</fighter1>
+<fighter2>Drew Dober</fighter2>
+<rounds>3</rounds>
+<weight>Lightweight</weight>
 
-<fighter1>Canelo</fighter1>
-<fighter2>Avni Yildrim</fighter2>
-<rounds>12</rounds>
-<weight>Super Middleweight</weight>
-
-<fighter1>McWilliams Arroyo</fighter1>
-<fighter2>Abraham Rodriguez</fighter2>
-<rounds>12</rounds>
-<weight>Flyweight</weight>
-
-<fighter1>Zhilei Zhang</fighter1>
-<fighter2>Jerry Forrest</fighter2>
-<rounds>10</rounds>
-<weight>Heavyweight</weight>
-
-<fighter1>Diego Pacheco</fighter1>
-<fighter2>Rodolfo Gomez</fighter2>
-<rounds>8</rounds>
-<weight>Super Middleweight</weight>
-
-<loc>Auckland, New Zealand</loc>
-
-<fighter1>Joseph Parker</fighter1>
-<fighter2>Junior Fa</fighter2>
-<rounds>12</rounds>
-<weight>Heavyweight</weight>
-
-<loc>London</loc>
-
-
-<fighter1>Anthony Cacace</fighter1>
-<fighter2>Leon Woodstock</fighter2>
-<rounds>12</rounds>
-<weight>Junior Lightweight</weight>
-
-<fighter1>Quaise Khademi</fighter1>
-<fighter2>Ijaz Ahmed</fighter2>
-<rounds>10</rounds>
-<weight>Junior Bantamweight</weight>
-
-
-
-<loc>Los Angeles</loc>
-
-<fighter1>Anthony Dirrell</fighter1>
-<fighter2>Kyrone Davis</fighter2>
-<rounds>12</rounds>
-<weight>Super Middleweight</weight>
-
-<time>March 5, 2021</time>
-
-<loc>Texas</loc>
-
-<fighter1>Claressa Shields</fighter1>
-<fighter2>Marie-Eve Dicaire</fighter2>
-<rounds>10</rounds>
-<weight>Junior Middleweight</weight>
+<fighter1>Thiago Santos</fighter1>
+<fighter2>Aleksandar Rakic</fighter2>
+<rounds>3</rounds>
+<weight>Light Heavyweight</weight>
 
 <time>March 13, 2021</time>
 
