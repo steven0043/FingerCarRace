@@ -1,33 +1,3 @@
-<time>March 6, 2021</time>
-
-<loc>Las Vegas</loc>
-
-<fighter1>Jan Błachowicz</fighter1>
-<fighter2>Israel Adesanya</fighter2>
-<rounds>5</rounds>
-<weight>Light Heavyweight</weight>
-
-<fighter1>Amanda Nunes</fighter1>
-<fighter2>Megan Anderson</fighter2>
-<rounds>5</rounds>
-<weight>Featherweight</weight>
-
-
-<fighter1>Petr Yan</fighter1>
-<fighter2>Aljamaim Stirling</fighter2>
-<rounds>5</rounds>
-<weight>Bantamweight</weight>
-
-<fighter1>Islam Makhachev</fighter1>
-<fighter2>Drew Dober</fighter2>
-<rounds>3</rounds>
-<weight>Lightweight</weight>
-
-<fighter1>Thiago Santos</fighter1>
-<fighter2>Aleksandar Rakic</fighter2>
-<rounds>3</rounds>
-<weight>Light Heavyweight</weight>
-
 <time>March 13, 2021</time>
 
 <loc>Texas</loc>
