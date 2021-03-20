@@ -1,18 +1,6 @@
 
 
-<time>March 19, 2021</time>
 
-<loc>Bolton, England</loc>
-
-<fighter1>Karim Guerfi</fighter1>
-<fighter2>Lee Mcgregor</fighter2>
-<rounds>12</rounds>
-<weight>Bantamweight</weight>
-
-<fighter1>Maxi Hughes</fighter1>
-<fighter2>Paul Hyland</fighter2>
-<rounds>12</rounds>
-<weight>Lightweight</weight>
 
 <time>March 20, 2021</time>
 
@@ -37,6 +25,21 @@
 <fighter2>Faroukh Kourbanov</fighter2>
 <rounds>12</rounds>
 <weight>Junior Lightweight</weight>
+
+<fighter1>Bradley Rea</fighter1>
+<fighter2>Lee Cutler</fighter2>
+<rounds>6</rounds>
+<weight>Middleweight</weight>
+
+<fighter1>Ramla Ali</fighter1>
+<fighter2>Bec Connelly</fighter2>
+<rounds>6</rounds>
+<weight>Featherweight</weight>
+
+<fighter1>Ellie Scotney</fighter1>
+<fighter2>Mailys Gangloff</fighter2>
+<rounds>6</rounds>
+<weight>Featherweight</weight>
 
 <loc>Texas</loc>
 
