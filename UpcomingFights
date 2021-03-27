@@ -33,6 +33,18 @@
 <rounds>8</rounds>
 <weight>Junior Lightweight</weight>
 
+<fighter1>Campbell Hatton</fighter1>
+<fighter2>Jesus Ruiz</fighter2>
+<rounds>4</rounds>
+<weight>Lightweight</weight>
+
+<loc>Las Vegas</loc>
+
+<fighter1>Stipe Miocic</fighter1>
+<fighter2>Francis Ngannou</fighter2>
+<rounds>5</rounds>
+<weight>Heavyweight</weight>
+
 <time>March 31, 2021</time>
 
 <loc>New South Wales, Australia</loc>
