@@ -45,6 +45,16 @@
 <rounds>5</rounds>
 <weight>Heavyweight</weight>
 
+<fighter1>Tyron Woodley</fighter1>
+<fighter2>Vincente Luque</fighter2>
+<rounds>5</rounds>
+<weight>Welterweight</weight>
+
+<fighter1>Sean O'Malley</fighter1>
+<fighter2>Thomas Almeida</fighter2>
+<rounds>3</rounds>
+<weight>Bantamweight</weight>
+
 <time>March 31, 2021</time>
 
 <loc>New South Wales, Australia</loc>
