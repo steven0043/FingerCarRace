@@ -1,3 +1,63 @@
+<time>March 27, 2021</time>
+
+<loc>Gibraltar</loc>
+
+<fighter1>Alexander Povetkin</fighter1>
+<fighter2>Dillian Whyte</fighter2>
+<rounds>12</rounds>
+<weight>Heavyweight</weight>
+
+<fighter1>Ted Cheeseman</fighter1>
+<fighter2>James Metcalf</fighter2>
+<rounds>12</rounds>
+<weight>Junior Middleweight</weight>
+
+<fighter1>Chris Kongo</fighter1>
+<fighter2>Michael McKinson</fighter2>
+<rounds>10</rounds>
+<weight>Welterweight</weight>
+
+<fighter1>Fabio Wardley</fighter1>
+<fighter2>Eric Molina</fighter2>
+<rounds>8</rounds>
+<weight>Heavyweight</weight>
+
+<fighter1>Youssef Khoumari</fighter1>
+<fighter2>Kane Baker</fighter2>
+<rounds>8</rounds>
+<weight>Junior Lightweight</weight>
+
+<fighter1>Campbell Hatton</fighter1>
+<fighter2>Jesus Ruiz</fighter2>
+<rounds>4</rounds>
+<weight>Lightweight</weight>
+
+<loc>Las Vegas</loc>
+
+<fighter1>Stipe Miocic</fighter1>
+<fighter2>Francis Ngannou</fighter2>
+<rounds>5</rounds>
+<weight>Heavyweight</weight>
+
+<fighter1>Tyron Woodley</fighter1>
+<fighter2>Vincente Luque</fighter2>
+<rounds>5</rounds>
+<weight>Welterweight</weight>
+
+<fighter1>Sean O'Malley</fighter1>
+<fighter2>Thomas Almeida</fighter2>
+<rounds>3</rounds>
+<weight>Bantamweight</weight>
+
+<time>March 31, 2021</time>
+
+<loc>New South Wales, Australia</loc>
+
+<fighter1>Tim Tszyu</fighter1>
+<fighter2>Dennis Hogan</fighter2>
+<rounds>12</rounds>
+<weight>Junior Middleweight</weight>
+
 <time>March 20, 2021</time>
 
 <loc>London</loc>
