@@ -1,66 +1,26 @@
+<time>April 17, 2021</time>
 
+<loc>Hollywood, Florida</loc>
 
-<time>April 10, 2021</time>
-
-<loc>London</loc>
-
-<fighter1>Conor Benn</fighter1>
-<fighter2>Samuel Vargas</fighter2>
-<rounds>10</rounds>
-<weight>Welterweight</weight>
-
-<fighter1>Shannon Courtenay</fighter1>
-<fighter2>Ebanie Bridges</fighter2>
-<rounds>10</rounds>
-<weight>Bantamweight</weight>
-
-<fighter1>Savannah Marshall</fighter1>
-<fighter2>Maria Lindberg</fighter2>
-<rounds>10</rounds>
+<fighter1>Demetrius Andrade</fighter1>
+<fighter2>Liam Williams</fighter2>
+<rounds>12</rounds>
 <weight>Middleweight</weight>
 
-<fighter1>Alexander Espinoza</fighter1>
-<fighter2>Ukashir Farooq</fighter2>
-<rounds>10</rounds>
-<weight>Bantamweight</weight>
+<fighter1>Carlos Gongora</fighter1>
+<fighter2>Christopher Pearson</fighter2>
+<rounds>12</rounds>
+<weight>Super Middleweight</weight>
 
-<fighter1>Nick Campbell</fighter1>
-<fighter2>Petr Frohlich</fighter2>
-<rounds>6</rounds>
+<fighter1>Mahammadrasul Majidov</fighter1>
+<fighter2>Andrey Fedosov</fighter2>
+<rounds>12</rounds>
 <weight>Heavyweight</weight>
 
-<loc>Tulsa, Oklahoma</loc>
-
-<fighter1>Joe Smith</fighter1>
-<fighter2>Maxim Vlasov</fighter2>
-<rounds>12</rounds>
-<weight>Light Heavyweight</weight>
-
-<fighter1>Efe Ajagba</fighter1>
-<fighter2>Brian Howard</fighter2>
-<rounds>10</rounds>
-<weight>Heavyweight</weight>
-
-<loc>Uncasville, Connecticut</loc>
-
-<fighter1>Jaron Ennis</fighter1>
-<fighter2>Sergey Lipinets</fighter2>
-<rounds>12</rounds>
-<weight>Welterweight</weight>
-
-<fighter1>Jerwin Ancajas</fighter1>
-<fighter2>Jonathan Rodriguez</fighter2>
-<rounds>12</rounds>
-<weight>Junior Bantamweight</weight>
-
-
-<fighter1>Eimantas Stanionis</fighter1>
-<fighter2>Thomas Dulorme</fighter2>
-<rounds>12</rounds>
-<weight>Welterweight</weight>
-
-
-<time>April 17, 2021</time>
+<fighter1>Movladdin Biyarslanov</fighter1>
+<fighter2>Israel Mercado</fighter2>
+<rounds>8</rounds>
+<weight>Junior Welterweight</weight>
 
 <loc>Atlanta Georgia</loc>
 
@@ -69,16 +29,38 @@
 <rounds>8</rounds>
 <weight>Cruiserweight</weight>
 
-<fighter1>Antonio Tarver</fighter1>
-<fighter2>Frank Mir</fighter2>
-<rounds>4</rounds>
-<weight>Heavyweight</weight>
-
 <fighter1>Regis Prograis</fighter1>
 <fighter2>Ivan Redkach</fighter2>
 <rounds>10</rounds>
 <weight>Junior Welterweight</weight>
 
+<fighter1>Steve Cunningham</fighter1>
+<fighter2>Frank Mir</fighter2>
+<rounds>8</rounds>
+<weight>Heavyweight</weight>
+
+<fighter1>Joe Fournier</fighter1>
+<fighter2>Andres Londono</fighter2>
+<rounds>6</rounds>
+<weight>Light Heavyweight</weight>
+
+
+<loc>Los Angeles</loc>
+
+<fighter1>Tony Harrison</fighter1>
+<fighter2>Bryant Perrella</fighter2>
+<rounds>10</rounds>
+<weight>Junior Middleweight</weight>
+
+<fighter1>Efetobor Apochi</fighter1>
+<fighter2>Deon Nicholson</fighter2>
+<rounds>12</rounds>
+<weight>Cruiserweight</weight>
+
+<fighter1>Omar Juarez</fighter1>
+<fighter2>Elias Damian Araujo</fighter2>
+<rounds>10</rounds>
+<weight>Junior Welterweight</weight>
 
 <time>April 24, 2021</time>
 
@@ -93,6 +75,28 @@
 <fighter2>Demond Nicholson</fighter2>
 <rounds>8</rounds>
 <weight>Super Middleweight</weight>
+
+
+<time>May 1, 2021</time>
+
+<loc>Manchester, England</loc>
+
+<fighter1>Dereck Chisora</fighter1>
+<fighter2>Joseph Parker</fighter2>
+<rounds>12</rounds>
+<weight>Heavyweight</weight>
+
+<fighter1>Katie Taylor</fighter1>
+<fighter2>Natasha Jonas</fighter2>
+<rounds>10</rounds>
+<weight>Lightweight</weight>
+
+<loc>Carson, California</loc>
+
+<fighter1>Andy Ruiz</fighter1>
+<fighter2>Chris Arreola</fighter2>
+<rounds>12</rounds>
+<weight>Heavyweight</weight>
 
 <time>May 8, 2021</time>
 
@@ -111,3 +115,24 @@
 <fighter2>Josh Taylor</fighter2>
 <rounds>12</rounds>
 <weight>Junior Welterweight</weight>
+
+
+<time>May 29, 2021</time>
+
+<loc>Las Vegas</loc>
+
+<fighter1>Devin Haney</fighter1>
+<fighter2>Jorge Linares</fighter2>
+<rounds>12</rounds>
+<weight>Lightweight</weight>
+
+
+<time>June 5, 2021</time>
+
+<loc>Miami</loc>
+
+<fighter1>Teofimo Lopez</fighter1>
+<fighter2>George Kambosos</fighter2>
+<rounds>12</rounds>
+<weight>Lightweight</weight>
+
