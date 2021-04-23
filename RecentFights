@@ -1,4 +1,56 @@
+<time>April 17, 2021</time>
 
+<loc>Hollywood, Florida</loc>
+
+<fighter1>Demetrius Andrade</fighter1>
+<fighter2>Liam Williams</fighter2>
+<rounds>12</rounds>
+<weight>Middleweight</weight>
+
+<fighter1>Carlos Gongora</fighter1>
+<fighter2>Christopher Pearson</fighter2>
+<rounds>12</rounds>
+<weight>Super Middleweight</weight>
+
+<loc>Atlanta Georgia</loc>
+
+<fighter1>Jake Paul</fighter1>
+<fighter2>Ben Askren</fighter2>
+<rounds>8</rounds>
+<weight>Cruiserweight</weight>
+
+<fighter1>Regis Prograis</fighter1>
+<fighter2>Ivan Redkach</fighter2>
+<rounds>10</rounds>
+<weight>Junior Welterweight</weight>
+
+<fighter1>Steve Cunningham</fighter1>
+<fighter2>Frank Mir</fighter2>
+<rounds>8</rounds>
+<weight>Heavyweight</weight>
+
+<fighter1>Joe Fournier</fighter1>
+<fighter2>Andres Londono</fighter2>
+<rounds>6</rounds>
+<weight>Light Heavyweight</weight>
+
+
+<loc>Los Angeles</loc>
+
+<fighter1>Tony Harrison</fighter1>
+<fighter2>Bryant Perrella</fighter2>
+<rounds>10</rounds>
+<weight>Junior Middleweight</weight>
+
+<fighter1>Efetobor Apochi</fighter1>
+<fighter2>Deon Nicholson</fighter2>
+<rounds>12</rounds>
+<weight>Cruiserweight</weight>
+
+<fighter1>Omar Juarez</fighter1>
+<fighter2>Elias Damian Araujo</fighter2>
+<rounds>10</rounds>
+<weight>Junior Welterweight</weight>
 
 <time>April 10, 2021</time>
 
