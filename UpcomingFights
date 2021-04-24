@@ -1,21 +1,4 @@
-<time>April 23, 2021</time>
 
-<loc>Barcelona, Spain</loc>
-
-<fighter1>Sandor Martin</fighter1>
-<fighter2>Kay Prospere</fighter2>
-<rounds>12</rounds>
-<weight>Super Lightweight</weight>
-
-<fighter1>Andoni Gago</fighter1>
-<fighter2>Gavin McDonnell</fighter2>
-<rounds>12</rounds>
-<weight>Featherweight</weight>
-
-<fighter1>Kerman Lejarraga</fighter1>
-<fighter2>Jez Smith</fighter2>
-<rounds>10</rounds>
-<weight>Welterweight</weight>
 
 <time>April 24, 2021</time>
 
@@ -49,6 +32,24 @@
 <fighter2>Emil Markic</fighter2>
 <rounds>12</rounds>
 <weight>Light Heavyweight</weight>
+
+<loc>Jacksonville, Florida</loc>
+
+<fighter1>Kamaru Usman</fighter1>
+<fighter2>Jorge Masvidal</fighter2>
+<rounds>5</rounds>
+<weight>Weltereight</weight>
+
+<fighter1>Weili Zhang</fighter1>
+<fighter2>Rose Namajunas</fighter2>
+<rounds>5</rounds>
+<weight>Strawweight</weight>
+
+
+<fighter1>Valentina Shevchenko</fighter1>
+<fighter2>Jéssica Andrade</fighter2>
+<rounds>5</rounds>
+<weight>Flyweight</weight>
 
 <time>May 1, 2021</time>
 
