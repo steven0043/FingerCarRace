@@ -1,4 +1,71 @@
 
+<time>May 1, 2021</time>
+<loc>Carson, California</loc>
+
+<fighter1>Andy Ruiz</fighter1>
+<fighter2>Chris Arreola</fighter2>
+<rounds>12</rounds>
+<weight>Heavyweight</weight>
+
+<fighter1>Sebastian Fundora</fighter1>
+<fighter2>Jorge Cota</fighter2>
+<rounds>12</rounds>
+<weight>Super Middleweight</weight>
+
+
+<fighter1>Erislandy Lara</fighter1>
+<fighter2>Thomas Lamanna</fighter2>
+<rounds>12</rounds>
+<weight>Middleweight</weight>
+
+
+<fighter1>Eduardo Ramirez</fighter1>
+<fighter2>Isaac Avelar</fighter2>
+<rounds>12</rounds>
+<weight>Featherweight</weight>
+
+
+<fighter1>Omar Figueroa</fighter1>
+<fighter2>Abel Ramos</fighter2>
+<rounds>12</rounds>
+<weight>Welterweight</weight>
+<loc>Manchester, England</loc>
+
+<fighter1>Dereck Chisora</fighter1>
+<fighter2>Joseph Parker</fighter2>
+<rounds>12</rounds>
+<weight>Heavyweight</weight>
+
+<fighter1>Katie Taylor</fighter1>
+<fighter2>Natasha Jonas</fighter2>
+<rounds>10</rounds>
+<weight>Lightweight</weight>
+
+<fighter1>Dmitry Bivol</fighter1>
+<fighter2>Craig Richards</fighter2>
+<rounds>12</rounds>
+<weight>Light Heavyweight</weight>
+
+
+<fighter1>James Tennyson</fighter1>
+<fighter2>Jovanni Straffon</fighter2>
+<rounds>12</rounds>
+<weight>Lightweight</weight>
+
+
+<fighter1>Chris Eubank</fighter1>
+<fighter2>Marcus Morrison</fighter2>
+<rounds>10</rounds>
+<weight>Middleweight</weight>
+
+
+<fighter1>Campbell Hatton</fighter1>
+<fighter2>Levi Dunn</fighter2>
+<rounds>4</rounds>
+<weight>Junior Lightweight</weight>
+
+
+
 <time>April 30, 2021</time>
 
 <loc>London, England</loc>
