@@ -1,73 +1,10 @@
+<time>May 7, 2021</time>
+<loc>Ekaterinburg</loc>
 
-
-
-
-<time>May 1, 2021</time>
-<loc>Carson, California</loc>
-
-<fighter1>Andy Ruiz</fighter1>
+<fighter1>Liam Smith</fighter1>
 <fighter2>Chris Arreola</fighter2>
 <rounds>12</rounds>
-<weight>Heavyweight</weight>
-
-<fighter1>Sebastian Fundora</fighter1>
-<fighter2>Jorge Cota</fighter2>
-<rounds>12</rounds>
-<weight>Super Middleweight</weight>
-
-
-<fighter1>Erislandy Lara</fighter1>
-<fighter2>Thomas Lamanna</fighter2>
-<rounds>12</rounds>
-<weight>Middleweight</weight>
-
-
-<fighter1>Eduardo Ramirez</fighter1>
-<fighter2>Isaac Avelar</fighter2>
-<rounds>12</rounds>
-<weight>Featherweight</weight>
-
-
-<fighter1>Omar Figueroa</fighter1>
-<fighter2>Abel Ramos</fighter2>
-<rounds>12</rounds>
-<weight>Welterweight</weight>
-<loc>Manchester, England</loc>
-
-<fighter1>Dereck Chisora</fighter1>
-<fighter2>Joseph Parker</fighter2>
-<rounds>12</rounds>
-<weight>Heavyweight</weight>
-
-<fighter1>Katie Taylor</fighter1>
-<fighter2>Natasha Jonas</fighter2>
-<rounds>10</rounds>
-<weight>Lightweight</weight>
-
-<fighter1>Dmitry Bivol</fighter1>
-<fighter2>Craig Richards</fighter2>
-<rounds>12</rounds>
-<weight>Light Heavyweight</weight>
-
-
-<fighter1>James Tennyson</fighter1>
-<fighter2>Jovanni Straffon</fighter2>
-<rounds>12</rounds>
-<weight>Lightweight</weight>
-
-
-<fighter1>Chris Eubank</fighter1>
-<fighter2>Marcus Morrison</fighter2>
-<rounds>10</rounds>
-<weight>Middleweight</weight>
-
-
-<fighter1>Campbell Hatton</fighter1>
-<fighter2>Levi Dunn</fighter2>
-<rounds>4</rounds>
-<weight>Junior Lightweight</weight>
-
-
+<weight>Super Welterweight</weight>
 
 
 <time>May 8, 2021</time>
@@ -79,6 +16,79 @@
 <rounds>12</rounds>
 <weight>Super Middleweight</weight>
 
+<fighter1>Elwin Soto</fighter1>
+<fighter2>Katsunari Takayama</fighter2>
+<rounds>12</rounds>
+<weight>Junior Flyweight</weight>
+
+
+<fighter1>Kieron Conway</fighter1>
+<fighter2>Souleymane Cissokho</fighter2>
+<rounds>10</rounds>
+<weight>Junior Middleweight</weight>
+
+
+<fighter1>Frank Sanchez</fighter1>
+<fighter2>Nagy Aguilera</fighter2>
+<rounds>10</rounds>
+<weight>Heavyweight</weight>
+
+<fighter1>Keyshawn Davis</fighter1>
+<fighter2>Jose Antonio Meza</fighter2>
+<rounds>6</rounds>
+<weight>Lightweight</weight>
+
+
+<time>May 15, 2021</time>
+
+<loc>Dignity Health Sports Park, Carson</loc>
+
+<fighter1>Luis Nery</fighter1>
+<fighter2>Brandon Figueroa</fighter2>
+<rounds>12</rounds>
+<weight>Junior Featherweight</weight>
+
+<fighter1>Danny Roman</fighter1>
+<fighter2>Ricardo Franco</fighter2>
+<rounds>10</rounds>
+<weight>Junior Featherweight</weight>
+
+
+<fighter1>Xavier Martinez</fighter1>
+<fighter2>Abraham Montoya</fighter2>
+<rounds>12</rounds>
+<weight>Junior Lightweight</weight>
+
+<time>May 15, 2021</time>
+
+<loc>Manchester, England</loc>
+
+<fighter1>Joshua Buatsi</fighter1>
+<fighter2>Daniel Dos Santos</fighter2>
+<rounds>10</rounds>
+<weight>Light Heavyweight</weight>
+
+<fighter1>Lerrone Richards</fighter1>
+<fighter2>Giovanni De Carolis</fighter2>
+<rounds>12</rounds>
+<weight>Super Middleweight</weight>
+
+<fighter1>Tommy McCarthy</fighter1>
+<fighter2>Alexandru Jur</fighter2>
+<rounds>12</rounds>
+<weight>Cruiserweight</weight>
+
+<fighter1>Gamal Yafai</fighter1>
+<fighter2>Jason Cunningham</fighter2>
+<rounds>12</rounds>
+<weight>Junior Featherweight</weight>
+
+<fighter1>Dalton Smith</fighter1>
+<fighter2>Lee Appleyard</fighter2>
+<rounds>12</rounds>
+<weight>Junior Welterweight</weight>
+
+
 <time>May 22, 2021</time>
 
 <loc>Las Vegas</loc>
@@ -89,6 +99,11 @@
 <weight>Junior Welterweight</weight>
 
 
+<fighter1>Jose Zepeda</fighter1>
+<fighter2>Pedro Campa</fighter2>
+<rounds>10</rounds>
+<weight>Junior Welterweight</weight>
+
 <time>May 29, 2021</time>
 
 <loc>Las Vegas</loc>
@@ -98,6 +113,24 @@
 <rounds>12</rounds>
 <weight>Lightweight</weight>
 
+<fighter1>Chantelle Cameron</fighter1>
+<fighter2>Melissa Hernandez</fighter2>
+<rounds>10</rounds>
+<weight>Junior Welterweight</weight>
+
+<loc>Dignity Health Sports Park, Carson</loc>
+
+<fighter1>Nordine Oubaali</fighter1>
+<fighter2>Nonito Donaire</fighter2>
+<rounds>12</rounds>
+<weight>Bantamweight</weight>
+
+
+
+<fighter1>Subriel Matias</fighter1>
+<fighter2>Batyrzhan</fighter2>
+<rounds>12</rounds>
+<weight>Junior Welterweight</weight>
 
 <time>June 5, 2021</time>
 
@@ -107,4 +140,23 @@
 <fighter2>George Kambosos</fighter2>
 <rounds>12</rounds>
 <weight>Lightweight</weight>
+
+<time>June 6, 2021</time>
+
+<loc>Miami</loc>
+
+<fighter1>Floyd Mayweather</fighter1>
+<fighter2>Logan Paul</fighter2>
+<rounds>6</rounds>
+<weight>Middleweight</weight>
+
+<time>June 26, 2021</time>
+
+<loc>Las Vegas</loc>
+
+<fighter1>Vasiliy Lomachenko</fighter1>
+<fighter2>Masayoshi Nakatani</fighter2>
+<rounds>6</rounds>
+<weight>Lightweight</weight>
+
 
