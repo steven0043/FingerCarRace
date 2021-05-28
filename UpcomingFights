@@ -2,27 +2,7 @@
 
 
 
-<time>May 22, 2021</time>
 
-<loc>Las Vegas</loc>
-
-<fighter1>Jose Ramirez</fighter1>
-<fighter2>Josh Taylor</fighter2>
-<rounds>12</rounds>
-<weight>Junior Welterweight</weight>
-
-
-<fighter1>Jose Zepeda</fighter1>
-<fighter2>Hank Lundy</fighter2>
-<rounds>10</rounds>
-<weight>Junior Welterweight</weight>
-
-<loc>England</loc>
-
-<fighter1>Sam Eggington</fighter1>
-<fighter2>Carlos Molina</fighter2>
-<rounds>12</rounds>
-<weight>Middleweight</weight>
 
 <time>May 29, 2021</time>
 
@@ -37,6 +17,16 @@
 <fighter2>Melissa Hernandez</fighter2>
 <rounds>10</rounds>
 <weight>Junior Welterweight</weight>
+
+<fighter1>Martin Ward</fighter1>
+<fighter2>Azinga Fuzile</fighter2>
+<rounds>12</rounds>
+<weight>Junior Lightweight</weight>
+
+<fighter1>Jason Quigley</fighter1>
+<fighter2>Shane Mosley</fighter2>
+<rounds>10</rounds>
+<weight>Middleweight</weight>
 
 <loc>Dignity Health Sports Park, Carson</loc>
 
@@ -54,12 +44,13 @@
 
 <time>June 5, 2021</time>
 
-<loc>Miami</loc>
+<loc>London</loc>
 
-<fighter1>Teofimo Lopez</fighter1>
-<fighter2>George Kambosos</fighter2>
+<fighter1>Daniel Dubois</fighter1>
+<fighter2>Bogdan Dinu</fighter2>
 <rounds>12</rounds>
-<weight>Lightweight</weight>
+<weight>Heavyweight</weight>
+
 
 <time>June 6, 2021</time>
 
@@ -70,13 +61,42 @@
 <rounds>6</rounds>
 <weight>Middleweight</weight>
 
+<fighter1>Jean Pascal</fighter1>
+<fighter2>Badou Jack</fighter2>
+<rounds>12</rounds>
+<weight>Light Heavyweight</weight>
+
+<time>June 19, 2021</time>
+
+<loc>Las Vegas</loc>
+
+<fighter1>Nayoa Inoue</fighter1>
+<fighter2>Michael Dasmarinas</fighter2>
+<rounds>12</rounds>
+<weight>Bantamweight</weight>
+
+
+<loc>Miami</loc>
+
+<fighter1>Teofimo Lopez</fighter1>
+<fighter2>George Kambosos</fighter2>
+<rounds>12</rounds>
+<weight>Lightweight</weight>
+
 <time>June 26, 2021</time>
 
 <loc>Las Vegas</loc>
 
 <fighter1>Vasiliy Lomachenko</fighter1>
 <fighter2>Masayoshi Nakatani</fighter2>
-<rounds>6</rounds>
+<rounds>12</rounds>
 <weight>Lightweight</weight>
 
+<time>July 24, 2021</time>
 
+<loc>Las Vegas</loc>
+
+<fighter1>Tyson Fury</fighter1>
+<fighter2>Deontay Wilder</fighter2>
+<rounds>12</rounds>
+<weight>Heavyeight</weight>
