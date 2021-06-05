@@ -1,3 +1,35 @@
+<time>May 29, 2021</time>
+
+<loc>Las Vegas</loc>
+
+<fighter1>Devin Haney</fighter1>
+<fighter2>Jorge Linares</fighter2>
+<rounds>12</rounds>
+<weight>Lightweight</weight>
+
+<fighter1>Chantelle Cameron</fighter1>
+<fighter2>Melissa Hernandez</fighter2>
+<rounds>10</rounds>
+<weight>Junior Welterweight</weight>
+
+<fighter1>Martin Ward</fighter1>
+<fighter2>Azinga Fuzile</fighter2>
+<rounds>12</rounds>
+<weight>Junior Lightweight</weight>
+
+<fighter1>Jason Quigley</fighter1>
+<fighter2>Shane Mosley</fighter2>
+<rounds>10</rounds>
+<weight>Middleweight</weight>
+
+<loc>Dignity Health Sports Park, Carson</loc>
+
+<fighter1>Nordine Oubaali</fighter1>
+<fighter2>Nonito Donaire</fighter2>
+<rounds>12</rounds>
+<weight>Bantamweight</weight>
+
+
 <time>May 22, 2021</time>
 
 <loc>Las Vegas</loc>
