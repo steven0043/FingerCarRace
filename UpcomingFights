@@ -1,47 +1,3 @@
-
-
-
-
-
-
-<time>May 29, 2021</time>
-
-<loc>Las Vegas</loc>
-
-<fighter1>Devin Haney</fighter1>
-<fighter2>Jorge Linares</fighter2>
-<rounds>12</rounds>
-<weight>Lightweight</weight>
-
-<fighter1>Chantelle Cameron</fighter1>
-<fighter2>Melissa Hernandez</fighter2>
-<rounds>10</rounds>
-<weight>Junior Welterweight</weight>
-
-<fighter1>Martin Ward</fighter1>
-<fighter2>Azinga Fuzile</fighter2>
-<rounds>12</rounds>
-<weight>Junior Lightweight</weight>
-
-<fighter1>Jason Quigley</fighter1>
-<fighter2>Shane Mosley</fighter2>
-<rounds>10</rounds>
-<weight>Middleweight</weight>
-
-<loc>Dignity Health Sports Park, Carson</loc>
-
-<fighter1>Nordine Oubaali</fighter1>
-<fighter2>Nonito Donaire</fighter2>
-<rounds>12</rounds>
-<weight>Bantamweight</weight>
-
-
-
-<fighter1>Subriel Matias</fighter1>
-<fighter2>Batyrzhan</fighter2>
-<rounds>12</rounds>
-<weight>Junior Welterweight</weight>
-
 <time>June 5, 2021</time>
 
 <loc>London</loc>
@@ -52,6 +8,17 @@
 <weight>Heavyweight</weight>
 
 
+<fighter1>Nathan Heaney</fighter1>
+<fighter2>Iliyan Markov/fighter2>
+<rounds>10</rounds>
+<weight>Middleweight</weight>
+
+
+<fighter1>Tommy Fury</fighter1>
+<fighter2>Jordan Grant</fighter2>
+<rounds>6</rounds>
+<weight>Light Heavyweight</weight>
+
 <time>June 6, 2021</time>
 
 <loc>Miami</loc>
@@ -61,10 +28,47 @@
 <rounds>6</rounds>
 <weight>Middleweight</weight>
 
-<fighter1>Jean Pascal</fighter1>
-<fighter2>Badou Jack</fighter2>
-<rounds>12</rounds>
+<fighter1>Badou Jack</fighter1>
+<fighter2>Dervin Colina</fighter2>
+<rounds>10</rounds>
 <weight>Light Heavyweight</weight>
+
+<fighter1>Jarrett Hurd</fighter1>
+<fighter2>Luis Arias</fighter2>
+<rounds>10</rounds>
+<weight>Junior Middleweight</weight>
+
+<fighter1>Viddal Riley</fighter1>
+<fighter2>Quintell Thompson</fighter2>
+<rounds>6</rounds>
+<weight>Cruiserweight</weight>
+
+<fighter1>Chad Johnson</fighter1>
+<fighter2>Brian Maxwell</fighter2>
+<rounds>4</rounds>
+<weight>Cruiserweight</weight>
+
+
+<time>June 12, 2021</time>
+
+<loc>Las Vegas</loc>
+
+<fighter1>Shakur Stevenson</fighter1>
+<fighter2>Jeremiah Nakathila</fighter2>
+<rounds>12</rounds>
+<weight>Junior Lightweight</weight>
+
+<fighter1>Jose Pedraza</fighter1>
+<fighter2>Julian Rodriguez</fighter2>
+<rounds>10</rounds>
+<weight>Junior Welterweight</weight>
+
+<loc>Newcastle</loc>
+
+<fighter1>Lewis Ritson</fighter1>
+<fighter2>Jeremias Ponce</fighter2>
+<rounds>12</rounds>
+<weight>Junior Welterweight</weight>
 
 <time>June 19, 2021</time>
 
@@ -75,6 +79,17 @@
 <rounds>12</rounds>
 <weight>Bantamweight</weight>
 
+<fighter1>Mikaela Mayer</fighter1>
+<fighter2>Erica Farias</fighter2>
+<rounds>10</rounds>
+<weight>Junior Lightweight</weight>
+
+<loc>Houston</loc>
+
+<fighter1>Jermall Charlo</fighter1>
+<fighter2>Juan Montiel</fighter2>
+<rounds>12</rounds>
+<weight>Middleweight</weight>
 
 <loc>Miami</loc>
 
@@ -82,6 +97,22 @@
 <fighter2>George Kambosos</fighter2>
 <rounds>12</rounds>
 <weight>Lightweight</weight>
+
+<fighter1>Franchon Crews Dezurn</fighter1>
+<fighter2>Elin Cederroos</fighter2>
+<rounds>10</rounds>
+<weight>Super Middleweight</weight>
+
+<fighter1>Michael Hunter</fighter1>
+<fighter2>Mike Wilson</fighter2>
+<rounds>12</rounds>
+<weight>Heavyweight</weight>
+
+
+<fighter1>Zhilel Zhang</fighter1>
+<fighter2>Daniel Martz</fighter2>
+<rounds>10</rounds>
+<weight>Heavyweight</weight>
 
 <time>June 26, 2021</time>
 
@@ -99,4 +130,34 @@
 <fighter1>Tyson Fury</fighter1>
 <fighter2>Deontay Wilder</fighter2>
 <rounds>12</rounds>
-<weight>Heavyeight</weight>
+<weight>Heavyweight</weight>
+
+<time>August 14, 2021</time>
+
+<loc>Las Vegas</loc>
+
+<fighter1>John Casimero</fighter1>
+<fighter2>Guillermo Rigondeaux</fighter2>
+<rounds>12</rounds>
+<weight>Bantamweight</weight>
+
+
+<time>August 21, 2021</time>
+
+<loc>Las Vegas</loc>
+
+<fighter1>Errol Spence</fighter1>
+<fighter2>Manny Pacquiao</fighter2>
+<rounds>12</rounds>
+<weight>Welterweight</weight>
+
+
+<time>August 28, 2021</time>
+
+<loc>Las Vegas</loc>
+
+<fighter1>Jake Paul</fighter1>
+<fighter2>Tyron Woodley</fighter2>
+<rounds>8</rounds>
+<weight>Welterweight</weight>
+
