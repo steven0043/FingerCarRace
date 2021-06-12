@@ -1,52 +1,4 @@
-<time>June 5, 2021</time>
 
-<loc>London</loc>
-
-<fighter1>Daniel Dubois</fighter1>
-<fighter2>Bogdan Dinu</fighter2>
-<rounds>12</rounds>
-<weight>Heavyweight</weight>
-
-
-<fighter1>Nathan Heaney</fighter1>
-<fighter2>Iliyan Markov</fighter2>
-<rounds>10</rounds>
-<weight>Middleweight</weight>
-
-
-<fighter1>Tommy Fury</fighter1>
-<fighter2>Jordan Grant</fighter2>
-<rounds>6</rounds>
-<weight>Light Heavyweight</weight>
-
-<time>June 6, 2021</time>
-
-<loc>Miami</loc>
-
-<fighter1>Floyd Mayweather</fighter1>
-<fighter2>Logan Paul</fighter2>
-<rounds>8</rounds>
-<weight>Middleweight</weight>
-
-<fighter1>Badou Jack</fighter1>
-<fighter2>Dervin Colina</fighter2>
-<rounds>10</rounds>
-<weight>Light Heavyweight</weight>
-
-<fighter1>Jarrett Hurd</fighter1>
-<fighter2>Luis Arias</fighter2>
-<rounds>10</rounds>
-<weight>Junior Middleweight</weight>
-
-<fighter1>Viddal Riley</fighter1>
-<fighter2>Quintell Thompson</fighter2>
-<rounds>6</rounds>
-<weight>Cruiserweight</weight>
-
-<fighter1>Chad Johnson</fighter1>
-<fighter2>Brian Maxwell</fighter2>
-<rounds>4</rounds>
-<weight>Cruiserweight</weight>
 
 
 <time>June 12, 2021</time>
@@ -69,6 +21,21 @@
 <fighter2>Jeremias Ponce</fighter2>
 <rounds>12</rounds>
 <weight>Junior Welterweight</weight>
+
+<fighter1>Thomas Ward</fighter1>
+<fighter2>Edy Mercado</fighter2>
+<rounds>10</rounds>
+<weight>Featherweight</weight>
+
+<fighter1>Joe Laws</fighter1>
+<fighter2>Chris Adaway</fighter2>
+<rounds>6</rounds>
+<weight>Welterweight</weight>
+
+<fighter1>Alen Babic</fighter1>
+<fighter2>Damian Chambers</fighter2>
+<rounds>6</rounds>
+<weight>Heavyweight</weight>
 
 <time>June 19, 2021</time>
 
