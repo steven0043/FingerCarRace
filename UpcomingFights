@@ -1,41 +1,7 @@
 
 
 
-<time>June 12, 2021</time>
 
-<loc>Las Vegas</loc>
-
-<fighter1>Shakur Stevenson</fighter1>
-<fighter2>Jeremiah Nakathila</fighter2>
-<rounds>12</rounds>
-<weight>Junior Lightweight</weight>
-
-<fighter1>Jose Pedraza</fighter1>
-<fighter2>Julian Rodriguez</fighter2>
-<rounds>10</rounds>
-<weight>Junior Welterweight</weight>
-
-<loc>Newcastle</loc>
-
-<fighter1>Lewis Ritson</fighter1>
-<fighter2>Jeremias Ponce</fighter2>
-<rounds>12</rounds>
-<weight>Junior Welterweight</weight>
-
-<fighter1>Thomas Ward</fighter1>
-<fighter2>Edy Mercado</fighter2>
-<rounds>10</rounds>
-<weight>Featherweight</weight>
-
-<fighter1>Joe Laws</fighter1>
-<fighter2>Chris Adaway</fighter2>
-<rounds>6</rounds>
-<weight>Welterweight</weight>
-
-<fighter1>Alen Babic</fighter1>
-<fighter2>Damian Chambers</fighter2>
-<rounds>6</rounds>
-<weight>Heavyweight</weight>
 
 <time>June 19, 2021</time>
 
@@ -51,6 +17,11 @@
 <rounds>10</rounds>
 <weight>Junior Lightweight</weight>
 
+<fighter1>Adam Lopez</fighter1>
+<fighter2>Isaac Dogboe</fighter2>
+<rounds>10</rounds>
+<weight>Featherweight</weight>
+
 <loc>Houston</loc>
 
 <fighter1>Jermall Charlo</fighter1>
@@ -58,28 +29,46 @@
 <rounds>12</rounds>
 <weight>Middleweight</weight>
 
-<loc>Miami</loc>
 
-<fighter1>Teofimo Lopez</fighter1>
-<fighter2>George Kambosos</fighter2>
-<rounds>12</rounds>
+<fighter1>Angelo Leo</fighter1>
+<fighter2>Aaron Alameda</fighter2>
+<rounds>10</rounds>
+<weight>Junior Featherweight</weight>
+
+<fighter1>Isaac Gonzalez</fighter1>
+<fighter2>Francisco Vargas</fighter2>
+<rounds>10</rounds>
 <weight>Lightweight</weight>
 
-<fighter1>Franchon Crews Dezurn</fighter1>
-<fighter2>Elin Cederroos</fighter2>
-<rounds>10</rounds>
+<loc>Texas</loc>
+
+<fighter1>Jaime Munguia</fighter1>
+<fighter2>Kamil Szeremeta</fighter2>
+<rounds>12</rounds>
+<weight>Middleweight</weight>
+
+
+<fighter1>Bektemir Melikuziev</fighter1>
+<fighter2>Gabriel Rosado</fighter2>
+<rounds>12</rounds>
 <weight>Super Middleweight</weight>
 
-<fighter1>Michael Hunter</fighter1>
-<fighter2>Mike Wilson</fighter2>
-<rounds>12</rounds>
-<weight>Heavyweight</weight>
-
-
-<fighter1>Zhilel Zhang</fighter1>
-<fighter2>Daniel Martz</fighter2>
+<fighter1>Ibeth Zamora</fighter1>
+<fighter2>Marlen Esparza</fighter2>
 <rounds>10</rounds>
-<weight>Heavyweight</weight>
+<weight>Flyweight</weight>
+
+<loc>Jalisco, Mexico</loc>
+
+<fighter1>Julio Chavez Jr</fighter1>
+<fighter2>Anderson Silva</fighter2>
+<rounds>10</rounds>
+<weight>Cruiserweight</weight>
+
+<fighter1>Julio Chavez Sr</fighter1>
+<fighter2>Hector Camacho</fighter2>
+<rounds>6</rounds>
+<weight>Middleweight</weight>
 
 <time>June 26, 2021</time>
 
@@ -107,6 +96,29 @@
 <fighter2>Guillermo Rigondeaux</fighter2>
 <rounds>12</rounds>
 <weight>Bantamweight</weight>
+
+<loc>Miami</loc>
+
+<fighter1>Teofimo Lopez</fighter1>
+<fighter2>George Kambosos</fighter2>
+<rounds>12</rounds>
+<weight>Lightweight</weight>
+
+<fighter1>Franchon Crews Dezurn</fighter1>
+<fighter2>Elin Cederroos</fighter2>
+<rounds>10</rounds>
+<weight>Super Middleweight</weight>
+
+<fighter1>Michael Hunter</fighter1>
+<fighter2>Mike Wilson</fighter2>
+<rounds>12</rounds>
+<weight>Heavyweight</weight>
+
+
+<fighter1>Zhilel Zhang</fighter1>
+<fighter2>Daniel Martz</fighter2>
+<rounds>10</rounds>
+<weight>Heavyweight</weight>
 
 
 <time>August 21, 2021</time>
