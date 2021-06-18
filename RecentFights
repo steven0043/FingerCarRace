@@ -1,3 +1,39 @@
+<time>June 12, 2021</time>
+
+<loc>Las Vegas</loc>
+
+<fighter1>Shakur Stevenson</fighter1>
+<fighter2>Jeremiah Nakathila</fighter2>
+<rounds>12</rounds>
+<weight>Junior Lightweight</weight>
+
+<fighter1>Jose Pedraza</fighter1>
+<fighter2>Julian Rodriguez</fighter2>
+<rounds>10</rounds>
+<weight>Junior Welterweight</weight>
+
+<loc>Newcastle</loc>
+
+<fighter1>Lewis Ritson</fighter1>
+<fighter2>Jeremias Ponce</fighter2>
+<rounds>12</rounds>
+<weight>Junior Welterweight</weight>
+
+<fighter1>Thomas Ward</fighter1>
+<fighter2>Edy Mercado</fighter2>
+<rounds>10</rounds>
+<weight>Featherweight</weight>
+
+<fighter1>Joe Laws</fighter1>
+<fighter2>Chris Adaway</fighter2>
+<rounds>6</rounds>
+<weight>Welterweight</weight>
+
+<fighter1>Alen Babic</fighter1>
+<fighter2>Damian Chambers</fighter2>
+<rounds>6</rounds>
+<weight>Heavyweight</weight>
+
 <time>June 5, 2021</time>
 
 <loc>London</loc>
