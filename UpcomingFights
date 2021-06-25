@@ -12,6 +12,20 @@
 <rounds>12</rounds>
 <weight>Lightweight</weight>
 
+<loc>Atlanta</loc>
+
+<fighter1>Gervonta Davis</fighter1>
+<fighter2>Mario Barrios</fighter2>
+<rounds>12</rounds>
+<weight>Light Welterweight</weight>
+
+<loc>Guadalajara, Mexico</loc>
+
+<fighter1>Julio Martinez</fighter1>
+<fighter2>Joel Cordova</fighter2>
+<rounds>12</rounds>
+<weight>Flyweight</weight>
+
 <time>July 24, 2021</time>
 
 <loc>Las Vegas</loc>
