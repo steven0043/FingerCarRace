@@ -1,72 +1,6 @@
 
 
 
-<time>July 9, 2021</time>
-
-<loc>Los Angeles</loc>
-
-<fighter1>Gilberto Ramirez</fighter1>
-<fighter2>Sullivan Barrera</fighter2>
-<rounds>12</rounds>
-<weight>Light Heavyweight</weight>
-
-<fighter1>Joseph Diaz</fighter1>
-<fighter2>Javier Fortuna</fighter2>
-<rounds>12</rounds>
-<weight>Lightweight</weight>
-
-<fighter1>Tenkai Tsunami</fighter1>
-<fighter2>Seniesa Estrada</fighter2>
-<rounds>10</rounds>
-<weight>Junior Flyweight</weight>
-
-
-<fighter1>Hector Tanajara</fighter1>
-<fighter2>William Zepeda</fighter2>
-<rounds>10</rounds>
-<weight>Lightweight</weight>
-
-<loc>Las Vegas</loc>
-
-<fighter1>Dustin Poirier</fighter1>
-<fighter2>Conor McGregor</fighter2>
-<rounds>5</rounds>
-<weight>Lightweight</weight>
-
-
-<fighter1>Gilbert Burns</fighter1>
-<fighter2>Stephen Thompson</fighter2>
-<rounds>3</rounds>
-<weight>Welterweight</weight>
-
-<fighter1>Tai Tuivasa</fighter1>
-<fighter2>Greg Hardy</fighter2>
-<rounds>3</rounds>
-<weight>Heavyweight</weight>
-
-<fighter1>Irene Aldana</fighter1>
-<fighter2>Yana Kunitskaya</fighter2>
-<rounds>3</rounds>
-<weight>Bantamweight</weight>
-
-<fighter1>Sean O'Malley</fighter1>
-<fighter2>Kris Moutinho</fighter2>
-<rounds>3</rounds>
-<weight>Bantamweight</weight>
-
-<time>July 10, 2021</time>
-
-<loc>Almaty, Kazakhsta</loc>
-
-<fighter1>Sultan Zaurbek</fighter1>
-<fighter2>Ronnie Clark</fighter2>
-<rounds>10</rounds>
-<weight>Junior Flyweight</weight>
-
-<fighter1>Joseph Diaz</fighter1>
-<fighter2>Javier Fortuna</fighter2>
-<rounds>12</rounds>
-<weight>Lightweight</weight>
 
 <time>July 17, 2021</time>
 
@@ -78,21 +12,17 @@
 <weight>Junior Middleweight</weight>
 
 <fighter1>Rolando Romero</fighter1>
-<fighter2>Austin Dulay</fighter2>
+<fighter2>Anthony Yigit</fighter2>
 <rounds>12</rounds>
 <weight>Lightweight</weight>
 
 
+<fighter1>Amilcar Vidal</fighter1>
+<fighter2>Immanuwel Aleem</fighter2>
+<rounds>10</rounds>
+<weight>Middleweight</weight>
 
 
-<time>July 24, 2021</time>
-
-<loc>Las Vegas</loc>
-
-<fighter1>Tyson Fury</fighter1>
-<fighter2>Deontay Wilder</fighter2>
-<rounds>12</rounds>
-<weight>Heavyweight</weight>
 
 <time>August 14, 2021</time>
 
@@ -153,5 +83,15 @@
 
 <fighter1>Anthony Joshua</fighter1>
 <fighter2>Oleksander Usyk</fighter2>
+<rounds>12</rounds>
+<weight>Heavyweight</weight>
+
+
+<time>October 9, 2021</time>
+
+<loc>Las Vegas</loc>
+
+<fighter1>Tyson Fury</fighter1>
+<fighter2>Deontay Wilder</fighter2>
 <rounds>12</rounds>
 <weight>Heavyweight</weight>
