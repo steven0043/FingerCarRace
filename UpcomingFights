@@ -2,27 +2,105 @@
 
 
 
-<time>July 17, 2021</time>
+<time>July 24, 2021</time>
 
-<loc>Carson, California</loc>
+<loc>London</loc>
 
-<fighter1>Jermell Charlo</fighter1>
-<fighter2>Brian Castano</fighter2>
+<fighter1>Joe Joyce</fighter1>
+<fighter2>Carlos Takam</fighter2>
 <rounds>12</rounds>
+<weight>Heavyweight</weight>
+
+<fighter1>Chris Jenkins</fighter1>
+<fighter2>Ekow Essuman</fighter2>
+<rounds>12</rounds>
+<weight>Welterweight</weight>
+
+
+<fighter1>Hamzah Sheeraz</fighter1>
+<fighter2>Ezequiel Gurria</fighter2>
+<rounds>10</rounds>
 <weight>Junior Middleweight</weight>
 
-<fighter1>Rolando Romero</fighter1>
-<fighter2>Anthony Yigit</fighter2>
-<rounds>12</rounds>
-<weight>Lightweight</weight>
-
-
-<fighter1>Amilcar Vidal</fighter1>
-<fighter2>Immanuwel Aleem</fighter2>
+<fighter1>Chris Bourke</fighter1>
+<fighter2>James Beech</fighter2>
 <rounds>10</rounds>
-<weight>Middleweight</weight>
+<weight>Junior Featherweight</weight>
+
+<fighter1>David Adeleye</fighter1>
+<fighter2>Mladen Manev</fighter2>
+<rounds>6</rounds>
+<weight>Heavyweight</weight>
 
 
+
+<time>July 31, 2021</time>
+
+<loc>London</loc>
+
+<fighter1>Conor Benn</fighter1>
+<fighter2>Adrian Granados</fighter2>
+<rounds>12</rounds>
+<weight>Welterweight</weight>
+
+<fighter1>Can Xu</fighter1>
+<fighter2>Leigh Wood</fighter2>
+<rounds>12</rounds>
+<weight>Featherweight</weight>
+
+<fighter1>Tommy McCarthy</fighter1>
+<fighter2>Chris Billam Smith</fighter2>
+<rounds>12</rounds>
+<weight>Cruiserweight</weight>
+
+<fighter1>Anthony Fowler</fighter1>
+<fighter2>Roberto Garcia</fighter2>
+<rounds>10</rounds>
+<weight>Junior Middleweight</weight>
+
+
+<fighter1>Avni Yildrim</fighter1>
+<fighter2>Jack Cullen</fighter2>
+<rounds>10</rounds>
+<weight>Super Middleweight</weight>
+
+<time>August 6, 2021</time>
+
+<loc>Belfast, Northern Ireland</loc>
+
+<fighter1>Michael Conlan</fighter1>
+<fighter2>TJ Doheny</fighter2>
+<rounds>10</rounds>
+<weight>Junior Featherweight</weight>
+
+<time>August 7, 2021</time>
+
+<loc>London</loc>
+
+<fighter1>Kid Galahad</fighter1>
+<fighter2>Jazza Dickens</fighter2>
+<rounds>12</rounds>
+<weight>Featherweight</weight>
+
+<fighter1>Fabio Wardley</fighter1>
+<fighter2>Nick Webb</fighter2>
+<rounds>10</rounds>
+<weight>Heavyweight</weight>
+
+<fighter1>Alen Babic</fighter1>
+<fighter2>Mark Bennett</fighter2>
+<rounds>10</rounds>
+<weight>Heavyweight</weight>
+
+<fighter1>Ebanie Bridges</fighter1>
+<fighter2>Bec Connolly</fighter2>
+<rounds>10</rounds>
+<weight>Bantamweight</weight>
+
+<fighter1>Johnny Fisher</fighter1>
+<fighter2>Josh Sandland</fighter2>
+<rounds>8</rounds>
+<weight>Heavyweight</weight>
 
 <time>August 14, 2021</time>
 
@@ -33,28 +111,12 @@
 <rounds>12</rounds>
 <weight>Bantamweight</weight>
 
-<loc>Miami</loc>
+<loc>Tulsa</loc>
 
-<fighter1>Teofimo Lopez</fighter1>
-<fighter2>George Kambosos</fighter2>
+<fighter1>Joshua Franco</fighter1>
+<fighter2>Andrew Maloney</fighter2>
 <rounds>12</rounds>
-<weight>Lightweight</weight>
-
-<fighter1>Franchon Crews Dezurn</fighter1>
-<fighter2>Elin Cederroos</fighter2>
-<rounds>10</rounds>
-<weight>Super Middleweight</weight>
-
-<fighter1>Michael Hunter</fighter1>
-<fighter2>Mike Wilson</fighter2>
-<rounds>12</rounds>
-<weight>Heavyweight</weight>
-
-
-<fighter1>Zhilel Zhang</fighter1>
-<fighter2>Daniel Martz</fighter2>
-<rounds>10</rounds>
-<weight>Heavyweight</weight>
+<weight>Junior Bantamweight</weight>
 
 
 <time>August 21, 2021</time>
@@ -67,7 +129,7 @@
 <weight>Welterweight</weight>
 
 
-<time>August 28, 2021</time>
+<time>August 29, 2021</time>
 
 <loc>Las Vegas</loc>
 
