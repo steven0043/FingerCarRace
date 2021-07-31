@@ -2,46 +2,13 @@
 
 
 
-<time>July 24, 2021</time>
 
-<loc>London</loc>
-
-<fighter1>Joe Joyce</fighter1>
-<fighter2>Carlos Takam</fighter2>
-<rounds>12</rounds>
-<weight>Heavyweight</weight>
-
-<fighter1>Chris Jenkins</fighter1>
-<fighter2>Ekow Essuman</fighter2>
-<rounds>12</rounds>
-<weight>Welterweight</weight>
-
-
-<fighter1>Hamzah Sheeraz</fighter1>
-<fighter2>Ezequiel Gurria</fighter2>
-<rounds>10</rounds>
-<weight>Junior Middleweight</weight>
-
-<fighter1>Chris Bourke</fighter1>
-<fighter2>James Beech</fighter2>
-<rounds>10</rounds>
-<weight>Junior Featherweight</weight>
-
-<fighter1>David Adeleye</fighter1>
-<fighter2>Mladen Manev</fighter2>
-<rounds>6</rounds>
-<weight>Heavyweight</weight>
 
 
 
 <time>July 31, 2021</time>
 
 <loc>London</loc>
-
-<fighter1>Conor Benn</fighter1>
-<fighter2>Adrian Granados</fighter2>
-<rounds>12</rounds>
-<weight>Welterweight</weight>
 
 <fighter1>Can Xu</fighter1>
 <fighter2>Leigh Wood</fighter2>
@@ -54,15 +21,25 @@
 <weight>Cruiserweight</weight>
 
 <fighter1>Anthony Fowler</fighter1>
-<fighter2>Roberto Garcia</fighter2>
+<fighter2>Rico Mueller</fighter2>
 <rounds>10</rounds>
 <weight>Junior Middleweight</weight>
-
 
 <fighter1>Avni Yildrim</fighter1>
 <fighter2>Jack Cullen</fighter2>
 <rounds>10</rounds>
 <weight>Super Middleweight</weight>
+
+<fighter1>Sandy Ryan</fighter1>
+<fighter2>Kirstie Bavington</fighter2>
+<rounds>6</rounds>
+<weight>Super Lightweight</weight>
+
+<fighter1>Campbell Hatton</fighter1>
+<fighter2>Jakub Laskowski</fighter2>
+<rounds>4</rounds>
+<weight>Lightweight</weight>
+
 
 <time>August 6, 2021</time>
 
