@@ -1,4 +1,32 @@
+<time>July 24, 2021</time>
 
+<loc>London</loc>
+
+<fighter1>Joe Joyce</fighter1>
+<fighter2>Carlos Takam</fighter2>
+<rounds>12</rounds>
+<weight>Heavyweight</weight>
+
+<fighter1>Chris Jenkins</fighter1>
+<fighter2>Ekow Essuman</fighter2>
+<rounds>12</rounds>
+<weight>Welterweight</weight>
+
+
+<fighter1>Hamzah Sheeraz</fighter1>
+<fighter2>Ezequiel Gurria</fighter2>
+<rounds>10</rounds>
+<weight>Junior Middleweight</weight>
+
+<fighter1>Chris Bourke</fighter1>
+<fighter2>James Beech</fighter2>
+<rounds>10</rounds>
+<weight>Junior Featherweight</weight>
+
+<fighter1>David Adeleye</fighter1>
+<fighter2>Mladen Manev</fighter2>
+<rounds>6</rounds>
+<weight>Heavyweight</weight>
 
 
 
