@@ -40,6 +40,19 @@
 <rounds>4</rounds>
 <weight>Lightweight</weight>
 
+<time>August 3, 2021</time>
+
+<loc>New York</loc>
+
+<fighter1>Michael Hunter</fighter1>
+<fighter2>Mike Wilson</fighter2>
+<rounds>12</rounds>
+<weight>Heavyweight</weight>
+
+<fighter1>Chris Algieri</fighter1>
+<fighter2>Mikkel LesPierre</fighter2>
+<rounds>10</rounds>
+<weight>Welterweight</weight>
 
 <time>August 6, 2021</time>
 
