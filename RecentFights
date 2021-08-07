@@ -1,3 +1,60 @@
+<time>July 31, 2021</time>
+
+<loc>London</loc>
+
+<fighter1>Can Xu</fighter1>
+<fighter2>Leigh Wood</fighter2>
+<rounds>12</rounds>
+<weight>Featherweight</weight>
+
+<fighter1>Tommy McCarthy</fighter1>
+<fighter2>Chris Billam Smith</fighter2>
+<rounds>12</rounds>
+<weight>Cruiserweight</weight>
+
+<fighter1>Anthony Fowler</fighter1>
+<fighter2>Rico Mueller</fighter2>
+<rounds>10</rounds>
+<weight>Junior Middleweight</weight>
+
+<fighter1>Avni Yildrim</fighter1>
+<fighter2>Jack Cullen</fighter2>
+<rounds>10</rounds>
+<weight>Super Middleweight</weight>
+
+<fighter1>Sandy Ryan</fighter1>
+<fighter2>Kirstie Bavington</fighter2>
+<rounds>6</rounds>
+<weight>Super Lightweight</weight>
+
+<fighter1>Campbell Hatton</fighter1>
+<fighter2>Jakub Laskowski</fighter2>
+<rounds>4</rounds>
+<weight>Lightweight</weight>
+
+<time>August 3, 2021</time>
+
+<loc>New York</loc>
+
+<fighter1>Michael Hunter</fighter1>
+<fighter2>Mike Wilson</fighter2>
+<rounds>12</rounds>
+<weight>Heavyweight</weight>
+
+<fighter1>Chris Algieri</fighter1>
+<fighter2>Mikkel LesPierre</fighter2>
+<rounds>10</rounds>
+<weight>Welterweight</weight>
+
+<time>August 6, 2021</time>
+
+<loc>Belfast, Northern Ireland</loc>
+
+<fighter1>Michael Conlan</fighter1>
+<fighter2>TJ Doheny</fighter2>
+<rounds>12</rounds>
+<weight>Junior Featherweight</weight>
+
 <time>July 24, 2021</time>
 
 <loc>London</loc>
