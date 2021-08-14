@@ -1,43 +1,6 @@
 
 <time>August 14, 2021</time>
 
-<loc>London</loc>
-
-<fighter1>Joshua Buatsi</fighter1>
-<fighter2>Ricards Bolotniks</fighter2>
-<rounds>12</rounds>
-<weight>Light Heavyweight</weight>
-
-<fighter1>Joe Cordina</fighter1>
-<fighter2>Joshuah Hernandez</fighter2>
-<rounds>10</rounds>
-<weight>Lightweight</weight>
-
-<fighter1>Michael McKinson</fighter1>
-<fighter2>Przemyslaw Runowski</fighter2>
-<rounds>10</rounds>
-<weight>Welterweight</weight>
-
-<fighter1>Raymond Ford</fighter1>
-<fighter2>Reece Bellotti</fighter2>
-<rounds>10</rounds>
-<weight>Featherweight</weight>
-
-<fighter1>Ukashir Farooq</fighter1>
-<fighter2>Gerardo Castillo</fighter2>
-<rounds>10</rounds>
-<weight>Bantamweight</weight>
-
-<fighter1>Zelfa Barrett</fighter1>
-<fighter2>Viorel Simion</fighter2>
-<rounds>8</rounds>
-<weight>Lightweight</weight>
-
-<fighter1>Hopey Price</fighter1>
-<fighter2>laudio Grande</fighter2>
-<rounds>6</rounds>
-<weight>Junior Featherweight</weight>
-
 <loc>Las Vegas</loc>
 
 <fighter1>John Casimero</fighter1>
@@ -100,6 +63,42 @@
 <rounds>10</rounds>
 <weight>Junior Welterweight</weight>
 
+<loc>London</loc>
+
+<fighter1>Joshua Buatsi</fighter1>
+<fighter2>Ricards Bolotniks</fighter2>
+<rounds>12</rounds>
+<weight>Light Heavyweight</weight>
+
+<fighter1>Joe Cordina</fighter1>
+<fighter2>Joshuah Hernandez</fighter2>
+<rounds>10</rounds>
+<weight>Lightweight</weight>
+
+<fighter1>Michael McKinson</fighter1>
+<fighter2>Przemyslaw Runowski</fighter2>
+<rounds>10</rounds>
+<weight>Welterweight</weight>
+
+<fighter1>Raymond Ford</fighter1>
+<fighter2>Reece Bellotti</fighter2>
+<rounds>10</rounds>
+<weight>Featherweight</weight>
+
+<fighter1>Ukashir Farooq</fighter1>
+<fighter2>Gerardo Castillo</fighter2>
+<rounds>10</rounds>
+<weight>Bantamweight</weight>
+
+<fighter1>Zelfa Barrett</fighter1>
+<fighter2>Viorel Simion</fighter2>
+<rounds>8</rounds>
+<weight>Lightweight</weight>
+
+<fighter1>Hopey Price</fighter1>
+<fighter2>laudio Grande</fighter2>
+<rounds>6</rounds>
+<weight>Junior Featherweight</weight>
 <time>August 21, 2021</time>
 
 <loc>Las Vegas</loc>
