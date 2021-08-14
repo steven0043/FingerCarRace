@@ -1,48 +1,42 @@
 
-
-
-
-
-
-
-
-
-
-<time>August 7, 2021</time>
+<time>August 14, 2021</time>
 
 <loc>London</loc>
 
-<fighter1>Kid Galahad</fighter1>
-<fighter2>Jazza Dickens</fighter2>
+<fighter1>Joshua Buatsi</fighter1>
+<fighter2>Ricards Bolotniks</fighter2>
 <rounds>12</rounds>
+<weight>Light Heavyweight</weight>
+
+<fighter1>Joe Cordina</fighter1>
+<fighter2>Joshuah Hernandez</fighter2>
+<rounds>10</rounds>
+<weight>Lightweight</weight>
+
+<fighter1>Michael McKinson</fighter1>
+<fighter2>Przemyslaw Runowski</fighter2>
+<rounds>10</rounds>
+<weight>Welterweight</weight>
+
+<fighter1>Raymond Ford</fighter1>
+<fighter2>Reece Bellotti</fighter2>
+<rounds>10</rounds>
 <weight>Featherweight</weight>
 
-<fighter1>Fabio Wardley</fighter1>
-<fighter2>Nick Webb</fighter2>
-<rounds>10</rounds>
-<weight>Heavyweight</weight>
-
-<fighter1>Alen Babic</fighter1>
-<fighter2>Mark Bennett</fighter2>
-<rounds>10</rounds>
-<weight>Heavyweight</weight>
-
-<fighter1>Ebanie Bridges</fighter1>
-<fighter2>Bec Connolly</fighter2>
+<fighter1>Ukashir Farooq</fighter1>
+<fighter2>Gerardo Castillo</fighter2>
 <rounds>10</rounds>
 <weight>Bantamweight</weight>
 
-<fighter1>Aqib Fiaz</fighter1>
-<fighter2>Kevin Baldospino</fighter2>
+<fighter1>Zelfa Barrett</fighter1>
+<fighter2>Viorel Simion</fighter2>
 <rounds>8</rounds>
 <weight>Lightweight</weight>
 
-<fighter1>Johnny Fisher</fighter1>
-<fighter2>Josh Sandland</fighter2>
-<rounds>8</rounds>
-<weight>Heavyweight</weight>
-
-<time>August 14, 2021</time>
+<fighter1>Hopey Price</fighter1>
+<fighter2>laudio Grande</fighter2>
+<rounds>6</rounds>
+<weight>Junior Featherweight</weight>
 
 <loc>Las Vegas</loc>
 
@@ -51,6 +45,39 @@
 <rounds>12</rounds>
 <weight>Bantamweight</weight>
 
+<fighter1>Antonio Russell</fighter1>
+<fighter2>Emmanuel Rodriguez</fighter2>
+<rounds>12</rounds>
+<weight>Bantamweight</weight>
+
+<fighter1>Rau'shee Warren</fighter1>
+<fighter2>Damien Vazquez</fighter2>
+<rounds>10</rounds>
+<weight>Bantamweight</weight>
+
+
+<loc>Frisco, Texas</loc>
+
+<fighter1>Vergil Ortiz</fighter1>
+<fighter2>Egidijus Kavaliauskas</fighter2>
+<rounds>12</rounds>
+<weight>Welterweight</weight>
+
+<fighter1>Roger Gutierrez</fighter1>
+<fighter2>Rene Alvarado</fighter2>
+<rounds>12</rounds>
+<weight>Junior Lightweight</weight>
+
+<fighter1>Felix Alvarado</fighter1>
+<fighter2>Erick Lopez</fighter2>
+<rounds>12</rounds>
+<weight>Junior Flyweight</weight>
+
+<fighter1>Pablo Cesar Cano</fighter1>
+<fighter2>Danielito Zorrilla</fighter2>
+<rounds>12</rounds>
+<weight>Junior Middleweight</weight>
+
 <loc>Tulsa</loc>
 
 <fighter1>Joshua Franco</fighter1>
@@ -58,13 +85,27 @@
 <rounds>12</rounds>
 <weight>Junior Bantamweight</weight>
 
+<fighter1>Jason Moloney</fighter1>
+<fighter2>Joshua Greer</fighter2>
+<rounds>10</rounds>
+<weight>Bantamweight</weight>
+
+<fighter1>Nico Ali</fighter1>
+<fighter2>Jordan Weeks</fighter2>
+<rounds>4</rounds>
+<weight>Middleweight</weight>
+
+<fighter1>Arnold Barboza</fighter1>
+<fighter2>Antonio Moran</fighter2>
+<rounds>10</rounds>
+<weight>Junior Welterweight</weight>
 
 <time>August 21, 2021</time>
 
 <loc>Las Vegas</loc>
 
-<fighter1>Errol Spence</fighter1>
-<fighter2>Manny Pacquiao</fighter2>
+<fighter1>Manny Pacquiao</fighter1>
+<fighter2>Yordenis Ugas</fighter2>
 <rounds>12</rounds>
 <weight>Welterweight</weight>
 
@@ -77,6 +118,15 @@
 <fighter2>Tyron Woodley</fighter2>
 <rounds>8</rounds>
 <weight>Welterweight</weight>
+
+<time>September 11, 2021</time>
+
+<loc>Los Angeles</loc>
+
+<fighter1>Oscar De La Hoya</fighter1>
+<fighter2>Vitor Belfort</fighter2>
+<rounds>10</rounds>
+<weight>Light Heavyweight</weight>
 
 
 <time>September 25, 2021</time>
@@ -97,3 +147,21 @@
 <fighter2>Deontay Wilder</fighter2>
 <rounds>12</rounds>
 <weight>Heavyweight</weight>
+
+<time>October 23, 2021</time>
+
+<loc>Atlanta</loc>
+
+<fighter1>Jamel Herring</fighter1>
+<fighter2>Shakur Stevenson</fighter2>
+<rounds>12</rounds>
+<weight>Junior Lightweight</weight>
+
+<time>December 18, 2021</time>
+
+<loc>Glasgow, Scotland</loc>
+
+<fighter1>Josh Taylor</fighter1>
+<fighter2>Jack Catterall</fighter2>
+<rounds>12</rounds>
+<weight>Junior Welterweight</weight>
