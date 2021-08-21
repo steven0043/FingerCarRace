@@ -9,6 +9,25 @@
 <rounds>12</rounds>
 <weight>Welterweight</weight>
 
+<fighter1>Robert Guerrero</fighter1>
+<fighter2>Victor Ortiz</fighter2>
+<rounds>10</rounds>
+<weight>Welterweight</weight>
+
+<fighter1>Mark Magsayo</fighter1>
+<fighter2>Julio Ceja</fighter2>
+<rounds>10</rounds>
+<weight>Featherweight</weight>
+
+<fighter1>Carlos Castro</fighter1>
+<fighter2>Oscar Escandon</fighter2>
+<rounds>10</rounds>
+<weight>Featherweight</weight>
+
+<fighter1>Frank Martin</fighter1>
+<fighter2>Ryan Kielczweski</fighter2>
+<rounds>10</rounds>
+<weight>Lightweight</weight>
 
 <time>August 29, 2021</time>
 
