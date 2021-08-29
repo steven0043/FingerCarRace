@@ -1,33 +1,6 @@
 
 
-<time>August 21, 2021</time>
 
-<loc>Las Vegas</loc>
-
-<fighter1>Manny Pacquiao</fighter1>
-<fighter2>Yordenis Ugas</fighter2>
-<rounds>12</rounds>
-<weight>Welterweight</weight>
-
-<fighter1>Robert Guerrero</fighter1>
-<fighter2>Victor Ortiz</fighter2>
-<rounds>10</rounds>
-<weight>Welterweight</weight>
-
-<fighter1>Mark Magsayo</fighter1>
-<fighter2>Julio Ceja</fighter2>
-<rounds>10</rounds>
-<weight>Featherweight</weight>
-
-<fighter1>Carlos Castro</fighter1>
-<fighter2>Oscar Escandon</fighter2>
-<rounds>10</rounds>
-<weight>Featherweight</weight>
-
-<fighter1>Frank Martin</fighter1>
-<fighter2>Ryan Kielczweski</fighter2>
-<rounds>10</rounds>
-<weight>Lightweight</weight>
 
 <time>August 29, 2021</time>
 
@@ -36,7 +9,60 @@
 <fighter1>Jake Paul</fighter1>
 <fighter2>Tyron Woodley</fighter2>
 <rounds>8</rounds>
+<weight>Cruiserweight</weight>
+
+<fighter1>Jake Paul</fighter1>
+<fighter2>Tyron Woodley</fighter2>
+<rounds>8</rounds>
 <weight>Welterweight</weight>
+
+<fighter1>Amanda Serrano</fighter1>
+<fighter2>Yamileth Mercado</fighter2>
+<rounds>10</rounds>
+<weight>Featherweight</weight>
+
+<fighter1>Daniel Dubois</fighter1>
+<fighter2>Juiseppe Cusumano</fighter2>
+<rounds>10</rounds>
+<weight>Heavyweight</weight>
+
+<fighter1>Tommy Fury</fighter1>
+<fighter2>Anthony Taylor</fighter2>
+<rounds>6</rounds>
+<weight>Cruiserweight</weight>
+
+<fighter1>Montana Love</fighter1>
+<fighter2>Ivan Baranchyk</fighter2>
+<rounds>8</rounds>
+<weight>Welterweight</weight>
+
+<fighter1>Charles Conwell</fighter1>
+<fighter2>Juan Rubio</fighter2>
+<rounds>10</rounds>
+<weight>Light Middleweight</weight>
+
+
+
+<time>September 4, 2021</time>
+
+<loc>Leeds, England</loc>
+
+<fighter1>Mauricio Lara</fighter1>
+<fighter2>Josh Warrington</fighter2>
+<rounds>12</rounds>
+<weight>Featherweight</weight>
+
+<fighter1>Katie Taylor</fighter1>
+<fighter2>Jennifer Han</fighter2>
+<rounds>10</rounds>
+<weight>Lightweight</weight>
+
+<fighter1>Conor Benn</fighter1>
+<fighter2>Adrian Granados</fighter2>
+<rounds>12</rounds>
+<weight>Welterweight</weight>
+
+
 
 <time>September 11, 2021</time>
 
