@@ -1,4 +1,41 @@
 
+
+<time>September 4, 2021</time>
+
+<loc>Leeds, England</loc>
+
+<fighter1>Mauricio Lara</fighter1>
+<fighter2>Josh Warrington</fighter2>
+<rounds>12</rounds>
+<weight>Featherweight</weight>
+
+<fighter1>Katie Taylor</fighter1>
+<fighter2>Jennifer Han</fighter2>
+<rounds>10</rounds>
+<weight>Lightweight</weight>
+
+<fighter1>Conor Benn</fighter1>
+<fighter2>Adrian Granados</fighter2>
+<rounds>12</rounds>
+<weight>Welterweight</weight>
+
+<fighter1>Ebanie Bridges</fighter1>
+<fighter2>Mailys Gangloff</fighter2>
+<rounds>8</rounds>
+<weight>Bantamweight</weight>
+
+<fighter1>Hopey Price</fighter1>
+<fighter2>Zahid Hussain</fighter2>
+<rounds>10</rounds>
+<weight>Junior Featherweight</weight>
+
+<fighter1>Jack Bateson</fighter1>
+<fighter2>Felix Garcia</fighter2>
+<rounds>6</rounds>
+<weight>Junior Featherweight</weight>
+
+
+
 <time>August 29, 2021</time>
 
 <loc>Cleveland, Ohio</loc>
