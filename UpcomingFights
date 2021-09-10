@@ -1,48 +1,73 @@
+<time>September 10, 2021</time>
 
+<loc>Tucson, Arizona</loc>
 
-<time>September 4, 2021</time>
-
-<loc>Leeds, England</loc>
-
-<fighter1>Mauricio Lara</fighter1>
-<fighter2>Josh Warrington</fighter2>
+<fighter1>Oscar Valdez</fighter1>
+<fighter2>Robson Conceicao</fighter2>
 <rounds>12</rounds>
-<weight>Featherweight</weight>
+<weight>Junior Lightweight</weight>
 
-<fighter1>Katie Taylor</fighter1>
-<fighter2>Jennifer Han</fighter2>
+<fighter1>Gabriel Flores</fighter1>
+<fighter2>Luis Vargas</fighter2>
 <rounds>10</rounds>
-<weight>Lightweight</weight>
+<weight>Junior Lightweight</weight>
 
-<fighter1>Conor Benn</fighter1>
-<fighter2>Adrian Granados</fighter2>
+<fighter1>Junto Nakatani</fighter1>
+<fighter2>Angel Acosta</fighter2>
 <rounds>12</rounds>
-<weight>Welterweight</weight>
+<weight>Flyweight</weight>
 
-<fighter1>Ebanie Bridges</fighter1>
-<fighter2>Mailys Gangloff</fighter2>
-<rounds>8</rounds>
-<weight>Bantamweight</weight>
+<loc>Paris</loc>
 
-<fighter1>Hopey Price</fighter1>
-<fighter2>Zahid Hussain</fighter2>
+<fighter1>Tony Yoka</fighter1>
+<fighter2>Petar Milas</fighter2>
 <rounds>10</rounds>
-<weight>Junior Featherweight</weight>
+<weight>Heavyweight</weight>
 
-<fighter1>Jack Bateson</fighter1>
-<fighter2>Felix Garcia</fighter2>
-<rounds>6</rounds>
-<weight>Junior Featherweight</weight>
+
+<loc>Klagenfurt, Austria</loc>
+
+<fighter1>Filip Hrgovic</fighter1>
+<fighter2>Marko Radonjic</fighter2>
+<rounds>12</rounds>
+<weight>Heavyweight</weight>
+
+
+<loc>Coventry</loc>
+
+<fighter1>Sam Eggington</fighter1>
+<fighter2>Bilel Jkitou</fighter2>
+<rounds>12</rounds>
+<weight>Middleweight</weight>
+
 
 
 <time>September 11, 2021</time>
 
 <loc>Los Angeles</loc>
 
-<fighter1>Oscar De La Hoya</fighter1>
+<fighter1>Evander Holyfield</fighter1>
 <fighter2>Vitor Belfort</fighter2>
 <rounds>10</rounds>
 <weight>Light Heavyweight</weight>
+
+
+<fighter1>Anderson Silva</fighter1>
+<fighter2>Tito Ortiz</fighter2>
+<rounds>8</rounds>
+<weight>Cruiserweight</weight>
+
+
+<fighter1>David Haye</fighter1>
+<fighter2>Joe Fournier</fighter2>
+<rounds>8</rounds>
+<weight>Heavyweight</weight>
+
+
+<fighter1>Andy Vences</fighter1>
+<fighter2>Jono Carroll</fighter2>
+<rounds>10</rounds>
+<weight>Junior Lightweight</weight>
 
 
 <time>September 25, 2021</time>
