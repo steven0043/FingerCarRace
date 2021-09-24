@@ -1,4 +1,74 @@
 
+<time>September 10, 2021</time>
+
+<loc>Tucson, Arizona</loc>
+
+<fighter1>Oscar Valdez</fighter1>
+<fighter2>Robson Conceicao</fighter2>
+<rounds>12</rounds>
+<weight>Junior Lightweight</weight>
+
+<fighter1>Gabriel Flores</fighter1>
+<fighter2>Luis Vargas</fighter2>
+<rounds>10</rounds>
+<weight>Junior Lightweight</weight>
+
+<fighter1>Junto Nakatani</fighter1>
+<fighter2>Angel Acosta</fighter2>
+<rounds>12</rounds>
+<weight>Flyweight</weight>
+
+<loc>Paris</loc>
+
+<fighter1>Tony Yoka</fighter1>
+<fighter2>Petar Milas</fighter2>
+<rounds>10</rounds>
+<weight>Heavyweight</weight>
+
+
+<loc>Klagenfurt, Austria</loc>
+
+<fighter1>Filip Hrgovic</fighter1>
+<fighter2>Marko Radonjic</fighter2>
+<rounds>12</rounds>
+<weight>Heavyweight</weight>
+
+
+<loc>Coventry</loc>
+
+<fighter1>Sam Eggington</fighter1>
+<fighter2>Bilel Jkitou</fighter2>
+<rounds>12</rounds>
+<weight>Middleweight</weight>
+
+
+
+<time>September 11, 2021</time>
+
+<loc>Los Angeles</loc>
+
+<fighter1>Evander Holyfield</fighter1>
+<fighter2>Vitor Belfort</fighter2>
+<rounds>10</rounds>
+<weight>Light Heavyweight</weight>
+
+
+<fighter1>Anderson Silva</fighter1>
+<fighter2>Tito Ortiz</fighter2>
+<rounds>8</rounds>
+<weight>Cruiserweight</weight>
+
+
+<fighter1>David Haye</fighter1>
+<fighter2>Joe Fournier</fighter2>
+<rounds>8</rounds>
+<weight>Heavyweight</weight>
+
+
+<fighter1>Andy Vences</fighter1>
+<fighter2>Jono Carroll</fighter2>
+<rounds>10</rounds>
+<weight>Junior Lightweight</weight>
 
 <time>September 4, 2021</time>
 
