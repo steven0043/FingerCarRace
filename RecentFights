@@ -1,3 +1,44 @@
+<time>September 25, 2021</time>
+
+<loc>London</loc>
+
+<fighter1>Anthony Joshua</fighter1>
+<fighter2>Oleksandr Usyk</fighter2>
+<rounds>12</rounds>
+<weight>Heavyweight</weight>
+
+<fighter1>Lawrence Okolie</fighter1>
+<fighter2>Dilan Prasovic</fighter2>
+<rounds>12</rounds>
+<weight>Cruiserweight</weight>
+
+<fighter1>Callum Smith</fighter1>
+<fighter2>Lenin Castillo</fighter2>
+<rounds>10</rounds>
+<weight>Light Heavyweight</weight>
+
+<fighter1>Maxim Prodan</fighter1>
+<fighter2>Florian Marku</fighter2>
+<rounds>10</rounds>
+<weight>Welterweight</weight>
+
+<fighter1>Campbell Hatton</fighter1>
+<fighter2>Sonni Martinez</fighter2>
+<rounds>6</rounds>
+<weight>Lightweight</weight>
+
+<fighter1>Christopher Ousley</fighter1>
+<fighter2>Khasan Baysangurov</fighter2>
+<rounds>10</rounds>
+<weight>Middleweight</weight>
+
+
+<loc>Madrid, Spain</loc>
+
+<fighter1>Sergio Martinez</fighter1>
+<fighter2>Brian Rose</fighter2>
+<rounds>10</rounds>
+<weight>Middleweight</weight>
 
 <time>September 10, 2021</time>
 
