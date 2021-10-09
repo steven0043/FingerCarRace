@@ -1,55 +1,99 @@
-<time>October 1, 2021</time>
-
-<loc>Italy</loc>
-
-<fighter1>Daniele Scardina</fighter1>
-<fighter2>Juergen Doberstein</fighter2>
-<rounds>12</rounds>
-<weight>Super Middleweight</weight>
-
-<fighter1>Francesco Patera</fighter1>
-<fighter2>Devis Boschiero</fighter2>
-<rounds>12</rounds>
-<weight>Super Featherweight</weight>
-
-
-<time>October 2, 2021</time>
-
-<loc>London</loc>
-
-<fighter1>Chris Eubank</fighter1>
-<fighter2>Anatoli Muratov</fighter2>
-<rounds>12</rounds>
-<weight>Middleweight</weight>
-
-<fighter1>David Avanesyan</fighter1>
-<fighter2>Liam Taylor</fighter2>
-<rounds>12</rounds>
-<weight>Welterweight</weight>
-
-<fighter1>Richard Riakporhe</fighter1>
-<fighter2>Krzysztof Twardowski</fighter2>
-<rounds>10</rounds>
-<weight>Cruiserweight</weight>
-
 <time>October 9, 2021</time>
+
+<loc>Liverpool</loc>
+
+<fighter1>Liam Smith</fighter1>
+<fighter2>Anthony Fowler</fighter2>
+<rounds>12</rounds>
+<weight>Junior Middleweight</weight>
+
+<fighter1>Ted Cheeseman</fighter1>
+<fighter2>Troy Williamson</fighter2>
+<rounds>12</rounds>
+<weight>Junior Middleweight</weight>
+
+<fighter1>Kieron Conway</fighter1>
+<fighter2>James Metcalf</fighter2>
+<rounds>10</rounds>
+<weight>Junior Middleweight</weight>
+
+<fighter1>Shannon Courtenay</fighter1>
+<fighter2>Jamie Mitchell</fighter2>
+<rounds>10</rounds>
+<weight>Bantamweight</weight>
+
+<fighter1>Luke Willis</fighter1>
+<fighter2>Rylan Charlton</fighter2>
+<rounds>10</rounds>
+<weight>Junior Welterweight</weight>
+
+<fighter1>Solomon Dacres</fighter1>
+<fighter2>Kamil Sokolowski</fighter2>
+<rounds>4</rounds>
+<weight>Heavyweight</weight>
 
 <loc>Las Vegas</loc>
 
-<fighter1>Tyson Fury</fighter1>
-<fighter2>Deontay Wilder</fighter2>
+<fighter1>Tyson FURY</fighter1>
+<fighter2>Deontay WILDER</fighter2>
 <rounds>12</rounds>
 <weight>Heavyweight</weight>
 
+<fighter1>Efe Ajagba</fighter1>
+<fighter2>Frank Sanchez</fighter2>
+<rounds>10</rounds>
+<weight>Heavyweight</weight>
+
+<fighter1>Robert Helenius</fighter1>
+<fighter2>Adam Kownacki</fighter2>
+<rounds>10</rounds>
+<weight>Heavyweight</weight>
+
+<fighter1>Jared Anderson</fighter1>
+<fighter2>Vladimir Tereshkin</fighter2>
+<rounds>8</rounds>
+<weight>Heavyweight</weight>
+
+<fighter1>Robeisy Ramirez</fighter1>
+<fighter2>Orlando Gonzalez</fighter2>
+<rounds>10</rounds>
+<weight>Featherweight</weight>
+
+<fighter1>Edgar Berlanga</fighter1>
+<fighter2>Marcelo Coceres</fighter2>
+<weight>Featherweight</weight>
+<weight>Super Middleweight</weight>
+
+<fighter1>Julian Williams</fighter1>
+<fighter2>Vladimir Hernandez</fighter2>
+<rounds>10</rounds>
+<weight>Junior Middleweight</weight>
+
+
+<time>October 15, 2021</time>
+
+<loc>San Diego, California</loc>
+
+<fighter1>Emanuel Navarrete</fighter1>
+<fighter2>Joet Gonzalez</fighter2>
+<rounds>12</rounds>
+<weight>Featherweight</weight>
 
 <time>October 16, 2021</time>
 
-<loc>Brooklyn, New York</loc>
+<loc>Fresno, California</loc>
 
-<fighter1>Teofimo Lopez</fighter1>
-<fighter2>George Kambosos</fighter2>
+<fighter1>Mikey Garcia</fighter1>
+<fighter2>Sandor Martin</fighter2>
 <rounds>12</rounds>
-<weight>Lightweight</weight>
+<weight>Welterweight</weight>
+
+<loc>Latvia</loc>
+
+<fighter1>Mairis Briedis</fighter1>
+<fighter2>Artur Mann</fighter2>
+<rounds>12</rounds>
+<weight>Cruiserweight</weight>
 
 <time>October 23, 2021</time>
 
@@ -59,6 +103,24 @@
 <fighter2>Shakur Stevenson</fighter2>
 <rounds>12</rounds>
 <weight>Junior Lightweight</weight>
+
+<time>November 6, 2021</time>
+
+<loc>Las Vegas</loc>
+
+<fighter1>Canelo</fighter1>
+<fighter2>Caleb Plant</fighter2>
+<rounds>12</rounds>
+<weight>Super Middleweight</weight>
+
+<time>December 5, 2021</time>
+
+<loc>Los Angeles</loc>
+
+<fighter1>Gervonta Davis</fighter1>
+<fighter2>Rolando Romero</fighter2>
+<rounds>12</rounds>
+<weight>Lightweight</weight>
 
 <time>December 18, 2021</time>
 
