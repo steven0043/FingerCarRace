@@ -1,36 +1,6 @@
 <time>October 9, 2021</time>
 
-<loc>Liverpool</loc>
 
-<fighter1>Liam Smith</fighter1>
-<fighter2>Anthony Fowler</fighter2>
-<rounds>12</rounds>
-<weight>Junior Middleweight</weight>
-
-<fighter1>Ted Cheeseman</fighter1>
-<fighter2>Troy Williamson</fighter2>
-<rounds>12</rounds>
-<weight>Junior Middleweight</weight>
-
-<fighter1>Kieron Conway</fighter1>
-<fighter2>James Metcalf</fighter2>
-<rounds>10</rounds>
-<weight>Junior Middleweight</weight>
-
-<fighter1>Shannon Courtenay</fighter1>
-<fighter2>Jamie Mitchell</fighter2>
-<rounds>10</rounds>
-<weight>Bantamweight</weight>
-
-<fighter1>Luke Willis</fighter1>
-<fighter2>Rylan Charlton</fighter2>
-<rounds>10</rounds>
-<weight>Junior Welterweight</weight>
-
-<fighter1>Solomon Dacres</fighter1>
-<fighter2>Kamil Sokolowski</fighter2>
-<rounds>8</rounds>
-<weight>Heavyweight</weight>
 
 <loc>Las Vegas</loc>
 
@@ -68,6 +38,38 @@
 <fighter2>Vladimir Hernandez</fighter2>
 <rounds>10</rounds>
 <weight>Junior Middleweight</weight>
+
+<loc>Liverpool</loc>
+
+<fighter1>Liam Smith</fighter1>
+<fighter2>Anthony Fowler</fighter2>
+<rounds>12</rounds>
+<weight>Junior Middleweight</weight>
+
+<fighter1>Ted Cheeseman</fighter1>
+<fighter2>Troy Williamson</fighter2>
+<rounds>12</rounds>
+<weight>Junior Middleweight</weight>
+
+<fighter1>Kieron Conway</fighter1>
+<fighter2>James Metcalf</fighter2>
+<rounds>10</rounds>
+<weight>Junior Middleweight</weight>
+
+<fighter1>Shannon Courtenay</fighter1>
+<fighter2>Jamie Mitchell</fighter2>
+<rounds>10</rounds>
+<weight>Bantamweight</weight>
+
+<fighter1>Luke Willis</fighter1>
+<fighter2>Rylan Charlton</fighter2>
+<rounds>10</rounds>
+<weight>Junior Welterweight</weight>
+
+<fighter1>Solomon Dacres</fighter1>
+<fighter2>Kamil Sokolowski</fighter2>
+<rounds>8</rounds>
+<weight>Heavyweight</weight>
 
 <loc>Birmingham</loc>
 
