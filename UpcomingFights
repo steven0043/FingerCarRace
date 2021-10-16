@@ -1,15 +1,30 @@
 
 
-<time>October 15, 2021</time>
 
-<loc>San Diego, California</loc>
-
-<fighter1>Emanuel Navarrete</fighter1>
-<fighter2>Joet Gonzalez</fighter2>
-<rounds>12</rounds>
-<weight>Featherweight</weight>
 
 <time>October 16, 2021</time>
+
+<loc>Newcastle</loc>
+
+<fighter1>Hughie Fury</fighter1>
+<fighter2>Christian Hammer</fighter2>
+<rounds>12</rounds>
+<weight>Heavyweight</weight>
+
+<fighter1>Savannah Marshall</fighter1>
+<fighter2>Lolita Muzeya</fighter2>
+<rounds>10</rounds>
+<weight>Middleweight</weight>
+
+<fighter1>Chris Eubank</fighter1>
+<fighter2>Wanik Awdijan</fighter2>
+<rounds>10</rounds>
+<weight>Middleweight</weight>
+
+<fighter1>Bradley Rea</fighter1>
+<fighter2>Jez Smith</fighter2>
+<rounds>8</rounds>
+<weight>Middleweight</weight>
 
 <loc>Fresno, California</loc>
 
@@ -17,6 +32,16 @@
 <fighter2>Sandor Martin</fighter2>
 <rounds>12</rounds>
 <weight>Welterweight</weight>
+
+<fighter1>Elwin Soto</fighter1>
+<fighter2>Jonathan Gonzalez</fighter2>
+<rounds>12</rounds>
+<weight>Flyweight</weight>
+
+<fighter1>Esteban Bermudez</fighter1>
+<fighter2>Jesse Rodriguez</fighter2>
+<rounds>12</rounds>
+<weight>Junior Flyweight</weight>
 
 <loc>Latvia</loc>
 
