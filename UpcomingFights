@@ -1,100 +1,12 @@
-<time>October 16, 2021</time>
+<time>October 22, 2021</time>
 
-<loc>Newcastle</loc>
+<loc>Montreal</loc>
 
-<fighter1>Hughie Fury</fighter1>
-<fighter2>Christian Hammer</fighter2>
+<fighter1>Oscar Rivas</fighter1>
+<fighter2>Ryan Rozicki</fighter2>
 <rounds>12</rounds>
-<weight>Heavyweight</weight>
+<weight>Bridgerweight</weight>
 
-<fighter1>Savannah Marshall</fighter1>
-<fighter2>Lolita Muzeya</fighter2>
-<rounds>10</rounds>
-<weight>Middleweight</weight>
-
-<fighter1>Chris Eubank</fighter1>
-<fighter2>Wanik Awdijan</fighter2>
-<rounds>10</rounds>
-<weight>Middleweight</weight>
-
-<fighter1>Bradley Rea</fighter1>
-<fighter2>Jez Smith</fighter2>
-<rounds>8</rounds>
-<weight>Middleweight</weight>
-
-<loc>Fresno, California</loc>
-
-<fighter1>Mikey Garcia</fighter1>
-<fighter2>Sandor Martin</fighter2>
-<rounds>12</rounds>
-<weight>Welterweight</weight>
-
-<fighter1>Elwin Soto</fighter1>
-<fighter2>Jonathan Gonzalez</fighter2>
-<rounds>12</rounds>
-<weight>Flyweight</weight>
-
-<fighter1>Esteban Bermudez</fighter1>
-<fighter2>Jesse Rodriguez</fighter2>
-<rounds>12</rounds>
-<weight>Junior Flyweight</weight>
-
-<loc>Latvia</loc>
-
-<fighter1>Mairis Briedis</fighter1>
-<fighter2>Artur Mann</fighter2>
-<rounds>12</rounds>
-<weight>Cruiserweight</weight>
-
-
-
-<time>October 16, 2021</time>
-
-<loc>Newcastle</loc>
-
-<fighter1>Hughie Fury</fighter1>
-<fighter2>Christian Hammer</fighter2>
-<rounds>12</rounds>
-<weight>Heavyweight</weight>
-
-<fighter1>Savannah Marshall</fighter1>
-<fighter2>Lolita Muzeya</fighter2>
-<rounds>10</rounds>
-<weight>Middleweight</weight>
-
-<fighter1>Chris Eubank</fighter1>
-<fighter2>Wanik Awdijan</fighter2>
-<rounds>10</rounds>
-<weight>Middleweight</weight>
-
-<fighter1>Bradley Rea</fighter1>
-<fighter2>Jez Smith</fighter2>
-<rounds>8</rounds>
-<weight>Middleweight</weight>
-
-<loc>Fresno, California</loc>
-
-<fighter1>Mikey Garcia</fighter1>
-<fighter2>Sandor Martin</fighter2>
-<rounds>12</rounds>
-<weight>Welterweight</weight>
-
-<fighter1>Elwin Soto</fighter1>
-<fighter2>Jonathan Gonzalez</fighter2>
-<rounds>12</rounds>
-<weight>Flyweight</weight>
-
-<fighter1>Esteban Bermudez</fighter1>
-<fighter2>Jesse Rodriguez</fighter2>
-<rounds>12</rounds>
-<weight>Junior Flyweight</weight>
-
-<loc>Latvia</loc>
-
-<fighter1>Mairis Briedis</fighter1>
-<fighter2>Artur Mann</fighter2>
-<rounds>12</rounds>
-<weight>Cruiserweight</weight>
 
 <time>October 23, 2021</time>
 
@@ -105,6 +17,16 @@
 <rounds>12</rounds>
 <weight>Junior Lightweight</weight>
 
+<fighter1>Xander Zayas</fighter1>
+<fighter2>Dan Karpency</fighter2>
+<rounds>8</rounds>
+<weight>Middleweight</weight>
+
+<fighter1>Nico Ali Walsh</fighter1>
+<fighter2>James Westley</fighter2>
+<rounds>4</rounds>
+<weight>Middleweight</weight>
+
 <time>November 6, 2021</time>
 
 <loc>Las Vegas</loc>
@@ -113,6 +35,15 @@
 <fighter2>Caleb Plant</fighter2>
 <rounds>12</rounds>
 <weight>Super Middleweight</weight>
+
+<time>November 20, 2021</time>
+
+<loc>Las Vegas</loc>
+
+<fighter1>Terence Crawford</fighter1>
+<fighter2>Shawn Porter</fighter2>
+<rounds>12</rounds>
+<weight>Welterweight</weight>
 
 <time>December 5, 2021</time>
 
@@ -123,7 +54,7 @@
 <rounds>12</rounds>
 <weight>Lightweight</weight>
 
-<time>December 18, 2021</time>
+<time>February 26, 2022</time>
 
 <loc>Glasgow, Scotland</loc>
 
