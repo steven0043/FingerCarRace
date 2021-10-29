@@ -1,31 +1,93 @@
-<time>October 22, 2021</time>
+<time>October 29, 2021</time>
 
-<loc>Montreal</loc>
+<loc>London</loc>
 
-<fighter1>Oscar Rivas</fighter1>
-<fighter2>Ryan Rozicki</fighter2>
-<rounds>12</rounds>
-<weight>Bridgerweight</weight>
+<fighter1>Archie Sharp</fighter1>
+<fighter2>Alexis Boureima Kabor</fighter2>
+<rounds>10</rounds>
+<weight>Junior Middleweight</weight>
 
+<fighter1>Tursynbay Kulakhmet</fighter1>
+<fighter2>Juan Carlos Abreu</fighter2>
+<rounds>10</rounds>
+<weight>Junior Middleweight</weight>
 
-<time>October 23, 2021</time>
+<time>October 30, 2021</time>
 
-<loc>Atlanta</loc>
+<loc>London</loc>
 
-<fighter1>Jamel Herring</fighter1>
-<fighter2>Shakur Stevenson</fighter2>
-<rounds>12</rounds>
+<fighter1>Chantelle Cameron</fighter1>
+<fighter2>Mary McGee</fighter2>
+<rounds>10</rounds>
+<weight>Junior Welterweight</weight>
+
+<fighter1>Craig Richards</fighter1>
+<fighter2>Marek Matyja</fighter2>
+<rounds>10</rounds>
+<weight>Light Heavyweight</weight>
+
+<fighter1>Youssef Khoumari</fighter1>
+<fighter2>Jorge Castaneda</fighter2>
+<rounds>10</rounds>
 <weight>Junior Lightweight</weight>
 
-<fighter1>Xander Zayas</fighter1>
-<fighter2>Dan Karpency</fighter2>
+<fighter1>Alen Babic</fighter1>
+<fighter2>Eric Molina</fighter2>
 <rounds>8</rounds>
+<weight>Heavyweight</weight>
+
+<fighter1>Jordan Thompson</fighter1>
+<fighter2>Piotr Podlucki</fighter2>
+<rounds>6</rounds>
+<weight>Cruiserweight</weight>
+
+<loc>Las Vegas</loc>
+
+<fighter1>Jamal James</fighter1>
+<fighter2>Radzhab Butaev</fighter2>
+<rounds>12</rounds>
+<weight>Welterweight</weight>
+
+<fighter1>Jaron Ennis</fighter1>
+<fighter2>Thomas Dulorme</fighter2>
+<rounds>10</rounds>
+<weight>Welterweight</weight>
+
+<fighter1>Michel Rivera</fighter1>
+<fighter2>Jose Matias Romero</fighter2>
+<rounds>10</rounds>
+<weight>Lightweight</weight>
+
+<loc>New York</loc>
+
+<fighter1>Jose Zepeda</fighter1>
+<fighter2>Josue Vargas</fighter2>
+<rounds>10</rounds>
+<weight>Junior Welterweight</weight>
+
+<fighter1>Carlos Caraballo</fighter1>
+<fighter2>Jonas Sultan</fighter2>
+<rounds>10</rounds>
+<weight>Bantamweight</weight>
+
+<time>November 5, 2021</time>
+
+<loc>Las Vegas</loc>
+
+<fighter1>Mikaela Mayer</fighter1>
+<fighter2>Maiva Hamadouche</fighter2>
+<rounds>10</rounds>
+<weight>Junior Featherweight</weight>
+
+<fighter1>Janibek Alimkhanuly</fighter1>
+<fighter2>Hassan N'Dam</fighter2>
+<rounds>10</rounds>
 <weight>Middleweight</weight>
 
-<fighter1>Nico Ali Walsh</fighter1>
-<fighter2>James Westley</fighter2>
-<rounds>4</rounds>
-<weight>Middleweight</weight>
+<fighter1>Adam Lopez</fighter1>
+<fighter2>Juan Tapia</fighter2>
+<rounds>10</rounds>
+<weight>Featherweight</weight>
 
 <time>November 6, 2021</time>
 
