@@ -9,16 +9,6 @@
 <rounds>10</rounds>
 <weight>Junior Featherweight</weight>
 
-<fighter1>Janibek Alimkhanuly</fighter1>
-<fighter2>Hassan N'Dam</fighter2>
-<rounds>10</rounds>
-<weight>Middleweight</weight>
-
-<fighter1>Adam Lopez</fighter1>
-<fighter2>Juan Tapia</fighter2>
-<rounds>10</rounds>
-<weight>Featherweight</weight>
-
 <time>November 6, 2021</time>
 
 <loc>Las Vegas</loc>
@@ -66,6 +56,46 @@
 <rounds>3</rounds>
 <weight>Lightweight</weight>
 
+<loc>Birmingham</loc>
+
+<fighter1>Zach Parker</fighter1>
+<fighter2>Marcus Morrison</fighter2>
+<rounds>12</rounds>
+<weight>Super Middleweight</weight>
+
+
+<fighter1>Nathan Heaney</fighter1>
+<fighter2>Sladan Janjanin</fighter2>
+<rounds>10</rounds>
+<weight>Middleweight</weight>
+
+<fighter1>Denzel Bentley</fighter1>
+<fighter2>Sam Evans</fighter2>
+<rounds>10</rounds>
+<weight>Middleweight</weight>
+
+<loc>Liverpool</loc>
+
+<fighter1>Lee Appleyard</fighter1>
+<fighter2>Levi Kinsiona</fighter2>
+<rounds>3</rounds>
+<weight>Junior Welterweight</weight>
+
+<fighter1>Sean Dodd</fighter1>
+<fighter2>Cori Gibbs</fighter2>
+<rounds>3</rounds>
+<weight>Junior Welterweight</weight>
+
+
+<fighter1>Tom Farrell</fighter1>
+<fighter2>Ben Fields</fighter2>
+<rounds>3</rounds>
+<weight>Junior Welterweight</weight>
+
+<fighter1>Kane Gardner</fighter1>
+<fighter2>Nathan Bennett</fighter2>
+<rounds>3</rounds>
+<weight>Junior Welterweight</weight>
 
 <time>November 20, 2021</time>
 
