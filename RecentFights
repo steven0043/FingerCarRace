@@ -1,3 +1,51 @@
+<time>November 6, 2021</time>
+
+<loc>Las Vegas</loc>
+
+<fighter1>Canelo</fighter1>
+<fighter2>Caleb Plant</fighter2>
+<rounds>12</rounds>
+<weight>Super Middleweight</weight>
+
+
+<fighter1>Anthony Dirrell</fighter1>
+<fighter2>Marcos Hernandez</fighter2>
+<rounds>10</rounds>
+<weight>Super Middleweight</weight>
+
+<fighter1>Rey Vargas</fighter1>
+<fighter2>Leonardo Baez</fighter2>
+<rounds>10</rounds>
+<weight>Junior Featherweight</weight>
+
+<loc>New York</loc>
+
+<fighter1>Kamaru Usman</fighter1>
+<fighter2>Colby Covington</fighter2>
+<rounds>5</rounds>
+<weight>Welterweight</weight>
+
+<fighter1>Rose Namajunas</fighter1>
+<fighter2>Zhang Weili</fighter2>
+<rounds>5</rounds>
+<weight>Strawweight</weight>
+
+<fighter1>Frankie Edgar</fighter1>
+<fighter2>Marlon Vera</fighter2>
+<rounds>3</rounds>
+<weight>Bantamweight</weight>
+
+<fighter1>Shane Burgos</fighter1>
+<fighter2>Billy Quarantillo</fighter2>
+<rounds>3</rounds>
+<weight>Featherweight</weight>
+
+<fighter1>Justin Gaethje</fighter1>
+<fighter2>Michael Chandler</fighter2>
+<rounds>3</rounds>
+<weight>Lightweight</weight>
+
+
 <time>November 5, 2021</time>
 
 <loc>Las Vegas</loc>
