@@ -1,32 +1,4 @@
-
 <time>November 13, 2021</time>
-
-<loc>Sheffield, England</loc>
-
-<fighter1>Kid Galahad</fighter1>
-<fighter2>Kiko Martinez</fighter2>
-<rounds>12</rounds>
-<weight>Featherweight</weight>
-
-<fighter1>Terri Harper</fighter1>
-<fighter2>Alycia Baumgardner</fighter2>
-<rounds>10</rounds>
-<weight>Junior Lightweight</weight>
-
-<fighter1>Chris Billiam Smith</fighter1>
-<fighter2>Dylan Bregeon</fighter2>
-<rounds>12</rounds>
-<weight>Cruiserweight</weight>
-
-<fighter1>James Flint</fighter1>
-<fighter2>Dom Hunt</fighter2>
-<rounds>10</rounds>
-<weight>Junior Welterweight</weight>
-
-<fighter1>Donte Dixon</fighter1>
-<fighter2>Jordan McCorry</fighter2>
-<rounds>8</rounds>
-<weight>Lightweight</weight>
 
 <loc>Anaheim, California</loc>
 
@@ -61,6 +33,36 @@
 <fighter2>Francisco Emanuel Torres</fighter2>
 <rounds>10</rounds>
 <weight>Junior Middleweight</weight>
+
+
+
+
+<loc>Sheffield, England</loc>
+
+<fighter1>Kid Galahad</fighter1>
+<fighter2>Kiko Martinez</fighter2>
+<rounds>12</rounds>
+<weight>Featherweight</weight>
+
+<fighter1>Terri Harper</fighter1>
+<fighter2>Alycia Baumgardner</fighter2>
+<rounds>10</rounds>
+<weight>Junior Lightweight</weight>
+
+<fighter1>Chris Billiam Smith</fighter1>
+<fighter2>Dylan Bregeon</fighter2>
+<rounds>12</rounds>
+<weight>Cruiserweight</weight>
+
+<fighter1>James Flint</fighter1>
+<fighter2>Dom Hunt</fighter2>
+<rounds>10</rounds>
+<weight>Junior Welterweight</weight>
+
+<fighter1>Donte Dixon</fighter1>
+<fighter2>Jordan McCorry</fighter2>
+<rounds>8</rounds>
+<weight>Lightweight</weight>
 
 <time>November 17, 2021</time>
 
