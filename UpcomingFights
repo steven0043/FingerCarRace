@@ -1,30 +1,3 @@
-
-
-<time>November 19, 2021</time>
-
-<loc>Manchester, New Hampshire</loc>
-
-<fighter1>Demetrius Andrade</fighter1>
-<fighter2>Jason Quigley</fighter2>
-<rounds>12</rounds>
-<weight>Middleweight</weight>
-
-<fighter1>Murodjon Akhmadaliev</fighter1>
-<fighter2>Jose Velasquez</fighter2>
-<rounds>12</rounds>
-<weight>Junior Featherweight</weight>
-
-<fighter1>Julio Martinez</fighter1>
-<fighter2>McWilliams Arroyo</fighter2>
-<rounds>12</rounds>
-<weight>Flyweight</weight>
-
-<fighter1>Kali Reis</fighter1>
-<fighter2>Jessica Camara</fighter2>
-<rounds>10</rounds>
-<weight>Junior Welterweight</weight>
-
-
 <time>November 20, 2021</time>
 
 <loc>Las Vegas</loc>
@@ -50,6 +23,26 @@
 <fighter2>Christopher Diaz</fighter2>
 <rounds>10</rounds>
 <weight>Featherweight</weight>
+
+
+<loc>London</loc>
+
+<fighter1>Hosea Burton</fighter1>
+<fighter2>Dan Azeez</fighter2>
+<rounds>12</rounds>
+<weight>Light Heavyweight</weight>
+
+
+<fighter1>Richard Riakporhe</fighter1>
+<fighter2>Olanrewaju Durodola</fighter2>
+<rounds>12</rounds>
+<weight>Cruiserweight</weight>
+
+
+<fighter1>Florian Marku</fighter1>
+<fighter2>Jorick Luisetto</fighter2>
+<rounds>10</rounds>
+<weight>Welterweight</weight>
 
 <time>November 27, 2021</time>
 
