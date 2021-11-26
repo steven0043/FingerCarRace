@@ -1,48 +1,4 @@
-<time>November 20, 2021</time>
 
-<loc>Las Vegas</loc>
-
-<fighter1>Terence Crawford</fighter1>
-<fighter2>Shawn Porter</fighter2>
-<rounds>12</rounds>
-<weight>Welterweight</weight>
-
-
-<fighter1>Esquiva Falcao</fighter1>
-<fighter2>Patrice Volny</fighter2>
-<rounds>12</rounds>
-<weight>Middleweight</weight>
-
-
-<fighter1>Janibek Alimkhanuly</fighter1>
-<fighter2>Hassan N'Dam</fighter2>
-<rounds>10</rounds>
-<weight>Middleweight</weight>
-
-<fighter1>Isaac Dogboe</fighter1>
-<fighter2>Christopher Diaz</fighter2>
-<rounds>10</rounds>
-<weight>Featherweight</weight>
-
-
-<loc>London</loc>
-
-<fighter1>Hosea Burton</fighter1>
-<fighter2>Dan Azeez</fighter2>
-<rounds>12</rounds>
-<weight>Light Heavyweight</weight>
-
-
-<fighter1>Richard Riakporhe</fighter1>
-<fighter2>Olanrewaju Durodola</fighter2>
-<rounds>12</rounds>
-<weight>Cruiserweight</weight>
-
-
-<fighter1>Florian Marku</fighter1>
-<fighter2>Jorick Luisetto</fighter2>
-<rounds>10</rounds>
-<weight>Welterweight</weight>
 
 <time>November 27, 2021</time>
 
@@ -52,6 +8,46 @@
 <fighter2>George Kambosos</fighter2>
 <rounds>12</rounds>
 <weight>Lightweight</weight>
+
+
+<fighter1>Azinga Fuzile</fighter1>
+<fighter2>Kenichi Ogawa</fighter2>
+<rounds>12</rounds>
+<weight>Junior Lightweight</weight>
+
+<fighter1>Raymond Ford</fighter1>
+<fighter2>Felix Caraballo</fighter2>
+<rounds>10</rounds>
+<weight>Featherweight</weight>
+
+<fighter1>Reshat Mati</fighter1>
+<fighter2>Nicolas Demario</fighter2>
+<rounds>10</rounds>
+<weight>Junior Welterweight</weight>
+
+<fighter1>Zhilei Zhang</fighter1>
+<fighter2>Craig Lewis</fighter2>
+<rounds>8</rounds>
+<weight>Heavyweight</weight>
+
+<loc>New York</loc>
+
+<fighter1>Brandon Figueroa</fighter1>
+<fighter2>Stephen Fulton</fighter2>
+<rounds>12</rounds>
+<weight>Junior Featherweight</weight>
+
+
+<fighter1>Raeese Aleem</fighter1>
+<fighter2>Eduardo Baez</fighter2>
+<rounds>10</rounds>
+<weight>Junior Featherweight</weight>
+
+<fighter1>Gary Antonio Russell</fighter1>
+<fighter2>Alejandro Santiago</fighter2>
+<rounds>10</rounds>
+<weight>Bantamweight</weight>
+
 
 <time>December 4, 2021</time>
 
