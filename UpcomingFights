@@ -1,63 +1,52 @@
 
+<time>December 3, 2021</time>
 
-<time>November 27, 2021</time>
+<loc>Bilbao, País Vasco, Spain</loc>
 
-<loc>New York</loc>
-
-<fighter1>Teofimo Lopez</fighter1>
-<fighter2>George Kambosos</fighter2>
+<fighter1>Kerman Lejarraga</fighter1>
+<fighter2>Jack Flatley</fighter2>
 <rounds>12</rounds>
-<weight>Lightweight</weight>
+<weight>Junior Middleweight</weight>
 
+<loc>London</loc>
 
-<fighter1>Azinga Fuzile</fighter1>
-<fighter2>Kenichi Ogawa</fighter2>
+<fighter1>Luis Alberto Lopez</fighter1>
+<fighter2>Isaac Lowe</fighter2>
 <rounds>12</rounds>
-<weight>Junior Lightweight</weight>
-
-<fighter1>Raymond Ford</fighter1>
-<fighter2>Felix Caraballo</fighter2>
-<rounds>10</rounds>
 <weight>Featherweight</weight>
-
-<fighter1>Reshat Mati</fighter1>
-<fighter2>Nicolas Demario</fighter2>
-<rounds>10</rounds>
-<weight>Junior Welterweight</weight>
-
-<fighter1>Zhilei Zhang</fighter1>
-<fighter2>Craig Lewis</fighter2>
-<rounds>8</rounds>
-<weight>Heavyweight</weight>
-
-<loc>New York</loc>
-
-<fighter1>Brandon Figueroa</fighter1>
-<fighter2>Stephen Fulton</fighter2>
-<rounds>12</rounds>
-<weight>Junior Featherweight</weight>
-
-
-<fighter1>Raeese Aleem</fighter1>
-<fighter2>Eduardo Baez</fighter2>
-<rounds>10</rounds>
-<weight>Junior Featherweight</weight>
-
-<fighter1>Gary Antonio Russell</fighter1>
-<fighter2>Alejandro Santiago</fighter2>
-<rounds>10</rounds>
-<weight>Bantamweight</weight>
 
 
 <time>December 4, 2021</time>
 
-<loc>Los Angeles</loc>
+<loc>London</loc>
+
+<fighter1>Lyndon Arthur</fighter1>
+<fighter2>Anthony Yarde</fighter2>
+<rounds>12</rounds>
+<weight>Light Heavyweight</weight>
+
+<fighter1>Hamzah Sheeraz</fighter1>
+<fighter2>Bradley Skeete</fighter2>
+<rounds>10</rounds>
+<weight>Junior Middleweight</weight>
+
+<fighter1>Sam Noakes</fighter1>
+<fighter2>Shaun Cooper</fighter2>
+<rounds>10</rounds>
+<weight>Lightweight</weight>
+
+<loc>Las Vegas</loc>
 
 <fighter1>Devin Haney</fighter1>
 <fighter2>Joseph Diaz</fighter2>
 <rounds>12</rounds>
 <weight>Lightweight</weight>
 
+
+<fighter1>Jessica McCaskill</fighter1>
+<fighter2>Victoria Bustos</fighter2>
+<rounds>10</rounds>
+<weight>Welterweight</weight>
 
 <time>December 5, 2021</time>
 
@@ -67,6 +56,27 @@
 <fighter2>Isaac Cruz</fighter2>
 <rounds>12</rounds>
 <weight>Lightweight</weight>
+
+<fighter1>Sebastian Fundora</fighter1>
+<fighter2>Sergio Garcia</fighter2>
+<rounds>12</rounds>
+<weight>Junior Middleweight</weight>
+
+
+<fighter1>Sergiy Derevyanchenko</fighter1>
+<fighter2>Carlos Adames</fighter2>
+<rounds>10</rounds>
+<weight>Middleweight</weight>
+
+<time>December 11, 2021</time>
+
+<loc>New York</loc>
+
+<fighter1>Vasiliy Lomachenko</fighter1>
+<fighter2>Richard Commey</fighter2>
+<rounds>12</rounds>
+<weight>Lightweight</weight>
+
 
 <time>December 18, 2021</time>
 
