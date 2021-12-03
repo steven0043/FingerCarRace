@@ -1,3 +1,54 @@
+
+
+<time>November 27, 2021</time>
+
+<loc>New York</loc>
+
+<fighter1>Teofimo Lopez</fighter1>
+<fighter2>George Kambosos</fighter2>
+<rounds>12</rounds>
+<weight>Lightweight</weight>
+
+
+<fighter1>Azinga Fuzile</fighter1>
+<fighter2>Kenichi Ogawa</fighter2>
+<rounds>12</rounds>
+<weight>Junior Lightweight</weight>
+
+<fighter1>Raymond Ford</fighter1>
+<fighter2>Felix Caraballo</fighter2>
+<rounds>10</rounds>
+<weight>Featherweight</weight>
+
+<fighter1>Reshat Mati</fighter1>
+<fighter2>Nicolas Demario</fighter2>
+<rounds>10</rounds>
+<weight>Junior Welterweight</weight>
+
+<fighter1>Zhilei Zhang</fighter1>
+<fighter2>Craig Lewis</fighter2>
+<rounds>8</rounds>
+<weight>Heavyweight</weight>
+
+<loc>New York</loc>
+
+<fighter1>Brandon Figueroa</fighter1>
+<fighter2>Stephen Fulton</fighter2>
+<rounds>12</rounds>
+<weight>Junior Featherweight</weight>
+
+
+<fighter1>Raeese Aleem</fighter1>
+<fighter2>Eduardo Baez</fighter2>
+<rounds>10</rounds>
+<weight>Junior Featherweight</weight>
+
+<fighter1>Gary Antonio Russell</fighter1>
+<fighter2>Alejandro Santiago</fighter2>
+<rounds>10</rounds>
+<weight>Bantamweight</weight>
+
+
 <time>November 20, 2021</time>
 
 <loc>Las Vegas</loc>
