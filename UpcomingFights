@@ -4,6 +4,20 @@
 
 <time>December 4, 2021</time>
 
+
+<loc>Las Vegas</loc>
+
+<fighter1>Devin Haney</fighter1>
+<fighter2>Joseph Diaz</fighter2>
+<rounds>12</rounds>
+<weight>Lightweight</weight>
+
+
+<fighter1>Jessica McCaskill</fighter1>
+<fighter2>Victoria Bustos</fighter2>
+<rounds>10</rounds>
+<weight>Welterweight</weight>
+
 <loc>London</loc>
 
 <fighter1>Lyndon Arthur</fighter1>
@@ -21,18 +35,6 @@
 <rounds>10</rounds>
 <weight>Lightweight</weight>
 
-<loc>Las Vegas</loc>
-
-<fighter1>Devin Haney</fighter1>
-<fighter2>Joseph Diaz</fighter2>
-<rounds>12</rounds>
-<weight>Lightweight</weight>
-
-
-<fighter1>Jessica McCaskill</fighter1>
-<fighter2>Victoria Bustos</fighter2>
-<rounds>10</rounds>
-<weight>Welterweight</weight>
 
 <time>December 5, 2021</time>
 
