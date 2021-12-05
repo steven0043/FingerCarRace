@@ -1,3 +1,37 @@
+
+<time>December 4, 2021</time>
+
+
+<loc>Las Vegas</loc>
+
+<fighter1>Devin Haney</fighter1>
+<fighter2>Joseph Diaz</fighter2>
+<rounds>12</rounds>
+<weight>Lightweight</weight>
+
+
+<fighter1>Jessica McCaskill</fighter1>
+<fighter2>Victoria Bustos</fighter2>
+<rounds>10</rounds>
+<weight>Welterweight</weight>
+
+<loc>London</loc>
+
+<fighter1>Lyndon Arthur</fighter1>
+<fighter2>Anthony Yarde</fighter2>
+<rounds>12</rounds>
+<weight>Light Heavyweight</weight>
+
+<fighter1>Hamzah Sheeraz</fighter1>
+<fighter2>Bradley Skeete</fighter2>
+<rounds>10</rounds>
+<weight>Junior Middleweight</weight>
+
+<fighter1>Sam Noakes</fighter1>
+<fighter2>Shaun Cooper</fighter2>
+<rounds>10</rounds>
+<weight>Lightweight</weight>
+
 <time>December 3, 2021</time>
 
 <loc>Bilbao, País Vasco, Spain</loc>
