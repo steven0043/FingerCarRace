@@ -1,3 +1,92 @@
+<time>December 11, 2021</time>
+
+<loc>New York</loc>
+
+<fighter1>Vasyl Lomachenko</fighter1>
+<fighter2>Richard Commey</fighter2>
+<rounds>12</rounds>
+<weight>Lightweight</weight>
+
+<fighter1>Jared Anderson</fighter1>
+<fighter2>Oleksandr Teslenko</fighter2>
+<rounds>8</rounds>
+<weight>Heavyweight</weight>
+
+<fighter1>Keyshawn Davis</fighter1>
+<fighter2>Jose Zaragoza</fighter2>
+<rounds>6</rounds>
+<weight>Lightweight</weight>
+
+<loc>Carson, Calif</loc>
+
+<fighter1>Nonito Donaire</fighter1>
+<fighter2>Reymart Gaballo</fighter2>
+<rounds>12</rounds>
+<weight>Bantamweight</weight>
+
+<fighter1>Brandun Lee</fighter1>
+<fighter2>Juan Heraldez</fighter2>
+<rounds>10</rounds>
+<weight>Junior Welterweight</weight>
+
+<loc>Liverpool, England</loc>
+
+<fighter1>Conor Benn</fighter1>
+<fighter2>Chris Algieri</fighter2>
+<rounds>12</rounds>
+<weight>Welterweight</weight>
+
+<fighter1>Katie Taylor</fighter1>
+<fighter2>Firuza Sharipova</fighter2>
+<rounds>10</rounds>
+<weight>Lightweight</weight>
+
+<fighter1>Karim Guerfi</fighter1>
+<fighter2>Jordan Gill</fighter2>
+<rounds>12</rounds>
+<weight>Featherweight</weight>
+
+<fighter1>Robbie Davies</fighter1>
+<fighter2>Hank Lundy</fighter2>
+<rounds>10</rounds>
+<weight>Junior Welterweight</weight>
+
+<fighter1>Caoimhin Agyarko</fighter1>
+<fighter2>Noe Larios</fighter2>
+<rounds>10</rounds>
+<weight>Middleweight</weight>
+
+
+<loc>Dubai, United Arab Emirates</loc>
+
+<fighter1>Joseph Agbeko </fighter1>
+<fighter2>Paul Butler</fighter2>
+<rounds>12</rounds>
+<weight>Bantamweight</weight>
+
+<fighter1>Sunny Edwards</fighter1>
+<fighter2>Jayson Mama</fighter2>
+<rounds>12</rounds>
+<weight>Flyweight</weight>
+
+<fighter1>Donnie Nietes</fighter1>
+<fighter2>Norbelto Jimenez</fighter2>
+<rounds>12</rounds>
+<weight>Super Flyweight</weight>
+
+
+<loc>Russia</loc>
+
+<fighter1>Dmitry Bivol</fighter1>
+<fighter2>Umar Salamov</fighter2>
+<rounds>12</rounds>
+<weight>Light Heavyweight</weight>
+
+<fighter1>Magomed Kurbanov</fighter1>
+<fighter2>Patrick Teixeira</fighter2>
+<rounds>12</rounds>
+<weight>Junior Middleweight</weight>
+
 <time>December 5, 2021</time>
 
 <loc>Los Angeles</loc>
