@@ -1,26 +1,43 @@
-<time>December 14, 2021</time>
+<time>December 17, 2021</time>
 
 
-<loc>Tokyo</loc>
+<loc>Uzbekistan</loc>
 
-<fighter1>Naoya Inoue</fighter1>
-<fighter2>Aran Dipaen</fighter2>
+<fighter1>Israil Madrimov</fighter1>
+<fighter2>Michel Soro</fighter2>
 <rounds>12</rounds>
-<weight>Bantamweight</weight>
+<weight>Super Middleweight</weight>
 
+<loc>Montreal</loc>
 
-<fighter1>Wilfredo Mendez</fighter1>
-<fighter2>Masataka Taniguchi</fighter2>
+<fighter1>Artur Beterbiev</fighter1>
+<fighter2>Marcus Browne</fighter2>
 <rounds>12</rounds>
-<weight>Strawweight</weight>
+<weight>Light Heavyweight</weight>
 
+<fighter1>Marie Eve Dicaire</fighter1>
+<fighter2>Cynthia Lozano</fighter2>
+<rounds>12</rounds>
+<weight>Junior Middleweight</weight>
 
 <time>December 18, 2021</time>
 
+<loc>Manchester</loc>
+
+<fighter1>Dereck Chisora</fighter1>
+<fighter2>Joseph Parker</fighter2>
+<rounds>12</rounds>
+<weight>Heavyweight</weight>
+
+<fighter1>Carlos Gongora</fighter1>
+<fighter2>Lerrone Richards</fighter2>
+<rounds>12</rounds>
+<weight>Super Middleweight</weight>
+
 <loc>Tampa</loc>
 
-<fighter1>Jake Paul</fighter1>
-<fighter2>Tyron Woodley</fighter2>
+<fighter1>Tyron Woodley</fighter1>
+<fighter2>Jake Paul</fighter2>
 <rounds>8</rounds>
 <weight>Cruiserweight</weight>
 
