@@ -1,24 +1,3 @@
-<time>December 17, 2021</time>
-
-
-<loc>Uzbekistan</loc>
-
-<fighter1>Israil Madrimov</fighter1>
-<fighter2>Michel Soro</fighter2>
-<rounds>12</rounds>
-<weight>Super Middleweight</weight>
-
-<loc>Montreal</loc>
-
-<fighter1>Artur Beterbiev</fighter1>
-<fighter2>Marcus Browne</fighter2>
-<rounds>12</rounds>
-<weight>Light Heavyweight</weight>
-
-<fighter1>Marie Eve Dicaire</fighter1>
-<fighter2>Cynthia Lozano</fighter2>
-<rounds>12</rounds>
-<weight>Junior Middleweight</weight>
 
 <time>December 18, 2021</time>
 
@@ -34,12 +13,64 @@
 <rounds>12</rounds>
 <weight>Super Middleweight</weight>
 
+<fighter1>Carlos Gongora</fighter1>
+<fighter2>Lerrone Richards</fighter2>
+<rounds>12</rounds>
+<weight>Super Middleweight</weight>
+
+<fighter1>Jack Cullen</fighter1>
+<fighter2>Kevin Sadjo</fighter2>
+<rounds>12</rounds>
+<weight>Super Middleweight</weight>
+
+<fighter1>Zelfa Barrett</fighter1>
+<fighter2>Bruno Tarimo</fighter2>
+<rounds>12</rounds>
+<weight>Super Featherweight</weight>
+
+<fighter1>Alen Babic</fighter1>
+<fighter2>David Spilmont</fighter2>
+<rounds>8</rounds>
+<weight>Heavyweight</weight>
+
+<fighter1>Sandy Ryan</fighter1>
+<fighter2>Maria Capriolo</fighter2>
+<rounds>8</rounds>
+<weight>Lightweight</weight>
+
 <loc>Tampa</loc>
 
 <fighter1>Tyron Woodley</fighter1>
 <fighter2>Jake Paul</fighter2>
 <rounds>8</rounds>
 <weight>Cruiserweight</weight>
+
+<fighter1>Amanda Serrano</fighter1>
+<fighter2>Miriam Gutierrez</fighter2>
+<rounds>10</rounds>
+<weight>Lightweight</weight>
+
+<loc>San Antonio</loc>
+
+<fighter1>Gilberto Ramirez</fighter1>
+<fighter2>Yunieski Gonzalez</fighter2>
+<rounds>12</rounds>
+<weight>Light Heavyweight</weight>
+
+<fighter1>Seniesa Estrada</fighter1>
+<fighter2>Maria Santizo</fighter2>
+<rounds>10</rounds>
+<weight>Junior Flyweight</weight>
+
+<fighter1>Marlen Esparza</fighter1>
+<fighter2>Anabel Ortiz</fighter2>
+<rounds>10</rounds>
+<weight>Flyweight</weight>
+
+<fighter1>Lamont Roach</fighter1>
+<fighter2>Rene Alvarado</fighter2>
+<rounds>10</rounds>
+<weight>Junior Lightweight</weight>
 
 <time>February 26, 2022</time>
 
