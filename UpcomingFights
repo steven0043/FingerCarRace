@@ -1,71 +1,66 @@
 
-<time>December 18, 2021</time>
+<time>December 25, 2021</time>
 
-<loc>Manchester</loc>
+<loc>Newark, New Jersey</loc>
 
-<fighter1>Joseph Parker</fighter1>
-<fighter2>Dereck Chisora</fighter2>
-<rounds>12</rounds>
-<weight>Heavyweight</weight>
-
-<fighter1>Carlos Gongora</fighter1>
-<fighter2>Lerrone Richards</fighter2>
-<rounds>12</rounds>
-<weight>Super Middleweight</weight>
-
-<fighter1>Jack Cullen</fighter1>
-<fighter2>Kevin Sadjo</fighter2>
-<rounds>12</rounds>
-<weight>Super Middleweight</weight>
-
-<fighter1>Zelfa Barrett</fighter1>
-<fighter2>Bruno Tarimo</fighter2>
-<rounds>12</rounds>
-<weight>Super Featherweight</weight>
-
-<fighter1>Alen Babic</fighter1>
-<fighter2>David Spilmont</fighter2>
-<rounds>8</rounds>
-<weight>Heavyweight</weight>
-
-<fighter1>Sandy Ryan</fighter1>
-<fighter2>Maria Capriolo</fighter2>
-<rounds>8</rounds>
-<weight>Lightweight</weight>
-
-<loc>Tampa</loc>
-
-<fighter1>Tyron Woodley</fighter1>
-<fighter2>Jake Paul</fighter2>
-<rounds>8</rounds>
-<weight>Cruiserweight</weight>
-
-<fighter1>Amanda Serrano</fighter1>
-<fighter2>Miriam Gutierrez</fighter2>
+<fighter1>Vito Mielnicki</fighter1>
+<fighter2>Nicholas DeLomba</fighter2>
 <rounds>10</rounds>
-<weight>Lightweight</weight>
+<weight>Middleweight</weight>
 
-<loc>San Antonio</loc>
+<fighter1>Joey Spencer</fighter1>
+<fighter2>Limberth Ponce</fighter2>
+<rounds>8</rounds>
+<weight>Miidleweight</weight>
 
-<fighter1>Gilberto Ramirez</fighter1>
-<fighter2>Yunieski Gonzalez</fighter2>
+<time>January 1, 2022</time>
+
+<loc>Hollywood, Florida</loc>
+
+<fighter1>Luis Ortiz</fighter1>
+<fighter2>Charles Martin</fighter2>
+<rounds>12</rounds>
+<weight>Heavyweight</weight>
+
+<fighter1>Frank Sanchez</fighter1>
+<fighter2>Carlos Negron</fighter2>
+<rounds>10</rounds>
+<weight>Heavyweight</weight>
+
+<fighter1>Jonnie Rice</fighter1>
+<fighter2>Michael Coffie</fighter2>
+<rounds>10</rounds>
+<weight>Heavyweight</weight>
+
+<fighter1>Gerald Washington</fighter1>
+<fighter2>Ali Demirezen</fighter2>
+<rounds>10</rounds>
+<weight>Heavyweight</weight>
+
+<fighter1>Viktor Vykhryst</fighter1>
+<fighter2>Iago Kiladze</fighter2>
+<rounds>10</rounds>
+<weight>Heavyweight</weight>
+
+
+<time>January 15, 2022</time>
+
+<loc>Verona, New York</loc>
+
+<fighter1>Joe Smith</fighter1>
+<fighter2>Callum Johnson</fighter2>
 <rounds>12</rounds>
 <weight>Light Heavyweight</weight>
 
-<fighter1>Seniesa Estrada</fighter1>
-<fighter2>Maria Santizo</fighter2>
-<rounds>10</rounds>
-<weight>Junior Flyweight</weight>
 
-<fighter1>Marlen Esparza</fighter1>
-<fighter2>Anabel Ortiz</fighter2>
-<rounds>10</rounds>
-<weight>Flyweight</weight>
+<time>February 5, 2022</time>
 
-<fighter1>Lamont Roach</fighter1>
-<fighter2>Rene Alvarado</fighter2>
-<rounds>10</rounds>
-<weight>Junior Lightweight</weight>
+<loc>Fresno, California</loc>
+
+<fighter1>Jose Ramirez</fighter1>
+<fighter2>Jose Pedraza</fighter2>
+<rounds>12</rounds>
+<weight>Junior Welterweight</weight>
 
 <time>February 26, 2022</time>
 
@@ -75,3 +70,11 @@
 <fighter2>Jack Catterall</fighter2>
 <rounds>12</rounds>
 <weight>Junior Welterweight</weight>
+
+
+<loc>Fresno, California</loc>
+
+<fighter1>Brian Castano</fighter1>
+<fighter2>Jermell Charlo</fighter2>
+<rounds>12</rounds>
+<weight>Junior Middleweight</weight>
