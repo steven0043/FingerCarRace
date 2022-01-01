@@ -1,17 +1,4 @@
 
-<time>December 25, 2021</time>
-
-<loc>Newark, New Jersey</loc>
-
-<fighter1>Vito Mielnicki</fighter1>
-<fighter2>Nicholas DeLomba</fighter2>
-<rounds>10</rounds>
-<weight>Middleweight</weight>
-
-<fighter1>Joey Spencer</fighter1>
-<fighter2>Limberth Ponce</fighter2>
-<rounds>8</rounds>
-<weight>Miidleweight</weight>
 
 <time>January 1, 2022</time>
 
@@ -23,7 +10,7 @@
 <weight>Heavyweight</weight>
 
 <fighter1>Frank Sanchez</fighter1>
-<fighter2>Carlos Negron</fighter2>
+<fighter2>Christian Hammer</fighter2>
 <rounds>10</rounds>
 <weight>Heavyweight</weight>
 
