@@ -1,53 +1,29 @@
-
-
-<time>January 1, 2022</time>
-
-<loc>Hollywood, Florida</loc>
-
-<fighter1>Luis Ortiz</fighter1>
-<fighter2>Charles Martin</fighter2>
-<rounds>12</rounds>
-<weight>Heavyweight</weight>
-
-<fighter1>Frank Sanchez</fighter1>
-<fighter2>Christian Hammer</fighter2>
-<rounds>10</rounds>
-<weight>Heavyweight</weight>
-
-<fighter1>Jonnie Rice</fighter1>
-<fighter2>Michael Coffie</fighter2>
-<rounds>10</rounds>
-<weight>Heavyweight</weight>
-
-<fighter1>Gerald Washington</fighter1>
-<fighter2>Ali Demirezen</fighter2>
-<rounds>10</rounds>
-<weight>Heavyweight</weight>
-
-<fighter1>Viktor Vykhryst</fighter1>
-<fighter2>Iago Kiladze</fighter2>
-<rounds>10</rounds>
-<weight>Heavyweight</weight>
-
-
 <time>January 15, 2022</time>
 
 <loc>Verona, New York</loc>
 
 <fighter1>Joe Smith</fighter1>
-<fighter2>Callum Johnson</fighter2>
+<fighter2>Steve Geffrard</fighter2>
 <rounds>12</rounds>
 <weight>Light Heavyweight</weight>
 
+<time>January 22, 2022</time>
+
+<loc>Atlantic City</loc>
+
+<fighter1>Gary Russell</fighter1>
+<fighter2>Mark Magsayo</fighter2>
+<rounds>12</rounds>
+<weight>Featherweight</weight>
 
 <time>February 5, 2022</time>
 
-<loc>Fresno, California</loc>
+<loc>Las Vegas</loc>
 
-<fighter1>Jose Ramirez</fighter1>
-<fighter2>Jose Pedraza</fighter2>
+<fighter1>Keith Thurman</fighter1>
+<fighter2>Mario Barrios</fighter2>
 <rounds>12</rounds>
-<weight>Junior Welterweight</weight>
+<weight>Welterweight</weight>
 
 <time>February 26, 2022</time>
 
@@ -65,3 +41,23 @@
 <fighter2>Jermell Charlo</fighter2>
 <rounds>12</rounds>
 <weight>Junior Middleweight</weight>
+
+
+<time>March 4, 2022</time>
+
+<loc>Fresno, California</loc>
+
+<fighter1>Jose Ramirez</fighter1>
+<fighter2>Jose Pedraza</fighter2>
+<rounds>12</rounds>
+<weight>Junior Welterweight</weight>
+
+
+<time>March 5, 2022</time>
+
+<loc>San Diego</loc>
+
+<fighter1>Juan Estrada</fighter1>
+<fighter2>Chocolatito</fighter2>
+<rounds>12</rounds>
+<weight>Junior Bantamweight</weight>
