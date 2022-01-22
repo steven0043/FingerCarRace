@@ -1,11 +1,3 @@
-<time>January 15, 2022</time>
-
-<loc>Verona, New York</loc>
-
-<fighter1>Joe Smith</fighter1>
-<fighter2>Steve Geffrard</fighter2>
-<rounds>12</rounds>
-<weight>Light Heavyweight</weight>
 
 <time>January 22, 2022</time>
 
@@ -14,6 +6,16 @@
 <fighter1>Gary Russell</fighter1>
 <fighter2>Mark Magsayo</fighter2>
 <rounds>12</rounds>
+<weight>Featherweight</weight>
+
+<fighter1>Subriel Matias</fighter1>
+<fighter2>Petros Ananyan</fighter2>
+<rounds>12</rounds>
+<weight>Junior Welterweight</weight>
+
+<fighter1>Tugstsogt Nyambayar</fighter1>
+<fighter2>Sakaria Lukas</fighter2>
+<rounds>10</rounds>
 <weight>Featherweight</weight>
 
 <time>February 5, 2022</time>
