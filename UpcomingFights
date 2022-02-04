@@ -1,24 +1,43 @@
 
-<time>January 22, 2022</time>
-
-<loc>Atlantic City</loc>
-
-<fighter1>Gary Russell</fighter1>
-<fighter2>Mark Magsayo</fighter2>
-<rounds>12</rounds>
-<weight>Featherweight</weight>
-
-<fighter1>Subriel Matias</fighter1>
-<fighter2>Petros Ananyan</fighter2>
-<rounds>12</rounds>
-<weight>Junior Welterweight</weight>
-
-<fighter1>Tugstsogt Nyambayar</fighter1>
-<fighter2>Sakaria Lukas</fighter2>
-<rounds>10</rounds>
-<weight>Featherweight</weight>
 
 <time>February 5, 2022</time>
+
+<loc>Cardiff, Wales</loc>
+
+<fighter1>Chris Eubank</fighter1>
+<fighter2>Liam Williams</fighter2>
+<rounds>12</rounds>
+<weight>Middleweight</weight>
+
+<fighter1>Claressa Shields</fighter1>
+<fighter2>Ema Kozin</fighter2>
+<rounds>10</rounds>
+<weight>Middleweight</weight>
+
+<fighter1>Chris Jenkins</fighter1>
+<fighter2>Julius Indongo</fighter2>
+<rounds>8</rounds>
+<weight>Welterweight</weight>
+
+<fighter1>Samuel Antwi</fighter1>
+<fighter2>Conah Walker</fighter2>
+<rounds>10</rounds>
+<weight>Welterweight</weight>
+
+<fighter1>Otto Wallin</fighter1>
+<fighter2>Kamil Sokolowski</fighter2>
+<rounds>8</rounds>
+<weight>Heavyweight</weight>
+
+<fighter1>Harlem Eubank</fighter1>
+<fighter2>Viorel Simion</fighter2>
+<rounds>6</rounds>
+<weight>Junior Welterweight</weight>
+
+<fighter1>Caroline Dubois</fighter1>
+<fighter2>Vaida Masiokaite</fighter2>
+<rounds>4</rounds>
+<weight>Lightweight</weight>
 
 <loc>Las Vegas</loc>
 
@@ -26,6 +45,62 @@
 <fighter2>Mario Barrios</fighter2>
 <rounds>12</rounds>
 <weight>Welterweight</weight>
+
+<fighter1>Leo Santa Cruz</fighter1>
+<fighter2>Keenan Carbajal</fighter2>
+<rounds>12</rounds>
+<weight>Featherweight</weight>
+
+<fighter1>Abel Ramos</fighter1>
+<fighter2>Lucas Santamaria</fighter2>
+<rounds>10</rounds>
+<weight>Welterweight</weight>
+
+<fighter1>Luis Nery</fighter1>
+<fighter2>Carlos Castro</fighter2>
+<rounds>10</rounds>
+<weight>Junior Featherweight</weight>
+
+<loc>Phoenix, AZ</loc>
+
+<fighter1>Carlos Cuadras</fighter1>
+<fighter2>Jesse Rodriguez</fighter2>
+<rounds>12</rounds>
+<weight>Junior Bantamweight</weight>
+
+<fighter1>Raymond Ford</fighter1>
+<fighter2>Edward Vazquez</fighter2>
+<rounds>10</rounds>
+<weight>Featherweight</weight>
+
+<fighter1>Jamie Mitchell</fighter1>
+<fighter2>Carly Skelly</fighter2>
+<rounds>10</rounds>
+<weight>Bantamweight</weight>
+
+<time>February 12, 2022</time>
+
+<loc>London</loc>
+
+<fighter1>Daniel Jacobs</fighter1>
+<fighter2>John Ryder</fighter2>
+<rounds>12</rounds>
+<weight>Super Middleweight</weight>
+
+<time>February 19, 2022</time>
+
+<loc>Manchester, England</loc>
+
+<fighter1>Amir Khan</fighter1>
+<fighter2>Kell Brook</fighter2>
+<rounds>10</rounds>
+<weight>Welterweight</weight>
+
+<fighter1>Natasha Jonas</fighter1>
+<fighter2>Ewa Piatkowska</fighter2>
+<rounds>10</rounds>
+<weight>Junior Middleweight</weight>
+
 
 <time>February 26, 2022</time>
 
@@ -36,13 +111,15 @@
 <rounds>12</rounds>
 <weight>Junior Welterweight</weight>
 
+<loc>Las Vegas</loc>
 
-<loc>Fresno, California</loc>
-
-<fighter1>Brian Castano</fighter1>
-<fighter2>Jermell Charlo</fighter2>
+<fighter1>Roger Gutierrez</fighter1>
+<fighter2>Chris Colbert</fighter2>
 <rounds>12</rounds>
-<weight>Junior Middleweight</weight>
+<weight>Junior Lightweight</weight>
+
+
+
 
 
 <time>March 4, 2022</time>
@@ -63,3 +140,28 @@
 <fighter2>Chocolatito</fighter2>
 <rounds>12</rounds>
 <weight>Junior Bantamweight</weight>
+
+<time>March 19, 2022</time>
+
+<loc>Los Angeles</loc>
+
+<fighter1>Brian Castano</fighter1>
+<fighter2>Jermell Charlo</fighter2>
+<rounds>12</rounds>
+<weight>Junior Middleweight</weight>
+
+<time>April 30, 2022</time>
+
+<loc>Los Angeles</loc>
+
+<fighter1>Shakur Stevenson</fighter1>
+<fighter2>Oscar Valdez</fighter2>
+<rounds>12</rounds>
+<weight>Junior Lightweight</weight>
+
+<loc>New York</loc>
+
+<fighter1>Katie Taylor</fighter1>
+<fighter2>Amanda Serrano</fighter2>
+<rounds>10</rounds>
+<weight>Lightweight</weight>
