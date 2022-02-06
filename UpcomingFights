@@ -2,43 +2,6 @@
 
 <time>February 5, 2022</time>
 
-<loc>Cardiff, Wales</loc>
-
-<fighter1>Chris Eubank</fighter1>
-<fighter2>Liam Williams</fighter2>
-<rounds>12</rounds>
-<weight>Middleweight</weight>
-
-<fighter1>Claressa Shields</fighter1>
-<fighter2>Ema Kozin</fighter2>
-<rounds>10</rounds>
-<weight>Middleweight</weight>
-
-<fighter1>Chris Jenkins</fighter1>
-<fighter2>Julius Indongo</fighter2>
-<rounds>8</rounds>
-<weight>Welterweight</weight>
-
-<fighter1>Samuel Antwi</fighter1>
-<fighter2>Conah Walker</fighter2>
-<rounds>10</rounds>
-<weight>Welterweight</weight>
-
-<fighter1>Otto Wallin</fighter1>
-<fighter2>Kamil Sokolowski</fighter2>
-<rounds>8</rounds>
-<weight>Heavyweight</weight>
-
-<fighter1>Harlem Eubank</fighter1>
-<fighter2>Viorel Simion</fighter2>
-<rounds>6</rounds>
-<weight>Junior Welterweight</weight>
-
-<fighter1>Caroline Dubois</fighter1>
-<fighter2>Vaida Masiokaite</fighter2>
-<rounds>4</rounds>
-<weight>Lightweight</weight>
-
 <loc>Las Vegas</loc>
 
 <fighter1>Keith Thurman</fighter1>
@@ -77,6 +40,43 @@
 <fighter2>Carly Skelly</fighter2>
 <rounds>10</rounds>
 <weight>Bantamweight</weight>
+
+<loc>Cardiff, Wales</loc>
+
+<fighter1>Chris Eubank</fighter1>
+<fighter2>Liam Williams</fighter2>
+<rounds>12</rounds>
+<weight>Middleweight</weight>
+
+<fighter1>Claressa Shields</fighter1>
+<fighter2>Ema Kozin</fighter2>
+<rounds>10</rounds>
+<weight>Middleweight</weight>
+
+<fighter1>Chris Jenkins</fighter1>
+<fighter2>Julius Indongo</fighter2>
+<rounds>8</rounds>
+<weight>Welterweight</weight>
+
+<fighter1>Samuel Antwi</fighter1>
+<fighter2>Conah Walker</fighter2>
+<rounds>10</rounds>
+<weight>Welterweight</weight>
+
+<fighter1>Otto Wallin</fighter1>
+<fighter2>Kamil Sokolowski</fighter2>
+<rounds>8</rounds>
+<weight>Heavyweight</weight>
+
+<fighter1>Harlem Eubank</fighter1>
+<fighter2>Viorel Simion</fighter2>
+<rounds>6</rounds>
+<weight>Junior Welterweight</weight>
+
+<fighter1>Caroline Dubois</fighter1>
+<fighter2>Vaida Masiokaite</fighter2>
+<rounds>4</rounds>
+<weight>Lightweight</weight>
 
 <time>February 12, 2022</time>
 
