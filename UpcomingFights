@@ -1,83 +1,4 @@
 
-
-<time>February 5, 2022</time>
-
-<loc>Las Vegas</loc>
-
-<fighter1>Keith Thurman</fighter1>
-<fighter2>Mario Barrios</fighter2>
-<rounds>12</rounds>
-<weight>Welterweight</weight>
-
-<fighter1>Leo Santa Cruz</fighter1>
-<fighter2>Keenan Carbajal</fighter2>
-<rounds>12</rounds>
-<weight>Featherweight</weight>
-
-<fighter1>Abel Ramos</fighter1>
-<fighter2>Lucas Santamaria</fighter2>
-<rounds>10</rounds>
-<weight>Welterweight</weight>
-
-<fighter1>Luis Nery</fighter1>
-<fighter2>Carlos Castro</fighter2>
-<rounds>10</rounds>
-<weight>Junior Featherweight</weight>
-
-<loc>Phoenix, AZ</loc>
-
-<fighter1>Carlos Cuadras</fighter1>
-<fighter2>Jesse Rodriguez</fighter2>
-<rounds>12</rounds>
-<weight>Junior Bantamweight</weight>
-
-<fighter1>Raymond Ford</fighter1>
-<fighter2>Edward Vazquez</fighter2>
-<rounds>10</rounds>
-<weight>Featherweight</weight>
-
-<fighter1>Jamie Mitchell</fighter1>
-<fighter2>Carly Skelly</fighter2>
-<rounds>10</rounds>
-<weight>Bantamweight</weight>
-
-<loc>Cardiff, Wales</loc>
-
-<fighter1>Chris Eubank</fighter1>
-<fighter2>Liam Williams</fighter2>
-<rounds>12</rounds>
-<weight>Middleweight</weight>
-
-<fighter1>Claressa Shields</fighter1>
-<fighter2>Ema Kozin</fighter2>
-<rounds>10</rounds>
-<weight>Middleweight</weight>
-
-<fighter1>Chris Jenkins</fighter1>
-<fighter2>Julius Indongo</fighter2>
-<rounds>8</rounds>
-<weight>Welterweight</weight>
-
-<fighter1>Samuel Antwi</fighter1>
-<fighter2>Conah Walker</fighter2>
-<rounds>10</rounds>
-<weight>Welterweight</weight>
-
-<fighter1>Otto Wallin</fighter1>
-<fighter2>Kamil Sokolowski</fighter2>
-<rounds>8</rounds>
-<weight>Heavyweight</weight>
-
-<fighter1>Harlem Eubank</fighter1>
-<fighter2>Viorel Simion</fighter2>
-<rounds>6</rounds>
-<weight>Junior Welterweight</weight>
-
-<fighter1>Caroline Dubois</fighter1>
-<fighter2>Vaida Masiokaite</fighter2>
-<rounds>4</rounds>
-<weight>Lightweight</weight>
-
 <time>February 12, 2022</time>
 
 <loc>London</loc>
@@ -86,6 +7,32 @@
 <fighter2>John Ryder</fighter2>
 <rounds>12</rounds>
 <weight>Super Middleweight</weight>
+
+<fighter1>Felix Cash</fighter1>
+<fighter2>Magomed Madiev</fighter2>
+<rounds>12</rounds>
+<weight>Middleweight</weight>
+
+
+<fighter1>Johnny Fisher</fighter1>
+<fighter2>Gabriel Enguema</fighter2>
+<rounds>8</rounds>
+<weight>Heavyweight</weight>
+
+<fighter1>Ellie Scotney</fighter1>
+<fighter2>Jorgelina Guanini</fighter2>
+<rounds>10</rounds>
+<weight>Junior Featherweight</weight>
+
+<fighter1>Hopey Price</fighter1>
+<fighter2>Ricardo Roman</fighter2>
+<rounds>8</rounds>
+<weight>Junior Featherweight</weight>
+
+<fighter1>Austin Williams</fighter1>
+<fighter2>Javier Maciel</fighter2>
+<rounds>6</rounds>
+<weight>Middleweight</weight>
 
 <time>February 19, 2022</time>
 
@@ -100,6 +47,14 @@
 <fighter2>Ewa Piatkowska</fighter2>
 <rounds>10</rounds>
 <weight>Junior Middleweight</weight>
+
+
+<loc>Tijuana, Mexico</loc>
+
+<fighter1>Jaime Munguia</fighter1>
+<fighter2>D'Mitrius Ballard</fighter2>
+<rounds>12</rounds>
+<weight>Middleweight</weight>
 
 
 <time>February 26, 2022</time>
@@ -120,7 +75,14 @@
 
 
 
+<time>February 27, 2022</time>
 
+<loc>London</loc>
+
+<fighter1>Lawrence Okolie</fighter1>
+<fighter2>Michal Cieslak</fighter2>
+<rounds>12</rounds>
+<weight>Cruiserweight</weight>
 
 <time>March 4, 2022</time>
 
@@ -141,6 +103,15 @@
 <rounds>12</rounds>
 <weight>Junior Bantamweight</weight>
 
+<time>March 12, 2022</time>
+
+<loc>Nottingham, England</loc>
+
+<fighter1>Leigh Wood</fighter1>
+<fighter2>Michael Conlan</fighter2>
+<rounds>12</rounds>
+<weight>Featherweight</weight>
+
 <time>March 19, 2022</time>
 
 <loc>Los Angeles</loc>
@@ -149,6 +120,58 @@
 <fighter2>Jermell Charlo</fighter2>
 <rounds>12</rounds>
 <weight>Junior Middleweight</weight>
+
+
+<loc>Dubai, United Arab Emirates</loc>
+
+<fighter1>Sunny Edwards</fighter1>
+<fighter2>Muhammad Waseem</fighter2>
+<rounds>12</rounds>
+<weight>Flyweight</weight>
+
+<fighter1>Regis Prograis</fighter1>
+<fighter2>Tyrone McKenna</fighter2>
+<rounds>10</rounds>
+<weight>Junior Welterweight</weight>
+
+
+<time>March 26, 2022</time>
+
+<loc>Leeds, England</loc>
+
+<fighter1>Kiko Martinez</fighter1>
+<fighter2>Josh Warrington</fighter2>
+<rounds>12</rounds>
+<weight>Featherweight</weight>
+
+<fighter1>Maxi Hughes</fighter1>
+<fighter2>Ryan Walsh</fighter2>
+<rounds>12</rounds>
+<weight>Lightweight</weight>
+
+<fighter1>Maria Roman</fighter1>
+<fighter2>Ebanie Bridges</fighter2>
+<rounds>10</rounds>
+<weight>Bantamweight</weight>
+
+
+<time>April 9, 2022</time>
+
+<loc>San Antonio, Texas</loc>
+
+<fighter1>Ryan Garcia</fighter1>
+<fighter2>Emmanuel Tagoe</fighter2>
+<rounds>12</rounds>
+<weight>Lightweight</weight>
+
+<time>April 16, 2022</time>
+
+<loc>Arlington, Texas</loc>
+
+<fighter1>Errol Spence</fighter1>
+<fighter2>Yordenis Ugas</fighter2>
+<rounds>12</rounds>
+<weight>Welterweight</weight>
 
 <time>April 30, 2022</time>
 
