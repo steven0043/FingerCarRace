@@ -1,3 +1,73 @@
+
+
+<time>February 5, 2022</time>
+
+<loc>Las Vegas</loc>
+
+<fighter1>Keith Thurman</fighter1>
+<fighter2>Mario Barrios</fighter2>
+<rounds>12</rounds>
+<weight>Welterweight</weight>
+
+<fighter1>Leo Santa Cruz</fighter1>
+<fighter2>Keenan Carbajal</fighter2>
+<rounds>12</rounds>
+<weight>Featherweight</weight>
+
+<fighter1>Abel Ramos</fighter1>
+<fighter2>Lucas Santamaria</fighter2>
+<rounds>10</rounds>
+<weight>Welterweight</weight>
+
+<fighter1>Luis Nery</fighter1>
+<fighter2>Carlos Castro</fighter2>
+<rounds>10</rounds>
+<weight>Junior Featherweight</weight>
+
+<loc>Phoenix, AZ</loc>
+
+<fighter1>Carlos Cuadras</fighter1>
+<fighter2>Jesse Rodriguez</fighter2>
+<rounds>12</rounds>
+<weight>Junior Bantamweight</weight>
+
+<fighter1>Raymond Ford</fighter1>
+<fighter2>Edward Vazquez</fighter2>
+<rounds>10</rounds>
+<weight>Featherweight</weight>
+
+<fighter1>Jamie Mitchell</fighter1>
+<fighter2>Carly Skelly</fighter2>
+<rounds>10</rounds>
+<weight>Bantamweight</weight>
+
+<loc>Cardiff, Wales</loc>
+
+<fighter1>Chris Eubank</fighter1>
+<fighter2>Liam Williams</fighter2>
+<rounds>12</rounds>
+<weight>Middleweight</weight>
+
+<fighter1>Claressa Shields</fighter1>
+<fighter2>Ema Kozin</fighter2>
+<rounds>10</rounds>
+<weight>Middleweight</weight>
+
+<fighter1>Chris Jenkins</fighter1>
+<fighter2>Julius Indongo</fighter2>
+<rounds>8</rounds>
+<weight>Welterweight</weight>
+
+<fighter1>Samuel Antwi</fighter1>
+<fighter2>Conah Walker</fighter2>
+<rounds>10</rounds>
+<weight>Welterweight</weight>
+
+<fighter1>Otto Wallin</fighter1>
+<fighter2>Kamil Sokolowski</fighter2>
+<rounds>8</rounds>
+<weight>Heavyweight</weight>
+
 <time>January 22, 2022</time>
 
 <loc>Atlantic City</loc>
