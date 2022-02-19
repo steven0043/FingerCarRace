@@ -1,46 +1,11 @@
 
-<time>February 12, 2022</time>
-
-<loc>London</loc>
-
-<fighter1>Daniel Jacobs</fighter1>
-<fighter2>John Ryder</fighter2>
-<rounds>12</rounds>
-<weight>Super Middleweight</weight>
-
-<fighter1>Felix Cash</fighter1>
-<fighter2>Magomed Madiev</fighter2>
-<rounds>12</rounds>
-<weight>Middleweight</weight>
-
-
-<fighter1>Johnny Fisher</fighter1>
-<fighter2>Gabriel Enguema</fighter2>
-<rounds>8</rounds>
-<weight>Heavyweight</weight>
-
-<fighter1>Ellie Scotney</fighter1>
-<fighter2>Jorgelina Guanini</fighter2>
-<rounds>10</rounds>
-<weight>Junior Featherweight</weight>
-
-<fighter1>Hopey Price</fighter1>
-<fighter2>Ricardo Roman</fighter2>
-<rounds>8</rounds>
-<weight>Junior Featherweight</weight>
-
-<fighter1>Austin Williams</fighter1>
-<fighter2>Javier Maciel</fighter2>
-<rounds>6</rounds>
-<weight>Middleweight</weight>
-
 <time>February 19, 2022</time>
 
 <loc>Manchester, England</loc>
 
 <fighter1>Amir Khan</fighter1>
 <fighter2>Kell Brook</fighter2>
-<rounds>10</rounds>
+<rounds>12</rounds>
 <weight>Welterweight</weight>
 
 <fighter1>Natasha Jonas</fighter1>
