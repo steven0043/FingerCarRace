@@ -9,9 +9,24 @@
 <weight>Welterweight</weight>
 
 <fighter1>Natasha Jonas</fighter1>
-<fighter2>Ewa Piatkowska</fighter2>
+<fighter2>Chris Namus</fighter2>
 <rounds>10</rounds>
 <weight>Junior Middleweight</weight>
+
+<fighter1>Charlie Schofield</fighter1>
+<fighter2>Germaine Brown</fighter2>
+<rounds>10</rounds>
+<weight>Super Middleweight</weight>
+
+<fighter1>Bradley Rea</fighter1>
+<fighter2>Craig McCarthy</fighter2>
+<rounds>8</rounds>
+<weight>Middleweight</weight>
+
+<fighter1>Viddal Riley</fighter1>
+<fighter2>Willbeforce Shihepo</fighter2>
+<rounds>4</rounds>
+<weight>Cruiserweight</weight>
 
 
 <loc>Tijuana, Mexico</loc>
