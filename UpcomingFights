@@ -1,41 +1,4 @@
 
-<time>February 19, 2022</time>
-
-<loc>Manchester, England</loc>
-
-<fighter1>Amir Khan</fighter1>
-<fighter2>Kell Brook</fighter2>
-<rounds>12</rounds>
-<weight>Welterweight</weight>
-
-<fighter1>Natasha Jonas</fighter1>
-<fighter2>Chris Namus</fighter2>
-<rounds>10</rounds>
-<weight>Junior Middleweight</weight>
-
-<fighter1>Charlie Schofield</fighter1>
-<fighter2>Germaine Brown</fighter2>
-<rounds>10</rounds>
-<weight>Super Middleweight</weight>
-
-<fighter1>Bradley Rea</fighter1>
-<fighter2>Craig McCarthy</fighter2>
-<rounds>8</rounds>
-<weight>Middleweight</weight>
-
-<fighter1>Viddal Riley</fighter1>
-<fighter2>Willbeforce Shihepo</fighter2>
-<rounds>6</rounds>
-<weight>Cruiserweight</weight>
-
-
-<loc>Tijuana, Mexico</loc>
-
-<fighter1>Jaime Munguia</fighter1>
-<fighter2>D'Mitrius Ballard</fighter2>
-<rounds>12</rounds>
-<weight>Middleweight</weight>
-
 
 <time>February 26, 2022</time>
 
@@ -46,12 +9,37 @@
 <rounds>12</rounds>
 <weight>Junior Welterweight</weight>
 
+<fighter1>Robeisy Ramirez</fighter1>
+<fighter2>Eric Donovan</fighter2>
+<rounds>10</rounds>
+<weight>Featherweight</weight>
+
+<fighter1>Nick Campbell</fighter1>
+<fighter2>Jay McFarlane</fighter2>
+<rounds>10</rounds>
+<weight>Heavyweight</weight>
+
+<fighter1>Ebonie Jones</fighter1>
+<fighter2>Effy Kathopouli</fighter2>
+<rounds>6</rounds>
+<weight>Junior Featherweight</weight>
+
 <loc>Las Vegas</loc>
 
 <fighter1>Roger Gutierrez</fighter1>
 <fighter2>Chris Colbert</fighter2>
 <rounds>12</rounds>
 <weight>Junior Lightweight</weight>
+
+<fighter1>Gary Antuanne Russell</fighter1>
+<fighter2>Viktor Postol</fighter2>
+<rounds>10</rounds>
+<weight>Junior Welterweight</weight>
+
+<fighter1>Jerwin Ancajas</fighter1>
+<fighter2>Fernando Martinez</fighter2>
+<rounds>12</rounds>
+<weight>Bantamweight</weight>
 
 
 
@@ -63,6 +51,26 @@
 <fighter2>Michal Cieslak</fighter2>
 <rounds>12</rounds>
 <weight>Cruiserweight</weight>
+
+<fighter1>Karim Guerfi</fighter1>
+<fighter2>Jordan Gill</fighter2>
+<rounds>12</rounds>
+<weight>Featherweight</weight>
+
+<fighter1>Anthony Fowler</fighter1>
+<fighter2>Lukasz Maciec</fighter2>
+<rounds>10</rounds>
+<weight>Middleweight</weight>
+
+<fighter1>Galal Yafai</fighter1>
+<fighter2>Carlos Bautista</fighter2>
+<rounds>12</rounds>
+<weight>Flyweight</weight>
+
+<fighter1>Campbell Hatton</fighter1>
+<fighter2>Joe Ducker</fighter2>
+<rounds>6</rounds>
+<weight>Lightweight</weight>
 
 <time>March 4, 2022</time>
 
@@ -152,6 +160,15 @@
 <fighter2>Yordenis Ugas</fighter2>
 <rounds>12</rounds>
 <weight>Welterweight</weight>
+
+<time>April 23, 2022</time>
+
+<loc>London</loc>
+
+<fighter1>Tyson Fury</fighter1>
+<fighter2>Dillian Whyte</fighter2>
+<rounds>12</rounds>
+<weight>Heavyweight</weight>
 
 <time>April 30, 2022</time>
 
