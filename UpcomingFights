@@ -1,33 +1,4 @@
 
-<time>February 27, 2022</time>
-
-<loc>London</loc>
-
-<fighter1>Lawrence Okolie</fighter1>
-<fighter2>Michal Cieslak</fighter2>
-<rounds>12</rounds>
-<weight>Cruiserweight</weight>
-
-<fighter1>Karim Guerfi</fighter1>
-<fighter2>Jordan Gill</fighter2>
-<rounds>12</rounds>
-<weight>Featherweight</weight>
-
-<fighter1>Anthony Fowler</fighter1>
-<fighter2>Lukasz Maciec</fighter2>
-<rounds>10</rounds>
-<weight>Middleweight</weight>
-
-<fighter1>Galal Yafai</fighter1>
-<fighter2>Carlos Bautista</fighter2>
-<rounds>12</rounds>
-<weight>Flyweight</weight>
-
-<fighter1>Campbell Hatton</fighter1>
-<fighter2>Joe Ducker</fighter2>
-<rounds>6</rounds>
-<weight>Lightweight</weight>
-
 <time>March 4, 2022</time>
 
 <loc>Fresno, California</loc>
@@ -37,6 +8,15 @@
 <rounds>12</rounds>
 <weight>Junior Welterweight</weight>
 
+<fighter1>Joet Gonzalez</fighter1>
+<fighter2>Jeo Santisima</fighter2>
+<rounds>10</rounds>
+<weight>Featherweight</weight>
+
+<fighter1>Gabriel Flores</fighter1>
+<fighter2>Abraham Montoya</fighter2>
+<rounds>10</rounds>
+<weight>Junior Lightweight</weight>
 
 <time>March 5, 2022</time>
 
@@ -46,6 +26,22 @@
 <fighter2>Julio Martinez</fighter2>
 <rounds>12</rounds>
 <weight>Junior Bantamweight</weight>
+
+<fighter1>Mauricio Lara</fighter1>
+<fighter2>Emilio Sanchez</fighter2>
+<rounds>10</rounds>
+<weight>Featherweight</weight>
+
+<fighter1>Angel Fierro</fighter1>
+<fighter2>Juan Carlos Burgos</fighter2>
+<rounds>10</rounds>
+<weight>Lightweight</weight>
+
+<fighter1>Marc Castro</fighter1>
+<fighter2>Julio Madera</fighter2>
+<rounds>6</rounds>
+<weight>Lightweight</weight>
+
 
 <time>March 12, 2022</time>
 
