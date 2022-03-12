@@ -1,27 +1,4 @@
 
-<time>March 5, 2022</time>
-
-<loc>San Diego</loc>
-
-<fighter1>Chocolatito</fighter1>
-<fighter2>Julio Martinez</fighter2>
-<rounds>12</rounds>
-<weight>Junior Bantamweight</weight>
-
-<fighter1>Mauricio Lara</fighter1>
-<fighter2>Emilio Sanchez</fighter2>
-<rounds>10</rounds>
-<weight>Featherweight</weight>
-
-<fighter1>Angel Fierro</fighter1>
-<fighter2>Juan Carlos Burgos</fighter2>
-<rounds>10</rounds>
-<weight>Lightweight</weight>
-
-<fighter1>Marc Castro</fighter1>
-<fighter2>Julio Madera</fighter2>
-<rounds>6</rounds>
-<weight>Lightweight</weight>
 
 
 <time>March 12, 2022</time>
@@ -32,6 +9,27 @@
 <fighter2>Michael Conlan</fighter2>
 <rounds>12</rounds>
 <weight>Featherweight</weight>
+
+
+<fighter1>Gary Cully</fighter1>
+<fighter2>Miguel Vazquez</fighter2>
+<rounds>10</rounds>
+<weight>Lightweight</weight>
+
+<fighter1>Terri Harper</fighter1>
+<fighter2>Yamila Abellaneda</fighter2>
+<rounds>10</rounds>
+<weight>Lightweight</weight>
+
+<fighter1>Caoimhin Agyarko</fighter1>
+<fighter2>Juan Rubio</fighter2>
+<rounds>10</rounds>
+<weight>Middleweight</weight>
+
+<fighter1>Sandy Ryan</fighter1>
+<fighter2>Erica Farias</fighter2>
+<rounds>8</rounds>
+<weight>Junior Welterweight</weight>
 
 <time>March 19, 2022</time>
 
