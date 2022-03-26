@@ -27,6 +27,23 @@
 <rounds>6</rounds>
 <weight>Featherweight</weight>
 
+<loc>London, England</loc>
+
+<fighter1>Richard Riakporhe</fighter1>
+<fighter2>Deion Jumah</fighter2>
+<rounds>12</rounds>
+<weight>Cruiserweight</weight>
+
+<fighter1>Dan Azeez</fighter1>
+<fighter2>Reece Cartwright</fighter2>
+<rounds>10</rounds>
+<weight>Light Heavyweight</weight>
+
+<fighter1>Louis Greene</fighter1>
+<fighter2>Harry Scarff</fighter2>
+<rounds>10</rounds>
+<weight>Welterweight</weight>
+
 <loc>Las Vegas</loc>
 
 <fighter1>Miguel Berchelt</fighter1>
