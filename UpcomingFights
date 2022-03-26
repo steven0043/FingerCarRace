@@ -1,62 +1,3 @@
-
-
-
-
-<time>March 19, 2022</time>
-
-<loc>New York</loc>
-
-<fighter1>Edgar Berlanga</fighter1>
-<fighter2>Steve Rolls</fighter2>
-<rounds>12</rounds>
-<weight>Super Middleweight</weight>
-
-
-<loc>Los Angeles</loc>
-
-<fighter1>Alexis Rocha</fighter1>
-<fighter2>Blair Cobbs</fighter2>
-<rounds>12</rounds>
-<weight>Welterweight</weight>
-
-<fighter1>Michael McKinson</fighter1>
-<fighter2>Jesus Perez</fighter2>
-<rounds>12</rounds>
-<weight>Welterweight</weight>
-
-
-<loc>London</loc>
-
-<fighter1>David Avanesyan</fighter1>
-<fighter2>Oskari Metz</fighter2>
-<rounds>12</rounds>
-<weight>Welterweight</weight>
-
-<fighter1>Hamzah Sheeraz</fighter1>
-<fighter2>Jez Smith</fighter2>
-<rounds>12</rounds>
-<weight>Welterweight</weight>
-
-
-<loc>Dubai, United Arab Emirates</loc>
-
-<fighter1>Sunny Edwards</fighter1>
-<fighter2>Muhammad Waseem</fighter2>
-<rounds>12</rounds>
-<weight>Flyweight</weight>
-
-<fighter1>Regis Prograis</fighter1>
-<fighter2>Tyrone McKenna</fighter2>
-<rounds>10</rounds>
-<weight>Junior Welterweight</weight>
-
-<loc>Dubai, United Arab Emirates</loc>
-
-<fighter1>Eddie Hall</fighter1>
-<fighter2>Thor</fighter2>
-<rounds>6</rounds>
-<weight>Heavyweight</weight>
-
 <time>March 26, 2022</time>
 
 <loc>Leeds, England</loc>
@@ -76,6 +17,60 @@
 <rounds>10</rounds>
 <weight>Bantamweight</weight>
 
+<fighter1>Dalton Smith</fighter1>
+<fighter2>Ray Moylette</fighter2>
+<rounds>10</rounds>
+<weight>Junior Welterweight</weight>
+
+<fighter1>Skye Nicolson</fighter1>
+<fighter2>Bec Connolly</fighter2>
+<rounds>6</rounds>
+<weight>Featherweight</weight>
+
+<loc>Las Vegas</loc>
+
+<fighter1>Miguel Berchelt</fighter1>
+<fighter2>Jeremiah Nakathila</fighter2>
+<rounds>10</rounds>
+<weight>Lightweight</weight>
+
+
+<fighter1>Jose Vivas</fighter1>
+<fighter2>Enrique Baez</fighter2>
+<rounds>10</rounds>
+<weight>Featherweight</weight>
+
+
+<fighter1>Carlos Caraballo</fighter1>
+<fighter2>Luis Saavedra</fighter2>
+<rounds>10</rounds>
+<weight>Junior Featherweight</weight>
+
+
+<loc>Minneapolis, Minnesota</loc>
+
+<fighter1>Tim Tszyu</fighter1>
+<fighter2>Terrell Gausha</fighter2>
+<rounds>12</rounds>
+<weight>Junior Middleweight</weight>
+
+
+<fighter1>Michel Rivera</fighter1>
+<fighter2>Joseph Adorno</fighter2>
+<rounds>10</rounds>
+<weight>Lightweight</weight>
+
+
+<fighter1>Elvis Rodriguez</fighter1>
+<fighter2>Juan Jose Velasco</fighter2>
+<rounds>10</rounds>
+<weight>Junior Welterweight</weight>
+
+
+<fighter1>Joey Spencer</fighter1>
+<fighter2>Ravshan Hudaynazarov</fighter2>
+<rounds>8</rounds>
+<weight>Middleweight</weight>
 
 <time>April 9, 2022</time>
 
@@ -119,3 +114,31 @@
 <fighter2>Amanda Serrano</fighter2>
 <rounds>10</rounds>
 <weight>Lightweight</weight>
+
+<time>May 7, 2022</time>
+
+<loc>Las Vegas</loc>
+
+<fighter1>Canelo</fighter1>
+<fighter2>Dmitry Bivol</fighter2>
+<rounds>12</rounds>
+<weight>Light Heavyweight</weight>
+
+<time>May 14, 2022</time>
+
+<loc>Las Vegas</loc>
+
+<fighter1>Brian Castano</fighter1>
+<fighter2>Jermell Charlo </fighter2>
+<rounds>12</rounds>
+<weight>Junior Middleweight</weight>
+
+<time>May 28, 2022</time>
+
+<loc>New York</loc>
+
+<fighter1>Gervonta Davis</fighter1>
+<fighter2>Rolando Romero</fighter2>
+<rounds>12</rounds>
+<weight>Lightweight</weight>
+
