@@ -1,3 +1,45 @@
+
+
+
+
+<time>March 19, 2022</time>
+
+<loc>New York</loc>
+
+<fighter1>Edgar Berlanga</fighter1>
+<fighter2>Steve Rolls</fighter2>
+<rounds>12</rounds>
+<weight>Super Middleweight</weight>
+
+
+<loc>Los Angeles</loc>
+
+<fighter1>Alexis Rocha</fighter1>
+<fighter2>Blair Cobbs</fighter2>
+<rounds>12</rounds>
+<weight>Welterweight</weight>
+
+<fighter1>Michael McKinson</fighter1>
+<fighter2>Jesus Perez</fighter2>
+<rounds>12</rounds>
+<weight>Welterweight</weight>
+
+
+<loc>Dubai, United Arab Emirates</loc>
+
+<fighter1>Sunny Edwards</fighter1>
+<fighter2>Muhammad Waseem</fighter2>
+<rounds>12</rounds>
+<weight>Flyweight</weight>
+
+<loc>Dubai, United Arab Emirates</loc>
+
+<fighter1>Eddie Hall</fighter1>
+<fighter2>Thor</fighter2>
+<rounds>6</rounds>
+<weight>Heavyweight</weight>
+
+
 <time>March 12, 2022</time>
 
 <loc>Nottingham, England</loc>
