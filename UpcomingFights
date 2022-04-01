@@ -1,95 +1,47 @@
-<time>March 26, 2022</time>
+<time>April 2, 2022</time>
 
-<loc>Leeds, England</loc>
+<loc>Newcastle, England</loc>
 
-<fighter1>Kiko Martinez</fighter1>
-<fighter2>Josh Warrington</fighter2>
-<rounds>12</rounds>
-<weight>Featherweight</weight>
-
-<fighter1>Maxi Hughes</fighter1>
-<fighter2>Ryan Walsh</fighter2>
-<rounds>12</rounds>
-<weight>Lightweight</weight>
-
-<fighter1>Maria Roman</fighter1>
-<fighter2>Ebanie Bridges</fighter2>
+<fighter1>Savannah Marshall</fighter1>
+<fighter2>Femke Hermans</fighter2>
 <rounds>10</rounds>
-<weight>Bantamweight</weight>
+<weight>Middleweight</weight>
 
-<fighter1>Dalton Smith</fighter1>
-<fighter2>Ray Moylette</fighter2>
-<rounds>10</rounds>
-<weight>Junior Welterweight</weight>
-
-<fighter1>Skye Nicolson</fighter1>
-<fighter2>Bec Connolly</fighter2>
-<rounds>6</rounds>
-<weight>Featherweight</weight>
-
-<loc>London, England</loc>
-
-<fighter1>Richard Riakporhe</fighter1>
-<fighter2>Deion Jumah</fighter2>
-<rounds>12</rounds>
-<weight>Cruiserweight</weight>
-
-<fighter1>Dan Azeez</fighter1>
-<fighter2>Reece Cartwright</fighter2>
-<rounds>10</rounds>
-<weight>Light Heavyweight</weight>
-
-<fighter1>Louis Greene</fighter1>
-<fighter2>Harry Scarff</fighter2>
+<fighter1>Florian Marku</fighter1>
+<fighter2>Chris Jenkins</fighter2>
 <rounds>10</rounds>
 <weight>Welterweight</weight>
 
-<loc>Las Vegas</loc>
-
-<fighter1>Miguel Berchelt</fighter1>
-<fighter2>Jeremiah Nakathila</fighter2>
+<fighter1>Nathan Gorman</fighter1>
+<fighter2>Scott Alexander</fighter2>
 <rounds>10</rounds>
-<weight>Lightweight</weight>
+<weight>Heavyweight</weight>
 
-
-<fighter1>Jose Vivas</fighter1>
-<fighter2>Enrique Baez</fighter2>
-<rounds>10</rounds>
-<weight>Featherweight</weight>
-
-
-<fighter1>Carlos Caraballo</fighter1>
-<fighter2>Luis Saavedra</fighter2>
-<rounds>10</rounds>
-<weight>Junior Featherweight</weight>
-
-
-<loc>Minneapolis, Minnesota</loc>
-
-<fighter1>Tim Tszyu</fighter1>
-<fighter2>Terrell Gausha</fighter2>
-<rounds>12</rounds>
-<weight>Junior Middleweight</weight>
-
-
-<fighter1>Michel Rivera</fighter1>
-<fighter2>Joseph Adorno</fighter2>
-<rounds>10</rounds>
-<weight>Lightweight</weight>
-
-
-<fighter1>Elvis Rodriguez</fighter1>
-<fighter2>Juan Jose Velasco</fighter2>
-<rounds>10</rounds>
-<weight>Junior Welterweight</weight>
-
-
-<fighter1>Joey Spencer</fighter1>
-<fighter2>Ravshan Hudaynazarov</fighter2>
+<fighter1>Bradley Rea</fighter1>
+<fighter2>Lukas Ndafoluma</fighter2>
 <rounds>8</rounds>
 <weight>Middleweight</weight>
 
+
 <time>April 9, 2022</time>
+
+
+<loc>Japan</loc>
+
+<fighter1>Gennadiy Golovkin</fighter1>
+<fighter2>Ryota Murata</fighter2>
+<rounds>12</rounds>
+<weight>Middleweight</weight>
+
+<fighter1>Shuichiro Yoshino</fighter1>
+<fighter2>Masayuki Ito</fighter2>
+<rounds>12</rounds>
+<weight>Lightweight</weight>
+
+<fighter1>Junto Nakatani</fighter1>
+<fighter2>Ryota Yamauchi</fighter2>
+<rounds>12</rounds>
+<weight>Flyweight</weight>
 
 <loc>San Antonio, Texas</loc>
 
@@ -97,6 +49,46 @@
 <fighter2>Emmanuel Tagoe</fighter2>
 <rounds>12</rounds>
 <weight>Lightweight</weight>
+
+
+<fighter1>Marlen Esparza</fighter1>
+<fighter2>Naoko Fujioka</fighter2>
+<rounds>12</rounds>
+<weight>Flyweight</weight>
+
+
+
+<fighter1>Gabriel Rosado</fighter1>
+<fighter2>Shane Mosley</fighter2>
+<rounds>10</rounds>
+<weight>Super Middleweight</weight>
+
+
+<loc>Los Angeles</loc>
+
+<fighter1>Erickson Lubin</fighter1>
+<fighter2>Sebastian Fundora</fighter2>
+<rounds>12</rounds>
+<weight>Junior Middleweight</weight>
+
+
+<fighter1>Tony Harrison</fighter1>
+<fighter2>Sergio Garcia</fighter2>
+<rounds>12</rounds>
+<weight>Junior Middleweight</weight>
+
+<loc>Costa Mesa, Calif.</loc>
+
+<fighter1>Mikaela Mayer</fighter1>
+<fighter2>Jennifer Han</fighter2>
+<rounds>10</rounds>
+<weight>Junior Lightweight</weight>
+
+<fighter1>Giovani Santillan</fighter1>
+<fighter2>Jeovanis Barraza</fighter2>
+<rounds>10</rounds>
+<weight>Welterweight</weight>
+
 
 <time>April 16, 2022</time>
 
@@ -106,6 +98,33 @@
 <fighter2>Yordenis Ugas</fighter2>
 <rounds>12</rounds>
 <weight>Welterweight</weight>
+
+<fighter1>Radzhab Butaev</fighter1>
+<fighter2>Eimantas Stanionis</fighter2>
+<rounds>12</rounds>
+<weight>Welterweight</weight>
+
+<fighter1>Isaac Cruz</fighter1>
+<fighter2>Yuriorkis Gamboa</fighter2>
+<rounds>12</rounds>
+<weight>Lightweight</weight>
+
+<loc>Manchester, England</loc>
+
+<fighter1>Conor Benn</fighter1>
+<fighter2>Chris Van Heerden</fighter2>
+<rounds>12</rounds>
+<weight>Welterweight</weight>
+
+<fighter1>Chris Billam Smith</fighter1>
+<fighter2>Tommy McCarthy</fighter2>
+<rounds>12</rounds>
+<weight>Cruiserweight</weight>
+
+<fighter1>Zelfa Barrett</fighter1>
+<fighter2>Faroukh Kourbanov</fighter2>
+<rounds>12</rounds>
+<weight>Junior Lightweight</weight>
 
 <time>April 23, 2022</time>
 
@@ -159,3 +178,11 @@
 <rounds>12</rounds>
 <weight>Lightweight</weight>
 
+<time>June 4, 2022</time>
+
+<loc>Melbourne</loc>
+
+<fighter1>George Kambosos</fighter1>
+<fighter2>Devin Haney</fighter2>
+<rounds>12</rounds>
+<weight>Lightweight</weight>
