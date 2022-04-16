@@ -17,6 +17,21 @@
 <rounds>12</rounds>
 <weight>Lightweight</weight>
 
+<fighter1>Jose Valenzuela</fighter1>
+<fighter2>Francisco Vargas</fighter2>
+<rounds>10</rounds>
+<weight>Lightweight</weight>
+
+<fighter1>Brandun Lee</fighter1>
+<fighter2>Zachary Ochoa</fighter2>
+<rounds>10</rounds>
+<weight>Junior Welterweight</weight>
+
+<fighter1>Cody Crowley</fighter1>
+<fighter2>Josesito Lopez</fighter2>
+<rounds>10</rounds>
+<weight>Welterweight</weight>
+
 <loc>Manchester, England</loc>
 
 <fighter1>Conor Benn</fighter1>
@@ -29,10 +44,21 @@
 <rounds>12</rounds>
 <weight>Cruiserweight</weight>
 
-<fighter1>Zelfa Barrett</fighter1>
-<fighter2>Faroukh Kourbanov</fighter2>
-<rounds>12</rounds>
+<fighter1>Alycia Baumgardner</fighter1>
+<fighter2>Edith Matthysse</fighter2>
+<rounds>10</rounds>
 <weight>Junior Lightweight</weight>
+
+<fighter1>Campbell Hatton</fighter1>
+<fighter2>Lee Glover</fighter2>
+<rounds>6</rounds>
+<weight>Lightweight</weight>
+
+<fighter1>Jack Cullen</fighter1>
+<fighter2>Vladimir Belujsky</fighter2>
+<rounds>8</rounds>
+<weight>Super Middleweight</weight>
+
 
 <time>April 23, 2022</time>
 
