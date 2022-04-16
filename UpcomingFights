@@ -1,31 +1,5 @@
 <time>April 16, 2022</time>
 
-<loc>Manchester, England</loc>
-
-<fighter1>Conor Benn</fighter1>
-<fighter2>Chris Van Heerden</fighter2>
-<rounds>12</rounds>
-<weight>Welterweight</weight>
-
-<fighter1>Chris Billam Smith</fighter1>
-<fighter2>Tommy McCarthy</fighter2>
-<rounds>12</rounds>
-<weight>Cruiserweight</weight>
-
-<fighter1>Alycia Baumgardner</fighter1>
-<fighter2>Edith Matthysse</fighter2>
-<rounds>10</rounds>
-<weight>Junior Lightweight</weight>
-
-<fighter1>Campbell Hatton</fighter1>
-<fighter2>Ezequiel Gregores</fighter2>
-<rounds>6</rounds>
-<weight>Lightweight</weight>
-
-<fighter1>Jack Cullen</fighter1>
-<fighter2>Vladimir Belujsky</fighter2>
-<rounds>8</rounds>
-<weight>Super Middleweight</weight>
 
 
 <loc>Arlington, Texas</loc>
@@ -59,6 +33,32 @@
 <fighter2>Josesito Lopez</fighter2>
 <rounds>10</rounds>
 <weight>Welterweight</weight>
+<loc>Manchester, England</loc>
+
+<fighter1>Conor Benn</fighter1>
+<fighter2>Chris Van Heerden</fighter2>
+<rounds>12</rounds>
+<weight>Welterweight</weight>
+
+<fighter1>Chris Billam Smith</fighter1>
+<fighter2>Tommy McCarthy</fighter2>
+<rounds>12</rounds>
+<weight>Cruiserweight</weight>
+
+<fighter1>Alycia Baumgardner</fighter1>
+<fighter2>Edith Matthysse</fighter2>
+<rounds>10</rounds>
+<weight>Junior Lightweight</weight>
+
+<fighter1>Campbell Hatton</fighter1>
+<fighter2>Ezequiel Gregores</fighter2>
+<rounds>6</rounds>
+<weight>Lightweight</weight>
+
+<fighter1>Jack Cullen</fighter1>
+<fighter2>Vladimir Belujsky</fighter2>
+<rounds>8</rounds>
+<weight>Super Middleweight</weight>
 
 <time>April 23, 2022</time>
 
