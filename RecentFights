@@ -1,6 +1,33 @@
+<time>April 23, 2022</time>
+
+<loc>London</loc>
+
+<fighter1>Tyson Fury</fighter1>
+<fighter2>Dillian Whyte</fighter2>
+<rounds>12</rounds>
+<weight>Heavyweight</weight>
+
+<fighter1>Ekow Essuman</fighter1>
+<fighter2>Darren Tetley</fighter2>
+<rounds>12</rounds>
+<weight>Welterweight</weight>
+
+<fighter1>Isaac Lowe</fighter1>
+<fighter2>Nick Ball</fighter2>
+<rounds>10</rounds>
+<weight>Featherweight</weight>
+
+<fighter1>David Adeleye</fighter1>
+<fighter2>Chris Healey</fighter2>
+<rounds>8</rounds>
+<weight>Heavyweight</weight>
+
+<fighter1>Tommy Fury</fighter1>
+<fighter2>Daniel Bocianski</fighter2>
+<rounds>6</rounds>
+<weight>Light Heavyweight</weight>
+
 <time>April 16, 2022</time>
-
-
 
 <loc>Arlington, Texas</loc>
 
