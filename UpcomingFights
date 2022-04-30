@@ -1,32 +1,5 @@
 
-<time>April 23, 2022</time>
 
-<loc>London</loc>
-
-<fighter1>Tyson Fury</fighter1>
-<fighter2>Dillian Whyte</fighter2>
-<rounds>12</rounds>
-<weight>Heavyweight</weight>
-
-<fighter1>Ekow Essuman</fighter1>
-<fighter2>Darren Tetley</fighter2>
-<rounds>12</rounds>
-<weight>Welterweight</weight>
-
-<fighter1>Isaac Lowe</fighter1>
-<fighter2>Nick Ball</fighter2>
-<rounds>10</rounds>
-<weight>Featherweight</weight>
-
-<fighter1>David Adeleye</fighter1>
-<fighter2>Chris Healey</fighter2>
-<rounds>8</rounds>
-<weight>Heavyweight</weight>
-
-<fighter1>Tommy Fury</fighter1>
-<fighter2>Daniel Bocianski</fighter2>
-<rounds>6</rounds>
-<weight>Light Heavyweight</weight>
 
 <time>April 30, 2022</time>
 
@@ -37,12 +10,42 @@
 <rounds>12</rounds>
 <weight>Junior Lightweight</weight>
 
+<fighter1>Keyshawn Davis</fighter1>
+<fighter2>Esteban Sanchez</fighter2>
+<rounds>6</rounds>
+<weight>Junior Welterweight</weight>
+
+<fighter1>Nico Ali Walsh</fighter1>
+<fighter2>Alejandro Ibarra</fighter2>
+<rounds>5</rounds>
+<weight>Middleweight</weight>
+
 <loc>New York</loc>
 
 <fighter1>Katie Taylor</fighter1>
 <fighter2>Amanda Serrano</fighter2>
 <rounds>10</rounds>
 <weight>Lightweight</weight>
+
+<fighter1>Jessie Vargas</fighter1>
+<fighter2>Liam Smith</fighter2>
+<rounds>12</rounds>
+<weight>Junior Middleweight</weight>
+
+<fighter1>Franchon Crews Dezurn</fighter1>
+<fighter2>Elin Cederroos</fighter2>
+<rounds>10</rounds>
+<weight>Super Middleweight</weight>
+
+<fighter1>Austin Williams</fighter1>
+<fighter2>Chordale Booker</fighter2>
+<rounds>10</rounds>
+<weight>Middleweight</weight>
+
+<fighter1>Galal Yafai</fighter1>
+<fighter2>Miguel Cartagena</fighter2>
+<rounds>10</rounds>
+<weight>Flyweight</weight>
 
 <time>May 7, 2022</time>
 
