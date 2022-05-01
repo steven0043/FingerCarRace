@@ -3,23 +3,6 @@
 
 <time>April 30, 2022</time>
 
-<loc>Los Angeles</loc>
-
-<fighter1>Shakur Stevenson</fighter1>
-<fighter2>Oscar Valdez</fighter2>
-<rounds>12</rounds>
-<weight>Junior Lightweight</weight>
-
-<fighter1>Keyshawn Davis</fighter1>
-<fighter2>Esteban Sanchez</fighter2>
-<rounds>6</rounds>
-<weight>Junior Welterweight</weight>
-
-<fighter1>Nico Ali Walsh</fighter1>
-<fighter2>Alejandro Ibarra</fighter2>
-<rounds>5</rounds>
-<weight>Middleweight</weight>
-
 <loc>New York</loc>
 
 <fighter1>Katie Taylor</fighter1>
@@ -46,6 +29,25 @@
 <fighter2>Miguel Cartagena</fighter2>
 <rounds>10</rounds>
 <weight>Flyweight</weight>
+
+<loc>Los Angeles</loc>
+
+<fighter1>Shakur Stevenson</fighter1>
+<fighter2>Oscar Valdez</fighter2>
+<rounds>12</rounds>
+<weight>Junior Lightweight</weight>
+
+<fighter1>Keyshawn Davis</fighter1>
+<fighter2>Esteban Sanchez</fighter2>
+<rounds>6</rounds>
+<weight>Junior Welterweight</weight>
+
+<fighter1>Nico Ali Walsh</fighter1>
+<fighter2>Alejandro Ibarra</fighter2>
+<rounds>5</rounds>
+<weight>Middleweight</weight>
+
+
 
 <time>May 7, 2022</time>
 
