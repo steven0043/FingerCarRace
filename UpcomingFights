@@ -12,6 +12,26 @@
 <rounds>12</rounds>
 <weight>Light Heavyweight</weight>
 
+<fighter1>Montana Love</fighter1>
+<fighter2>Gabriel Valenzuela</fighter2>
+<rounds>12</rounds>
+<weight>Junior Welterweight</weight>
+
+<fighter1>Shakhram Giyasov</fighter1>
+<fighter2>Christian Gomez</fighter2>
+<rounds>10</rounds>
+<weight>Welterweight</weight>
+
+<fighter1>Joselito Velazquez</fighter1>
+<fighter2>Jose Soto</fighter2>
+<rounds>10</rounds>
+<weight>Flyweight</weight>
+
+<fighter1>Zhilei Zhang</fighter1>
+<fighter2>Scott Alexander</fighter2>
+<rounds>10</rounds>
+<weight>Heavyweight</weight>
+
 <time>May 14, 2022</time>
 
 <loc>Las Vegas</loc>
