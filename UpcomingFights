@@ -1,45 +1,75 @@
+<time>May 13, 2022</time>
 
+<loc>Milan, Italy</loc>
 
-
-
-
-<time>May 7, 2022</time>
-
-<loc>Las Vegas</loc>
-
-<fighter1>Canelo</fighter1>
-<fighter2>Dmitry Bivol</fighter2>
-<rounds>12</rounds>
-<weight>Light Heavyweight</weight>
-
-<fighter1>Montana Love</fighter1>
-<fighter2>Gabriel Valenzuela</fighter2>
-<rounds>12</rounds>
-<weight>Junior Welterweight</weight>
-
-<fighter1>Shakhram Giyasov</fighter1>
-<fighter2>Christian Gomez</fighter2>
+<fighter1>Daniele Scardina</fighter1>
+<fighter2>Giovanni De Carolis</fighter2>
 <rounds>10</rounds>
-<weight>Welterweight</weight>
+<weight>Super Middleweight</weight>
 
-<fighter1>Joselito Velazquez</fighter1>
-<fighter2>Jose Soto</fighter2>
+
+<time>May 14, 2022</time>
+
+<loc>Glasgow, Scotland</loc>
+
+<fighter1>Hannah Rankin</fighter1>
+<fighter2>Alejandra Ayala</fighter2>
 <rounds>10</rounds>
-<weight>Flyweight</weight>
+<weight>Junior Middleweight</weight>
 
-<fighter1>Zhilei Zhang</fighter1>
-<fighter2>Scott Alexander</fighter2>
+<fighter1>Nathaniel Collins</fighter1>
+<fighter2>Jacob Robinson</fighter2>
+<rounds>12</rounds>
+<weight>Featherweight</weight>
+
+<loc>Paris, France</loc>
+
+<fighter1>Tony Yoka</fighter1>
+<fighter2>Martin Bakole</fighter2>
 <rounds>10</rounds>
 <weight>Heavyweight</weight>
 
-<time>May 14, 2022</time>
 
 <loc>Las Vegas</loc>
 
 <fighter1>Brian Castano</fighter1>
-<fighter2>Jermell Charlo </fighter2>
+<fighter2>Jermell Charlo</fighter2>
 <rounds>12</rounds>
 <weight>Junior Middleweight</weight>
+
+<fighter1>Jaron Ennis</fighter1>
+<fighter2>Custio Clayton</fighter2>
+<rounds>12</rounds>
+<weight>Welterweight</weight>
+
+<fighter1>Kevin Gonzalez</fighter1>
+<fighter2>Emanuel Nieves</fighter2>
+<rounds>10</rounds>
+<weight>Junior Featherweight</weight>
+
+
+
+<loc>Ontario, California</loc>
+
+<fighter1>Gilberto Ramirez</fighter1>
+<fighter2>Dominic Boesel</fighter2>
+<rounds>12</rounds>
+<weight>Light Heavyweight</weight>
+
+
+
+<loc>Inglewood, California</loc>
+
+<fighter1>Sergey Kovalev</fighter1>
+<fighter2>Tervel Pulev</fighter2>
+<rounds>10</rounds>
+<weight>Cruiserweight</weight>
+
+
+<fighter1>Kubrat Pulev</fighter1>
+<fighter2>Jerry Forrest</fighter2>
+<rounds>10</rounds>
+<weight>Heavyweight</weight>
 
 <time>May 28, 2022</time>
 
@@ -58,3 +88,12 @@
 <fighter2>Devin Haney</fighter2>
 <rounds>12</rounds>
 <weight>Lightweight</weight>
+
+<time>July 28, 2022</time>
+
+<loc>Saudi Arabia</loc>
+
+<fighter1>Oleksandr Usyk</fighter1>
+<fighter2>Anthony Joshua</fighter2>
+<rounds>12</rounds>
+<weight>Heavyweight</weight>
