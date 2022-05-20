@@ -1,56 +1,71 @@
+<time>May 20, 2022</time>
 
+<loc>Plant City, Florida</loc>
 
-
-<time>May 14, 2022</time>
-
-<loc>Paris, France</loc>
-
-<fighter1>Tony Yoka</fighter1>
-<fighter2>Martin Bakole</fighter2>
-<rounds>10</rounds>
-<weight>Heavyweight</weight>
-
-
-<loc>Las Vegas</loc>
-
-<fighter1>Brian Castano</fighter1>
-<fighter2>Jermell Charlo</fighter2>
-<rounds>12</rounds>
-<weight>Junior Middleweight</weight>
-
-<fighter1>Jaron Ennis</fighter1>
-<fighter2>Custio Clayton</fighter2>
-<rounds>12</rounds>
-<weight>Welterweight</weight>
-
-<fighter1>Kevin Gonzalez</fighter1>
-<fighter2>Emanuel Nieves</fighter2>
-<rounds>10</rounds>
-<weight>Junior Featherweight</weight>
-
-
-
-<loc>Ontario, California</loc>
-
-<fighter1>Gilberto Ramirez</fighter1>
-<fighter2>Dominic Boesel</fighter2>
+<fighter1>Fanlong Meng</fighter1>
+<fighter2>Jean Pascal</fighter2>
 <rounds>12</rounds>
 <weight>Light Heavyweight</weight>
 
+<loc>Spain</loc>
 
-
-<loc>Inglewood, California</loc>
-
-<fighter1>Sergey Kovalev</fighter1>
-<fighter2>Tervel Pulev</fighter2>
+<fighter1>Kerman Lejarraga</fighter1>
+<fighter2>James Metcalf</fighter2>
 <rounds>10</rounds>
-<weight>Cruiserweight</weight>
+<weight>Junior Middleweight</weight>
 
+<time>May 21, 2022</time>
 
-<fighter1>Kubrat Pulev</fighter1>
-<fighter2>Jerry Forrest</fighter2>
+<loc>London</loc>
+
+<fighter1>Joshua Buatsi</fighter1>
+<fighter2>Craig Richards</fighter2>
+<rounds>12</rounds>
+<weight>Light Heavyweight</weight>
+
+<fighter1>Alen Babic</fighter1>
+<fighter2>Adam Balski</fighter2>
+<rounds>12</rounds>
+<weight>Bridgerweight</weight>
+
+<fighter1>Robbie Davies</fighter1>
+<fighter2>Javier Molina</fighter2>
+<rounds>12</rounds>
+<weight>Junior Middleweight</weight>
+
+<fighter1>Chantelle Cameron</fighter1>
+<fighter2>Victoria Bustos</fighter2>
 <rounds>10</rounds>
-<weight>Heavyweight</weight>
+<weight>Junior Middleweight</weight>
+
+<fighter1>Ellie Scotney</fighter1>
+<fighter2>Maria Roman</fighter2>
+<rounds>10</rounds>
+<weight>Junior Featherweight</weight>
+
+<loc>Las Vegas</loc>
+
+<fighter1>Janibek Alimkhanuly</fighter1>
+<fighter2>Danny Dignum</fighter2>
+<rounds>12</rounds>
+<weight>Middleweight</weight>
+
+<fighter1>Jamel Herring</fighter1>
+<fighter2>Jamaine Ortiz</fighter2>
+<rounds>10</rounds>
+<weight>Lightweight</weight>
+
+<loc>Las Vegas</loc>
+
+<fighter1>David Benavidez</fighter1>
+<fighter2>David Lemieux</fighter2>
+<rounds>12</rounds>
+<weight>Super Middleweight</weight>
+
+<fighter1>Yoelvis Gomez</fighter1>
+<fighter2>Jorge Cota</fighter2>
+<rounds>10</rounds>
+<weight>Junior Middleweight</weight>
 
 <time>May 28, 2022</time>
 
