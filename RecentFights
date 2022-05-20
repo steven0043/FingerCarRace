@@ -1,3 +1,53 @@
+<time>May 14, 2022</time>
+<loc>Paris, France</loc>
+
+<fighter1>Tony Yoka</fighter1>
+<fighter2>Martin Bakole</fighter2>
+<rounds>10</rounds>
+<weight>Heavyweight</weight>
+
+
+<loc>Las Vegas</loc>
+
+<fighter1>Brian Castano</fighter1>
+<fighter2>Jermell Charlo</fighter2>
+<rounds>12</rounds>
+<weight>Junior Middleweight</weight>
+
+<fighter1>Jaron Ennis</fighter1>
+<fighter2>Custio Clayton</fighter2>
+<rounds>12</rounds>
+<weight>Welterweight</weight>
+
+<fighter1>Kevin Gonzalez</fighter1>
+<fighter2>Emanuel Nieves</fighter2>
+<rounds>10</rounds>
+<weight>Junior Featherweight</weight>
+
+
+
+<loc>Ontario, California</loc>
+
+<fighter1>Gilberto Ramirez</fighter1>
+<fighter2>Dominic Boesel</fighter2>
+<rounds>12</rounds>
+<weight>Light Heavyweight</weight>
+
+
+
+<loc>Inglewood, California</loc>
+
+<fighter1>Sergey Kovalev</fighter1>
+<fighter2>Tervel Pulev</fighter2>
+<rounds>10</rounds>
+<weight>Cruiserweight</weight>
+
+
+<fighter1>Kubrat Pulev</fighter1>
+<fighter2>Jerry Forrest</fighter2>
+<rounds>10</rounds>
+<weight>Heavyweight</weight>
+
 <time>May 13, 2022</time>
 
 <loc>England</loc>
