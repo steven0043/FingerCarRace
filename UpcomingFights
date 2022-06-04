@@ -82,6 +82,24 @@
 <rounds>12</rounds>
 <weight>Junior Featherweight</weight>
 
+<time>June 18, 2022</time>
+
+<loc>New York</loc>
+
+<fighter1>Artur Beterbiev</fighter1>
+<fighter2>Joe Smith</fighter2>
+<rounds>12</rounds>
+<weight>Light Heavyweight</weight>
+
+<time>July 16, 2022</time>
+
+<loc>Los Angeles</loc>
+
+<fighter1>Ryan Garcia</fighter1>
+<fighter2>Javier Fortuna</fighter2>
+<rounds>12</rounds>
+<weight>Lightweight</weight>
+
 <time>July 23, 2022</time>
 
 <loc>Saudi Arabia</loc>
@@ -90,3 +108,21 @@
 <fighter2>Anthony Joshua</fighter2>
 <rounds>12</rounds>
 <weight>Heavyweight</weight>
+
+<time>July 30, 2022</time>
+
+<loc>Brooklyn, New York</loc>
+
+<fighter1>Danny Garcia</fighter1>
+<fighter2>Jose Benavidez</fighter2>
+<rounds>12</rounds>
+<weight>Junior Middleweight</weight>
+
+<time>August 13, 2022</time>
+
+<loc>New York</loc>
+
+<fighter1>Teofimo Lopez</fighter1>
+<fighter2>Pedro Campa</fighter2>
+<rounds>10</rounds>
+<weight>Junior Welterweight</weight>
