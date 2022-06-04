@@ -1,3 +1,30 @@
+<time>May 28, 2022</time>
+
+<loc>New York</loc>
+
+<fighter1>Gervonta Davis</fighter1>
+<fighter2>Rolando Romero</fighter2>
+<rounds>12</rounds>
+<weight>Lightweight</weight>
+
+
+
+<fighter1>Erislandy Lara</fighter1>
+<fighter2>Gary O'Sullivan</fighter2>
+<rounds>12</rounds>
+<weight>Middleweight</weight>
+
+
+<fighter1>Jesus Ramos</fighter1>
+<fighter2>Luke Santamaria</fighter2>
+<rounds>10</rounds>
+<weight>Junior Middleweight</weight>
+
+<fighter1>Eduardo Ramirez</fighter1>
+<fighter2>Luis Melendez</fighter2>
+<rounds>10</rounds>
+<weight>Junior Lightweight</weight>
+
 <time>May 21, 2022</time>
 
 <loc>London</loc>
