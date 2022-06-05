@@ -2,33 +2,6 @@
 
 <time>June 4, 2022</time>
 
-<loc>Cardiff, Wales</loc>
-
-<fighter1>Kenichi Ogawa</fighter1>
-<fighter2>Joe Cordina</fighter2>
-<rounds>12</rounds>
-<weight>Super Featherweight</weight>
-
-<fighter1>Faroukh Kourbanov</fighter1>
-<fighter2>Zelfa Barrett</fighter2>
-<rounds>12</rounds>
-<weight>Super Featherweight</weight>
-
-<fighter1>Dalton Smith</fighter1>
-<fighter2>Mauro Perouene</fighter2>
-<rounds>10</rounds>
-<weight>Junior Welterweight</weight>
-
-<fighter1>Skye Nicolson</fighter1>
-<fighter2>Gabriela Bouvier</fighter2>
-<rounds>8</rounds>
-<weight>Featherweight</weight>
-
-<fighter1>Gamal Yafai</fighter1>
-<fighter2>Sean Cairns</fighter2>
-<rounds>8</rounds>
-<weight>Junior Featherweight</weight>
-
 <loc>Melbourne</loc>
 
 <fighter1>George Kambosos</fighter1>
@@ -67,6 +40,35 @@
 <fighter2>Alfredo Santiago</fighter2>
 <rounds>10</rounds>
 <weight>Junior Welterweight</weight>
+
+
+<loc>Cardiff, Wales</loc>
+
+
+<fighter1>Kenichi Ogawa</fighter1>
+<fighter2>Joe Cordina</fighter2>
+<rounds>12</rounds>
+<weight>Super Featherweight</weight>
+
+<fighter1>Faroukh Kourbanov</fighter1>
+<fighter2>Zelfa Barrett</fighter2>
+<rounds>12</rounds>
+<weight>Super Featherweight</weight>
+
+<fighter1>Dalton Smith</fighter1>
+<fighter2>Mauro Perouene</fighter2>
+<rounds>10</rounds>
+<weight>Junior Welterweight</weight>
+
+<fighter1>Skye Nicolson</fighter1>
+<fighter2>Gabriela Bouvier</fighter2>
+<rounds>8</rounds>
+<weight>Featherweight</weight>
+
+<fighter1>Gamal Yafai</fighter1>
+<fighter2>Sean Cairns</fighter2>
+<rounds>8</rounds>
+<weight>Junior Featherweight</weight>
 
 <time>June 7, 2022</time>
 
