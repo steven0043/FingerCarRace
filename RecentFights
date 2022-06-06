@@ -1,3 +1,73 @@
+<time>June 4, 2022</time>
+
+<loc>Melbourne</loc>
+
+<fighter1>George Kambosos</fighter1>
+<fighter2>Devin Haney</fighter2>
+<rounds>12</rounds>
+<weight>Lightweight</weight>
+
+<fighter1>Jason Moloney</fighter1>
+<fighter2>Aston Palicte</fighter2>
+<rounds>10</rounds>
+<weight>Bantamweight</weight>
+
+<fighter1>Lucas Browne</fighter1>
+<fighter2>Junior Fa</fighter2>
+<rounds>10</rounds>
+<weight>Heavyweight</weight>
+
+<fighter1>Andrew Moloney</fighter1>
+<fighter2>Alexander Espinoza</fighter2>
+<rounds>8</rounds>
+<weight>Junior Bantamweight</weight>
+
+<loc>Minneapolis</loc>
+
+<fighter1>Stephen Fulton</fighter1>
+<fighter2>Daniel Roman</fighter2>
+<rounds>12</rounds>
+<weight>Junior Featherweight</weight>
+
+<fighter1>David Morrell</fighter1>
+<fighter2>Kalvin Henderson</fighter2>
+<rounds>12</rounds>
+<weight>Super Middleweight</weight>
+
+<fighter1>Karl Dargan</fighter1>
+<fighter2>Alfredo Santiago</fighter2>
+<rounds>10</rounds>
+<weight>Junior Welterweight</weight>
+
+
+<loc>Cardiff, Wales</loc>
+
+
+<fighter1>Kenichi Ogawa</fighter1>
+<fighter2>Joe Cordina</fighter2>
+<rounds>12</rounds>
+<weight>Super Featherweight</weight>
+
+<fighter1>Faroukh Kourbanov</fighter1>
+<fighter2>Zelfa Barrett</fighter2>
+<rounds>12</rounds>
+<weight>Super Featherweight</weight>
+
+<fighter1>Dalton Smith</fighter1>
+<fighter2>Mauro Perouene</fighter2>
+<rounds>10</rounds>
+<weight>Junior Welterweight</weight>
+
+<fighter1>Skye Nicolson</fighter1>
+<fighter2>Gabriela Bouvier</fighter2>
+<rounds>8</rounds>
+<weight>Featherweight</weight>
+
+<fighter1>Gamal Yafai</fighter1>
+<fighter2>Sean Cairns</fighter2>
+<rounds>8</rounds>
+<weight>Junior Featherweight</weight>
+
 <time>May 28, 2022</time>
 
 <loc>New York</loc>
