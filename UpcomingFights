@@ -1,16 +1,61 @@
-<time>June 7, 2022</time>
+<time>June 10, 2022</time>
 
-<loc>Saitama, Japan</loc>
+<loc>Mexico City, Mexico</loc>
 
-<fighter1>Nonito Donaire</fighter1>
-<fighter2>Naoya Inoue</fighter2>
+<fighter1>Hiroto Kyoguchi</fighter1>
+<fighter2>Esteban Bermudez</fighter2>
 <rounds>12</rounds>
-<weight>Bantamweight</weight>
+<weight>Junior Bantamweight</weight>
 
-<fighter1>Takuma Inoue</fighter1>
-<fighter2>Gakuya Furuhashi</fighter2>
+<fighter1>Jorge Castaneda</fighter1>
+<fighter2>Eduardo Perez</fighter2>
 <rounds>12</rounds>
+<weight>Junior Lightweight</weight>
+
+<fighter1>Mayerlin Rivas</fighter1>
+<fighter2>Karina Fernandez</fighter2>
+<rounds>10</rounds>
 <weight>Junior Featherweight</weight>
+
+<time>June 11, 2022</time>
+
+<loc>Miami</loc>
+
+<fighter1>Trevor Bryan</fighter1>
+<fighter2>Daniel Dubois</fighter2>
+<rounds>12</rounds>
+<weight>Heavyweight</weight>
+
+<fighter1>Dacarree Scott</fighter1>
+<fighter2>Jonathan Guidry</fighter2>
+<rounds>10</rounds>
+<weight>Heavyweight</weight>
+
+<fighter1>Ahmed Elbiali</fighter1>
+<fighter2>Dervin Colina</fighter2>
+<rounds>10</rounds>
+<weight>Light Heavyweight</weight>
+
+<loc>New York</loc>
+
+<fighter1>Edgar Berlanga</fighter1>
+<fighter2>Roamer Alexis Angulo</fighter2>
+<rounds>10</rounds>
+<weight>Super Middleweight</weight>
+
+
+<loc>Anaheim, California</loc>
+
+<fighter1>Jaime Munguia</fighter1>
+<fighter2>Jimmy Kelly</fighter2>
+<rounds>12</rounds>
+<weight>Super Middleweight</weight>
+
+
+<fighter1>Oscar Jurado</fighter1>
+<fighter2>Mark Bernaldez</fighter2>
+<rounds>10</rounds>
+<weight>Lightweight</weight>
 
 <time>June 18, 2022</time>
 
