@@ -1,3 +1,21 @@
+
+<loc>Mexico City, Mexico</loc>
+
+<fighter1>Hiroto Kyoguchi</fighter1>
+<fighter2>Esteban Bermudez</fighter2>
+<rounds>12</rounds>
+<weight>Junior Bantamweight</weight>
+
+<fighter1>Jorge Castaneda</fighter1>
+<fighter2>Eduardo Perez</fighter2>
+<rounds>12</rounds>
+<weight>Junior Lightweight</weight>
+
+<fighter1>Mayerlin Rivas</fighter1>
+<fighter2>Karina Fernandez</fighter2>
+<rounds>10</rounds>
+<weight>Junior Featherweight</weight>
+
 <time>June 4, 2022</time>
 
 <loc>Melbourne</loc>
