@@ -1,33 +1,6 @@
 
 <time>June 11, 2022</time>
 
-<loc>Lonodon</loc>
-
-<fighter1>Richard Riakporhe</fighter1>
-<fighter2>Fabio Turchi</fighter2>
-<rounds>12</rounds>
-<weight>Cruiserweight</weight>
-
-<fighter1>Germaine Brown</fighter1>
-<fighter2>Zak Chelli</fighter2>
-<rounds>12</rounds>
-<weight>Super Middleweight</weight>
-
-<fighter1>Chris Kongo</fighter1>
-<fighter2>Sebastian Formella</fighter2>
-<rounds>10</rounds>
-<weight>Welterweight</weight>
-
-<fighter1>Viddal Riley</fighter1>
-<fighter2>Jone Volau</fighter2>
-<rounds>8</rounds>
-<weight>Cruiserweight</weight>
-
-<fighter1>Lauren Price</fighter1>
-<fighter2>Valger Gudstensdottir</fighter2>
-<rounds>8</rounds>
-<weight>Welterweight</weight>
-
 <loc>Miami</loc>
 
 <fighter1>Trevor Bryan</fighter1>
@@ -65,6 +38,29 @@
 <fighter2>Mark Bernaldez</fighter2>
 <rounds>10</rounds>
 <weight>Lightweight</weight>
+
+
+<loc>London</loc>
+
+<fighter1>Richard Riakporhe</fighter1>
+<fighter2>Fabio Turchi</fighter2>
+<rounds>12</rounds>
+<weight>Cruiserweight</weight>
+
+<fighter1>Germaine Brown</fighter1>
+<fighter2>Zak Chelli</fighter2>
+<rounds>12</rounds>
+<weight>Super Middleweight</weight>
+
+<fighter1>Chris Kongo</fighter1>
+<fighter2>Sebastian Formella</fighter2>
+<rounds>10</rounds>
+<weight>Welterweight</weight>
+
+<fighter1>Lauren Price</fighter1>
+<fighter2>Valger Gudstensdottir</fighter2>
+<rounds>8</rounds>
+<weight>Welterweight</weight>
 
 <time>June 18, 2022</time>
 
