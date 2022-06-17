@@ -1,64 +1,21 @@
 
-<time>June 11, 2022</time>
 
-<loc>Miami</loc>
+<time>June 17, 2022</time>
 
-<fighter1>Trevor Bryan</fighter1>
-<fighter2>Daniel Dubois</fighter2>
-<rounds>12</rounds>
-<weight>Heavyweight</weight>
+<loc>Liverpool</loc>
 
-<fighter1>Dacarree Scott</fighter1>
-<fighter2>Jonathan Guidry</fighter2>
+<fighter1>Nathan Gorman</fighter1>
+<fighter2>Tomas Salek</fighter2>
 <rounds>10</rounds>
 <weight>Heavyweight</weight>
 
-<fighter1>Ahmed Elbiali</fighter1>
-<fighter2>Dervin Colina</fighter2>
+<fighter1>Josh Kelly</fighter1>
+<fighter2>Peter Kramer</fighter2>
 <rounds>10</rounds>
-<weight>Light Heavyweight</weight>
+<weight>Middleweight</weight>
 
-<loc>New York</loc>
-
-<fighter1>Edgar Berlanga</fighter1>
-<fighter2>Roamer Alexis Angulo</fighter2>
-<rounds>10</rounds>
-<weight>Super Middleweight</weight>
-
-
-<loc>Anaheim, California</loc>
-
-<fighter1>Jaime Munguia</fighter1>
-<fighter2>Jimmy Kelly</fighter2>
-<rounds>12</rounds>
-<weight>Super Middleweight</weight>
-
-
-<fighter1>Oscar Jurado</fighter1>
-<fighter2>Mark Bernaldez</fighter2>
-<rounds>10</rounds>
-<weight>Lightweight</weight>
-
-
-<loc>London</loc>
-
-<fighter1>Richard Riakporhe</fighter1>
-<fighter2>Fabio Turchi</fighter2>
-<rounds>12</rounds>
-<weight>Cruiserweight</weight>
-
-<fighter1>Germaine Brown</fighter1>
-<fighter2>Zak Chelli</fighter2>
-<rounds>12</rounds>
-<weight>Super Middleweight</weight>
-
-<fighter1>Chris Kongo</fighter1>
-<fighter2>Sebastian Formella</fighter2>
-<rounds>10</rounds>
-<weight>Welterweight</weight>
-
-<fighter1>Lauren Price</fighter1>
-<fighter2>Valger Gudstensdottir</fighter2>
+<fighter1>Tom Farrell</fighter1>
+<fighter2>Olaide Fijabi</fighter2>
 <rounds>8</rounds>
 <weight>Welterweight</weight>
 
@@ -71,6 +28,17 @@
 <rounds>12</rounds>
 <weight>Light Heavyweight</weight>
 
+<fighter1>Abraham Nova</fighter1>
+<fighter2>Robeisy Ramirez</fighter2>
+<rounds>10</rounds>
+<weight>Featherweight</weight>
+
+<fighter1>Wendy Toussaint</fighter1>
+<fighter2>Asinia Byfield</fighter2>
+<rounds>8</rounds>
+<weight>Junior Middleweight</weight>
+
+
 <time>July 16, 2022</time>
 
 <loc>Los Angeles</loc>
@@ -80,14 +48,7 @@
 <rounds>12</rounds>
 <weight>Lightweight</weight>
 
-<time>July 23, 2022</time>
 
-<loc>Saudi Arabia</loc>
-
-<fighter1>Oleksandr Usyk</fighter1>
-<fighter2>Anthony Joshua</fighter2>
-<rounds>12</rounds>
-<weight>Heavyweight</weight>
 
 <time>July 30, 2022</time>
 
@@ -106,3 +67,12 @@
 <fighter2>Pedro Campa</fighter2>
 <rounds>10</rounds>
 <weight>Junior Welterweight</weight>
+
+<time>August 20, 2022</time>
+
+<loc>Saudi Arabia</loc>
+
+<fighter1>Oleksandr Usyk</fighter1>
+<fighter2>Anthony Joshua</fighter2>
+<rounds>12</rounds>
+<weight>Heavyweight</weight>
