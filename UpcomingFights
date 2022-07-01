@@ -1,56 +1,29 @@
+<time>July 16, 2022</time>
 
-<time>June 25, 2022</time>
+<loc>Australia</loc>
 
-
-<loc>San Antonio, Texas</loc>
-
-<fighter1>Jesse Rodriguez</fighter1>
-<fighter2>Sor Rungvisai</fighter2>
+<fighter1>Mairis Briedis</fighter1>
+<fighter2>Jai Opetaia</fighter2>
 <rounds>12</rounds>
-<weight>Junior Bantamweight</weight>
+<weight>Cruiserweight</weight>
 
-<fighter1>Murodjon Akhmadaliev</fighter1>
-<fighter2>Ronny Rios</fighter2>
+<loc>London</loc>
+
+<fighter1>Joe Joyce</fighter1>
+<fighter2>Christian Hammer</fighter2>
+<rounds>12</rounds>
+<weight>Heavyweight</weight>
+
+<fighter1>Jason Cunningham</fighter1>
+<fighter2>Zolani Tete</fighter2>
 <rounds>12</rounds>
 <weight>Junior Featherweight</weight>
 
-<fighter1>Jessica McCaskill</fighter1>
-<fighter2>Alma Ibarra</fighter2>
-<rounds>12</rounds>
-<weight>Welterweight</weight>
 
-<fighter1>Raymond Ford</fighter1>
-<fighter2>Richard Medina</fighter2>
+<fighter1>Mark Chamberlain</fighter1>
+<fighter2>Marc Vidal</fighter2>
 <rounds>10</rounds>
-<weight>Featherweight</weight>
-
-<loc>Coventry</loc>
-
-<fighter1>Sam Eggington</fighter1>
-<fighter2>Przemyslaw Zysk</fighter2>
-<rounds>12</rounds>
-<weight>Junior Middleweight</weight>
-
-<fighter1>Kaisee Benjamin</fighter1>
-<fighter2>Carlos Cordoba</fighter2>
-<rounds>10</rounds>
-<weight>Super Lightweight</weight>
-
-
-<fighter1>River Bent</fighter1>
-<fighter2>Tyler Denny</fighter2>
-<rounds>10</rounds>
-<weight>Middleweight</weight>
-
-<fighter1>Adam Azim</fighter1>
-<fighter2>Anthony Loffet</fighter2>
-<rounds>10</rounds>
-<weight>Super Lightweight</weight>
-
-<fighter1>Karriss Artingstall</fighter1>
-<fighter2>Vaida Masiokaite</fighter2>
-<rounds>6</rounds>
-<weight>Featherweight</weight>
+<weight>Lightweight</weight>
 
 <time>July 16, 2022</time>
 
