@@ -1,5 +1,29 @@
 <time>July 16, 2022</time>
 
+<loc>Las Vegas</loc>
+
+<fighter1>Israel Adesanya</fighter1>
+<fighter2>Jared Cannonier</fighter2>
+<rounds>5</rounds>
+<weight>Middleweight</weight>
+
+
+<fighter1>Alexander Volkanovski</fighter1>
+<fighter2>Max Holloway</fighter2>
+<rounds>5</rounds>
+<weight>Featherweight</weight>
+
+
+<fighter1>Sean Strickland</fighter1>
+<fighter2>Alex Pereira</fighter2>
+<rounds>3</rounds>
+<weight>Middleweight</weight>
+
+<fighter1>Robbie Lawler</fighter1>
+<fighter2>Bryan Barberena</fighter2>
+<rounds>3</rounds>
+<weight>Middleweight</weight>
+
 <loc>Australia</loc>
 
 <fighter1>Mairis Briedis</fighter1>
