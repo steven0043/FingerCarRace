@@ -1,53 +1,54 @@
-<time>July 16, 2022</time>
-
-<loc>Las Vegas</loc>
-
-<fighter1>Israel Adesanya</fighter1>
-<fighter2>Jared Cannonier</fighter2>
-<rounds>5</rounds>
-<weight>Middleweight</weight>
-
-
-<fighter1>Alexander Volkanovski</fighter1>
-<fighter2>Max Holloway</fighter2>
-<rounds>5</rounds>
-<weight>Featherweight</weight>
-
-
-<fighter1>Sean Strickland</fighter1>
-<fighter2>Alex Pereira</fighter2>
-<rounds>3</rounds>
-<weight>Middleweight</weight>
-
-<fighter1>Robbie Lawler</fighter1>
-<fighter2>Bryan Barberena</fighter2>
-<rounds>3</rounds>
-<weight>Middleweight</weight>
-
-<loc>Australia</loc>
-
-<fighter1>Mairis Briedis</fighter1>
-<fighter2>Jai Opetaia</fighter2>
-<rounds>12</rounds>
-<weight>Cruiserweight</weight>
+<time>July 9, 2022</time>
 
 <loc>London</loc>
 
-<fighter1>Joe Joyce</fighter1>
-<fighter2>Christian Hammer</fighter2>
+<fighter1>Derek Chisora</fighter1>
+<fighter2>Kubrat Pulev</fighter2>
 <rounds>12</rounds>
 <weight>Heavyweight</weight>
 
-<fighter1>Jason Cunningham</fighter1>
-<fighter2>Zolani Tete</fighter2>
+<fighter1>Israil Madrimov</fighter1>
+<fighter2>Michel Soro</fighter2>
+<rounds>12</rounds>
+<weight>Junior Middleweight</weight>
+
+
+<fighter1>Felix Cash</fighter1>
+<fighter2>Vaughn Alexander</fighter2>
+<rounds>10</rounds>
+<weight>Middleweight</weight>
+
+<fighter1>Fabio Wardley</fighter1>
+<fighter2>Kingsley Ibeh</fighter2>
+<rounds>10</rounds>
+<weight>Featherweight</weight>
+
+<fighter1>Caoimhin Agyarko</fighter1>
+<fighter2>Lukasz Maciec</fighter2>
+<rounds>10</rounds>
+<weight>Junior Middleweight</weight>
+
+<loc>San Antonio, Texas</loc>
+
+<fighter1>Mark Magsayo</fighter1>
+<fighter2>Rey Vargas</fighter2>
+<rounds>12</rounds>
+<weight>Featherweight</weight>
+
+<fighter1>Brandon Figueroa</fighter1>
+<fighter2>Carlos Castro</fighter2>
 <rounds>12</rounds>
 <weight>Junior Featherweight</weight>
 
+<time>July 13, 2022</time>
 
-<fighter1>Mark Chamberlain</fighter1>
-<fighter2>Marc Vidal</fighter2>
-<rounds>10</rounds>
-<weight>Lightweight</weight>
+<loc>Tokyo</loc>
+
+<fighter1>Kazuto Ioka</fighter1>
+<fighter2>Donnie Nietes</fighter2>
+<rounds>12</rounds>
+<weight>Junior Bantamweight</weight>
+
 
 <time>July 16, 2022</time>
 
@@ -74,8 +75,8 @@
 <loc>New York</loc>
 
 <fighter1>Jake Paul</fighter1>
-<fighter2>Tommy Fury</fighter2>
-<rounds>10</rounds>
+<fighter2>Hasim Rahman</fighter2>
+<rounds>8</rounds>
 <weight>Cruiserweight</weight>
 
 <time>August 13, 2022</time>
