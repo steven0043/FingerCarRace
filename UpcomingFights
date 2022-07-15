@@ -1,63 +1,36 @@
-<time>July 9, 2022</time>
+<time>July 15, 2022</time>
 
-<loc>London</loc>
+<loc>Temecula, California</loc>
 
-<fighter1>Derek Chisora</fighter1>
-<fighter2>Kubrat Pulev</fighter2>
-<rounds>12</rounds>
-<weight>Heavyweight</weight>
-
-<fighter1>Israil Madrimov</fighter1>
-<fighter2>Michel Soro</fighter2>
-<rounds>12</rounds>
-<weight>Junior Middleweight</weight>
-
-
-<fighter1>Ramla Ali</fighter1>
-<fighter2>Rojas</fighter2>
-<rounds>6</rounds>
-<weight>Super Bantamweight</weight>
-
-<fighter1>Fabio Wardley</fighter1>
-<fighter2>Chris Healey</fighter2>
-<rounds>8</rounds>
-<weight>Heavyweight</weight>
-
-<fighter1>Caoimhin Agyarko</fighter1>
-<fighter2>Lukasz Maciec</fighter2>
+<fighter1>Arnold Barboza</fighter1>
+<fighter2>Danielito Zorrilla</fighter2>
 <rounds>10</rounds>
-<weight>Junior Middleweight</weight>
-
-<loc>Russia</loc>
-
-<fighter1>Magomed Kurbanov</fighter1>
-<fighter2>Patrick Teixeira</fighter2>
-<rounds>12</rounds>
-<weight>Junior Middleweight</weight>
-
-<loc>San Antonio, Texas</loc>
-
-<fighter1>Mark Magsayo</fighter1>
-<fighter2>Rey Vargas</fighter2>
-<rounds>12</rounds>
-<weight>Featherweight</weight>
-
-<fighter1>Brandon Figueroa</fighter1>
-<fighter2>Carlos Castro</fighter2>
-<rounds>12</rounds>
-<weight>Junior Featherweight</weight>
-
-<time>July 13, 2022</time>
-
-<loc>Tokyo</loc>
-
-<fighter1>Kazuto Ioka</fighter1>
-<fighter2>Donnie Nietes</fighter2>
-<rounds>12</rounds>
-<weight>Junior Bantamweight</weight>
+<weight>Junior Welterweight</weight>
 
 
 <time>July 16, 2022</time>
+
+<loc>London</loc>
+
+<fighter1>Lennox Clarke</fighter1>
+<fighter2>Mark Heffron</fighter2>
+<rounds>12</rounds>
+<weight>Super Middleweight</weight>
+
+<fighter1>Nick Ball</fighter1>
+<fighter2>Nathanael Kakololo</fighter2>
+<rounds>12</rounds>
+<weight>Featherweight</weight>
+
+<fighter1>Hamzah Sheeraz</fighter1>
+<fighter2>Francisco Emanuel Torres</fighter2>
+<rounds>10</rounds>
+<weight>Middleweight</weight>
+
+<fighter1>Dennis McCann</fighter1>
+<fighter2>James Beech</fighter2>
+<rounds>10</rounds>
+<weight>Featherweight</weight>
 
 <loc>Los Angeles</loc>
 
@@ -65,6 +38,16 @@
 <fighter2>Javier Fortuna</fighter2>
 <rounds>12</rounds>
 <weight>Lightweight</weight>
+
+<fighter1>Lamont Roach</fighter1>
+<fighter2>Angel Rodriguez</fighter2>
+<rounds>12</rounds>
+<weight>Junior Lightweight</weight>
+
+<fighter1>Alexis Rocha</fighter1>
+<fighter2>Luis Veron</fighter2>
+<rounds>10</rounds>
+<weight>Welterweight</weight>
 
 
 
