@@ -9,6 +9,37 @@
 <weight>Featherweight</weight>
 
 
+<loc>London</loc>
+
+<fighter1>Curtis Blaydes</fighter1>
+<fighter2>Tom Aspinall</fighter2>
+<rounds>5</rounds>
+<weight>Heavyweight</weight>
+
+<fighter1>Jack Hermansson</fighter1>
+<fighter2>Chris Curtis</fighter2>
+<rounds>3</rounds>
+<weight>Middleweight</weight>
+
+<fighter1>Paddy Pimblett</fighter1>
+<fighter2>Jordan Leavitt</fighter2>
+<rounds>3</rounds>
+<weight>Lightweight</weight>
+
+<fighter1>Nikita Krylov</fighter1>
+<fighter2>Alexander Gustafsson</fighter2>
+<rounds>3</rounds>
+<weight>Light Heavyweight</weight>
+
+<fighter1>Molly McCann</fighter1>
+<fighter2>Hannah Goldy</fighter2>
+<rounds>3</rounds>
+<weight>Flyweight</weight>
+
+<fighter1>Paul Craig</fighter1>
+<fighter2>Volkan Oezdemir</fighter2>
+<rounds>3</rounds>
+<weight>Light Heavyweight</weight>
 
 <time>July 30, 2022</time>
 
