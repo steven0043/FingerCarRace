@@ -1,3 +1,32 @@
+<time>July 30, 2022</time>
+
+<loc>Brooklyn, New York</loc>
+
+<fighter1>Danny Garcia</fighter1>
+<fighter2>Jose Benavidez</fighter2>
+<rounds>12</rounds>
+<weight>Junior Middleweight</weight>
+
+<fighter1>Adam Kownacki</fighter1>
+<fighter2>Ali Demirezen</fighter2>
+<rounds>10</rounds>
+<weight>Featherweight</weight>
+
+
+<fighter1>Gary Russell</fighter1>
+<fighter2>Rances Barthelemy</fighter2>
+<rounds>10</rounds>
+<weight>Junior Welterweight</weight>
+
+
+
+<loc>Bournemouth, England</loc>
+
+<fighter1>Chris Billam Smith</fighter1>
+<fighter2>Isaac Chamberlain</fighter2>
+<rounds>12</rounds>
+<weight>Cruiserweight</weight>
+
 <time>July 16, 2022</time>
 <loc>Los Angeles</loc>
 
