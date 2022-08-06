@@ -1,5 +1,23 @@
 <time>August 6, 2022</time>
 
+<loc>Fort Worth, Texas</loc>
+
+<fighter1>Vergil Ortiz</fighter1>
+<fighter2>Michael McKinson</fighter2>
+<rounds>12</rounds>
+<weight>Welterweight</weight>
+
+<fighter1>Marlen Esparza</fighter1>
+<fighter2>Eva Guzman</fighter2>
+<rounds>10</rounds>
+<weight>Flyweight</weight>
+
+<fighter1>Maurice Hooker</fighter1>
+<fighter2>Blair Cobbs</fighter2>
+<rounds>10</rounds>
+<weight>Welterweight</weight>
+
+
 <loc>Belfast, Northern Ireland</loc>
 
 <fighter1>Michael Conlan</fighter1>
@@ -39,23 +57,6 @@
 <fighter2>Michal Dufek</fighter2>
 <rounds>6</rounds>
 <weight>Lightweight</weight>
-
-<loc>Fort Worth, Texas</loc>
-
-<fighter1>Vergil Ortiz</fighter1>
-<fighter2>Michael McKinson</fighter2>
-<rounds>12</rounds>
-<weight>Welterweight</weight>
-
-<fighter1>Marlen Esparza</fighter1>
-<fighter2>Eva Guzman</fighter2>
-<rounds>10</rounds>
-<weight>Flyweight</weight>
-
-<fighter1>Maurice Hooker</fighter1>
-<fighter2>Blair Cobbs</fighter2>
-<rounds>10</rounds>
-<weight>Welterweight</weight>
 
 <time>August 13, 2022</time>
 
