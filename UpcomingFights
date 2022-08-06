@@ -1,75 +1,61 @@
+<time>August 6, 2022</time>
 
-<time>July 30, 2022</time>
+<loc>Belfast, Northern Ireland</loc>
 
-<loc>Brooklyn, New York</loc>
-
-<fighter1>Danny Garcia</fighter1>
-<fighter2>Jose Benavidez</fighter2>
-<rounds>12</rounds>
-<weight>Junior Middleweight</weight>
-
-<fighter1>Adam Kownacki</fighter1>
-<fighter2>Ali Demirezen</fighter2>
+<fighter1>Michael Conlan</fighter1>
+<fighter2>Miguel Marriaga</fighter2>
 <rounds>10</rounds>
 <weight>Featherweight</weight>
 
+<fighter1>Padraig McCrory</fighter1>
+<fighter2>Marco Periban</fighter2>
+<rounds>10</rounds>
+<weight>Super Middleweight</weight>
 
-<fighter1>Gary Russell</fighter1>
-<fighter2>Rances Barthelemy</fighter2>
+<fighter1>Tyrone McKenna</fighter1>
+<fighter2>Chris Jenkins</fighter2>
+<rounds>10</rounds>
+<weight>Welterweight</weight>
+
+
+<loc>Sheffield</loc>
+
+<fighter1>Dalton Smith</fighter1>
+<fighter2>Sam O'maison</fighter2>
+<rounds>12</rounds>
+<weight>Junior Welterweight</weight>
+
+<fighter1>Erica Farias</fighter1>
+<fighter2>Sandy Ryan</fighter2>
 <rounds>10</rounds>
 <weight>Junior Welterweight</weight>
 
-
-
-<loc>Bournemouth, England</loc>
-
-<fighter1>Chris Billam Smith</fighter1>
-<fighter2>Isaac Chamberlain</fighter2>
-<rounds>12</rounds>
+<fighter1>Jordan Thompson</fighter1>
+<fighter2>Vasil Ducar</fighter2>
+<rounds>10</rounds>
 <weight>Cruiserweight</weight>
 
-<fighter1>Joe Pigford</fighter1>
-<fighter2>Raphael King</fighter2>
-<rounds>10</rounds>
-<weight>Super Welterweight</weight>
-
-<fighter1>Frazer Clarke</fighter1>
-<fighter2>Ariel Bracamonte</fighter2>
-<rounds>6</rounds>
-<weight>Heavyweight</weight>
-
-<fighter1>Ben Whittaker</fighter1>
-<fighter2>Greg O'Neill</fighter2>
-<rounds>6</rounds>
-<weight>Light Heavyweight</weight>
-
-<fighter1>Caroline Dubois</fighter1>
-<fighter2>Happy Daudi</fighter2>
+<fighter1>Campbell Hatton</fighter1>
+<fighter2>Michal Dufek</fighter2>
 <rounds>6</rounds>
 <weight>Lightweight</weight>
 
+<loc>Fort Worth, Texas</loc>
 
+<fighter1>Vergil Ortiz</fighter1>
+<fighter2>Michael McKinson</fighter2>
+<rounds>12</rounds>
+<weight>Welterweight</weight>
 
-<loc>Newcastle, England</loc>
-
-<fighter1>Josh Kelly</fighter1>
-<fighter2>Lucas Bastida</fighter2>
+<fighter1>Marlen Esparza</fighter1>
+<fighter2>Eva Guzman</fighter2>
 <rounds>10</rounds>
-<weight>Super Welterweight</weight>
+<weight>Flyweight</weight>
 
-<fighter1>Harlem Eubank</fighter1>
-<fighter2>Eliot Chavez</fighter2>
+<fighter1>Maurice Hooker</fighter1>
+<fighter2>Blair Cobbs</fighter2>
 <rounds>10</rounds>
-<weight>Junior Welterweight</weight>
-
-<time>August 6, 2022</time>
-
-<loc>New York</loc>
-
-<fighter1>Jake Paul</fighter1>
-<fighter2>Hasim Rahman</fighter2>
-<rounds>8</rounds>
-<weight>Cruiserweight</weight>
+<weight>Welterweight</weight>
 
 <time>August 13, 2022</time>
 
