@@ -1,12 +1,4 @@
 
-<time>August 13, 2022</time>
-
-<loc>New York</loc>
-
-<fighter1>Teofimo Lopez</fighter1>
-<fighter2>Pedro Campa</fighter2>
-<rounds>10</rounds>
-<weight>Junior Welterweight</weight>
 
 <time>August 20, 2022</time>
 
@@ -17,6 +9,67 @@
 <rounds>12</rounds>
 <weight>Heavyweight</weight>
 
+<fighter1>Callum Smith</fighter1>
+<fighter2>Mathieu Bauderlique</fighter2>
+<rounds>12</rounds>
+<weight>Light Heavyweight</weight>
+
+
+<fighter1>Filip Hrgovic</fighter1>
+<fighter2>Zhilei Zhang</fighter2>
+<rounds>12</rounds>
+<weight>Heavyweight</weight>
+
+<fighter1>Badou Jack</fighter1>
+<fighter2>Richard Rivera</fighter2>
+<rounds>10</rounds>
+<weight>Cruiserweight</weight>
+
+<fighter1>Ramla Ali</fighter1>
+<fighter2>Crystal Nova</fighter2>
+<rounds>8</rounds>
+<weight>Junior Featherweight</weight>
+
+
+<fighter1>Ben Whittaker</fighter1>
+<fighter2>Petar Nosic</fighter2>
+<rounds>6</rounds>
+<weight>Light Heavyweight</weight>
+
+
+<loc>San Diego, California</loc>
+
+<fighter1>Emanuel Navarrete</fighter1>
+<fighter2>Eduardo Baez</fighter2>
+<rounds>12</rounds>
+<weight>Featherweight</weight>
+
+<loc>Hollywood, Florida</loc>
+
+<fighter1>Omar Figueroa</fighter1>
+<fighter2>Sergey Lipinets</fighter2>
+<rounds>12</rounds>
+<weight>Junior Welterweight</weight>
+
+<fighter1>Alberto Puello</fighter1>
+<fighter2>Botirzhon Akhmedov</fighter2>
+<rounds>12</rounds>
+<weight>Junior Welterweight</weight>
+
+
+<fighter1>Roger Gutierrez</fighter1>
+<fighter2>Hector Garcia</fighter2>
+<rounds>12</rounds>
+<weight>Junior Lighteight</weight>
+
+<time>September 4, 2022</time>
+
+<loc>Los Angeles</loc>
+
+<fighter1>Andy Ruiz</fighter1>
+<fighter2>Luis Ortiz</fighter2>
+<rounds>12</rounds>
+<weight>Heavyweight</weight>
 
 <time>September 10, 2022</time>
 
@@ -26,3 +79,19 @@
 <fighter2>Savannah Marshall</fighter2>
 <rounds>10</rounds>
 <weight>Middleweight</weight>
+
+<time>October 15, 2022</time>
+
+<loc>Australia</loc>
+
+<fighter1>Devin Haney</fighter1>
+<fighter2>George Kambosos</fighter2>
+<rounds>12</rounds>
+<weight>Lightweight</weight>
+
+<loc>Brooklyn</loc>
+
+<fighter1>Deontay Wilder</fighter1>
+<fighter2>Robert Helenius</fighter2>
+<rounds>12</rounds>
+<weight>Heavyweight</weight>
