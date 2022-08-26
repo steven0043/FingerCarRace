@@ -1,4 +1,38 @@
 
+
+<time>August 20, 2022</time>
+
+<loc>Saudi Arabia</loc>
+
+<fighter1>Oleksandr Usyk</fighter1>
+<fighter2>Anthony Joshua</fighter2>
+<rounds>12</rounds>
+<weight>Heavyweight</weight>
+
+
+<loc>San Diego, California</loc>
+
+<fighter1>Emanuel Navarrete</fighter1>
+<fighter2>Eduardo Baez</fighter2>
+<rounds>12</rounds>
+<weight>Featherweight</weight>
+
+<loc>Hollywood, Florida</loc>
+
+<fighter1>Omar Figueroa</fighter1>
+<fighter2>Sergey Lipinets</fighter2>
+<rounds>12</rounds>
+<weight>Junior Welterweight</weight>
+
+<time>August 25, 2022</time>
+
+<loc>Albania</loc>
+
+<fighter1>Florian Marku</fighter1>
+<fighter2>Miguel Parra</fighter2>
+<rounds>10</rounds>
+<weight>Welterweight</weight>
+
 <time>August 13, 2022</time>
 
 <loc>New York</loc>
