@@ -1,75 +1,31 @@
 
+<time>August 27, 2022</time>
 
-<time>August 20, 2022</time>
+<loc>London</loc>
 
-<loc>Saudi Arabia</loc>
-
-<fighter1>Oleksandr Usyk</fighter1>
-<fighter2>Anthony Joshua</fighter2>
-<rounds>12</rounds>
-<weight>Heavyweight</weight>
-
-<fighter1>Callum Smith</fighter1>
-<fighter2>Mathieu Bauderlique</fighter2>
-<rounds>12</rounds>
-<weight>Light Heavyweight</weight>
-
-
-<fighter1>Filip Hrgovic</fighter1>
-<fighter2>Zhilei Zhang</fighter2>
-<rounds>12</rounds>
-<weight>Heavyweight</weight>
-
-<fighter1>Badou Jack</fighter1>
-<fighter2>Richard Rivera</fighter2>
-<rounds>10</rounds>
+<fighter1>KSI</fighter1>
+<fighter2>Swarmz</fighter2>
+<rounds>3</rounds>
 <weight>Cruiserweight</weight>
 
-<fighter1>Ramla Ali</fighter1>
-<fighter2>Crystal Nova</fighter2>
-<rounds>8</rounds>
-<weight>Junior Featherweight</weight>
+
+<fighter1>KSI</fighter1>
+<fighter2>Luiz Pineda</fighter2>
+<rounds>3</rounds>
+<weight>Cruiserweight</weight>
 
 
-<fighter1>Ben Whittaker</fighter1>
-<fighter2>Petar Nosic</fighter2>
-<rounds>6</rounds>
-<weight>Light Heavyweight</weight>
+<loc>Tulsa, Oklahoma</loc>
 
-
-<loc>San Diego, California</loc>
-
-<fighter1>Emanuel Navarrete</fighter1>
-<fighter2>Eduardo Baez</fighter2>
-<rounds>12</rounds>
-<weight>Featherweight</weight>
-
-<loc>Hollywood, Florida</loc>
-
-<fighter1>Omar Figueroa</fighter1>
-<fighter2>Sergey Lipinets</fighter2>
-<rounds>12</rounds>
-<weight>Junior Welterweight</weight>
-
-<fighter1>Alberto Puello</fighter1>
-<fighter2>Botirzhon Akhmedov</fighter2>
-<rounds>12</rounds>
-<weight>Junior Welterweight</weight>
-
-
-<fighter1>Roger Gutierrez</fighter1>
-<fighter2>Hector Garcia</fighter2>
-<rounds>12</rounds>
-<weight>Junior Lighteight</weight>
-
-<time>August 25, 2022</time>
-
-<loc>Albania</loc>
-
-<fighter1>Florian Marku</fighter1>
-<fighter2>Miguel Parra</fighter2>
+<fighter1>Jose Pedraza</fighter1>
+<fighter2>Richard Commey</fighter2>
 <rounds>10</rounds>
-<weight>Welterweight</weight>
+<weight>Junior Welterweight</weight>
+
+<fighter1>Jared Anderson</fighter1>
+<fighter2>Miljan Rovcanin</fighter2>
+<rounds>10</rounds>
+<weight>Heavyweight</weight>
 
 <time>September 4, 2022</time>
 
