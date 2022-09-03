@@ -1,33 +1,28 @@
 
-<time>August 27, 2022</time>
-
-<loc>London</loc>
-
-<fighter1>KSI</fighter1>
-<fighter2>Swarmz</fighter2>
-<rounds>3</rounds>
-<weight>Cruiserweight</weight>
-
-
-<fighter1>KSI</fighter1>
-<fighter2>Luiz Pineda</fighter2>
-<rounds>3</rounds>
-<weight>Cruiserweight</weight>
-
-
-<loc>Tulsa, Oklahoma</loc>
-
-<fighter1>Jose Pedraza</fighter1>
-<fighter2>Richard Commey</fighter2>
-<rounds>10</rounds>
-<weight>Junior Welterweight</weight>
-
-<fighter1>Jared Anderson</fighter1>
-<fighter2>Miljan Rovcanin</fighter2>
-<rounds>10</rounds>
-<weight>Heavyweight</weight>
 
 <time>September 4, 2022</time>
+
+<loc>Liverpool</loc>
+
+<fighter1>Liam Smith</fighter1>
+<fighter2>Hassan Mwakinyo</fighter2>
+<rounds>12</rounds>
+<weight>Super Welterweight</weight>
+
+<fighter1>Dan Azeez</fighter1>
+<fighter2>Shakan Pitters</fighter2>
+<rounds>12</rounds>
+<weight>Light Heavyweight</weight>
+
+<fighter1>Natasha Jonas</fighter1>
+<fighter2>Patricia Berghult</fighter2>
+<rounds>10</rounds>
+<weight>Super Welterweight</weight>
+
+<fighter1>Adam Azim</fighter1>
+<fighter2>Michel Cabral</fighter2>
+<rounds>10</rounds>
+<weight>Super Lightweight</weight>
 
 <loc>Los Angeles</loc>
 
@@ -35,6 +30,22 @@
 <fighter2>Luis Ortiz</fighter2>
 <rounds>12</rounds>
 <weight>Heavyweight</weight>
+
+<fighter1>Isaac Cruz</fighter1>
+<fighter2>Eduardo Ramirez</fighter2>
+<rounds>12</rounds>
+<weight>Lightweight</weight>
+
+<fighter1>Joseph Spencer</fighter1>
+<fighter2>Kevin Salgado</fighter2>
+<rounds>10</rounds>
+<weight>Middleweight</weight>
+
+<fighter1>Abner Mares</fighter1>
+<fighter2>Miguel Flores</fighter2>
+<rounds>10</rounds>
+<weight>Featherweight</weight>
+
 
 <time>September 10, 2022</time>
 
