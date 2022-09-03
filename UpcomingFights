@@ -2,27 +2,7 @@
 
 <time>September 4, 2022</time>
 
-<loc>Liverpool</loc>
 
-<fighter1>Liam Smith</fighter1>
-<fighter2>Hassan Mwakinyo</fighter2>
-<rounds>12</rounds>
-<weight>Super Welterweight</weight>
-
-<fighter1>Dan Azeez</fighter1>
-<fighter2>Shakan Pitters</fighter2>
-<rounds>12</rounds>
-<weight>Light Heavyweight</weight>
-
-<fighter1>Natasha Jonas</fighter1>
-<fighter2>Patricia Berghult</fighter2>
-<rounds>10</rounds>
-<weight>Super Welterweight</weight>
-
-<fighter1>Adam Azim</fighter1>
-<fighter2>Michel Cabral</fighter2>
-<rounds>10</rounds>
-<weight>Super Lightweight</weight>
 
 <loc>Los Angeles</loc>
 
@@ -45,7 +25,27 @@
 <fighter2>Miguel Flores</fighter2>
 <rounds>10</rounds>
 <weight>Featherweight</weight>
+<loc>Liverpool</loc>
 
+<fighter1>Liam Smith</fighter1>
+<fighter2>Hassan Mwakinyo</fighter2>
+<rounds>12</rounds>
+<weight>Super Welterweight</weight>
+
+<fighter1>Dan Azeez</fighter1>
+<fighter2>Shakan Pitters</fighter2>
+<rounds>12</rounds>
+<weight>Light Heavyweight</weight>
+
+<fighter1>Natasha Jonas</fighter1>
+<fighter2>Patricia Berghult</fighter2>
+<rounds>10</rounds>
+<weight>Super Welterweight</weight>
+
+<fighter1>Adam Azim</fighter1>
+<fighter2>Michel Cabral</fighter2>
+<rounds>10</rounds>
+<weight>Super Lightweight</weight>
 
 <time>September 10, 2022</time>
 
