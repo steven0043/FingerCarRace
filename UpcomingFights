@@ -1,60 +1,85 @@
+<time>September 16, 2022</time>
 
+<loc>York Hall, Bethnal Green</loc>
 
-<time>September 4, 2022</time>
-
-
-
-<loc>Los Angeles</loc>
-
-<fighter1>Andy Ruiz</fighter1>
-<fighter2>Luis Ortiz</fighter2>
+<fighter1>Denzel Bentley</fighter1>
+<fighter2>Marcus Morrison</fighter2>
 <rounds>12</rounds>
-<weight>Heavyweight</weight>
+<weight>Middleweight</weight>
 
-<fighter1>Isaac Cruz</fighter1>
-<fighter2>Eduardo Ramirez</fighter2>
+<fighter1>Ellis Zorro</fighter1>
+<fighter2>Dec Spelman</fighter2>
+<rounds>10</rounds>
+<weight>Cruiserweight</weight>
+
+<time>September 17, 2022</time>
+
+<loc>Las Vegas</loc>
+
+<fighter1>Canelo Alvarez</fighter1>
+<fighter2>Gennadiy Golovkin</fighter2>
+<rounds>12</rounds>
+<weight>Middleweight</weight>
+
+<fighter1>Jesse Rodriguez</fighter1>
+<fighter2>Israel Gonzalez</fighter2>
+<rounds>12</rounds>
+<weight>Junior Bantamweight</weight>
+
+<fighter1>Ali Akhmedov</fighter1>
+<fighter2>Gabriel Rosado</fighter2>
+<rounds>10</rounds>
+<weight>Super Middleweight</weight>
+
+<fighter1>Austin Williams</fighter1>
+<fighter2>Kieron Conway</fighter2>
+<rounds>10</rounds>
+<weight>Middleweight</weight>
+
+<fighter1>Diego Pacheco</fighter1>
+<fighter2>Enrique Collazo</fighter2>
+<rounds>10</rounds>
+<weight>Middleweight</weight>
+
+<fighter1>Marc Castro</fighter1>
+<fighter2>Kevin Montiel</fighter2>
+<rounds>8</rounds>
+<weight>Lightweight</weight>
+
+<loc>Bolton</loc>
+
+<fighter1>Gavin Gwynne</fighter1>
+<fighter2>Craig Woodruff</fighter2>
 <rounds>12</rounds>
 <weight>Lightweight</weight>
 
-<fighter1>Joseph Spencer</fighter1>
-<fighter2>Kevin Salgado</fighter2>
+<fighter1>Lyndon Arthur</fighter1>
+<fighter2>Walter Sequeira</fighter2>
 <rounds>10</rounds>
-<weight>Middleweight</weight>
-
-<fighter1>Abner Mares</fighter1>
-<fighter2>Miguel Flores</fighter2>
-<rounds>10</rounds>
-<weight>Featherweight</weight>
-<loc>Liverpool</loc>
-
-<fighter1>Liam Smith</fighter1>
-<fighter2>Hassan Mwakinyo</fighter2>
-<rounds>12</rounds>
-<weight>Super Welterweight</weight>
-
-<fighter1>Dan Azeez</fighter1>
-<fighter2>Shakan Pitters</fighter2>
-<rounds>12</rounds>
 <weight>Light Heavyweight</weight>
 
-<fighter1>Natasha Jonas</fighter1>
-<fighter2>Patricia Berghult</fighter2>
+<time>September 23, 2022</time>
+
+<loc>Newark, New Jersey</loc>
+
+<fighter1>Shakur Stevenson</fighter1>
+<fighter2>Robson Conceicao</fighter2>
+<rounds>12</rounds>
+<weight>Junior Lightweight</weight>
+
+<time>September 24, 2022</time>
+
+<loc>Manchester, England</loc>
+
+<fighter1>Joe Joyce</fighter1>
+<fighter2>Joseph Parker</fighter2>
+<rounds>12</rounds>
+<weight>Heavyweight</weight>
+
+<fighter1>Amanda Serrano</fighter1>
+<fighter2>Sarah Mahfoud</fighter2>
 <rounds>10</rounds>
-<weight>Super Welterweight</weight>
-
-<fighter1>Adam Azim</fighter1>
-<fighter2>Michel Cabral</fighter2>
-<rounds>10</rounds>
-<weight>Super Lightweight</weight>
-
-<time>September 10, 2022</time>
-
-<loc>London</loc>
-
-<fighter1>Claressa Shields</fighter1>
-<fighter2>Savannah Marshall</fighter2>
-<rounds>10</rounds>
-<weight>Middleweight</weight>
+<weight>Featherweight</weight>
 
 <time>October 15, 2022</time>
 
@@ -71,3 +96,29 @@
 <fighter2>Robert Helenius</fighter2>
 <rounds>12</rounds>
 <weight>Heavyweight</weight>
+
+
+<loc>London</loc>
+
+<fighter1>Claressa Shields</fighter1>
+<fighter2>Savannah Marshall</fighter2>
+<rounds>10</rounds>
+<weight>Middleweight</weight>
+
+<time>December 3, 2022</time>
+
+<loc>Los Angeles</loc>
+
+<fighter1>Juan Estrada</fighter1>
+<fighter2>Chocolatito</fighter2>
+<rounds>12</rounds>
+<weight>Super Flyweight</weight>
+
+<time>January 28, 2023</time>
+
+<loc>Los Angeles</loc>
+
+<fighter1>Jermell Charlo</fighter1>
+<fighter2>Tim Tszyu</fighter2>
+<rounds>12</rounds>
+<weight>Junior Middleweight</weight>
