@@ -1,49 +1,3 @@
-<time>September 17, 2022</time>
-
-<loc>Las Vegas</loc>
-
-<fighter1>Canelo Alvarez</fighter1>
-<fighter2>Gennady Golovkin</fighter2>
-<rounds>12</rounds>
-<weight>Middleweight</weight>
-
-<fighter1>Jesse Rodriguez</fighter1>
-<fighter2>Israel Gonzalez</fighter2>
-<rounds>12</rounds>
-<weight>Junior Bantamweight</weight>
-
-<fighter1>Ali Akhmedov</fighter1>
-<fighter2>Gabriel Rosado</fighter2>
-<rounds>10</rounds>
-<weight>Super Middleweight</weight>
-
-<fighter1>Austin Williams</fighter1>
-<fighter2>Kieron Conway</fighter2>
-<rounds>10</rounds>
-<weight>Middleweight</weight>
-
-<fighter1>Diego Pacheco</fighter1>
-<fighter2>Enrique Collazo</fighter2>
-<rounds>10</rounds>
-<weight>Middleweight</weight>
-
-<fighter1>Marc Castro</fighter1>
-<fighter2>Kevin Montiel</fighter2>
-<rounds>8</rounds>
-<weight>Lightweight</weight>
-
-<loc>Bolton</loc>
-
-<fighter1>Gavin Gwynne</fighter1>
-<fighter2>Craig Woodruff</fighter2>
-<rounds>12</rounds>
-<weight>Lightweight</weight>
-
-<fighter1>Lyndon Arthur</fighter1>
-<fighter2>Walter Sequeira</fighter2>
-<rounds>10</rounds>
-<weight>Light Heavyweight</weight>
-
 <time>September 23, 2022</time>
 
 <loc>Newark, New Jersey</loc>
@@ -52,6 +6,11 @@
 <fighter2>Robson Conceicao</fighter2>
 <rounds>12</rounds>
 <weight>Junior Lightweight</weight>
+
+<fighter1>Keyshawn Davis</fighter1>
+<fighter2>Omar Tiend</fighter2>
+<rounds>8</rounds>
+<weight>Lightweight</weight>
 
 <time>September 24, 2022</time>
 
@@ -66,6 +25,42 @@
 <fighter2>Sarah Mahfoud</fighter2>
 <rounds>10</rounds>
 <weight>Featherweight</weight>
+
+<fighter1>Michael Magnesi</fighter1>
+<fighter2>Anthony Cacace</fighter2>
+<rounds>12</rounds>
+<weight>Junior Lightweight</weight>
+
+<fighter1>Ekow Essuman</fighter1>
+<fighter2>Samuel Antwi</fighter2>
+<rounds>12</rounds>
+<weight>Welterweight</weight>
+
+<loc>Nottingham, England</loc>
+
+<fighter1>Maxi Hughes</fighter1>
+<fighter2>Kid Galahad</fighter2>
+<rounds>12</rounds>
+<weight>Lightweight</weight>
+
+<fighter1>Hannah Rankin</fighter1>
+<fighter2>Terri Harper</fighter2>
+<rounds>10</rounds>
+<weight>Junior Middleweight</weight>
+
+<fighter1>Solomon Dacres</fighter1>
+<fighter2>Dominic Akinlade</fighter2>
+<rounds>10</rounds>
+<weight>Heavyweight</weight>
+
+<time>October 8, 2022</time>
+
+<loc>London, England</loc>
+
+<fighter1>Chris Eubank</fighter1>
+<fighter2>Conor Benn</fighter2>
+<rounds>12</rounds>
+<weight>Junior Middleweight</weight>
 
 <time>October 15, 2022</time>
 
