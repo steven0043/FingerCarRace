@@ -1,54 +1,33 @@
 
 
-<time>September 24, 2022</time>
-
-<loc>Manchester, England</loc>
-
-<fighter1>Joe Joyce</fighter1>
-<fighter2>Joseph Parker</fighter2>
-<rounds>12</rounds>
-<weight>Heavyweight</weight>
-
-<fighter1>Amanda Serrano</fighter1>
-<fighter2>Sarah Mahfoud</fighter2>
-<rounds>10</rounds>
-<weight>Featherweight</weight>
-
-<fighter1>Michael Magnesi</fighter1>
-<fighter2>Anthony Cacace</fighter2>
-<rounds>12</rounds>
-<weight>Junior Lightweight</weight>
-
-<fighter1>Ekow Essuman</fighter1>
-<fighter2>Samuel Antwi</fighter2>
-<rounds>12</rounds>
-<weight>Welterweight</weight>
-
-<loc>Nottingham, England</loc>
-
-<fighter1>Maxi Hughes</fighter1>
-<fighter2>Kid Galahad</fighter2>
-<rounds>12</rounds>
-<weight>Lightweight</weight>
-
-<fighter1>Hannah Rankin</fighter1>
-<fighter2>Terri Harper</fighter2>
-<rounds>10</rounds>
-<weight>Junior Middleweight</weight>
-
-<fighter1>Solomon Dacres</fighter1>
-<fighter2>Dominic Akinlade</fighter2>
-<rounds>10</rounds>
-<weight>Heavyweight</weight>
-
 <time>October 8, 2022</time>
 
-<loc>London, England</loc>
+<loc>Carson, California</loc>
 
-<fighter1>Chris Eubank</fighter1>
-<fighter2>Conor Benn</fighter2>
+<fighter1>Sebastian Fundora</fighter1>
+<fighter2>Carlos Ocampo</fighter2>
 <rounds>12</rounds>
 <weight>Junior Middleweight</weight>
+
+<fighter1>Carlos Adames</fighter1>
+<fighter2>Juan Montiel</fighter2>
+<rounds>12</rounds>
+<weight>Middleweight</weight>
+
+<fighter1>Carlos Adames</fighter1>
+<fighter2>Juan Montiel</fighter2>
+<rounds>12</rounds>
+<weight>Middleweight</weight>
+
+<fighter1>Fernando Martinez</fighter1>
+<fighter2>Jerwin Ancajas</fighter2>
+<rounds>12</rounds>
+<weight>Junior Bantamweight</weight>
+
+<fighter1>Egidijus Kavaliauskas</fighter1>
+<fighter2>Mykal Fox</fighter2>
+<rounds>10</rounds>
+<weight>Welterweight</weight>
 
 <time>October 15, 2022</time>
 
