@@ -1,3 +1,36 @@
+
+
+<time>September 24, 2022</time>
+
+<loc>Manchester, England</loc>
+
+<fighter1>Joe Joyce</fighter1>
+<fighter2>Joseph Parker</fighter2>
+<rounds>12</rounds>
+<weight>Heavyweight</weight>
+
+<fighter1>Amanda Serrano</fighter1>
+<fighter2>Sarah Mahfoud</fighter2>
+<rounds>10</rounds>
+<weight>Featherweight</weight>
+
+<loc>Nottingham, England</loc>
+
+<fighter1>Maxi Hughes</fighter1>
+<fighter2>Kid Galahad</fighter2>
+<rounds>12</rounds>
+<weight>Lightweight</weight>
+
+<fighter1>Hannah Rankin</fighter1>
+<fighter2>Terri Harper</fighter2>
+<rounds>10</rounds>
+<weight>Junior Middleweight</weight>
+
+<fighter1>Solomon Dacres</fighter1>
+<fighter2>Dominic Akinlade</fighter2>
+<rounds>10</rounds>
+<weight>Heavyweight</weight>
+
 <time>September 23, 2022</time>
 
 <loc>Newark, New Jersey</loc>
