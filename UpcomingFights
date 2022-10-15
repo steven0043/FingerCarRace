@@ -2,6 +2,45 @@
 
 <time>October 15, 2022</time>
 
+<loc>Melbourne, Australia</loc>
+
+<fighter1>Devin Haney</fighter1>
+<fighter2>George Kambosos</fighter2>
+<rounds>12</rounds>
+<weight>Lightweight</weight>
+
+<fighter1>Jason Moloney</fighter1>
+<fighter2>Nawaphon Kaikanha</fighter2>
+<rounds>12</rounds>
+<weight>Bantamweight</weight>
+
+<fighter1>Andrew Moloney</fighter1>
+<fighter2>Norbelto Jimenez</fighter2>
+<rounds>10</rounds>
+<weight>Bantamweight</weight>
+
+
+<loc>Brooklyn</loc>
+
+<fighter1>Deontay Wilder</fighter1>
+<fighter2>Robert Helenius</fighter2>
+<rounds>12</rounds>
+<weight>Heavyweight</weight>
+
+<fighter1>Caleb Plant</fighter1>
+<fighter2>Anthony Dirrell</fighter2>
+<rounds>12</rounds>
+<weight>Super Middleweight</weight>
+
+<fighter1>Gary Antonio Russell</fighter1>
+<fighter2>Emmanuel Rodriguez</fighter2>
+<rounds>12</rounds>
+<weight>Bantamweight</weight>
+
+<fighter1>Frank Sanchez</fighter1>
+<fighter2>Carlos Negron</fighter2>
+<rounds>10</rounds>
+<weight>Heavyweight</weight>
 
 <loc>London</loc>
 
@@ -33,22 +72,7 @@
 <rounds>6</rounds>
 <weight>Featherweight</weight>
 
-<loc>Melbourne, Australia</loc>
 
-<fighter1>Devin Haney</fighter1>
-<fighter2>George Kambosos</fighter2>
-<rounds>12</rounds>
-<weight>Lightweight</weight>
-
-<fighter1>Jason Moloney</fighter1>
-<fighter2>Nawaphon Kaikanha</fighter2>
-<rounds>12</rounds>
-<weight>Bantamweight</weight>
-
-<fighter1>Andrew Moloney</fighter1>
-<fighter2>Norbelto Jimenez</fighter2>
-<rounds>10</rounds>
-<weight>Bantamweight</weight>
 
 <loc>Brisbane, Australia</loc>
 
@@ -67,27 +91,6 @@
 <rounds>10</rounds>
 <weight>Heavyweight</weight>
 
-<loc>Brooklyn</loc>
-
-<fighter1>Deontay Wilder</fighter1>
-<fighter2>Robert Helenius</fighter2>
-<rounds>12</rounds>
-<weight>Heavyweight</weight>
-
-<fighter1>Caleb Plant</fighter1>
-<fighter2>Anthony Dirrell</fighter2>
-<rounds>12</rounds>
-<weight>Super Middleweight</weight>
-
-<fighter1>Gary Antonio Russell</fighter1>
-<fighter2>Emmanuel Rodriguez</fighter2>
-<rounds>12</rounds>
-<weight>Bantamweight</weight>
-
-<fighter1>Frank Sanchez</fighter1>
-<fighter2>Carlos Negron</fighter2>
-<rounds>10</rounds>
-<weight>Heavyweight</weight>
 
 <time>October 29, 2022</time>
 
