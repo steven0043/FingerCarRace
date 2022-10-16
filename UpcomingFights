@@ -2,6 +2,36 @@
 
 <time>October 15, 2022</time>
 
+<loc>London</loc>
+
+
+<fighter1>Claressa Shields</fighter1>
+<fighter2>Savannah Marshall</fighter2>
+<rounds>10</rounds>
+<weight>Middleweight</weight>
+
+<fighter1>Mikaela Mayer</fighter1>
+<fighter2>Alycia Baumgardner</fighter2>
+<rounds>10</rounds>
+<weight>Junior Lightweight</weight>
+
+<fighter1>Lauren Price</fighter1>
+<fighter2>Timea Belik</fighter2>
+<rounds>6</rounds>
+<weight>Welterweight</weight>
+
+
+<fighter1>Caroline Dubois</fighter1>
+<fighter2>Milena Kolev</fighter2>
+<rounds>6</rounds>
+<weight>Lightweight</weight>
+
+
+<fighter1>Karriss Artingstall</fighter1>
+<fighter2>Marina Sakharov</fighter2>
+<rounds>6</rounds>
+<weight>Featherweight</weight>
+
 <loc>Melbourne, Australia</loc>
 
 <fighter1>Devin Haney</fighter1>
@@ -42,35 +72,7 @@
 <rounds>10</rounds>
 <weight>Heavyweight</weight>
 
-<loc>London</loc>
 
-
-<fighter1>Claressa Shields</fighter1>
-<fighter2>Savannah Marshall</fighter2>
-<rounds>10</rounds>
-<weight>Middleweight</weight>
-
-<fighter1>Mikaela Mayer</fighter1>
-<fighter2>Alycia Baumgardner</fighter2>
-<rounds>10</rounds>
-<weight>Junior Lightweight</weight>
-
-<fighter1>Lauren Price</fighter1>
-<fighter2>Timea Belik</fighter2>
-<rounds>6</rounds>
-<weight>Welterweight</weight>
-
-
-<fighter1>Caroline Dubois</fighter1>
-<fighter2>Milena Kolev</fighter2>
-<rounds>6</rounds>
-<weight>Lightweight</weight>
-
-
-<fighter1>Karriss Artingstall</fighter1>
-<fighter2>Marina Sakharov</fighter2>
-<rounds>6</rounds>
-<weight>Featherweight</weight>
 
 
 
