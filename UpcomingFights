@@ -1,47 +1,29 @@
 
-<time>October 22, 2022</time>
-
-<loc>Abu Dhabi</loc>
-
-<fighter1>Charles Oliveira</fighter1>
-<fighter2>Islam Makhachev</fighter2>
-<rounds>5</rounds>
-<weight>Lightweight</weight>
-
-<fighter1>Aljamain Sterling</fighter1>
-<fighter2>TJ Dillashaw</fighter2>
-<rounds>5</rounds>
-<weight>Bantamweight</weight>
-
-<fighter1>Petr Yan</fighter1>
-<fighter2>Sean O'Malley</fighter2>
-<rounds>3</rounds>
-<weight>Bantamweight</weight>
-
-<fighter1>Beneil Dariush</fighter1>
-<fighter2>Mateusz Gamrot</fighter2>
-<rounds>3</rounds>
-<weight>Lightweight</weight>
-
-<fighter1>Katlyn Chookagian</fighter1>
-<fighter2>Manon Fiorot</fighter2>
-<rounds>3</rounds>
-<weight>Flyweight</weight>
-
-<loc>Mexico City, Mexico</loc>
-
-<fighter1>Mauricio Lara</fighter1>
-<fighter2>Jose Sanmartin</fighter2>
-<rounds>10</rounds>
-<weight>Featherweight</weight>
-
-<fighter1>Reshat Mati</fighter1>
-<fighter2>Eduardo Rodriguez</fighter2>
-<rounds>10</rounds>
-<weight>Junior Welterweight</weight>
-
 
 <time>October 29, 2022</time>
+
+<loc>London</loc>
+
+<fighter1>Katie Taylor</fighter1>
+<fighter2>Karen Carabajal</fighter2>
+<rounds>10</rounds>
+<weight>Lightweight</weight>
+
+<fighter1>Jordan Gill</fighter1>
+<fighter2>Kiko Martinez</fighter2>
+<rounds>12</rounds>
+<weight>Featherweight</weight>
+
+<fighter1>Ellie Scotney</fighter1>
+<fighter2>Mary Romero</fighter2>
+<rounds>10</rounds>
+<weight>Super Bantamweight</weight>
+
+<fighter1>Johnny Fisher</fighter1>
+<fighter2>Dominik Musil</fighter2>
+<rounds>6</rounds>
+<weight>Heavyweight</weight>
+
 
 <loc>New York</loc>
 
@@ -50,12 +32,26 @@
 <rounds>12</rounds>
 <weight>Lightweight</weight>
 
+<fighter1>Robeisy Ramirez</fighter1>
+<fighter2>Jose Romero</fighter2>
+<rounds>10</rounds>
+<weight>Featherweight</weight>
+
+<fighter1>Nico Ali-Walsh</fighter1>
+<fighter2>Billy Wagner</fighter2>
+<rounds>6</rounds>
+<weight>Middleweight</weight>
 
 <loc>Glendale, Arizona</loc>
 
 <fighter1>Jake Paul</fighter1>
 <fighter2>Anderson Silva</fighter2>
 <rounds>8</rounds>
+<weight>Cruiserweight</weight>
+
+<fighter1>Le'Veon Bell</fighter1>
+<fighter2>Uriah Hall</fighter2>
+<rounds>4</rounds>
 <weight>Cruiserweight</weight>
 
 <time>November 5, 2022</time>
@@ -84,6 +80,15 @@
 <fighter2>Chocolatito</fighter2>
 <rounds>12</rounds>
 <weight>Super Flyweight</weight>
+
+<time>December 10, 2022</time>
+
+<loc>Omaha</loc>
+
+<fighter1>Terence Crawford</fighter1>
+<fighter2>David Avanesyan</fighter2>
+<rounds>12</rounds>
+<weight>Welterweight</weight>
 
 <time>January 28, 2023</time>
 
