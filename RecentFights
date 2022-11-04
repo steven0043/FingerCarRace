@@ -1,5 +1,46 @@
 
 
+
+<time>October 29, 2022</time>
+
+<loc>New York</loc>
+
+<fighter1>Vasyl Lomachenko</fighter1>
+<fighter2>Jamaine Ortiz</fighter2>
+<rounds>12</rounds>
+<weight>Lightweight</weight>
+
+<loc>Glendale, Arizona</loc>
+
+<fighter1>Jake Paul</fighter1>
+<fighter2>Anderson Silva</fighter2>
+<rounds>8</rounds>
+<weight>Cruiserweight</weight>
+
+<loc>San Diego</loc>
+
+<fighter1>Joseph Diaz</fighter1>
+<fighter2>William Zepeda</fighter2>
+<rounds>12</rounds>
+<weight>Junior Welterweight</weight>
+
+
+<loc>London</loc>
+
+<fighter1>Katie Taylor</fighter1>
+<fighter2>Karen Carabajal</fighter2>
+<rounds>10</rounds>
+<weight>Lightweight</weight>
+
+<fighter1>Jordan Gill</fighter1>
+<fighter2>Kiko Martinez</fighter2>
+<rounds>12</rounds>
+<weight>Featherweight</weight>
+
+<fighter1>Ellie Scotney</fighter1>
+<fighter2>Mary Romero</fighter2>
+<rounds>10</rounds>
+<weight>Super Bantamweight</weight>
 <time>October 15, 2022</time>
 
 <loc>London</loc>
