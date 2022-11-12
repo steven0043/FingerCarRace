@@ -1,30 +1,4 @@
-<time>November 11, 2022</time>
-
-<loc>Sheffield, England</loc>
-
-<fighter1>Sunny Edwards</fighter1>
-<fighter2>Felix Alvarado</fighter2>
-<rounds>12</rounds>
-<weight>Flyweight</weight>
-
-<fighter1>Thomas Essomba</fighter1>
-<fighter2>Marcel Braithwaite</fighter2>
-<rounds>12</rounds>
-<weight>Junior Bantamweight</weight>
-
 <time>November 12, 2022</time>
-
-<loc>Las Vegas</loc>
-
-<fighter1>Janibek Alimkhanuly</fighter1>
-<fighter2>Denzel Bentley</fighter2>
-<rounds>12</rounds>
-<weight>Middleweight</weight>
-
-<fighter1>Seniesa Estrada</fighter1>
-<fighter2>Jazmin Villarino</fighter2>
-<rounds>10</rounds>
-<weight>Strawweight</weight>
 
 <loc>Manchester, England</loc>
 
@@ -47,6 +21,18 @@
 <fighter2>Kamil Sokolowski</fighter2>
 <rounds>8</rounds>
 <weight>Heavyweight</weight>
+
+<loc>Las Vegas</loc>
+
+<fighter1>Janibek Alimkhanuly</fighter1>
+<fighter2>Denzel Bentley</fighter2>
+<rounds>12</rounds>
+<weight>Middleweight</weight>
+
+<fighter1>Seniesa Estrada</fighter1>
+<fighter2>Jazmin Villarino</fighter2>
+<rounds>10</rounds>
+<weight>Strawweight</weight>
 
 <loc>Cleveland</loc>
 
