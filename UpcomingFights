@@ -1,5 +1,29 @@
 <time>November 12, 2022</time>
 
+
+<loc>New York</loc>
+
+<fighter1>Israel Adesanya</fighter1>
+<fighter2>Alex Pereira</fighter2>
+<rounds>5</rounds>
+<weight>Middleweight</weight>
+
+<fighter1>Carla Esparza</fighter1>
+<fighter2>Weili Zhang</fighter2>
+<rounds>5</rounds>
+<weight>Strawweight</weight>
+
+<fighter1>Dustin Porier</fighter1>
+<fighter2>Michael Chandler</fighter2>
+<rounds>3</rounds>
+<weight>Lightweight</weight>
+
+<fighter1>Frankie Edgar</fighter1>
+<fighter2>Chris Gutierrez</fighter2>
+<rounds>3</rounds>
+<weight>Bantamweight</weight>
+
+
 <loc>Manchester, England</loc>
 
 <fighter1>Ricky Hatton</fighter1>
@@ -38,28 +62,6 @@
 <fighter2>Jazmin Villarino</fighter2>
 <rounds>10</rounds>
 <weight>Strawweight</weight>
-
-<loc>New York</loc>
-
-<fighter1>Israel Adesanya</fighter1>
-<fighter2>Alex Pereira</fighter2>
-<rounds>5</rounds>
-<weight>Middleweight</weight>
-
-<fighter1>Carla Esparza</fighter1>
-<fighter2>Weili Zhang</fighter2>
-<rounds>5</rounds>
-<weight>Strawweight</weight>
-
-<fighter1>Dustin Porier</fighter1>
-<fighter2>Michael Chandler</fighter2>
-<rounds>3</rounds>
-<weight>Lightweight</weight>
-
-<fighter1>Frankie Edgar</fighter1>
-<fighter2>Chris Gutierrez</fighter2>
-<rounds>3</rounds>
-<weight>Bantamweight</weight>
 
 <loc>Cleveland</loc>
 
