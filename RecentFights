@@ -1,3 +1,95 @@
+<time>November 12, 2022</time>
+
+
+<loc>New York</loc>
+
+<fighter1>Israel Adesanya</fighter1>
+<fighter2>Alex Pereira</fighter2>
+<rounds>5</rounds>
+<weight>Middleweight</weight>
+
+<fighter1>Carla Esparza</fighter1>
+<fighter2>Weili Zhang</fighter2>
+<rounds>5</rounds>
+<weight>Strawweight</weight>
+
+<fighter1>Dustin Porier</fighter1>
+<fighter2>Michael Chandler</fighter2>
+<rounds>3</rounds>
+<weight>Lightweight</weight>
+
+<fighter1>Frankie Edgar</fighter1>
+<fighter2>Chris Gutierrez</fighter2>
+<rounds>3</rounds>
+<weight>Bantamweight</weight>
+
+
+<loc>Manchester, England</loc>
+
+<fighter1>Ricky Hatton</fighter1>
+<fighter2>Marco Antonio Barrera</fighter2>
+<rounds>8</rounds>
+<weight>Middleweight</weight>
+
+<fighter1>Natasha Jonas</fighter1>
+<fighter2>Marie-Eve Dicaire</fighter2>
+<rounds>10</rounds>
+<weight>Junior Middleweight</weight>
+
+<fighter1>Dalton Smith</fighter1>
+<fighter2>Kaisee Benjamin</fighter2>
+<rounds>12</rounds>
+<weight>Junior Welterweight</weight>
+
+<fighter1>Tyler Denny</fighter1>
+<fighter2>Bradley Rea</fighter2>
+<rounds>10</rounds>
+<weight>Middleweight</weight>
+
+<fighter1>Frazer Clarke</fighter1>
+<fighter2>Kamil Sokolowski</fighter2>
+<rounds>8</rounds>
+<weight>Heavyweight</weight>
+
+<loc>Las Vegas</loc>
+
+<fighter1>Janibek Alimkhanuly</fighter1>
+<fighter2>Denzel Bentley</fighter2>
+<rounds>12</rounds>
+<weight>Middleweight</weight>
+
+<fighter1>Seniesa Estrada</fighter1>
+<fighter2>Jazmin Villarino</fighter2>
+<rounds>10</rounds>
+<weight>Strawweight</weight>
+
+<loc>Cleveland</loc>
+
+<fighter1>Montana Love</fighter1>
+<fighter2>Stevie Spark</fighter2>
+<rounds>12</rounds>
+<weight>Junior Welterweight</weight>
+
+<fighter1>Richardson Hitchins</fighter1>
+<fighter2>Yomar Alamo</fighter2>
+<rounds>10</rounds>
+<weight>Junior Welterweight</weight>
+
+<fighter1>Raymond Ford</fighter1>
+<fighter2>Sakaria Lukas</fighter2>
+<rounds>10</rounds>
+<weight>Featherweight</weight>
+
+<time>November 13, 2022</time>
+
+<loc>Dubai</loc>
+
+<fighter1>Floyd Mayweather</fighter1>
+<fighter2>Deji</fighter2>
+<rounds>8</rounds>
+<weight>Middleweight</weight>
+
+
 <time>November 11, 2022</time>
 
 <loc>Sheffield, England</loc>
