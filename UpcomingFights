@@ -2,6 +2,14 @@
 
 <time>November 26, 2022</time>
 
+<loc>Carson, California</loc>
+
+<fighter1>Regis Prograis</fighter1>
+<fighter2>Jose Zepeda</fighter2>
+<rounds>10</rounds>
+<weight>Junior Welterweight</weight>
+
+
 <loc>London</loc>
 
 <fighter1>Zach Parker</fighter1>
@@ -49,12 +57,6 @@
 <rounds>10</rounds>
 <weight>Junior Heavyweight</weight>
 
-<loc>Carson, California</loc>
-
-<fighter1>Regis Prograis</fighter1>
-<fighter2>Jose Zepeda</fighter2>
-<rounds>10</rounds>
-<weight>Junior Welterweight</weight>
 
 
 <time>December 3, 2022</time>
