@@ -1,29 +1,58 @@
 
 
-<time>November 19, 2022</time>
+<time>November 26, 2022</time>
 
-<loc>Guadalajara, Mexico</loc>
+<loc>London</loc>
 
-<fighter1>Jaime Munguia</fighter1>
-<fighter2>Gonzalo Coria</fighter2>
+<fighter1>Zach Parker</fighter1>
+<fighter2>John Ryder</fighter2>
+<rounds>12</rounds>
+<weight>Super Middleweight</weight>
+
+<fighter1>Hamzah Sheeraz</fighter1>
+<fighter2>River Wilson Bent</fighter2>
 <rounds>12</rounds>
 <weight>Middleweight</weight>
 
 
-<loc>Telford</loc>
-
-<fighter1>Liam Davies</fighter1>
-<fighter2>Ionut Baluta</fighter2>
+<fighter1>Dennis McCann</fighter1>
+<fighter2>Joe Ham</fighter2>
 <rounds>12</rounds>
 <weight>Junior Featherweight</weight>
 
-<fighter1>Anthony Yarde</fighter1>
-<fighter2>Stefani Koykov</fighter2>
+<fighter1>Sam Noakes</fighter1>
+<fighter2>Calvin McCord</fighter2>
+<rounds>12</rounds>
+<weight>Lightweight</weight>
+
+
+<loc>London</loc>
+
+<fighter1>Dillian Whyte</fighter1>
+<fighter2>Jermaine Franklin</fighter2>
+<rounds>12</rounds>
+<weight>Heavyweight</weight>
+
+<fighter1>Fabio Wardley</fighter1>
+<fighter2>Nathan Gorman</fighter2>
+<rounds>12</rounds>
+<weight>Heavyweight</weight>
+
+
+<fighter1>Craig Richards</fighter1>
+<fighter2>Ricards Bolotnik</fighter2>
 <rounds>10</rounds>
 <weight>Light Heavyweight</weight>
 
-<fighter1>Eithan James</fighter1>
-<fighter2>Connor Parker</fighter2>
+<fighter1>Magali Rodriguez</fighter1>
+<fighter2>Sandy Ryan</fighter2>
+<rounds>10</rounds>
+<weight>Junior Heavyweight</weight>
+
+<loc>Carson, California</loc>
+
+<fighter1>Regis Prograis</fighter1>
+<fighter2>Jose Zepeda</fighter2>
 <rounds>10</rounds>
 <weight>Junior Welterweight</weight>
 
