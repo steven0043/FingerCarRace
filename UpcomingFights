@@ -57,6 +57,24 @@
 <rounds>10</rounds>
 <weight>Junior Heavyweight</weight>
 
+<time>November 27, 2022</time>
+
+<loc>London</loc>
+
+<fighter1>Adam Azim</fighter1>
+<fighter2>Rylan Charlton</fighter2>
+<rounds>10</rounds>
+<weight>Junior Welterweight</weight>
+
+<fighter1>Lerrone Richards</fighter1>
+<fighter2>Zak Chelli</fighter2>
+<rounds>10</rounds>
+<weight>Super Middleweight</weight>
+
+<fighter1>Mikael Lawal</fighter1>
+<fighter2>David Jamieson</fighter2>
+<rounds>12</rounds>
+<weight>Cruiserweight</weight>
 
 
 <time>December 3, 2022</time>
