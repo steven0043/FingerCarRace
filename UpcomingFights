@@ -1,48 +1,40 @@
-<time>December 3, 2022</time>
 
-
-
-<loc>Glendale, Arizona</loc>
-
-<fighter1>Juan Estrada</fighter1>
-<fighter2>Chocolatito</fighter2>
-<rounds>12</rounds>
-<weight>Super Flyweight</weight>
-
-<fighter1>Julio Martinez</fighter1>
-<fighter2>Samuel Carmona</fighter2>
-<rounds>12</rounds>
-<weight>Flyweight</weight>
-
-<fighter1>Joselito Velazquez</fighter1>
-<fighter2>Cristofer Rosales</fighter2>
-<rounds>10</rounds>
-<weight>Flyweight</weight>
-
-<fighter1>Diego Pacheco</fighter1>
-<fighter2>Ricardo Luna</fighter2>
-<rounds>10</rounds>
-<weight>Super Middleweight</weight>
-
-<loc>London</loc>
-
-<fighter1>Tyson Fury</fighter1>
-<fighter2>Derek Chisora</fighter2>
-<rounds>12</rounds>
-<weight>Heavyweight</weight>
-
-<fighter1>Daniel Dubois</fighter1>
-<fighter2>Kevin Lerena</fighter2>
-<rounds>12</rounds>
-<weight>Heavyweight</weight>
-
-
-<fighter1>Ivan Mendy</fighter1>
-<fighter2>Denys Berinchyk</fighter2>
-<rounds>12</rounds>
-<weight>Lightweight</weight>
 
 <time>December 10, 2022</time>
+
+<loc>Leeds</loc>
+
+<fighter1>Josh Warrington</fighter1>
+<fighter2>Alberto Lopez/fighter2>
+<rounds>12</rounds>
+<weight>Featherweight</weight>
+
+<fighter1>Ebanie Bridges</fighter1>
+<fighter2>Shannon O'Connell/fighter2>
+<rounds>10</rounds>
+<weight>Bantamweight</weight>
+
+<fighter1>James Metcalf</fighter1>
+<fighter2>Courtney Pennington/fighter2>
+<rounds>10</rounds>
+<weight>Junior Middleweight</weight>
+
+<fighter1>Hopey Price</fighter1>
+<fighter2>Jonathan Santana/fighter2>
+<rounds>8</rounds>
+<weight>Junior Featherweight</weight>
+
+<loc>Belfast</loc>
+
+<fighter1>Michael Conlan</fighter1>
+<fighter2>Karim Guerfi</fighter2>
+<rounds>10</rounds>
+<weight>Featherweight</weight>
+
+<fighter1>Liam Taylor</fighter1>
+<fighter2>Tyrone McKenna</fighter2>
+<rounds>10</rounds>
+<weight>Welterweight</weight>
 
 <loc>Omaha</loc>
 
@@ -50,6 +42,23 @@
 <fighter2>David Avanesyan</fighter2>
 <rounds>12</rounds>
 <weight>Welterweight</weight>
+
+<loc>New York</loc>
+
+<fighter1>Teofimo Lopez</fighter1>
+<fighter2>Sandor Martin</fighter2>
+<rounds>10</rounds>
+<weight>Junior Welterweight</weight>
+
+<fighter1>Jared Anderson</fighter1>
+<fighter2>Jerry Forrest</fighter2>
+<rounds>10</rounds>
+<weight>Heavyweight</weight>
+
+<fighter1>Keyshawn Davis</fighter1>
+<fighter2>Juan Carlos Burgos</fighter2>
+<rounds>8</rounds>
+<weight>Lightweight</weight>
 
 <time>December 13, 2022</time>
 
