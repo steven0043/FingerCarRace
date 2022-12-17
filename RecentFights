@@ -1,6 +1,35 @@
+
+
+<time>December 10, 2022</time>
+
+<loc>Leeds</loc>
+
+<fighter1>Josh Warrington</fighter1>
+<fighter2>Alberto Lopez</fighter2>
+<rounds>12</rounds>
+<weight>Featherweight</weight>
+
+<fighter1>Ebanie Bridges</fighter1>
+<fighter2>Shannon O'Connell</fighter2>
+<rounds>10</rounds>
+<weight>Bantamweight</weight>
+
+
+<loc>Omaha</loc>
+
+<fighter1>Terence Crawford</fighter1>
+<fighter2>David Avanesyan</fighter2>
+<rounds>12</rounds>
+<weight>Welterweight</weight>
+
+<loc>New York</loc>
+
+<fighter1>Teofimo Lopez</fighter1>
+<fighter2>Sandor Martin</fighter2>
+<rounds>10</rounds>
+<weight>Junior Welterweight</weight>
+
 <time>December 3, 2022</time>
-
-
 
 <loc>Glendale, Arizona</loc>
 
