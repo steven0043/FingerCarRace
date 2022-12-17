@@ -1,71 +1,47 @@
+<time>December 17, 2023</time>
 
+<loc>Bournemouth</loc>
 
-<time>December 10, 2022</time>
-
-<loc>Leeds</loc>
-
-<fighter1>Josh Warrington</fighter1>
-<fighter2>Alberto Lopez</fighter2>
+<fighter1>Chris Billam Smith</fighter1>
+<fighter2>Armend Xhoxhaj</fighter2>
 <rounds>12</rounds>
-<weight>Featherweight</weight>
+<weight>Cruiserweight</weight>
 
-<fighter1>Ebanie Bridges</fighter1>
-<fighter2>Shannon O'Connell</fighter2>
-<rounds>10</rounds>
-<weight>Bantamweight</weight>
-
-<fighter1>James Metcalf</fighter1>
-<fighter2>Courtney Pennington</fighter2>
-<rounds>10</rounds>
-<weight>Junior Middleweight</weight>
-
-<fighter1>Hopey Price</fighter1>
-<fighter2>Jonathan Santana</fighter2>
-<rounds>8</rounds>
-<weight>Junior Featherweight</weight>
-
-<loc>Belfast</loc>
-
-<fighter1>Michael Conlan</fighter1>
-<fighter2>Karim Guerfi</fighter2>
-<rounds>10</rounds>
-<weight>Featherweight</weight>
-
-<fighter1>Liam Taylor</fighter1>
-<fighter2>Tyrone McKenna</fighter2>
-<rounds>10</rounds>
-<weight>Welterweight</weight>
-
-<loc>Omaha</loc>
-
-<fighter1>Terence Crawford</fighter1>
-<fighter2>David Avanesyan</fighter2>
+<fighter1>Dan Azeez</fighter1>
+<fighter2>Rocky Fielding</fighter2>
 <rounds>12</rounds>
-<weight>Welterweight</weight>
+<weight>Light Heavyweight</weight>
 
-<loc>New York</loc>
-
-<fighter1>Teofimo Lopez</fighter1>
-<fighter2>Sandor Martin</fighter2>
-<rounds>10</rounds>
-<weight>Junior Welterweight</weight>
-
-<fighter1>Jared Anderson</fighter1>
-<fighter2>Jerry Forrest</fighter2>
+<fighter1>Steve Robinson</fighter1>
+<fighter2>Nick Campbell</fighter2>
 <rounds>10</rounds>
 <weight>Heavyweight</weight>
 
-<fighter1>Keyshawn Davis</fighter1>
-<fighter2>Juan Carlos Burgos</fighter2>
+<fighter1>Cori Gibbs</fighter1>
+<fighter2>Jimmy First</fighter2>
 <rounds>8</rounds>
 <weight>Lightweight</weight>
 
-<time>December 13, 2022</time>
+<fighter1>Caroline Dubois</fighter1>
+<fighter2>Sofia Rodriguez</fighter2>
+<rounds>6</rounds>
+<weight>Lightweight</weight>
 
-<loc>Tokyo</loc>
 
-<fighter1>Naoya Inoue</fighter1>
-<fighter2>Paul Butler</fighter2>
+<loc>Los Angeles</loc>
+
+<fighter1>Michel Rivera</fighter1>
+<fighter2>Frank Martin</fighter2>
+<rounds>12</rounds>
+<weight>Lightweight</weight>
+
+<fighter1>José Uzcátegui</fighter1>
+<fighter2>Vladimir Shishkin</fighter2>
+<rounds>12</rounds>
+<weight>Super Middleweight</weight>
+
+<fighter1>Vincent Astrolabio</fighter1>
+<fighter2>Nikolai Potapov</fighter2>
 <rounds>12</rounds>
 <weight>Bantamweight</weight>
 
