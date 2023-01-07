@@ -1,11 +1,4 @@
-<time>December 31, 2022</time>
 
-<loc>Japan</loc>
-
-<fighter1>Kazuto Ioka</fighter1>
-<fighter2>Joshua Franco</fighter2>
-<rounds>12</rounds>
-<weight>Junior Bantamweight</weight>
 
 <time>January 7, 2023</time>
 
@@ -14,8 +7,22 @@
 <fighter1>Gervonta Davis</fighter1>
 <fighter2>Hector Luis Garcia</fighter2>
 <rounds>12</rounds>
-<weight>Junior Welterweight</weight>
+<weight>Lightweight</weight>
 
+<fighter1>Jaron Ennis</fighter1>
+<fighter2>Karen Chukhadzhian</fighter2>
+<rounds>12</rounds>
+<weight>Welterweight</weight>
+
+<fighter1>Rashidi Ellis</fighter1>
+<fighter2>Roiman Villa</fighter2>
+<rounds>12</rounds>
+<weight>Welterweight</weight>
+
+<fighter1>Demetrius Andrade</fighter1>
+<fighter2>Demond Nicholson</fighter2>
+<rounds>10</rounds>
+<weight>Super Middleweight</weight>
 
 <time>January 28, 2023</time>
 
