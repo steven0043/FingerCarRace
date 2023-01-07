@@ -24,6 +24,15 @@
 <rounds>10</rounds>
 <weight>Super Middleweight</weight>
 
+<time>January 21, 2023</time>
+
+<loc>London</loc>
+
+<fighter1>Chris Eubank</fighter1>
+<fighter2>Liam Smith</fighter2>
+<rounds>12</rounds>
+<weight>Middleweight</weight>
+
 <time>January 28, 2023</time>
 
 <loc>London</loc>
@@ -33,10 +42,20 @@
 <rounds>12</rounds>
 <weight>Light Heavyweight</weight>
 
+<time>February 4, 2023</time>
 
-<loc>Los Angeles</loc>
+<loc>New York</loc>
 
-<fighter1>Jermell Charlo</fighter1>
-<fighter2>Tim Tszyu</fighter2>
+<fighter1>Amanda Serrano</fighter1>
+<fighter2>Erika Cruz</fighter2>
+<rounds>10</rounds>
+<weight>Featherweight</weight>
+
+<time>March 4, 2023</time>
+
+<loc>Glasgow</loc>
+
+<fighter1>Jack Catterall</fighter1>
+<fighter2>Josh Taylor</fighter2>
 <rounds>12</rounds>
-<weight>Junior Middleweight</weight>
+<weight>Junior Welterweight</weight>
