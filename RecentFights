@@ -1,4 +1,25 @@
+<time>January 7, 2023</time>
+<loc>Washington</loc>
 
+<fighter1>Gervonta Davis</fighter1>
+<fighter2>Hector Luis Garcia</fighter2>
+<rounds>12</rounds>
+<weight>Lightweight</weight>
+
+<fighter1>Jaron Ennis</fighter1>
+<fighter2>Karen Chukhadzhian</fighter2>
+<rounds>12</rounds>
+<weight>Welterweight</weight>
+
+<fighter1>Rashidi Ellis</fighter1>
+<fighter2>Roiman Villa</fighter2>
+<rounds>12</rounds>
+<weight>Welterweight</weight>
+
+<fighter1>Demetrius Andrade</fighter1>
+<fighter2>Demond Nicholson</fighter2>
+<rounds>10</rounds>
+<weight>Super Middleweight</weight>
 <time>December 13, 2022</time>
 
 <loc>Tokyo</loc>
