@@ -1,28 +1,41 @@
+<time>January 14, 2023</time>
 
+<loc>London</loc>
 
-<time>January 7, 2023</time>
+<fighter1>KSI</fighter1>
+<fighter2>Faze Temperrr</fighter2>
+<rounds>6</rounds>
+<weight>Cruiserweight</weight>
 
-<loc>Washington</loc>
+<fighter1>Slim</fighter1>
+<fighter2>Tom Zanetti</fighter2>
+<rounds>4</rounds>
+<weight>Light Heavyweight</weight>
 
-<fighter1>Gervonta Davis</fighter1>
-<fighter2>Hector Luis Garcia</fighter2>
-<rounds>12</rounds>
-<weight>Lightweight</weight>
+<fighter1>🧂 Papi</fighter1>
+<fighter2>Josh Brueckner</fighter2>
+<rounds>4</rounds>
+<weight>Cruiserweight</weight>
 
-<fighter1>Jaron Ennis</fighter1>
-<fighter2>Karen Chukhadzhian</fighter2>
-<rounds>12</rounds>
-<weight>Welterweight</weight>
+<loc>Verona, New York</loc>
 
-<fighter1>Rashidi Ellis</fighter1>
-<fighter2>Roiman Villa</fighter2>
-<rounds>12</rounds>
-<weight>Welterweight</weight>
-
-<fighter1>Demetrius Andrade</fighter1>
-<fighter2>Demond Nicholson</fighter2>
+<fighter1>Efe Ajagba</fighter1>
+<fighter2>Stephan Shaw</fighter2>
 <rounds>10</rounds>
-<weight>Super Middleweight</weight>
+<weight>Heavyweight</weight>
+
+<fighter1>Guido Vianello</fighter1>
+<fighter2>Jonathan Rice</fighter2>
+<rounds>10</rounds>
+<weight>Heavyweight</weight>
+
+<fighter1>Adam Lopez</fighter1>
+<fighter2>Abraham Novaw</fighter2>
+<rounds>10</rounds>
+<weight>Junior Lightweight</weight>
+
+
+
 
 <time>January 21, 2023</time>
 
