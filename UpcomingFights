@@ -1,41 +1,3 @@
-<time>January 14, 2023</time>
-
-<loc>London</loc>
-
-<fighter1>KSI</fighter1>
-<fighter2>Faze Temperrr</fighter2>
-<rounds>6</rounds>
-<weight>Cruiserweight</weight>
-
-<fighter1>Slim</fighter1>
-<fighter2>Tom Zanetti</fighter2>
-<rounds>4</rounds>
-<weight>Light Heavyweight</weight>
-
-<fighter1>🧂 Papi</fighter1>
-<fighter2>Josh Brueckner</fighter2>
-<rounds>4</rounds>
-<weight>Cruiserweight</weight>
-
-<loc>Verona, New York</loc>
-
-<fighter1>Efe Ajagba</fighter1>
-<fighter2>Stephan Shaw</fighter2>
-<rounds>10</rounds>
-<weight>Heavyweight</weight>
-
-<fighter1>Guido Vianello</fighter1>
-<fighter2>Jonathan Rice</fighter2>
-<rounds>10</rounds>
-<weight>Heavyweight</weight>
-
-<fighter1>Adam Lopez</fighter1>
-<fighter2>Abraham Novaw</fighter2>
-<rounds>10</rounds>
-<weight>Junior Lightweight</weight>
-
-
-
 
 <time>January 21, 2023</time>
 
@@ -45,6 +7,33 @@
 <fighter2>Liam Smith</fighter2>
 <rounds>12</rounds>
 <weight>Middleweight</weight>
+
+<fighter1>Chris Eubank</fighter1>
+<fighter2>Liam Smith</fighter2>
+<rounds>12</rounds>
+<weight>Middleweight</weight>
+
+<fighter1>Richard Riakporhe</fighter1>
+<fighter2>Krzysztof Glowacki</fighter2>
+<rounds>12</rounds>
+<weight>Cruiserweight</weight>
+
+<fighter1>Ekow Essuman</fighter1>
+<fighter2>Chris Kongo</fighter2>
+<rounds>12</rounds>
+<weight>Welterweight</weight>
+
+
+<fighter1>Joseph Parker</fighter1>
+<fighter2>Jack Massey</fighter2>
+<rounds>10</rounds>
+<weight>Heavyweight</weight>
+
+<fighter1>Frazer Clarke</fighter1>
+<fighter2>Kevin Nicolas</fighter2>
+<rounds>8</rounds>
+<weight>Heavyweight</weight>
+
 
 <time>January 28, 2023</time>
 
