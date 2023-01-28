@@ -1,3 +1,35 @@
+
+<time>January 21, 2023</time>
+
+<loc>London</loc>
+
+<fighter1>Chris Eubank</fighter1>
+<fighter2>Liam Smith</fighter2>
+<rounds>12</rounds>
+<weight>Middleweight</weight>
+
+
+<fighter1>Richard Riakporhe</fighter1>
+<fighter2>Krzysztof Glowacki</fighter2>
+<rounds>12</rounds>
+<weight>Cruiserweight</weight>
+
+<fighter1>Ekow Essuman</fighter1>
+<fighter2>Chris Kongo</fighter2>
+<rounds>12</rounds>
+<weight>Welterweight</weight>
+
+
+<fighter1>Joseph Parker</fighter1>
+<fighter2>Jack Massey</fighter2>
+<rounds>10</rounds>
+<weight>Heavyweight</weight>
+
+<fighter1>Frazer Clarke</fighter1>
+<fighter2>Kevin Nicolas</fighter2>
+<rounds>8</rounds>
+<weight>Heavyweight</weight>
+
 <time>January 7, 2023</time>
 <loc>Washington</loc>
 
