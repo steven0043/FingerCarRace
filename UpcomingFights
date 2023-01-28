@@ -1,34 +1,4 @@
 
-<time>January 21, 2023</time>
-
-<loc>London</loc>
-
-<fighter1>Chris Eubank</fighter1>
-<fighter2>Liam Smith</fighter2>
-<rounds>12</rounds>
-<weight>Middleweight</weight>
-
-
-<fighter1>Richard Riakporhe</fighter1>
-<fighter2>Krzysztof Glowacki</fighter2>
-<rounds>12</rounds>
-<weight>Cruiserweight</weight>
-
-<fighter1>Ekow Essuman</fighter1>
-<fighter2>Chris Kongo</fighter2>
-<rounds>12</rounds>
-<weight>Welterweight</weight>
-
-
-<fighter1>Joseph Parker</fighter1>
-<fighter2>Jack Massey</fighter2>
-<rounds>10</rounds>
-<weight>Heavyweight</weight>
-
-<fighter1>Frazer Clarke</fighter1>
-<fighter2>Kevin Nicolas</fighter2>
-<rounds>8</rounds>
-<weight>Heavyweight</weight>
 
 
 <time>January 28, 2023</time>
@@ -40,6 +10,38 @@
 <rounds>12</rounds>
 <weight>Light Heavyweight</weight>
 
+<fighter1>Moses Itauma</fighter1>
+<fighter2>Marcel Bode</fighter2>
+<rounds>4</rounds>
+<weight>Heavyweight</weight>
+
+<fighter1>Artem Dalakian</fighter1>
+<fighter2>David Jimenez</fighter2>
+<rounds>12</rounds>
+<weight>Flyweight</weight>
+
+<fighter1>Karol Itauma</fighter1>
+<fighter2>Ezequiel Maderna</fighter2>
+<rounds>10</rounds>
+<weight>Light Heavyweight</weight>
+
+<loc>California</loc>
+
+<fighter1>Alexis Rocha</fighter1>
+<fighter2>Anthony Young</fighter2>
+<rounds>12</rounds>
+<weight>Welterweight</weight>
+
+<fighter1>Floyd Schofield</fighter1>
+<fighter2>Alberto Mercado</fighter2>
+<rounds>10</rounds>
+<weight>Lightweight</weight>
+
+<fighter1>Oscar Collazo</fighter1>
+<fighter2>Wilfredo Mendez</fighter2>
+<rounds>12</rounds>
+<weight>Strawweight</weight>
+
 <time>February 4, 2023</time>
 
 <loc>New York</loc>
@@ -49,6 +51,15 @@
 <rounds>10</rounds>
 <weight>Featherweight</weight>
 
+<time>February 26, 2023</time>
+
+<loc>Riyadh, Saudi Arabia</loc>
+
+<fighter1>Jake Paul</fighter1>
+<fighter2>Tommy Fury</fighter2>
+<rounds>10</rounds>
+<weight>Cruiserweight</weight>
+
 <time>March 4, 2023</time>
 
 <loc>Glasgow</loc>
@@ -57,3 +68,24 @@
 <fighter2>Josh Taylor</fighter2>
 <rounds>12</rounds>
 <weight>Junior Welterweight</weight>
+
+
+
+<time>March 25, 2023</time>
+
+<loc>Las Vegas</loc>
+
+<fighter1>David Benavidez</fighter1>
+<fighter2>Caleb Plant</fighter2>
+<rounds>12</rounds>
+<weight>Super Middleweight</weight>
+
+<time>April 1, 2023</time>
+
+<loc>Tusla, Oklahoma</loc>
+
+<fighter1>Robeisy Ramirez</fighter1>
+<fighter2>Isaac Dogboe</fighter2>
+<rounds>12</rounds>
+<weight>Featherweight</weight>
+
