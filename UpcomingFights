@@ -1,48 +1,39 @@
-<time>February 11, 2023</time>
+<time>February 18, 2023</time>
 
-<loc>San Antonio, Texas</loc>
+<loc>Nottingham, England</loc>
 
-<fighter1>Rey Vargas</fighter1>
-<fighter2>O'Shaquie Foster</fighter2>
+<fighter1>Leigh Wood</fighter1>
+<fighter2>Mauricio Lara</fighter2>
 <rounds>12</rounds>
-<weight>Junior Lightweight</weight>
+<weight>Featherweight</weight>
 
-<fighter1>Mario Barrios</fighter1>
-<fighter2>Jovanie Santiago</fighter2>
+<fighter1>Dalton Smith</fighter1>
+<fighter2>Billy Allington</fighter2>
 <rounds>10</rounds>
 <weight>Junior Welterweight</weight>
 
-<fighter1>Lenier Pero</fighter1>
-<fighter2>Viktor Vykhryst</fighter2>
+<fighter1>Gary Cully</fighter1>
+<fighter2>Wilfredo Flores</fighter2>
 <rounds>10</rounds>
-<weight>Heavyeight</weight>
-
-<loc>London, England</loc>
-
-<fighter1>Adam Azim</fighter1>
-<fighter2>Santos Reyes</fighter2>
-<rounds>10</rounds>
-<weight>Junior Welterweight</weight>
-
-<fighter1>Zak Chelli</fighter1>
-<fighter2>Anthony Sims</fighter2>
-<rounds>10</rounds>
-<weight>Super Middleweight</weight>
-
-<fighter1>Tyler Denny</fighter1>
-<fighter2>Brad Pauls</fighter2>
-<rounds>10</rounds>
-<weight>Middleweight</weight>
-
-<fighter1>Caroline Dubois</fighter1>
-<fighter2>Feriche Mashaury</fighter2>
-<rounds>8</rounds>
 <weight>Lightweight</weight>
 
-<fighter1>Viddal Riley</fighter1>
-<fighter2>Anees Taj</fighter2>
-<rounds>8</rounds>
-<weight>Cruiserweight</weight>
+<fighter1>Gamal Yafai</fighter1>
+<fighter2>Diego Ruiz</fighter2>
+<rounds>10</rounds>
+<weight>Junior Featherweight</weight>
+
+
+<loc>Pomona, California</loc>
+
+<fighter1>Luis Nery</fighter1>
+<fighter2>Azat Hovhannisyan</fighter2>
+<rounds>12</rounds>
+<weight>Junior Featherweight</weight>
+
+<fighter1>Shane Mosley Jr</fighter1>
+<fighter2>Mario Alberto Lozanon</fighter2>
+<rounds>10</rounds>
+<weight>Super Middleweight</weight>
 
 <time>February 26, 2023</time>
 
@@ -52,16 +43,6 @@
 <fighter2>Tommy Fury</fighter2>
 <rounds>10</rounds>
 <weight>Cruiserweight</weight>
-
-<time>March 4, 2023</time>
-
-<loc>Glasgow, Scotland</loc>
-
-<fighter1>Jack Catterall</fighter1>
-<fighter2>Josh Taylor</fighter2>
-<rounds>12</rounds>
-<weight>Junior Welterweight</weight>
-
 
 
 <time>March 25, 2023</time>
@@ -82,3 +63,12 @@
 <rounds>12</rounds>
 <weight>Featherweight</weight>
 
+
+<time>April 8, 2023</time>
+
+<loc>Newark, New Jersey</loc>
+
+<fighter1>Shakur Stevenson</fighter1>
+<fighter2>Shuichiro Yoshino</fighter2>
+<rounds>12</rounds>
+<weight>Lightweight</weight>
