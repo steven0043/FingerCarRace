@@ -1,3 +1,39 @@
+<time>February 11, 2023</time>
+<loc>San Antonio, Texas</loc>
+
+<fighter1>Rey Vargas</fighter1>
+<fighter2>O'Shaquie Foster</fighter2>
+<rounds>12</rounds>
+<weight>Junior Lightweight</weight>
+
+<loc>London, England</loc>
+
+<fighter1>Adam Azim</fighter1>
+<fighter2>Santos Reyes</fighter2>
+<rounds>10</rounds>
+<weight>Junior Welterweight</weight>
+
+<fighter1>Zak Chelli</fighter1>
+<fighter2>Anthony Sims</fighter2>
+<rounds>10</rounds>
+<weight>Super Middleweight</weight>
+
+<fighter1>Tyler Denny</fighter1>
+<fighter2>Brad Pauls</fighter2>
+<rounds>10</rounds>
+<weight>Middleweight</weight>
+
+<fighter1>Caroline Dubois</fighter1>
+<fighter2>Feriche Mashaury</fighter2>
+<rounds>8</rounds>
+<weight>Lightweight</weight>
+
+<fighter1>Viddal Riley</fighter1>
+<fighter2>Anees Taj</fighter2>
+<rounds>8</rounds>
+<weight>Cruiserweight</weight>
+
+
 <time>February 4, 2023</time>
 
 <loc>Glendale, Arizona</loc>
