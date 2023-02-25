@@ -1,39 +1,11 @@
-<time>February 18, 2023</time>
+<time>February 25, 2023</time>
 
-<loc>Nottingham, England</loc>
+<loc>London</loc>
 
-<fighter1>Leigh Wood</fighter1>
-<fighter2>Mauricio Lara</fighter2>
-<rounds>12</rounds>
-<weight>Featherweight</weight>
-
-<fighter1>Dalton Smith</fighter1>
-<fighter2>Billy Allington</fighter2>
+<fighter1>Floyd Mayweather</fighter1>
+<fighter2>Aaron Chalmers</fighter2>
 <rounds>10</rounds>
-<weight>Junior Welterweight</weight>
-
-<fighter1>Gary Cully</fighter1>
-<fighter2>Wilfredo Flores</fighter2>
-<rounds>10</rounds>
-<weight>Lightweight</weight>
-
-<fighter1>Gamal Yafai</fighter1>
-<fighter2>Diego Ruiz</fighter2>
-<rounds>10</rounds>
-<weight>Junior Featherweight</weight>
-
-
-<loc>Pomona, California</loc>
-
-<fighter1>Luis Nery</fighter1>
-<fighter2>Azat Hovhannisyan</fighter2>
-<rounds>12</rounds>
-<weight>Junior Featherweight</weight>
-
-<fighter1>Shane Mosley Jr</fighter1>
-<fighter2>Mario Alberto Lozanon</fighter2>
-<rounds>10</rounds>
-<weight>Super Middleweight</weight>
+<weight>Middleweight</weight>
 
 <time>February 26, 2023</time>
 
@@ -42,6 +14,11 @@
 <fighter1>Jake Paul</fighter1>
 <fighter2>Tommy Fury</fighter2>
 <rounds>10</rounds>
+<weight>Cruiserweight</weight>
+
+<fighter1>Ilunga Makabu</fighter1>
+<fighter2>Badou Jack</fighter2>
+<rounds>12</rounds>
 <weight>Cruiserweight</weight>
 
 
