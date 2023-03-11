@@ -1,46 +1,51 @@
 
-<time>March 4, 2023</time>
+<time>March 11, 2023</time>
 
-<loc>Newcastle</loc>
+<loc>Liverpool</loc>
 
-<fighter1>Lewis Ritson</fighter1>
-<fighter2>Ohara Davies</fighter2>
+<fighter1>Diego Pacheco</fighter1>
+<fighter2>Jack Cullen</fighter2>
 <rounds>12</rounds>
+<weight>Super Middleweight</weight>
+
+<fighter1>Liam Paro</fighter1>
+<fighter2>Robbie Davies</fighter2>
+<rounds>10</rounds>
 <weight>Junior Welterweight</weight>
 
-<fighter1>Lee McGregor</fighter1>
-<fighter2>Alexis Kabore</fighter2>
+<fighter1>Mickey Ellison</fighter1>
+<fighter2>Thomas Whittaker Hart</fighter2>
+<rounds>10</rounds>
+<weight>Light Heavyweight</weight>
+
+<fighter1>Johnny Fisher</fighter1>
+<fighter2>Alfonso Damiani</fighter2>
+<rounds>8</rounds>
+<weight>Heavyweight</weight>
+
+<loc>Sydney, Australia</loc>
+
+<fighter1>Tim Tszyu</fighter1>
+<fighter2>Tony Harrison</fighter2>
+<rounds>12</rounds>
+<weight>Junior Middleweight</weight>
+
+<fighter1>Sam Goodman</fighter1>
+<fighter2>TJ Doheny</fighter2>
 <rounds>10</rounds>
 <weight>Junior Featherweight</weight>
 
-<fighter1>Thomas Ward</fighter1>
-<fighter2>Otabek Kholmatov</fighter2>
+<loc>Paris, France</loc>
+
+<fighter1>Tony Yoka</fighter1>
+<fighter2>Carlos Takam</fighter2>
+<rounds>10</rounds>
+<weight>Heavyweight</weight>
+
+<fighter1>Thomas Faure</fighter1>
+<fighter2>Dan Azeez</fighter2>
 <rounds>12</rounds>
-<weight>Featherweight</weight>
-
-<loc>Ontario, California</loc>
-
-<fighter1>Brandon Figueroa</fighter1>
-<fighter2>Mark Magsayo</fighter2>
-<rounds>12</rounds>
-<weight>Featherweight</weight>
-
-<fighter1>Jarrett Hurd</fighter1>
-<fighter2>Jose Armando Resendiz</fighter2>
-<rounds>10</rounds>
-<weight>Middleweight</weight>
-
-<loc>Sinaloa, Mexico</loc>
-
-<fighter1>Angel Fierro</fighter1>
-<fighter2>Eduardo Estela</fighter2>
-<rounds>10</rounds>
-<weight>Lightweight</weight>
-
-<fighter1>Eduardo Nunez</fighter1>
-<fighter2>Jesus Martin Ceyca</fighter2>
-<rounds>10</rounds>
-<weight>Junior Lightweight</weight>
+<weight>Light Heavyweight</weight>
 
 <time>March 25, 2023</time>
 
