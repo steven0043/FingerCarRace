@@ -1,6 +1,18 @@
 
 <time>March 11, 2023</time>
 
+<loc>Sydney, Australia</loc>
+
+<fighter1>Tim Tszyu</fighter1>
+<fighter2>Tony Harrison</fighter2>
+<rounds>12</rounds>
+<weight>Junior Middleweight</weight>
+
+<fighter1>Sam Goodman</fighter1>
+<fighter2>TJ Doheny</fighter2>
+<rounds>10</rounds>
+<weight>Junior Featherweight</weight>
+
 <loc>Liverpool</loc>
 
 <fighter1>Diego Pacheco</fighter1>
@@ -23,17 +35,7 @@
 <rounds>8</rounds>
 <weight>Heavyweight</weight>
 
-<loc>Sydney, Australia</loc>
 
-<fighter1>Tim Tszyu</fighter1>
-<fighter2>Tony Harrison</fighter2>
-<rounds>12</rounds>
-<weight>Junior Middleweight</weight>
-
-<fighter1>Sam Goodman</fighter1>
-<fighter2>TJ Doheny</fighter2>
-<rounds>10</rounds>
-<weight>Junior Featherweight</weight>
 
 <loc>Paris, France</loc>
 
