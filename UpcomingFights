@@ -1,54 +1,4 @@
 
-<time>March 11, 2023</time>
-
-<loc>Sydney, Australia</loc>
-
-<fighter1>Tim Tszyu</fighter1>
-<fighter2>Tony Harrison</fighter2>
-<rounds>12</rounds>
-<weight>Junior Middleweight</weight>
-
-<fighter1>Sam Goodman</fighter1>
-<fighter2>TJ Doheny</fighter2>
-<rounds>10</rounds>
-<weight>Junior Featherweight</weight>
-
-<loc>Liverpool</loc>
-
-<fighter1>Diego Pacheco</fighter1>
-<fighter2>Jack Cullen</fighter2>
-<rounds>12</rounds>
-<weight>Super Middleweight</weight>
-
-<fighter1>Liam Paro</fighter1>
-<fighter2>Robbie Davies</fighter2>
-<rounds>10</rounds>
-<weight>Junior Welterweight</weight>
-
-<fighter1>Mickey Ellison</fighter1>
-<fighter2>Thomas Whittaker Hart</fighter2>
-<rounds>10</rounds>
-<weight>Light Heavyweight</weight>
-
-<fighter1>Johnny Fisher</fighter1>
-<fighter2>Alfonso Damiani</fighter2>
-<rounds>8</rounds>
-<weight>Heavyweight</weight>
-
-
-
-<loc>Paris, France</loc>
-
-<fighter1>Tony Yoka</fighter1>
-<fighter2>Carlos Takam</fighter2>
-<rounds>10</rounds>
-<weight>Heavyweight</weight>
-
-<fighter1>Thomas Faure</fighter1>
-<fighter2>Dan Azeez</fighter2>
-<rounds>12</rounds>
-<weight>Light Heavyweight</weight>
-
 <time>March 25, 2023</time>
 
 <loc>Las Vegas</loc>
@@ -57,6 +7,61 @@
 <fighter2>Caleb Plant</fighter2>
 <rounds>12</rounds>
 <weight>Super Middleweight</weight>
+
+<fighter1>Jesus Ramos</fighter1>
+<fighter2>Joseph Spencer</fighter2>
+<rounds>10</rounds>
+<weight>Junior Middleweight</weight>
+
+<fighter1>Cody Crowley</fighter1>
+<fighter2>Abel Ramos</fighter2>
+<rounds>10</rounds>
+<weight>Welterweight</weight>
+
+<fighter1>Chris Colbert</fighter1>
+<fighter2>Jose Valenzuela</fighter2>
+<rounds>10</rounds>
+<weight>Lightweight</weight>
+
+<loc>Fresno, California</loc>
+
+<fighter1>Jose Ramirez</fighter1>
+<fighter2>Richard Commey</fighter2>
+<rounds>12</rounds>
+<weight>Junior Welterweight</weight>
+
+<fighter1>Seniesa Estrada</fighter1>
+<fighter2>Tina Rupprecht</fighter2>
+<rounds>10</rounds>
+<weight>Strawweight</weight>
+
+<fighter1>Raymond Muratalla</fighter1>
+<fighter2>Humberto Galindo</fighter2>
+<rounds>10</rounds>
+<weight>Lightweight</weight>
+
+<loc>Manchester</loc>
+
+<fighter1>Lawrence Okolie</fighter1>
+<fighter2>David Light</fighter2>
+<rounds>12</rounds>
+<weight>Cruiserweight</weight>
+
+<fighter1>Michael Gomez</fighter1>
+<fighter2>Levi Giles</fighter2>
+<rounds>10</rounds>
+<weight>Junior Lightweight</weight>
+
+<fighter1>Frazer Clarke</fighter1>
+<fighter2>Bogdan Dinu</fighter2>
+<rounds>8</rounds>
+<weight>Heavyweight</weight>
+
+<fighter1>Karriss Artingstall</fighter1>
+<fighter2>Linzi Buczynskyj</fighter2>
+<rounds>6</rounds>
+<weight>Featherweight</weight>
+
 
 <time>April 1, 2023</time>
 
