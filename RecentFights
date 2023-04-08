@@ -1,3 +1,42 @@
+
+
+<time>April 1, 2023</time>
+
+<loc>London</loc>
+
+<fighter1>Anthony Joshua</fighter1>
+<fighter2>Jermaine Franklin</fighter2>
+<rounds>12</rounds>
+<weight>Heavyweight</weight>
+
+<fighter1>Austin Williams</fighter1>
+<fighter2>River Wilson Bent</fighter2>
+<rounds>10</rounds>
+<weight>Middleweight</weight>
+
+<fighter1>Fabio Wardley</fighter1>
+<fighter2>Michael Coffie</fighter2>
+<rounds>10</rounds>
+<weight>Heavyweight</weight>
+
+<fighter1>Campbell Hatton</fighter1>
+<fighter2>Louis Fielding</fighter2>
+<rounds>8</rounds>
+<weight>Lightweight</weight>
+
+<loc>Tusla, Oklahoma</loc>
+
+<fighter1>Robeisy Ramirez</fighter1>
+<fighter2>Isaac Dogboe</fighter2>
+<rounds>12</rounds>
+<weight>Featherweight</weight>
+
+<fighter1>Joet Gonzalez</fighter1>
+<fighter2>Jose Vivas</fighter2>
+<rounds>10</rounds>
+<weight>Featherweight</weight>
+
+
 <time>March 25, 2023</time>
 
 <loc>Las Vegas</loc>
