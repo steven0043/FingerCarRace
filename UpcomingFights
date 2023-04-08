@@ -1,41 +1,5 @@
 
 
-<time>April 1, 2023</time>
-
-<loc>London</loc>
-
-<fighter1>Anthony Joshua</fighter1>
-<fighter2>Jermaine Franklin</fighter2>
-<rounds>12</rounds>
-<weight>Heavyweight</weight>
-
-<fighter1>Austin Williams</fighter1>
-<fighter2>River Wilson Bent</fighter2>
-<rounds>10</rounds>
-<weight>Middleweight</weight>
-
-<fighter1>Fabio Wardley</fighter1>
-<fighter2>Michael Coffie</fighter2>
-<rounds>10</rounds>
-<weight>Heavyweight</weight>
-
-<fighter1>Campbell Hatton</fighter1>
-<fighter2>Louis Fielding</fighter2>
-<rounds>8</rounds>
-<weight>Lightweight</weight>
-
-<loc>Tusla, Oklahoma</loc>
-
-<fighter1>Robeisy Ramirez</fighter1>
-<fighter2>Isaac Dogboe</fighter2>
-<rounds>12</rounds>
-<weight>Featherweight</weight>
-
-<fighter1>Joet Gonzalez</fighter1>
-<fighter2>Jose Vivas</fighter2>
-<rounds>10</rounds>
-<weight>Featherweight</weight>
-
 <time>April 8, 2023</time>
 
 <loc>Newark, New Jersey</loc>
@@ -44,6 +8,56 @@
 <fighter2>Shuichiro Yoshino</fighter2>
 <rounds>12</rounds>
 <weight>Lightweight</weight>
+
+
+<fighter1>Jared Anderson</fighter1>
+<fighter2>George Arias</fighter2>
+<rounds>10</rounds>
+<weight>Heavyweight</weight>
+
+
+<fighter1>Keyshawn Davis</fighter1>
+<fighter2>Anthony Yigit</fighter2>
+<rounds>10</rounds>
+<weight>Lightweight</weight>
+
+<loc>San Antonio, Texas</loc>
+
+<fighter1>Jesse Rodriguez</fighter1>
+<fighter2>Cristian Gonzalez</fighter2>
+<rounds>12</rounds>
+<weight>Flyweight</weight>
+
+
+<fighter1>Murodjon Akhmadaliev</fighter1>
+<fighter2>Marlon Tapales</fighter2>
+<rounds>12</rounds>
+<weight>Featherweight</weight>
+
+
+<fighter1>Raymond Ford</fighter1>
+<fighter2>Jessie Magdaleno</fighter2>
+<rounds>10</rounds>
+<weight>Featherweight</weight>
+
+<loc>Carson, California</loc>
+
+<fighter1>Sebastian Fundora</fighter1>
+<fighter2>Brian Mendoza</fighter2>
+<rounds>12</rounds>
+<weight>Junior Middleweight</weight>
+
+
+<fighter1>Brandun Lee</fighter1>
+<fighter2>Pedro Campa</fighter2>
+<rounds>10</rounds>
+<weight>Welterweight</weight>
+
+
+<fighter1>Frank Sanchez</fighter1>
+<fighter2>Daniel Martz</fighter2>
+<rounds>10</rounds>
+<weight>Heavyweight</weight>
 
 <time>April 22, 2023</time>
 
