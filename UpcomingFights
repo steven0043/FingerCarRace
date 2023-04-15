@@ -1,62 +1,33 @@
+<time>April 15, 2023</time>
 
+<loc>London</loc>
 
-<time>April 8, 2023</time>
-
-<loc>Newark, New Jersey</loc>
-
-<fighter1>Shakur Stevenson</fighter1>
-<fighter2>Shuichiro Yoshino</fighter2>
+<fighter1>Joe Joyce</fighter1>
+<fighter2>Zhilei Zhang</fighter2>
 <rounds>12</rounds>
-<weight>Lightweight</weight>
-
-
-<fighter1>Jared Anderson</fighter1>
-<fighter2>George Arias</fighter2>
-<rounds>10</rounds>
 <weight>Heavyweight</weight>
 
-
-<fighter1>Keyshawn Davis</fighter1>
-<fighter2>Anthony Yigit</fighter2>
+<fighter1>Mikaela Mayer</fighter1>
+<fighter2>Lucy Wildheart</fighter2>
 <rounds>10</rounds>
 <weight>Lightweight</weight>
 
-<loc>San Antonio, Texas</loc>
 
-<fighter1>Jesse Rodriguez</fighter1>
-<fighter2>Cristian Gonzalez</fighter2>
+
+<fighter1>Denzel Bentley</fighter1>
+<fighter2>Kieran Smith</fighter2>
 <rounds>12</rounds>
-<weight>Flyweight</weight>
+<weight>Middleweight</weight>
 
 
-<fighter1>Murodjon Akhmadaliev</fighter1>
-<fighter2>Marlon Tapales</fighter2>
+<fighter1>Sam Noakes</fighter1>
+<fighter2>Karthik Sathish Kumar</fighter2>
 <rounds>12</rounds>
-<weight>Featherweight</weight>
+<weight>Lightweight</weight>
 
-
-<fighter1>Raymond Ford</fighter1>
-<fighter2>Jessie Magdaleno</fighter2>
-<rounds>10</rounds>
-<weight>Featherweight</weight>
-
-<loc>Carson, California</loc>
-
-<fighter1>Sebastian Fundora</fighter1>
-<fighter2>Brian Mendoza</fighter2>
-<rounds>12</rounds>
-<weight>Junior Middleweight</weight>
-
-
-<fighter1>Brandun Lee</fighter1>
-<fighter2>Pedro Campa</fighter2>
-<rounds>10</rounds>
-<weight>Welterweight</weight>
-
-
-<fighter1>Frank Sanchez</fighter1>
-<fighter2>Daniel Martz</fighter2>
-<rounds>10</rounds>
+<fighter1>Moses Itauma</fighter1>
+<fighter2>Kostiantyn Dovbyshchenko</fighter2>
+<rounds>6</rounds>
 <weight>Heavyweight</weight>
 
 <time>April 22, 2023</time>
