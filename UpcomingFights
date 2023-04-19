@@ -1,35 +1,3 @@
-<time>April 15, 2023</time>
-
-<loc>London</loc>
-
-<fighter1>Joe Joyce</fighter1>
-<fighter2>Zhilei Zhang</fighter2>
-<rounds>12</rounds>
-<weight>Heavyweight</weight>
-
-<fighter1>Mikaela Mayer</fighter1>
-<fighter2>Lucy Wildheart</fighter2>
-<rounds>10</rounds>
-<weight>Lightweight</weight>
-
-
-
-<fighter1>Denzel Bentley</fighter1>
-<fighter2>Kieran Smith</fighter2>
-<rounds>12</rounds>
-<weight>Middleweight</weight>
-
-
-<fighter1>Sam Noakes</fighter1>
-<fighter2>Karthik Sathish Kumar</fighter2>
-<rounds>12</rounds>
-<weight>Lightweight</weight>
-
-<fighter1>Moses Itauma</fighter1>
-<fighter2>Kostiantyn Dovbyshchenko</fighter2>
-<rounds>6</rounds>
-<weight>Heavyweight</weight>
-
 <time>April 22, 2023</time>
 
 <loc>Las Vegas</loc>
@@ -38,6 +6,45 @@
 <fighter2>Ryan Garcia</fighter2>
 <rounds>12</rounds>
 <weight>Lightweight</weight>
+
+<fighter1>David Morrell</fighter1>
+<fighter2>Sena Agbeko</fighter2>
+<rounds>12</rounds>
+<weight>Super Middleweight</weight>
+
+
+<fighter1>Bektemir Melikuziev</fighter1>
+<fighter2>Gabriel Rosado</fighter2>
+<rounds>10</rounds>
+<weight>Super Middleweight</weight>
+
+
+<loc>Cardiff</loc>
+
+<fighter1>Shavkatdzhon Rakhimov</fighter1>
+<fighter2>Joe Cordina</fighter2>
+<rounds>12</rounds>
+<weight>Junior Lightweight</weight>
+
+<fighter1>Gavin Gwynne</fighter1>
+<fighter2>Craig Woodruff</fighter2>
+<rounds>12</rounds>
+<weight>Lightweight</weight>
+
+<fighter1>Sandy Ryan</fighter1>
+<fighter2>Marie-Pier Houle</fighter2>
+<rounds>10</rounds>
+<weight>Welterweight</weight>
+
+<fighter1>Jordan Thompson</fighter1>
+<fighter2>Luke Watkins</fighter2>
+<rounds>10</rounds>
+<weight>Cruiserweight</weight>
+
+<fighter1>Zelfa Barrett</fighter1>
+<fighter2>Alex Dilmaghani</fighter2>
+<rounds>12</rounds>
+<weight>Junior Lightweight</weight>
 
 <time>May 20, 2023</time>
 
