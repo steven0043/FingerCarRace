@@ -1,50 +1,48 @@
-<time>April 22, 2023</time>
+<time>May 6, 2023</time>
 
 <loc>Las Vegas</loc>
 
-<fighter1>Gervonta Davis</fighter1>
-<fighter2>Ryan Garcia</fighter2>
-<rounds>12</rounds>
-<weight>Lightweight</weight>
-
-<fighter1>David Morrell</fighter1>
-<fighter2>Sena Agbeko</fighter2>
+<fighter1>Canelo</fighter1>
+<fighter2>John Ryder</fighter2>
 <rounds>12</rounds>
 <weight>Super Middleweight</weight>
 
+<fighter1>Julio Martinez</fighter1>
+<fighter2>Ronal Batista</fighter2>
+<rounds>12</rounds>
+<weight>Flyweight</weight>
 
-<fighter1>Bektemir Melikuziev</fighter1>
-<fighter2>Gabriel Rosado</fighter2>
+<fighter1>Oleksandr Gvozdyk</fighter1>
+<fighter2>Ricards Bolotniks</fighter2>
 <rounds>10</rounds>
-<weight>Super Middleweight</weight>
+<weight>Light Heavyweight</weight>
 
+<fighter1>Gabriel Valenzuela</fighter1>
+<fighter2>Steve Spark</fighter2>
+<rounds>10</rounds>
+<weight>Junior Welterweight</weight>
 
-<loc>Cardiff</loc>
+<loc>England</loc>
 
-<fighter1>Shavkatdzhon Rakhimov</fighter1>
-<fighter2>Joe Cordina</fighter2>
+<fighter1>Joshua Buatsi</fighter1>
+<fighter2>Pawel Stepien</fighter2>
 <rounds>12</rounds>
-<weight>Junior Lightweight</weight>
+<weight>Light Heavyweight</weight>
 
-<fighter1>Gavin Gwynne</fighter1>
-<fighter2>Craig Woodruff</fighter2>
-<rounds>12</rounds>
-<weight>Lightweight</weight>
+<fighter1>Sean McComb</fighter1>
+<fighter2>Kaisee Benjamin</fighter2>
+<rounds>10</rounds>
+<weight>Junior Welterweight</weight>
 
-<fighter1>Sandy Ryan</fighter1>
-<fighter2>Marie-Pier Houle</fighter2>
+<fighter1>Lauren Price</fighter1>
+<fighter2>Kirstie Bavington</fighter2>
 <rounds>10</rounds>
 <weight>Welterweight</weight>
 
-<fighter1>Jordan Thompson</fighter1>
-<fighter2>Luke Watkins</fighter2>
+<fighter1>Tyler Denny</fighter1>
+<fighter2>Macaulay McGowann</fighter2>
 <rounds>10</rounds>
-<weight>Cruiserweight</weight>
-
-<fighter1>Zelfa Barrett</fighter1>
-<fighter2>Alex Dilmaghani</fighter2>
-<rounds>12</rounds>
-<weight>Junior Lightweight</weight>
+<weight>Middleweight</weight>
 
 <time>May 20, 2023</time>
 
