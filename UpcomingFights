@@ -1,48 +1,36 @@
-<time>May 6, 2023</time>
+<time>May 13, 2023</time>
+
+<loc>California</loc>
+
+<fighter1>Janibek Alimkhanuly</fighter1>
+<fighter2>Steven Butler</fighter2>
+<rounds>12</rounds>
+<weight>Middleweight</weight>
+
+<fighter1>Jason Moloney</fighter1>
+
+<fighter2>Vincent Astrolabio</fighter2
+<rounds>12</rounds>
+
+<weight>Bantamweight</weight>
 
 <loc>Las Vegas</loc>
 
-<fighter1>Canelo</fighter1>
-<fighter2>John Ryder</fighter2>
+<fighter1>Rolando Romero</fighter1>
+
+<fighter2>Ismael Barroso</fighter2>
+
 <rounds>12</rounds>
-<weight>Super Middleweight</weight>
 
-<fighter1>Julio Martinez</fighter1>
-<fighter2>Ronal Batista</fighter2>
-<rounds>12</rounds>
-<weight>Flyweight</weight>
-
-<fighter1>Oleksandr Gvozdyk</fighter1>
-<fighter2>Ricards Bolotniks</fighter2>
-<rounds>10</rounds>
-<weight>Light Heavyweight</weight>
-
-<fighter1>Gabriel Valenzuela</fighter1>
-<fighter2>Steve Spark</fighter2>
-<rounds>10</rounds>
 <weight>Junior Welterweight</weight>
 
-<loc>England</loc>
+<fighter1>Gary Antuanne Russell</fighter1>
 
-<fighter1>Joshua Buatsi</fighter1>
-<fighter2>Pawel Stepien</fighter2>
+<fighter2>Kent Cruz</fighter2
+
 <rounds>12</rounds>
-<weight>Light Heavyweight</weight>
 
-<fighter1>Sean McComb</fighter1>
-<fighter2>Kaisee Benjamin</fighter2>
-<rounds>10</rounds>
 <weight>Junior Welterweight</weight>
-
-<fighter1>Lauren Price</fighter1>
-<fighter2>Kirstie Bavington</fighter2>
-<rounds>10</rounds>
-<weight>Welterweight</weight>
-
-<fighter1>Tyler Denny</fighter1>
-<fighter2>Macaulay McGowann</fighter2>
-<rounds>10</rounds>
-<weight>Middleweight</weight>
 
 <time>May 20, 2023</time>
 
