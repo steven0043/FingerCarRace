@@ -1,46 +1,4 @@
-<time>May 13, 2023</time>
 
-<loc>London</loc>
-
-<fighter1>KSI</fighter1>
-
-<fighter2>Joe Fournier</fighter2>
-
-<rounds>12</rounds>
-
-<weight>Middleweight</weight>
-
-<loc>California</loc>
-
-<fighter1>Janibek Alimkhanuly</fighter1>
-<fighter2>Steven Butler</fighter2>
-<rounds>12</rounds>
-<weight>Middleweight</weight>
-
-<fighter1>Jason Moloney</fighter1>
-
-<fighter2>Vincent Astrolabio</fighter2
-<rounds>12</rounds>
-
-<weight>Bantamweight</weight>
-
-<loc>Las Vegas</loc>
-
-<fighter1>Rolando Romero</fighter1>
-
-<fighter2>Ismael Barroso</fighter2>
-
-<rounds>12</rounds>
-
-<weight>Junior Welterweight</weight>
-
-<fighter1>Gary Antuanne Russell</fighter1>
-
-<fighter2>Kent Cruz</fighter2
-
-<rounds>12</rounds>
-
-<weight>Junior Welterweight</weight>
 
 <time>May 20, 2023</time>
 
@@ -51,12 +9,49 @@
 <rounds>12</rounds>
 <weight>Lightweight</weight>
 
+<fighter1>Junto Nakatani</fighter1>
+
+<fighter2>Andrew Moloney</fighter2>
+
+<rounds>12</rounds>
+
+<weight>Bantamweight</weight>
+
+<fighter1>Oscar Valdez</fighter1>
+<fighter2>Adam Lopez</fighter2>
+<rounds>10</rounds>
+<weight>Junior Lightweight</weight>
+
 <loc>Dublin, Ireland</loc>
 
 <fighter1>Katie Taylor</fighter1>
 <fighter2>Chantelle Cameron</fighter2>
 <rounds>10</rounds>
 <weight>Junior Welterweight</weight>
+
+<fighter1>Gary Cully</fighter1>
+
+<fighter2>Jose Felix</fighter2>
+
+<rounds>10</rounds>
+
+<weight>Lightweight</weight>
+
+<fighter1>Dennis Hogan</fighter1>
+<fighter2>James Metcalf</fighter2>
+<rounds>10</rounds>
+<weight>Junior Middleweight</weight>
+
+<fighter1>Caoimhin Agyarko</fighter1>
+<fighter2>Grant Dennis</fighter2>
+<rounds>10</rounds>
+<weight>Middleweight</weight>
+
+<fighter1>Thomas Carty</fighter1>
+<fighter2>Jay McFarlane</fighter2>
+<rounds>8</rounds>
+<weight>Heavyweight</weight>
+
 
 <time>June 10, 2023</time>
 
