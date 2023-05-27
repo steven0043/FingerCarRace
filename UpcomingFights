@@ -1,56 +1,66 @@
 
 
-<time>May 20, 2023</time>
+<time>May 27, 2023</time>
 
-<loc>Las Vegas</loc>
+<loc>Manchester</loc>
 
-<fighter1>Devin Haney</fighter1>
-<fighter2>Vasyl Lomachenko</fighter2>
+<fighter1>Mauricio Lara</fighter1>
+<fighter2>Leigh Wood</fighter2>
 <rounds>12</rounds>
-<weight>Lightweight</weight>
+<weight>Featherweight</weight>
 
-<fighter1>Junto Nakatani</fighter1>
+<fighter1>Terri Harper</fighter1>
 
-<fighter2>Andrew Moloney</fighter2>
+<fighter2>Ivana Habazin</fighter2>
 
-<rounds>12</rounds>
-
-<weight>Bantamweight</weight>
-
-<fighter1>Oscar Valdez</fighter1>
-<fighter2>Adam Lopez</fighter2>
 <rounds>10</rounds>
-<weight>Junior Lightweight</weight>
 
-<loc>Dublin, Ireland</loc>
+<weight>Junior Middleweight</weight>
 
-<fighter1>Katie Taylor</fighter1>
-<fighter2>Chantelle Cameron</fighter2>
+<fighter1>Jack Catterall</fighter1>
+<fighter2>Darragh Foley</fighter2>
 <rounds>10</rounds>
 <weight>Junior Welterweight</weight>
 
-<fighter1>Gary Cully</fighter1>
+<loc>Belfast, Northern Ireland</loc>
 
-<fighter2>Jose Felix</fighter2>
-
-<rounds>10</rounds>
-
-<weight>Lightweight</weight>
-
-<fighter1>Dennis Hogan</fighter1>
-<fighter2>James Metcalf</fighter2>
+<fighter1>Luis Lopez</fighter1>
+<fighter2>Michael Conlan</fighter2>
 <rounds>12</rounds>
-<weight>Junior Middleweight</weight>
+<weight>Featherweight</weight>
 
-<fighter1>Caoimhin Agyarko</fighter1>
-<fighter2>Grant Dennis</fighter2>
+<fighter1>Nick Ball</fighter1>
+
+<fighter2>Ludumo Lamati</fighter2>
+
+<rounds>12</rounds>
+
+<weight>Featherweight</weight>
+
+<fighter1>Anthony Cacace</fighter1>
+<fighter2>Damian Wrzesinski</fighter2>
+<rounds>12</rounds>
+<weight>Junior Lightweight</weight>
+
+<loc>Bournemouth, England</loc>
+
+<fighter1>Lawrence Okolie</fighter1>
+<fighter2>Chris Billam Smith</fighter2>
+<rounds>12</rounds>
+<weight>Cruiserweight</weight>
+
+<fighter1>Sam Eggington</fighter1>
+
+<fighter2>Joe Pigford</fighter2>
+
 <rounds>10</rounds>
-<weight>Middleweight</weight>
 
-<fighter1>Thomas Carty</fighter1>
-<fighter2>Jay McFarlane</fighter2>
-<rounds>8</rounds>
-<weight>Heavyweight</weight>
+<weight>Junior Middlweight</weight>
+
+<fighter1>Isaac Chamberlain</fighter1>
+<fighter2>Daniel Bocianski</fighter2>
+<rounds>10</rounds>
+<weight>Cruiserweight</weight>
 
 
 <time>June 10, 2023</time>
@@ -70,3 +80,15 @@
 <fighter2>Stephen Fulton</fighter2>
 <rounds>12</rounds>
 <weight>Featherweight</weight>
+
+<time>July 29, 2023</time>
+
+<loc>Las Vegas</loc>
+
+<fighter1>Errol Spence</fighter1>
+
+<fighter2>Terrance Crawford</fighter2>
+
+<rounds>12</rounds>
+
+<weight>Welteweight</weight>
