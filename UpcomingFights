@@ -1,66 +1,21 @@
+<time>June 3, 2023</time>
 
+<loc>Detroit, Michigan</loc>
 
-<time>May 27, 2023</time>
+<fighter1>Claressa Shields</fighter1>
+<fighter2>Maricela Cornejo</fighter2>
+<rounds>10</rounds>
+<weight>Middleweight</weight>
 
-<loc>Manchester</loc>
+<loc>Miami, Florida</loc>
 
-<fighter1>Mauricio Lara</fighter1>
-<fighter2>Leigh Wood</fighter2>
-<rounds>12</rounds>
-<weight>Featherweight</weight>
+<fighter1>Adrien Broner</fighter1>
 
-<fighter1>Terri Harper</fighter1>
-
-<fighter2>Ivana Habazin</fighter2>
+<fighter2>Bill Hutchinson</fighter2>
 
 <rounds>10</rounds>
 
-<weight>Junior Middleweight</weight>
-
-<fighter1>Jack Catterall</fighter1>
-<fighter2>Darragh Foley</fighter2>
-<rounds>10</rounds>
-<weight>Junior Welterweight</weight>
-
-<loc>Belfast, Northern Ireland</loc>
-
-<fighter1>Luis Lopez</fighter1>
-<fighter2>Michael Conlan</fighter2>
-<rounds>12</rounds>
-<weight>Featherweight</weight>
-
-<fighter1>Nick Ball</fighter1>
-
-<fighter2>Ludumo Lamati</fighter2>
-
-<rounds>12</rounds>
-
-<weight>Featherweight</weight>
-
-<fighter1>Anthony Cacace</fighter1>
-<fighter2>Damian Wrzesinski</fighter2>
-<rounds>12</rounds>
-<weight>Junior Lightweight</weight>
-
-<loc>Bournemouth, England</loc>
-
-<fighter1>Lawrence Okolie</fighter1>
-<fighter2>Chris Billam Smith</fighter2>
-<rounds>12</rounds>
-<weight>Cruiserweight</weight>
-
-<fighter1>Sam Eggington</fighter1>
-
-<fighter2>Joe Pigford</fighter2>
-
-<rounds>10</rounds>
-
-<weight>Junior Middlweight</weight>
-
-<fighter1>Isaac Chamberlain</fighter1>
-<fighter2>Daniel Bocianski</fighter2>
-<rounds>10</rounds>
-<weight>Cruiserweight</weight>
+<weight>Welterweight</weight>
 
 
 <time>June 10, 2023</time>
