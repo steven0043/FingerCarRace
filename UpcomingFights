@@ -1,21 +1,6 @@
-<time>June 3, 2023</time>
 
-<loc>Detroit, Michigan</loc>
 
-<fighter1>Claressa Shields</fighter1>
-<fighter2>Maricela Cornejo</fighter2>
-<rounds>10</rounds>
-<weight>Middleweight</weight>
 
-<loc>Miami, Florida</loc>
-
-<fighter1>Adrien Broner</fighter1>
-
-<fighter2>Bill Hutchinson</fighter2>
-
-<rounds>10</rounds>
-
-<weight>Welterweight</weight>
 
 
 <time>June 10, 2023</time>
@@ -26,6 +11,46 @@
 <fighter2>Teofimo Lopez</fighter2>
 <rounds>12</rounds>
 <weight>Junior Welterweight</weight>
+
+<fighter1>Xander Zayas</fighter1>
+
+<fighter2>Ronald Cruz</fighter2>
+
+
+<rounds>8</rounds>
+
+<weight>Junior Middleweight</weight>
+
+<fighter1>Jamaine Ortiz</fighter1>
+<fighter2>Humberto Galindo</fighter2>
+<rounds>10</rounds>
+<weight>Lightweight</weight>
+
+<loc>London</loc>
+
+<fighter1>Sunny Edwards</fighter1>
+
+<fighter2>Andres Campos</fighter2>
+
+<rounds>12</rounds>
+
+<weight>Flyweight</weight>
+
+<fighter1>Cherneka Johnson</fighter1>
+
+<fighter2>Ellie Scotney</fighter2>
+
+<rounds>10</rounds>
+
+<weight>Junior Featherweight</weight>
+
+<fighter1>Nina Hughes</fighter1>
+
+<fighter2>Katie Healy</fighter2>
+
+<rounds>10</rounds>
+
+<weight>Bantamweight</weight>
 
 <time>July 25, 2023</time>
 
