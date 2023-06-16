@@ -1,66 +1,21 @@
+<time>June 16, 2023</time>
 
+<loc>York Hall</loc>
 
+<fighter1>Frazer Clarke</fighter1>
+<fighter2>Mariusz Wach</fighter2>
+<rounds>10</rounds>
+<weight>Heavyweight</weight>
 
+<fighter1>Aaron McKenna</fighter1>
+<fighter2>Uisma Lima</fighter2>
+<rounds>10</rounds>
+<weight>Middleweight</weight>
 
-
-<time>June 10, 2023</time>
-
-<loc>New York</loc>
-
-<fighter1>Josh Taylor</fighter1>
-<fighter2>Teofimo Lopez</fighter2>
-<rounds>12</rounds>
-<weight>Junior Welterweight</weight>
-
-<fighter1>Xander Zayas</fighter1>
-
-<fighter2>Ronald Cruz</fighter2>
-
-
-<rounds>8</rounds>
-
-<weight>Junior Middleweight</weight>
-
-<fighter1>Jamaine Ortiz</fighter1>
-<fighter2>Humberto Galindo</fighter2>
+<fighter1>Caroline Dubois</fighter1>
+<fighter2>Yanina Lescano</fighter2>
 <rounds>10</rounds>
 <weight>Lightweight</weight>
-
-<loc>London</loc>
-
-<fighter1>Sunny Edwards</fighter1>
-
-<fighter2>Andres Campos</fighter2>
-
-<rounds>12</rounds>
-
-<weight>Flyweight</weight>
-
-<fighter1>Cherneka Johnson</fighter1>
-
-<fighter2>Ellie Scotney</fighter2>
-
-<rounds>10</rounds>
-
-<weight>Junior Featherweight</weight>
-
-<fighter1>Nina Hughes</fighter1>
-
-<fighter2>Katie Healy</fighter2>
-
-<rounds>10</rounds>
-
-<weight>Bantamweight</weight>
-
-<loc>Ontario, California</loc>
-
-<fighter1>Jaime Munguia</fighter1>
-
-<fighter2>Sergiy Derevyanchenko</fighter2>
-
-<rounds>12</rounds>
-
-<weight>Middleweight</weight>
 
 <time>July 25, 2023</time>
 
