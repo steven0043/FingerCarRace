@@ -1,21 +1,30 @@
-<time>June 16, 2023</time>
+<time>June 17, 2023</time>
 
-<loc>York Hall</loc>
+<loc>New Orleans</loc>
 
-<fighter1>Frazer Clarke</fighter1>
-<fighter2>Mariusz Wach</fighter2>
-<rounds>10</rounds>
-<weight>Heavyweight</weight>
+<fighter1>Regis Prograis</fighter1>
+<fighter2>Danielito Zorrilla</fighter2>
+<rounds>12</rounds>
+<weight>Junior Welterweight</weight>
 
-<fighter1>Aaron McKenna</fighter1>
-<fighter2>Uisma Lima</fighter2>
-<rounds>10</rounds>
-<weight>Middleweight</weight>
 
-<fighter1>Caroline Dubois</fighter1>
-<fighter2>Yanina Lescano</fighter2>
-<rounds>10</rounds>
-<weight>Lightweight</weight>
+<fighter1>Shakhram Giyasovs</fighter1>
+<fighter2>Harold Calderon</fighter2>
+<rounds>12</rounds>
+<weight>Welterweight</weight>
+
+<loc>Sydney</loc>
+
+<fighter1>Tim Tszyu</fighter1>
+<fighter2>Carlos Ocampo</fighter2>
+<rounds>12</rounds>
+<weight>Junior Middleweight</weight>
+
+
+<fighter1>Shakhram Giyasovs</fighter1>
+<fighter2>Sam Goodman</fighter2>
+<rounds>12</rounds>
+<weight>Junior Featherweight</weight>
 
 <time>July 25, 2023</time>
 
