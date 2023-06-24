@@ -1,5 +1,40 @@
 <time>June 24, 2023</time>
 
+<loc>New York</loc>
+
+<fighter1>Edgar Berlanga</fighter1>
+<fighter2>Jason Quigley</fighter2>
+<rounds>12</rounds>
+<weight>Super Middleweight</weight>
+
+<fighter1>Adam Kownacki</fighter1>
+<fighter2>Joe Cusumano</fighter2>
+<rounds>10</rounds>
+<weight>Heavyweight</weight>
+
+<fighter1>Reshat Mati</fighter1>
+<fighter2>Wesley Ferrer</fighter2>
+<rounds>10</rounds>
+<weight>Junior Welterweight</weight>
+
+<loc>Minneapolis</loc>
+
+<fighter1>Carlos Adames</fighter1>
+<fighter2>Julian Williams</fighter2>
+<rounds>12</rounds>
+<weight>Middleweight</weight>
+
+<fighter1>Erickson Lubin</fighter1>
+<fighter2>Luis Arias</fighter2>
+<rounds>10</rounds>
+<weight>Junior Middleweight</weight>
+
+<fighter1>Fernando Martinez</fighter1>
+<fighter2>Jade Bornea</fighter2>
+<rounds>12</rounds>
+<weight>Bantamweight</weight>
+
+
 <loc>Tokyo</loc>
 
 <fighter1>Joshua Franco</fighter1>
