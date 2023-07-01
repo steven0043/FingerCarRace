@@ -1,46 +1,51 @@
-<time>June 24, 2023</time>
+<time>July 1st, 2023</time>
 
-<loc>New York</loc>
+<loc>Toledo, Ohio</loc>
 
-<fighter1>Edgar Berlanga</fighter1>
-<fighter2>Jason Quigley</fighter2>
-<rounds>12</rounds>
-<weight>Super Middleweight</weight>
-
-<fighter1>Adam Kownacki</fighter1>
-<fighter2>Joe Cusumano</fighter2>
+<fighter1>Jared Anderson</fighter1>
+<fighter2>Charles Martin</fighter2>
 <rounds>10</rounds>
 <weight>Heavyweight</weight>
 
-<fighter1>Reshat Mati</fighter1>
-<fighter2>Wesley Ferrer</fighter2>
+<fighter1>Arslanbek Makhmudov</fighter1>
+<fighter2>Raphael Akpejiori</fighter2>
 <rounds>10</rounds>
-<weight>Junior Welterweight</weight>
+<weight>Heavyweight</weight>
 
-<loc>Minneapolis</loc>
+<loc>Manchester, England</loc>
 
-<fighter1>Carlos Adames</fighter1>
-<fighter2>Julian Williams</fighter2>
-<rounds>12</rounds>
-<weight>Middleweight</weight>
+<fighter1>Franchon Crews Dezurn</fighter1>
+<fighter2>Savannah Marshall</fighter2>
+<rounds>10</rounds>
+<weight>Super Middleweight</weight>
 
-<fighter1>Erickson Lubin</fighter1>
-<fighter2>Luis Arias</fighter2>
+<fighter1>Natasha Jonas</fighter1>
+<fighter2>Kandi Wyatt</fighter2>
 <rounds>10</rounds>
 <weight>Junior Middleweight</weight>
 
-<fighter1>Fernando Martinez</fighter1>
-<fighter2>Jade Bornea</fighter2>
+<fighter1>Ben Whittaker</fighter1>
+<fighter2>Vladimir Belujsky</fighter2>
+<rounds>18</rounds>
+<weight>Light Heavyweight</weight>
+
+<loc>Sheffield, England</loc>
+
+<fighter1>Dalton Smith</fighter1>
+<fighter2>Sam Maxwell</fighter2>
 <rounds>12</rounds>
-<weight>Bantamweight</weight>
+<weight>Junior Welterweight</weight>
 
 
-<loc>Tokyo</loc>
+<fighter1>Pat McCormack</fighter1>
+<fighter2>Tony Dixon</fighter2>
+<rounds>10</rounds>
+<weight>Super Welterweight</weight>
 
-<fighter1>Joshua Franco</fighter1>
-<fighter2>Kazuto Ioka</fighter2>
-<rounds>12</rounds>
-<weight>Bantamweight</weight>
+<fighter1>Hopey Price/fighter1>
+<fighter2>James Beech</fighter2>
+<rounds>10</rounds>
+<weight>Featherweight</weight>
 
 
 <time>July 25, 2023</time>
