@@ -1,51 +1,11 @@
-<time>July 1st, 2023</time>
+<time>July 8th, 2023</time>
 
-<loc>Toledo, Ohio</loc>
+<loc>Atlantic City</loc>
 
-<fighter1>Jared Anderson</fighter1>
-<fighter2>Charles Martin</fighter2>
-<rounds>10</rounds>
-<weight>Heavyweight</weight>
-
-<fighter1>Arslanbek Makhmudov</fighter1>
-<fighter2>Raphael Akpejiori</fighter2>
-<rounds>10</rounds>
-<weight>Heavyweight</weight>
-
-<loc>Manchester, England</loc>
-
-<fighter1>Franchon Crews Dezurn</fighter1>
-<fighter2>Savannah Marshall</fighter2>
-<rounds>10</rounds>
-<weight>Super Middleweight</weight>
-
-<fighter1>Natasha Jonas</fighter1>
-<fighter2>Kandi Wyatt</fighter2>
-<rounds>10</rounds>
-<weight>Junior Middleweight</weight>
-
-<fighter1>Ben Whittaker</fighter1>
-<fighter2>Vladimir Belujsky</fighter2>
-<rounds>8</rounds>
-<weight>Light Heavyweight</weight>
-
-<loc>Sheffield, England</loc>
-
-<fighter1>Dalton Smith</fighter1>
-<fighter2>Sam Maxwell</fighter2>
+<fighter1>Jaron Ennis/fighter1>
+<fighter2>Roiman Villa</fighter2>
 <rounds>12</rounds>
-<weight>Junior Welterweight</weight>
-
-
-<fighter1>Pat McCormack</fighter1>
-<fighter2>Tony Dixon</fighter2>
-<rounds>10</rounds>
-<weight>Super Welterweight</weight>
-
-<fighter1>Hopey Price</fighter1>
-<fighter2>James Beech</fighter2>
-<rounds>10</rounds>
-<weight>Featherweight</weight>
+<weight>Welterweight</weight>
 
 
 <time>July 25, 2023</time>
