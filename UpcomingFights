@@ -1,17 +1,3 @@
-<time>July 22nd, 2023</time>
-
-<loc>Las Vegas</loc>
-
-<fighter1>George Kambosos</fighter1>
-<fighter2>Maxi Hughes</fighter2>
-<rounds>12</rounds>
-<weight>Lightweight</weight>
-
-<fighter1>Keyshawn Davis</fighter1>
-<fighter2>Francesco Patera</fighter2>
-<rounds>10</rounds>
-<weight>Lightweight</weight>
-
 
 <time>July 25, 2023</time>
 
@@ -19,6 +5,11 @@
 
 <fighter1>Naoya Inoue</fighter1>
 <fighter2>Stephen Fulton</fighter2>
+<rounds>12</rounds>
+<weight>Super Bantamweight</weight>
+
+<fighter1>Robeisy Ramirez</fighter1>
+<fighter2>Satoshi Shimizu</fighter2>
 <rounds>12</rounds>
 <weight>Featherweight</weight>
 
