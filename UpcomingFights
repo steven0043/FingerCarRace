@@ -1,26 +1,99 @@
+<time>July 28, 2023</time>
 
-<time>July 25, 2023</time>
+<loc>Las Vegas</loc>
 
-<loc>Tokyo</loc>
+<fighter1>Seniesa Estrada</fighter1>
+<fighter2>Leonela Yudica</fighter2>
+<rounds>10</rounds>
+<weight>Strawweight</weight>
 
-<fighter1>Naoya Inoue</fighter1>
-<fighter2>Stephen Fulton</fighter2>
-<rounds>12</rounds>
-<weight>Super Bantamweight</weight>
-
-<fighter1>Robeisy Ramirez</fighter1>
-<fighter2>Satoshi Shimizu</fighter2>
-<rounds>12</rounds>
-<weight>Featherweight</weight>
 
 <time>July 29, 2023</time>
 
 <loc>Las Vegas</loc>
 
 <fighter1>Errol Spence</fighter1>
-
 <fighter2>Terrance Crawford</fighter2>
-
 <rounds>12</rounds>
+<weight>Welterweight</weight>
 
-<weight>Welteweight</weight>
+<fighter1>Nonito Donaire</fighter1>
+<fighter2>Alexandro Santiago</fighter2>
+<rounds>12</rounds>
+<weight>Bantamweight</weight>
+
+<fighter1>Isaac Cruz</fighter1>
+<fighter2>Giovanni Cabrera</fighter2>
+<rounds>12</rounds>
+<weight>Lightweight</weight>
+
+<fighter1>Jesus Ramos</fighter1>
+<fighter2>Sergio Garcia</fighter2>
+<rounds>12</rounds>
+<weight>Junior Middleweight</weight>
+
+<time>August 5th, 2023</time>
+
+<loc>Dallas</loc>
+
+<fighter1>Jake Paul</fighter1>
+<fighter2>Nate Diaz</fighter2>
+<rounds>8</rounds>
+<weight>185 Lbs</weight>
+
+<fighter1>Amanda Serrano</fighter1>
+<fighter2>Heather Hardy</fighter2>
+<rounds>10</rounds>
+<weight>Featherweight</weight>
+
+<loc>Brooklyn</loc>
+
+<fighter1>Erislandy Lara</fighter1>
+<fighter2>Danny Garcia</fighter2>
+<rounds>12</rounds>
+<weight>Middleweight</weight>
+
+<time>August 12th, 2023</time>
+
+<loc>London</loc>
+
+<fighter1>Anthony Joshua</fighter1>
+<fighter2>Dillan Whyte</fighter2>
+<rounds>12</rounds>
+<weight>Heavyweight</weight>
+
+<time>August 19th, 2023</time>
+
+<loc>Quebec City, Canada</loc>
+
+<fighter1>Artur Beterbiev</fighter1>
+<fighter2>Callum Smith</fighter2>
+<rounds>12</rounds>
+<weight>Light Heavyweight</weight>
+
+<time>August 26th, 2023</time>
+
+<loc>Wroclaw, Poland</loc>
+
+<fighter1>Oleksandr Usyk</fighter1>
+<fighter2>Daniel Dubois</fighter2>
+<rounds>12</rounds>
+<weight>Heavyweight</weight>
+
+<time>September 30th, 2023</time>
+
+<loc>Las Vegas</loc>
+
+<fighter1>Canelo</fighter1>
+<fighter2>Jermell Charlo</fighter2>
+<rounds>12</rounds>
+<weight>Middleweight</weight>
+
+<time>October 28th, 2023</time>
+
+<loc>Riyadh, Saudi Arabia</loc>
+
+<fighter1>Tyson Fury</fighter1>
+<fighter2>Francis Ngannou</fighter2>
+<rounds>12</rounds>
+<weight>Heavyweight</weight>
