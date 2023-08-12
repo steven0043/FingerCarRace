@@ -1,37 +1,32 @@
-<time>August 5th, 2023</time>
-
-<loc>Dallas</loc>
-
-<fighter1>Jake Paul</fighter1>
-<fighter2>Nate Diaz</fighter2>
-<rounds>8</rounds>
-<weight>185 Lbs</weight>
-
-<fighter1>Amanda Serrano</fighter1>
-<fighter2>Heather Hardy</fighter2>
-<rounds>10</rounds>
-<weight>Featherweight</weight>
-
-<fighter1>Chris Avila</fighter1>
-<fighter2>Jeremy Stephens</fighter2>
-<rounds>6</rounds>
-<weight>Super Middleweight</weight>
-
-<loc>Brooklyn</loc>
-
-<fighter1>Erislandy Lara</fighter1>
-<fighter2>Danny Garcia</fighter2>
-<rounds>12</rounds>
-<weight>Middleweight</weight>
 
 <time>August 12th, 2023</time>
 
 <loc>London</loc>
 
 <fighter1>Anthony Joshua</fighter1>
-<fighter2>Dillan Whyte</fighter2>
+<fighter2>Robert Helenius</fighter2>
 <rounds>12</rounds>
 <weight>Heavyweight</weight>
+
+<fighter1>Filip Hrgovic</fighter1>
+<fighter2>Demsey McKean</fighter2>
+<rounds>12</rounds>
+<weight>Heavyweight</weight>
+
+<fighter1>Derek Chisora</fighter1>
+<fighter2>Gerald Washington</fighter2>
+<rounds>10</rounds>
+<weight>Heavyweight</weight>
+
+<fighter1>Johnny Fisher</fighter1>
+<fighter2>Harry Armstrong</fighter2>
+<rounds>10</rounds>
+<weight>Heavyweight</weight>
+
+<fighter1>Campbell Hatton</fighter1>
+<fighter2>Tom Ansell</fighter2>
+<rounds>6</rounds>
+<weight>Junior Welterweight</weight>
 
 <loc>Glendale, Arizona</loc>
 
@@ -40,14 +35,27 @@
 <rounds>12</rounds>
 <weight>Junior Lightweight</weight>
 
-<time>August 19th, 2023</time>
+<fighter1>Lindolfo Delgado</fighter1>
+<fighter2>Jair Valtierra</fighter2>
+<rounds>10</rounds>
+<weight>Junior Welterweight</weight>
 
-<loc>Quebec City, Canada</loc>
+<loc>Oxon Hill, Maryland</loc>
 
-<fighter1>Artur Beterbiev</fighter1>
-<fighter2>Callum Smith</fighter2>
+<fighter1>Emmanuel Rodriguez</fighter1>
+<fighter2>Melvin Lopez</fighter2>
 <rounds>12</rounds>
-<weight>Light Heavyweight</weight>
+<weight>Bantamweight</weight>
+
+<fighter1>Travon Marshall</fighter1>
+<fighter2>Gabriel Maestre</fighter2>
+<rounds>10</rounds>
+<weight>Welterweight</weight>
+
+<fighter1>Gary Antuanne Russell</fighter1>
+<fighter2>Kent Cruz</fighter2>
+<rounds>10</rounds>
+<weight>Junior Welterweight</weight>
 
 <time>August 26th, 2023</time>
 
@@ -75,3 +83,12 @@
 <fighter2>Francis Ngannou</fighter2>
 <rounds>12</rounds>
 <weight>Heavyweight</weight>
+
+<time>January 13th, 2024</time>
+
+<loc>Quebec City, Canada</loc>
+
+<fighter1>Artur Beterbiev</fighter1>
+<fighter2>Callum Smith</fighter2>
+<rounds>12</rounds>
+<weight>Light Heavyweight</weight>
