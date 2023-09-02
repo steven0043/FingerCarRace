@@ -17,6 +17,11 @@
 <rounds>10</rounds>
 <weight>Heavyweight</weight>
 
+<fighter1>Florian Marku</fighter1>
+<fighter2>Dylan Moran</fighter2>
+<rounds>10</rounds>
+<weight>JWelterweight</weight>
+
 <fighter1>Adam Azim</fighter1>
 <fighter2>Aram Faniian</fighter2>
 <rounds>10</rounds>
