@@ -1,36 +1,30 @@
-<time>September 2nd, 2023</time>
+<time>September 15th, 2023</time>
 
-<loc>Manchester, England</loc>
+<loc>Corpus Christi</loc>
 
-<fighter1>Liam Smith</fighter1>
-<fighter2>Chris Eubank</fighter2>
+<fighter1>Luis Lopez</fighter1>
+<fighter2>Joet Gonzalez</fighter2>
 <rounds>12</rounds>
-<weight>Middleweight</weight>
+<weight>Featherweight</weight>
 
-<fighter1>Mark Heffron</fighter1>
-<fighter2>Jack Cullen</fighter2>
+<fighter1>Xander Zayas</fighter1>
+<fighter2>Roberto Valenzuela</fighter2>
+<rounds>10</rounds>
+<weight>Junior Middleweight</weight>
+
+<time>September 16th, 2023</time>
+
+<loc>Commerce, California</loc>
+
+<fighter1>William Zepeda</fighter1>
+<fighter2>Mercito Gesta</fighter2>
 <rounds>12</rounds>
-<weight>Super Middleweight</weight>
+<weight>Lightweight</weight>
 
-<fighter1>Frazer Clarke</fighter1>
-<fighter2>David Allen</fighter2>
+<fighter1>Yokasta Valle</fighter1>
+<fighter2>Maria Santizo</fighter2>
 <rounds>10</rounds>
-<weight>Heavyweight</weight>
-
-<fighter1>Florian Marku</fighter1>
-<fighter2>Dylan Moran</fighter2>
-<rounds>10</rounds>
-<weight>JWelterweight</weight>
-
-<fighter1>Adam Azim</fighter1>
-<fighter2>Aram Faniian</fighter2>
-<rounds>10</rounds>
-<weight>Junior Welterweight</weight>
-
-<fighter1>Mikaela Mayer</fighter1>
-<fighter2>Silvia Bortot</fighter2>
-<rounds>10</rounds>
-<weight>Junior Welterweight</weight>
+<weight>Strawweight</weight>
 
 <loc>Tulsa, Oklahoma</loc>
 
@@ -51,6 +45,8 @@
 <fighter2>Francis Ngannou</fighter2>
 <rounds>12</rounds>
 <weight>Heavyweight</weight>
+
+<time>December 9th, 2023</time>
 
 <loc>Las Vegas</loc>
 
