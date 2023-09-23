@@ -1,30 +1,43 @@
-<time>September 15th, 2023</time>
+<time>September 23rd, 2023</time>
 
-<loc>Corpus Christi</loc>
+<loc>London</loc>
 
-<fighter1>Luis Lopez</fighter1>
-<fighter2>Joet Gonzalez</fighter2>
+<fighter1>Zhilei Zhang</fighter1>
+<fighter2>Joe Joyce</fighter2>
 <rounds>12</rounds>
-<weight>Featherweight</weight>
+<weight>Heavyweight</weight>
 
-<fighter1>Xander Zayas</fighter1>
-<fighter2>Roberto Valenzuela</fighter2>
+<fighter1>Anthony Yarde</fighter1>
+<fighter2>Jorge Silva</fighter2>
+<rounds>10</rounds>
+<weight>Light Heavyweight</weight>
+
+<fighter1>Pierce O'Leary</fighter1>
+<fighter2>Kane Gardner</fighter2>
+<rounds>10</rounds>
+<weight>Junior Welterweight</weight>
+
+<loc>Orlando, Florida</loc>
+
+<fighter1>Richardson Hitchins</fighter1>
+<fighter2>Jose Zepeda</fighter2>
+<rounds>10</rounds>
+<weight>Junior Welterweight</weight>
+
+<fighter1>Conor Benn</fighter1>
+<fighter2>Rodolfo Orozco</fighter2>
 <rounds>10</rounds>
 <weight>Junior Middleweight</weight>
 
-<time>September 16th, 2023</time>
-
-<loc>Commerce, California</loc>
-
-<fighter1>William Zepeda</fighter1>
-<fighter2>Mercito Gesta</fighter2>
-<rounds>12</rounds>
-<weight>Lightweight</weight>
-
-<fighter1>Yokasta Valle</fighter1>
-<fighter2>Maria Santizo</fighter2>
+<fighter1>Jessica McCaskill</fighter1>
+<fighter2>Sandy Ryan</fighter2>
 <rounds>10</rounds>
-<weight>Strawweight</weight>
+<weight>Welterweight</weight>
+
+<fighter1>Austin Williams</fighter1>
+<fighter2>Steve Rolls</fighter2>
+<rounds>10</rounds>
+<weight>Middleweight</weight>
 
 <loc>Tulsa, Oklahoma</loc>
 
