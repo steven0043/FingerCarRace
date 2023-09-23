@@ -1,22 +1,5 @@
 <time>September 23rd, 2023</time>
 
-<loc>London</loc>
-
-<fighter1>Zhilei Zhang</fighter1>
-<fighter2>Joe Joyce</fighter2>
-<rounds>12</rounds>
-<weight>Heavyweight</weight>
-
-<fighter1>Anthony Yarde</fighter1>
-<fighter2>Jorge Silva</fighter2>
-<rounds>10</rounds>
-<weight>Light Heavyweight</weight>
-
-<fighter1>Pierce O'Leary</fighter1>
-<fighter2>Kane Gardner</fighter2>
-<rounds>10</rounds>
-<weight>Junior Welterweight</weight>
-
 <loc>Orlando, Florida</loc>
 
 <fighter1>Richardson Hitchins</fighter1>
@@ -38,6 +21,23 @@
 <fighter2>Steve Rolls</fighter2>
 <rounds>10</rounds>
 <weight>Middleweight</weight>
+
+<loc>London</loc>
+
+<fighter1>Zhilei Zhang</fighter1>
+<fighter2>Joe Joyce</fighter2>
+<rounds>12</rounds>
+<weight>Heavyweight</weight>
+
+<fighter1>Anthony Yarde</fighter1>
+<fighter2>Jorge Silva</fighter2>
+<rounds>10</rounds>
+<weight>Light Heavyweight</weight>
+
+<fighter1>Pierce O'Leary</fighter1>
+<fighter2>Kane Gardner</fighter2>
+<rounds>10</rounds>
+<weight>Junior Welterweight</weight>
 
 <loc>Tulsa, Oklahoma</loc>
 
