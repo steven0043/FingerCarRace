@@ -1,54 +1,43 @@
-<time>September 23rd, 2023</time>
-
-<loc>Orlando, Florida</loc>
-
-<fighter1>Richardson Hitchins</fighter1>
-<fighter2>Jose Zepeda</fighter2>
-<rounds>10</rounds>
-<weight>Junior Welterweight</weight>
-
-<fighter1>Conor Benn</fighter1>
-<fighter2>Rodolfo Orozco</fighter2>
-<rounds>10</rounds>
-<weight>Junior Middleweight</weight>
-
-<fighter1>Jessica McCaskill</fighter1>
-<fighter2>Sandy Ryan</fighter2>
-<rounds>10</rounds>
-<weight>Welterweight</weight>
-
-<fighter1>Austin Williams</fighter1>
-<fighter2>Steve Rolls</fighter2>
-<rounds>10</rounds>
-<weight>Middleweight</weight>
+<time>September 30th, 2023</time>
 
 <loc>London</loc>
 
-<fighter1>Zhilei Zhang</fighter1>
-<fighter2>Joe Joyce</fighter2>
+<fighter1>Jai Opetaia</fighter1>
+<fighter2>Jordan Thompson</fighter2>
 <rounds>12</rounds>
-<weight>Heavyweight</weight>
+<weight>Cruiserweight</weight>
 
-<fighter1>Anthony Yarde</fighter1>
-<fighter2>Jorge Silva</fighter2>
+<fighter1>Ellie Scotney</fighter1>
+<fighter2>Laura Griffa</fighter2>
 <rounds>10</rounds>
-<weight>Light Heavyweight</weight>
+<weight>Junior Featherweight</weight>
 
-<fighter1>Pierce O'Leary</fighter1>
-<fighter2>Kane Gardner</fighter2>
+<fighter1>Cheavon Clarke</fighter1>
+<fighter2>Vasil Ducar</fighter2>
 <rounds>10</rounds>
-<weight>Junior Welterweight</weight>
-
-<loc>Tulsa, Oklahoma</loc>
-
-<time>September 30th, 2023</time>
+<weight>Cruiserweight</weight>
 
 <loc>Las Vegas</loc>
 
 <fighter1>Canelo</fighter1>
 <fighter2>Jermell Charlo</fighter2>
 <rounds>12</rounds>
-<weight>Middleweight</weight>
+<weight>Super Middleweight</weight>
+
+<fighter1>Jesus Ramos</fighter1>
+<fighter2>Erickson Lubin</fighter2>
+<rounds>12</rounds>
+<weight>Junior Middleweight</weight>
+
+<fighter1>Yordenis Ugas</fighter1>
+<fighter2>Mario Barrios</fighter2>
+<rounds>12</rounds>
+<weight>Welterweight</weight>
+
+<fighter1>Frank Sanchez</fighter1>
+<fighter2>Scott Alexander</fighter2>
+<rounds>10</rounds>
+<weight>Heavyweight</weight>
 
 <time>October 28th, 2023</time>
 
