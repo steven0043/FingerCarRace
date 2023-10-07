@@ -1,3 +1,39 @@
+<time>September 30th, 2023</time>
+
+<loc>Las Vegas</loc>
+
+<fighter1>Canelo</fighter1>
+<fighter2>Jermell Charlo</fighter2>
+<rounds>12</rounds>
+<weight>Super Middleweight</weight>
+
+<fighter1>Jesus Ramos</fighter1>
+<fighter2>Erickson Lubin</fighter2>
+<rounds>12</rounds>
+<weight>Junior Middleweight</weight>
+
+<fighter1>Yordenis Ugas</fighter1>
+<fighter2>Mario Barrios</fighter2>
+<rounds>12</rounds>
+<weight>Welterweight</weight>
+
+<loc>London</loc>
+
+<fighter1>Jai Opetaia</fighter1>
+<fighter2>Jordan Thompson</fighter2>
+<rounds>12</rounds>
+<weight>Cruiserweight</weight>
+
+<fighter1>Ellie Scotney</fighter1>
+<fighter2>Laura Griffa</fighter2>
+<rounds>10</rounds>
+<weight>Junior Featherweight</weight>
+
+<fighter1>Cheavon Clarke</fighter1>
+<fighter2>Vasil Ducar</fighter2>
+<rounds>10</rounds>
+<weight>Cruiserweight</weight>
+
 <time>September 2nd, 2023</time>
 
 <loc>Manchester, England</loc>
