@@ -1,39 +1,34 @@
-<time>October 14th, 2023</time>
+<time>October 21st, 2023</time>
 
-<loc>Rosenberg, Texas</loc>
+<loc>Liverpool, England</loc>
 
-<fighter1>Janibek Alimkhanuly</fighter1>
-<fighter2>Vincenzo Gualtieri</fighter2>
+<fighter1>Jack Catterall</fighter1>
+<fighter2>Jorge Linares</fighter2>
 <rounds>12</rounds>
-<weight>Middleweight</weight>
+<weight>Junior Welterweight</weight>
 
-<fighter1>Keyshawn Davis</fighter1>
-<fighter2>Nahir Albright</fighter2>
+<fighter1>Aqib Fiaz</fighter1>
+<fighter2>Reece Bellotti</fighter2>
+<rounds>12</rounds>
+<weight>Junior Lightweight</weight>
+
+<fighter1>Peter McGrail</fighter1>
+<fighter2>Fran Mendoza</fighter2>
 <rounds>10</rounds>
-<weight>Lightweight</weight>
+<weight>Junior Featherweight</weight>
 
-<loc>Queensland, Australia</loc>
+<loc>Inglewood, California</loc>
 
-<fighter1>Tim Tszyu</fighter1>
-<fighter2>Brian Mendoza</fighter2>
+<fighter1>Alexis Rocha</fighter1>
+<fighter2>Giovani Santillan</fighter2>
 <rounds>12</rounds>
-<weight>Middleweight</weight>
+<weight>Welterweight</weight>
 
-<fighter1>Sam Goodman</fighter1>
-<fighter2>Miguel Flores</fighter2>
+<loc>London</loc>
+
+<fighter1>Mikael Lawal</fighter1>
+<fighter2>Isaac Chamberlain</fighter2>
 <rounds>12</rounds>
-<weight>Featherweight</weight>
-
-<loc>Manchester</loc>
-
-<fighter1>KSI</fighter1>
-<fighter2>Tommy Fury</fighter2>
-<rounds>6</rounds>
-<weight>Cruiserweight</weight>
-
-<fighter1>Logan Paul</fighter1>
-<fighter2>Dillon Danis</fighter2>
-<rounds>6</rounds>
 <weight>Cruiserweight</weight>
 
 <time>October 28th, 2023</time>
