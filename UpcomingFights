@@ -1,35 +1,11 @@
-<time>October 21st, 2023</time>
+<time>October 27th, 2023</time>
 
-<loc>Liverpool, England</loc>
+<loc>Orlando, Florida</loc>
 
-<fighter1>Jack Catterall</fighter1>
-<fighter2>Jorge Linares</fighter2>
+<fighter1>Amanda Serrano</fighter1>
+<fighter2>Danila Ramos</fighter2>
 <rounds>12</rounds>
-<weight>Junior Welterweight</weight>
-
-<fighter1>Aqib Fiaz</fighter1>
-<fighter2>Reece Bellotti</fighter2>
-<rounds>12</rounds>
-<weight>Junior Lightweight</weight>
-
-<fighter1>Peter McGrail</fighter1>
-<fighter2>Fran Mendoza</fighter2>
-<rounds>10</rounds>
-<weight>Junior Featherweight</weight>
-
-<loc>Inglewood, California</loc>
-
-<fighter1>Alexis Rocha</fighter1>
-<fighter2>Giovani Santillan</fighter2>
-<rounds>12</rounds>
-<weight>Welterweight</weight>
-
-<loc>London</loc>
-
-<fighter1>Mikael Lawal</fighter1>
-<fighter2>Isaac Chamberlain</fighter2>
-<rounds>12</rounds>
-<weight>Cruiserweight</weight>
+<weight>Featherweight</weight>
 
 <time>October 28th, 2023</time>
 
@@ -37,8 +13,25 @@
 
 <fighter1>Tyson Fury</fighter1>
 <fighter2>Francis Ngannou</fighter2>
+<rounds>10</rounds>
+<weight>Heavyweight</weight>
+
+<fighter1>Fabio Wardley</fighter1>
+<fighter2>David Adeleye</fighter2>
 <rounds>12</rounds>
 <weight>Heavyweight</weight>
+
+<fighter1>Joseph Parker</fighter1>
+<fighter2>Simon Kean</fighter2>
+<rounds>10</rounds>
+<weight>Heavyweight</weight>
+
+<loc>Cancun, Mexico</loc>
+
+<fighter1>O'Shaquie Foster</fighter1>
+<fighter2>Eduardo Hernandez</fighter2>
+<rounds>12</rounds>
+<weight>Junior Lightweight</weight>
 
 <time>December 9th, 2023</time>
 
