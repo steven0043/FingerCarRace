@@ -1,28 +1,33 @@
-<time>October 28th, 2023</time>
+<time>November 4th, 2023</time>
 
-<loc>Riyadh, Saudi Arabia</loc>
+<loc>Monte Carlo</loc>
 
-<fighter1>Tyson Fury</fighter1>
-<fighter2>Francis Ngannou</fighter2>
-<rounds>10</rounds>
-<weight>Heavyweight</weight>
-
-<fighter1>Fabio Wardley</fighter1>
-<fighter2>David Adeleye</fighter2>
-<rounds>12</rounds>
-<weight>Heavyweight</weight>
-
-<fighter1>Joseph Parker</fighter1>
-<fighter2>Simon Kean</fighter2>
-<rounds>10</rounds>
-<weight>Heavyweight</weight>
-
-<loc>Cancun, Mexico</loc>
-
-<fighter1>O'Shaquie Foster</fighter1>
-<fighter2>Eduardo Hernandez</fighter2>
+<fighter1>Joe Cordina</fighter1>
+<fighter2>Edward Vazquez</fighter2>
 <rounds>12</rounds>
 <weight>Junior Lightweight</weight>
+
+<fighter1>Sivenathi Nontshinga</fighter1>
+<fighter2>Adrian Curiel Dominguez</fighter2>
+<rounds>12</rounds>
+<weight>Flyweight</weight>
+
+<fighter1>Souleymane Cissokho</fighter1>
+<fighter2>Isaias Lucero</fighter2>
+<rounds>12</rounds>
+<weight>Junior Middleweight</weight>
+
+<fighter1>Julissa Guzman</fighter1>
+<fighter2>Ramla Ali</fighter2>
+<rounds>10</rounds>
+<weight>Junior Featherweight</weight>
+
+<loc>Lake Tahoe</loc>
+
+<fighter1>Efe Ajagba</fighter1>
+<fighter2>Joe Goodall</fighter2>
+<rounds>10</rounds>
+<weight>Heavyweight</weight>
 
 <time>December 9th, 2023</time>
 
