@@ -1,16 +1,50 @@
-<time>November 16th, 2023</time>
+<time>November 18th, 2023</time>
 
-<loc>Las Vegas</loc>
+<loc>Manchester</loc>
 
-<fighter1>Shakur Stevenson</fighter1>
-<fighter2>Edwin De Los Santos</fighter2>
+<fighter1>Denzel Bentley</fighter1>
+<fighter2>Nathan Heaney</fighter2>
 <rounds>12</rounds>
-<weight>Lightweight</weight>
+<weight>Middleweight</weight>
 
-<fighter1>Emanuel Navarrete</fighter1>
-<fighter2>Robson Conceicao</fighter2>
+<fighter1>Nick Ball</fighter1>
+<fighter2>Isaac Dogboe</fighter2>
 <rounds>12</rounds>
-<weight>Junior Lightweight</weight>
+<weight>Featherweight</weight>
+
+<fighter1>Liam Davies</fighter1>
+<fighter2>Vincenzo La Femina</fighter2>
+<rounds>12</rounds>
+<weight>Junior Featherweight</weight>
+
+<fighter1>Ekow Essuman</fighter1>
+<fighter2>Harry Scarff</fighter2>
+<rounds>12</rounds>
+<weight>Welterweight</weight>
+
+<fighter1>Nathaniel Collins</fighter1>
+<fighter2>Zak Miller</fighter2>
+<rounds>12</rounds>
+<weight>Featherweight</weight>
+
+<loc>Wolverhampton</loc>
+
+<fighter1>Adam Azim</fighter1>
+<fighter2>Franck Petitjean</fighter2>
+<rounds>12</rounds>
+<weight>Junior Welterweight</weight>
+
+<fighter1>Matteo Signani</fighter1>
+<fighter2>Tyler Denny</fighter2>
+<rounds>12</rounds>
+<weight>Middleweight</weight>
+
+<loc>Los Angeles</loc>
+
+<fighter1>Diego Pacheco</fighter1>
+<fighter2>Marcelo Coceres</fighter2>
+<rounds>10</rounds>
+<weight>Super Middleweight</weight>
 
 <time>December 9th, 2023</time>
 
@@ -21,6 +55,20 @@
 <rounds>12</rounds>
 <weight>Junior Welterweight</weight>
 
+<time>December 23rd, 2023</time>
+
+<loc>Riyadh, Saudi Arabia</loc>
+
+<fighter1>Anthony Joshua</fighter1>
+<fighter2>Otto Wallin</fighter2>
+<rounds>12</rounds>
+<weight>Heavyweight</weight>
+
+<fighter1>Deontay Wilder</fighter1>
+<fighter2>Joseph Parker</fighter2>
+<rounds>12</rounds>
+<weight>Heavyweight</weight>
+
 <time>January 13th, 2024</time>
 
 <loc>Quebec City, Canada</loc>
@@ -29,3 +77,12 @@
 <fighter2>Callum Smith</fighter2>
 <rounds>12</rounds>
 <weight>Light Heavyweight</weight>
+
+<time>February 17th, 2024</time>
+
+<loc>Riyadh, Saudi Arabia</loc>
+
+<fighter1>Tyson Fury</fighter1>
+<fighter2>Oleksandr Usyk</fighter2>
+<rounds>12</rounds>
+<weight>Heavyweight</weight>
