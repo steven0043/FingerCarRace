@@ -1,50 +1,43 @@
-<time>November 18th, 2023</time>
+<time>November 25th, 2023</time>
 
-<loc>Manchester</loc>
+<loc>Dublin, Ireland</loc>
 
-<fighter1>Denzel Bentley</fighter1>
-<fighter2>Nathan Heaney</fighter2>
-<rounds>12</rounds>
-<weight>Middleweight</weight>
-
-<fighter1>Nick Ball</fighter1>
-<fighter2>Isaac Dogboe</fighter2>
-<rounds>12</rounds>
-<weight>Featherweight</weight>
-
-<fighter1>Liam Davies</fighter1>
-<fighter2>Vincenzo La Femina</fighter2>
-<rounds>12</rounds>
-<weight>Junior Featherweight</weight>
-
-<fighter1>Ekow Essuman</fighter1>
-<fighter2>Harry Scarff</fighter2>
-<rounds>12</rounds>
-<weight>Welterweight</weight>
-
-<fighter1>Nathaniel Collins</fighter1>
-<fighter2>Zak Miller</fighter2>
-<rounds>12</rounds>
-<weight>Featherweight</weight>
-
-<loc>Wolverhampton</loc>
-
-<fighter1>Adam Azim</fighter1>
-<fighter2>Franck Petitjean</fighter2>
-<rounds>12</rounds>
+<fighter1>Chantelle Cameron</fighter1>
+<fighter2>Katie Taylor</fighter2>
+<rounds>10</rounds>
 <weight>Junior Welterweight</weight>
 
-<fighter1>Matteo Signani</fighter1>
-<fighter2>Tyler Denny</fighter2>
+<fighter1>Gary Cully</fighter1>
+<fighter2>Reece Mould</fighter2>
+<rounds>10</rounds>
+<weight>Lightweight</weight>
+
+<fighter1>Paddy Donovan</fighter1>
+<fighter2>Danny Ball</fighter2>
+<rounds>10</rounds>
+<weight>Welterweight</weight>
+
+<fighter1>Skye Nicolson</fighter1>
+<fighter2>Lucy Wildheart</fighter2>
+<rounds>10</rounds>
+<weight>Featherweight</weight>
+
+<loc>Las Vegas</loc>
+
+<fighter1>David Benavidez</fighter1>
+<fighter2>Demetrius Andrade</fighter2>
 <rounds>12</rounds>
+<weight>Super Middleweight</weight>
+
+<fighter1>Jermall Charlo</fighter1>
+<fighter2>Jose Benavidez</fighter2>
+<rounds>10</rounds>
 <weight>Middleweight</weight>
 
-<loc>Los Angeles</loc>
-
-<fighter1>Diego Pacheco</fighter1>
-<fighter2>Marcelo Coceres</fighter2>
-<rounds>10</rounds>
-<weight>Super Middleweight</weight>
+<fighter1>Subriel Matias</fighter1>
+<fighter2>Shohjahon Ergashev</fighter2>
+<rounds>12</rounds>
+<weight>Junior Welterweight</weight>
 
 <time>December 9th, 2023</time>
 
