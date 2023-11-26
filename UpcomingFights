@@ -1,5 +1,22 @@
 <time>November 25th, 2023</time>
 
+<loc>Las Vegas</loc>
+
+<fighter1>David Benavidez</fighter1>
+<fighter2>Demetrius Andrade</fighter2>
+<rounds>12</rounds>
+<weight>Super Middleweight</weight>
+
+<fighter1>Jermall Charlo</fighter1>
+<fighter2>Jose Benavidez</fighter2>
+<rounds>10</rounds>
+<weight>Middleweight</weight>
+
+<fighter1>Subriel Matias</fighter1>
+<fighter2>Shohjahon Ergashev</fighter2>
+<rounds>12</rounds>
+<weight>Junior Welterweight</weight>
+
 <loc>Dublin, Ireland</loc>
 
 <fighter1>Chantelle Cameron</fighter1>
@@ -21,23 +38,6 @@
 <fighter2>Lucy Wildheart</fighter2>
 <rounds>10</rounds>
 <weight>Featherweight</weight>
-
-<loc>Las Vegas</loc>
-
-<fighter1>David Benavidez</fighter1>
-<fighter2>Demetrius Andrade</fighter2>
-<rounds>12</rounds>
-<weight>Super Middleweight</weight>
-
-<fighter1>Jermall Charlo</fighter1>
-<fighter2>Jose Benavidez</fighter2>
-<rounds>10</rounds>
-<weight>Middleweight</weight>
-
-<fighter1>Subriel Matias</fighter1>
-<fighter2>Shohjahon Ergashev</fighter2>
-<rounds>12</rounds>
-<weight>Junior Welterweight</weight>
 
 <time>December 9th, 2023</time>
 
