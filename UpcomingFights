@@ -1,43 +1,38 @@
-<time>November 25th, 2023</time>
+<time>December 2nd, 2023</time>
 
-<loc>Las Vegas</loc>
+<loc>Belfast, Northern Ireland</loc>
 
-<fighter1>David Benavidez</fighter1>
-<fighter2>Demetrius Andrade</fighter2>
+<fighter1>Michael Conlan</fighter1>
+<fighter2>Jordan Gill</fighter2>
 <rounds>12</rounds>
-<weight>Super Middleweight</weight>
+<weight>Junior Lightweight</weight>
 
-<fighter1>Jermall Charlo</fighter1>
-<fighter2>Jose Benavidez</fighter2>
-<rounds>10</rounds>
-<weight>Middleweight</weight>
-
-<fighter1>Subriel Matias</fighter1>
-<fighter2>Shohjahon Ergashev</fighter2>
-<rounds>12</rounds>
-<weight>Junior Welterweight</weight>
-
-<loc>Dublin, Ireland</loc>
-
-<fighter1>Chantelle Cameron</fighter1>
-<fighter2>Katie Taylor</fighter2>
-<rounds>10</rounds>
-<weight>Junior Welterweight</weight>
-
-<fighter1>Gary Cully</fighter1>
-<fighter2>Reece Mould</fighter2>
-<rounds>10</rounds>
-<weight>Lightweight</weight>
-
-<fighter1>Paddy Donovan</fighter1>
-<fighter2>Danny Ball</fighter2>
+<fighter1>Tyrone McKenna</fighter1>
+<fighter2>Lewis Crocker</fighter2>
 <rounds>10</rounds>
 <weight>Welterweight</weight>
 
-<fighter1>Skye Nicolson</fighter1>
-<fighter2>Lucy Wildheart</fighter2>
+<fighter1>Caoimhin Agyarko</fighter1>
+<fighter2>Troy Williamson</fighter2>
 <rounds>10</rounds>
-<weight>Featherweight</weight>
+<weight>Junior Middleweight</weight>
+
+<fighter1>Sean McComb</fighter1>
+<fighter2>Sam Maxwell</fighter2>
+<rounds>10</rounds>
+<weight>Junior Welterweight</weight>
+
+<loc>Houston, Texas</loc>
+
+<fighter1>Ryan Garcia</fighter1>
+<fighter2>Oscar Duarte</fighter2>
+<rounds>12</rounds>
+<weight>Welterweight</weight>
+
+<fighter1>Shane Mosley</fighter1>
+<fighter2>Joshua Conley</fighter2>
+<rounds>10</rounds>
+<weight>Middleweight</weight>
 
 <time>December 9th, 2023</time>
 
