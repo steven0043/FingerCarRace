@@ -1,5 +1,17 @@
 <time>December 2nd, 2023</time>
 
+<loc>Houston, Texas</loc>
+
+<fighter1>Ryan Garcia</fighter1>
+<fighter2>Oscar Duarte</fighter2>
+<rounds>12</rounds>
+<weight>Welterweight</weight>
+
+<fighter1>Shane Mosley</fighter1>
+<fighter2>Joshua Conley</fighter2>
+<rounds>10</rounds>
+<weight>Middleweight</weight>
+
 <loc>Belfast, Northern Ireland</loc>
 
 <fighter1>Michael Conlan</fighter1>
@@ -21,18 +33,6 @@
 <fighter2>Sam Maxwell</fighter2>
 <rounds>10</rounds>
 <weight>Junior Welterweight</weight>
-
-<loc>Houston, Texas</loc>
-
-<fighter1>Ryan Garcia</fighter1>
-<fighter2>Oscar Duarte</fighter2>
-<rounds>12</rounds>
-<weight>Welterweight</weight>
-
-<fighter1>Shane Mosley</fighter1>
-<fighter2>Joshua Conley</fighter2>
-<rounds>10</rounds>
-<weight>Middleweight</weight>
 
 <time>December 9th, 2023</time>
 
