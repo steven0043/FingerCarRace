@@ -1,33 +1,30 @@
-<time>December 9th, 2023</time>
+<time>December 15th, 2023</time>
 
-<loc>San Francisco, California</loc>
+<loc>Orlando, Florida</loc>
 
-<fighter1>Regis Prograis</fighter1>
-<fighter2>Devin Haney</fighter2>
-<rounds>12</rounds>
-<weight>Junior Welterweight</weight>
-
-<fighter1>Ebanie Bridges</fighter1>
-<fighter2>Miyo Yoshida</fighter2>
+<fighter1>Jake Paul</fighter1>
+<fighter2>Andre August</fighter2>
 <rounds>10</rounds>
-<weight>Featherweight</weight>
-
-<fighter1>Liam Paro</fighter1>
-<fighter2>Montana Love</fighter2>
-<rounds>10</rounds>
-<weight>Junior Welterweight</weight>
-
-<fighter1>Andy Cruz</fighter1>
-<fighter2>Hector Tanajara</fighter2>
-<rounds>10</rounds>
-<weight>Lightweight</weight>
-
-<loc>Bournemouth</loc>
-
-<fighter1>Chris Billam Smith</fighter1>
-<fighter2>Mateusz Masternak</fighter2>
-<rounds>12</rounds>
 <weight>Cruiserweight</weight>
+
+<time>December 16th, 2023</time>
+
+<loc>Glendale, Arizona</loc>
+
+<fighter1>Jesse Rodriguez</fighter1>
+<fighter2>Sunny Edwards</fighter2>
+<rounds>12</rounds>
+<weight>Flyweight</weight>
+
+<fighter1>Murodjon Akhmadaliev</fighter1>
+<fighter2>Kevin Gonzalez</fighter2>
+<rounds>12</rounds>
+<weight>Junior Featherweight</weight>
+
+<fighter1>Galal Yafai</fighter1>
+<fighter2>Rocco Santomauro</fighter2>
+<rounds>10</rounds>
+<weight>Flyweight</weight>
 
 <time>December 23rd, 2023</time>
 
