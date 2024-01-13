@@ -1,17 +1,3 @@
-<time>January 6th, 2024</time>
-
-<loc>Las Vegas</loc>
-
-<fighter1>Vergil Ortiz</fighter1>
-<fighter2>Fredrick Lawson</fighter2>
-<rounds>12</rounds>
-<weight>Junior Middleweight</weight>
-
-<fighter1>Ohara Davies</fighter1>
-<fighter2>Ismael Barroso</fighter2>
-<rounds>12</rounds>
-<weight>Junior Welterweight</weight>
-
 <time>January 13th, 2024</time>
 
 <loc>Quebec City, Canada</loc>
@@ -27,5 +13,14 @@
 
 <fighter1>Tyson Fury</fighter1>
 <fighter2>Oleksandr Usyk</fighter2>
+<rounds>12</rounds>
+<weight>Heavyweight</weight>
+
+<time>March 16th, 2024</time>
+
+<loc>Riyadh, Saudi Arabia</loc>
+
+<fighter1>Anthony Joshua</fighter1>
+<fighter2>Francis Ngannou</fighter2>
 <rounds>12</rounds>
 <weight>Heavyweight</weight>
