@@ -1,11 +1,45 @@
-<time>January 13th, 2024</time>
+<time>January 27th, 2024</time>
 
-<loc>Quebec City, Canada</loc>
+<loc>Phoenix, Arizona</loc>
 
-<fighter1>Artur Beterbiev</fighter1>
-<fighter2>Callum Smith</fighter2>
+<fighter1>Jaime Munguia</fighter1>
+<fighter2>John Ryder</fighter2>
+<rounds>12</rounds>
+<weight>Super Middleweight</weight>
+
+<time>February 3rd, 2024</time>
+
+<loc>London</loc>
+
+<fighter1>Dan Azeez</fighter1>
+<fighter2>Joshua Buatsi</fighter2>
 <rounds>12</rounds>
 <weight>Light Heavyweight</weight>
+
+<loc>Las Vegas</loc>
+
+<fighter1>Conor Benn</fighter1>
+<fighter2>Peter Dobson</fighter2>
+<rounds>12</rounds>
+<weight>Welterweight</weight>
+
+<time>February 8th, 2024</time>
+
+<loc>Las Vegas</loc>
+
+<fighter1>Teofimo Lopez</fighter1>
+<fighter2>Jamaine Ortiz</fighter2>
+<rounds>12</rounds>
+<weight>Junior Welterweight</weight>
+
+<time>February 10th, 2024</time>
+
+<loc>London</loc>
+
+<fighter1>Hamzah Sheeraz</fighter1>
+<fighter2>Liam Williams</fighter2>
+<rounds>12</rounds>
+<weight>Middleweight</weight>
 
 <time>February 17th, 2024</time>
 
@@ -15,6 +49,16 @@
 <fighter2>Oleksandr Usyk</fighter2>
 <rounds>12</rounds>
 <weight>Heavyweight</weight>
+
+<fighter1>Joe Cordina</fighter1>
+<fighter2>Anthony Cacace</fighter2>
+<rounds>12</rounds>
+<weight>Junior Lightweight</weight>
+
+<fighter1>Sergey Kovalev</fighter1>
+<fighter2>Robin Safar</fighter2>
+<rounds>10</rounds>
+<weight>Cruiserweight</weight>
 
 <time>March 9th, 2024</time>
 
